@@ -1,0 +1,64 @@
+{
+  "parts": [
+    {
+      "title": "Teil II. Der Held: Herkunft und Fortschritt",
+      "pages": [
+        "Herkunft-Ort-Sprache-Schrift-Kultur",
+        "Religion",
+        "Stufe-Kreis-Macht-und-Rerolls",
+        "Erfahrung-und-Steigerung",
+        "Vor-und-Nachteile",
+        "Aussehen-Schlaf-Sinne-und-Koerper",
+        "Gaben-und-Schwaechen",
+        "Ausdauer",
+        "Gesundheit-und-Mana-Regeneration"
+      ]
+    },
+    {
+      "title": "Teil III. Der Held: Werte, Fertigkeiten und Wirken",
+      "pages": [
+        "Attribute",
+        "Eigenschaften",
+        "Grundfertigkeiten",
+        "Nahkampf",
+        "Fernkampf",
+        "Wissens-Handwerks-und-Kulturfertigkeiten",
+        "Magie-Wirkungsdauer-und-Konzentration",
+        "KI",
+        "Psi",
+        "Spruchmagie",
+        "Wunder",
+        "Talente",
+        "Talente-die-Maxima-anheben",
+        "Talente-die-Werte-veraendern",
+        "Kampf-Talente",
+        "Anfaelligkeit-und-Resistenz",
+        "Bewegung",
+        "Klettern-und-Schwimmen",
+        "Tragen"
+      ]
+    },
+    {
+      "title": "Teil IV. Kampf",
+      "pages": [
+        "Kampfrunde-Aktionen-Initiative-und-Sicht",
+        "Nahkampf-im-Kampf",
+        "Nahkampf-Gruppen-und-das-Meisterscreen-Gitter",
+        "Fernkampf-im-Kampf",
+        "Magie-im-Kampf",
+        "Deckung",
+        "Treffer-und-Schaden",
+        "Zustaende-Grundregeln",
+        "Zustaende-Katalog",
+        "Tod-und-Wiederbelebung",
+        "Kreaturen-im-Kampf"
+      ]
+    },
+    {
+      "title": "Anhang",
+      "pages": [
+        "Glossar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+name: Website bauen und veröffentlichen
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4.2.2
+      - uses: actions/setup-python@v5.3.0
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python build.py _site
+      - uses: actions/upload-pages-artifact@v3.0.1
+        with:
+          path: _site
+
+  # Veröffentlichung nur, solange das Repository öffentlich ist
+  # (GitHub Pages ist mit GitHub Free nur für öffentliche Repositories verfügbar).
+  deploy:
+    needs: build
+    if: ${{ !github.event.repository.private }}
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4.0.5

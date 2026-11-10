@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="index.html">{{SITE_TITLE}}</a>
+  <details class="mmenu"><summary>Inhalt</summary><nav aria-label="Inhalt">{{NAV}}</nav></details>
+</header>
+<div class="layout">
+  <aside class="side"><nav aria-label="Inhalt">{{NAV}}</nav></aside>
+  <main>
+    <article>
+{{CONTENT}}
+    </article>
+    {{PAGER}}
+  </main>
+</div>
+<footer>
+  <p>© njebich. Alle Rechte vorbehalten. <a href="RIGHTS.html">Rechtevorbehalt</a></p>
+</footer>
+</body>
+</html>
