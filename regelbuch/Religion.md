@@ -53,7 +53,7 @@ Der Held kann nicht Geweihter mehrerer Religionen zugleich sein. Innerhalb einer
 
 - Alle Stufen des Helden fallen weg. Der Geweihtengrad ist 0.
 - Die TaP der entfernten Stufen werden erstattet.
-- Der gekaufte Wert von Karma wird auf 0 gesetzt, und die dafür ausgegebenen SP werden erstattet.
+- Der gekaufte Wert von Karma wird auf 0 gesetzt, und die dafür ausgegebenen EP werden erstattet.
 
 Dasselbe gilt, wenn die letzte Stufe aus anderem Grund wegfällt, zum Beispiel weil der Meister sie entzieht.
 
@@ -68,7 +68,7 @@ Nach einem Sektenwechsel kann der Held keine weitere Stufe mehr kaufen.
 ## Beispiele
 
 - Der Held hat im Charakterbogen die Religion Lloth und die Sekte Orthodox und besitzt die Stufen 1 bis 4. Sein Geweihtengrad ist 4, er ist ein Etablierter.
-- Derselbe Held hat Karma 3 und wechselt zur Religion Tepod. Alle vier Stufen fallen weg, 20 TaP kommen zurück, Karma ist 0, die SP dafür kommen zurück, der Geweihtengrad ist 0.
+- Derselbe Held hat Karma 3 und wechselt zur Religion Tepod. Alle vier Stufen fallen weg, 20 TaP kommen zurück, Karma ist 0, die EP dafür kommen zurück, der Geweihtengrad ist 0.
 - Er kauft danach Stufe 1 (5 TaP). Sein Geweihtengrad ist 1, er kann Karma wieder über 0 steigern, und die Wunder von Tepod sind freigeschaltet.
 - Ein anderer Held mit den Stufen 1 bis 4 wechselt die Sekte, bleibt aber bei Lloth. Alle vier Stufen bleiben, der Geweihtengrad ist 4. Stufe 5 kann er nicht kaufen.
 - Ein Held mit den Stufen 1 bis 4 will während einer laufenden Session die Religion wechseln. Das geht nicht, erst nach der Session.

@@ -34,7 +34,7 @@ Unter 12 Magier-TaP gibt es keinen Slot. Mit mehr Magier-TaP wächst die Zahl de
 |---|--:|--:|--:|--:|--:|--:|--:|
 | ab Magier-TaP | 12 | 36 | 72 | 120 | 180 | 252 | 336 |
 
-Belegt ist ein Slot durch jeden Zauber mit TaW über 0, dessen Grad gleich Weisheit + 1 ist. Die Slots und die belegten Slots werden bei jeder Änderung der Magier-TaP, der Weisheit oder eines Zauber-TaW neu gezählt.
+Belegt ist ein Slot durch jeden Zauber mit FW über 0, dessen Grad gleich Weisheit + 1 ist. Die Slots und die belegten Slots werden bei jeder Änderung der Magier-TaP, der Weisheit oder eines Zauber-FW neu gezählt.
 
 ### Hauszauber steigern und verlieren
 
@@ -47,9 +47,9 @@ Belegt ist ein Slot durch jeden Zauber mit TaW über 0, dessen Grad gleich Weish
 
 Belegen mehr Zauber einen Slot, als der Held Slots hat, ist der Charakter nicht regelkonform. Sinken die Magier-TaP durch eine Umentscheidung bei den Talenten unter eine Schwelle, gilt das sofort.
 
-Der Held wird regelkonform, indem der Spieler bei so vielen Hauszaubern wie nötig den TaW auf 0 zurücksteigert. Der Spieler wählt, welche. Bis dahin ist kein weiterer Hauszauber lernbar.
+Der Held wird regelkonform, indem der Spieler bei so vielen Hauszaubern wie nötig den FW auf 0 zurücksteigert. Der Spieler wählt, welche. Bis dahin ist kein weiterer Hauszauber lernbar.
 
-Außerhalb einer laufenden Session darf der Spieler jederzeit zurücksteigern und bekommt alle Steigerungspunkte voll erstattet. Jede Rückgabe wird aufgeschrieben und am Tisch bekannt gegeben. Während einer laufenden Session sind die Talentwahlen gesperrt, die Magier-TaP können dann nicht sinken ([[Zeit-und-Spielablauf]]).
+Außerhalb einer laufenden Session darf der Spieler jederzeit zurücksteigern und bekommt alle Entwicklungspunkte voll erstattet. Jede Rückgabe wird aufgeschrieben und am Tisch bekannt gegeben. Während einer laufenden Session sind die Talentwahlen gesperrt, die Magier-TaP können dann nicht sinken ([[Zeit-und-Spielablauf]]).
 
 ## Der Zauberwert
 
@@ -62,7 +62,7 @@ Zauberwert = Magie + Eigenschaftsbonus + Fertigkeit
 
 - **Magie** ist das Attribut des Helden ([[Attribute]]).
 - **Eigenschaftsbonus** ist der Eigenschaftsbonus der Eigenschaft, die im Zauberbuch beim Zauber steht ([[Eigenschaften]]). Bei den fünf Schulen Elementarbeschwörung und Kampfmagie gilt eine feste Eigenschaft je Schule: Feuer Mut, Wasser Athletik, Luft Schnelligkeit, Erde Stärke, Magie Ausstrahlung.
-- **Fertigkeit** ist der Talentwert ([[Glossar#TaW|TaW]]) im gelernten Zauber.
+- **Fertigkeit** ist der Fertigkeitswert ([[Glossar#FW|FW]]) im gelernten Zauber.
 - **MBE** ist die Mentale Behinderung ([[Glossar#MBE|MBE]], [[Behinderung-und-Erschwernis]]). Die Zauberprobe ist eine geistige Probe. Es zählt nur die Mentale Behinderung, die Körperliche Behinderung nie.
 - **Stufen-Erschwerung** steht für jeden Zauber und jede Zauberstufe im Zauberbuch.
 - **Weitere Erschwerung** ist ein Wert, den der Meister im Einzelfall vor dem Wurf ansagt.
@@ -204,6 +204,6 @@ Das Aufrechterhalten eines Zaubers kostet keine Ausdauer, auch nicht, wenn mehre
 
 **Hauszauber.** Der Held hat 90 Magier-TaP. Es gilt 6 · 3 · 4 = 72 ≤ 90 < 120, also hat er 3 Slots. Bei Weisheit 4 sind bis zu drei Zauber vom Grad 5 lernbar. Bei 11 Magier-TaP hat er 0 Slots, ein Zauber vom Grad Weisheit + 1 ist nicht lernbar.
 
-Ein anderer Held hat Weisheit 4 und 1 Slot. Er hat einen Grad-5-Zauber mit TaW 3, damit ist 1 Slot belegt. Ein zweiter Grad-5-Zauber ist nicht lernbar, der erste bleibt steigerbar. Steigt die Weisheit auf 5, ist der Grad-5-Zauber regulär, und kein Slot ist belegt.
+Ein anderer Held hat Weisheit 4 und 1 Slot. Er hat einen Grad-5-Zauber mit FW 3, damit ist 1 Slot belegt. Ein zweiter Grad-5-Zauber ist nicht lernbar, der erste bleibt steigerbar. Steigt die Weisheit auf 5, ist der Grad-5-Zauber regulär, und kein Slot ist belegt.
 
 **Ausdauer.** Bei Zaubergrad 3 sind die Ausdauerkosten beim Wirken 3. Ein Zauber, der über 4 Kampfrunden aufrechterhalten wird, kostet dafür keine Ausdauer. Drei gleichzeitig aufrechterhaltene Zauber ebenfalls nicht.

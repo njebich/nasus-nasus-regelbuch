@@ -22,21 +22,21 @@ Außerdem braucht der Held während der Vorbereitungszeit mindestens 1 freie Aur
 
 Es gibt 30 KI-Fähigkeiten. Jede hat einen festen Eigenschaftsbonus, der in ihre Probe eingeht, und eigene Basiswerte für Vorbereitungsdauer (VD) und Wirkungsdauer (WD). Alles andere gilt für alle Fähigkeiten gleich und steht in diesem Kapitel.
 
-Der Held kauft jede Fähigkeit einzeln. Der Talentwert ([[Glossar#TaW|TaW]]) ist die Zahl der Punkte, die er in diese Fähigkeit investiert hat. Die Kosten folgen dieser Kurve:
+Der Held kauft jede Fähigkeit einzeln. Der Fertigkeitswert ([[Glossar#FW|FW]]) ist die Zahl der Punkte, die er in diese Fähigkeit investiert hat. Die Kosten folgen dieser Kurve:
 
 ```text
-Kosten(TaW) = 0                          bei TaW = 0
-Kosten(TaW) = 10 + (TaW − 1) × TaW ÷ 2   sonst
+Kosten(FW) = 0                          bei FW = 0
+Kosten(FW) = 10 + (FW − 1) × FW ÷ 2   sonst
 ```
 
-Die Division ergibt immer eine ganze Zahl, denn (TaW − 1) × TaW ist immer gerade.
+Die Division ergibt immer eine ganze Zahl, denn (FW − 1) × FW ist immer gerade.
 
 ## Die KI-Probe
 
 Gewürfelt wird W30 − W12 (siehe [[Wuerfeln-und-Proben]]). Der Probenwert ist:
 
 ```text
-Probenwert = TaW + Eigenschaftsbonus + 2 × Magie − MBE
+Probenwert = FW + Eigenschaftsbonus + 2 × Magie − MBE
 ```
 
 Der Eigenschaftsbonus ist der, der zur Fähigkeit gehört (siehe [[Eigenschaften]]). KI ist eine geistige Probe. Die mentale Behinderung (MBE) wird deshalb vom Probenwert abgezogen, nicht als Erschwerung nach dem Wurf (siehe [[Behinderung-und-Erschwernis]]).
@@ -141,13 +141,13 @@ Wird der Held in der Vorbereitungszeit über der [[Glossar#TS|Trefferschwelle]] 
 
 ### Meister der Grundfertigkeiten
 
-Diese Fähigkeit hat kein festes Ziel. Der Held bekommt eine wachsende Auswahl an Grundfertigkeiten (siehe [[Grundfertigkeiten]]). Bei TaW 1 wählt er eine, bei TaW 5 eine weitere, danach mit je 5 weiteren TaW eine weitere:
+Diese Fähigkeit hat kein festes Ziel. Der Held bekommt eine wachsende Auswahl an Grundfertigkeiten (siehe [[Grundfertigkeiten]]). Bei FW 1 wählt er eine, bei FW 5 eine weitere, danach mit je 5 weiteren FW eine weitere:
 
 ```text
-wählbare Grundfertigkeiten = 1 + (TaW ÷ 5, abgerundet)
+wählbare Grundfertigkeiten = 1 + (FW ÷ 5, abgerundet)
 ```
 
-Die Division rundet hier ab. Bei TaW 1, 4, 5, 9, 10 und 15 sind es 1, 1, 2, 2, 3 und 4 Grundfertigkeiten.
+Die Division rundet hier ab. Bei FW 1, 4, 5, 9, 10 und 15 sind es 1, 1, 2, 2, 3 und 4 Grundfertigkeiten.
 
 ### Abhärtung
 
@@ -161,7 +161,7 @@ Abgerundet werden die Staffel „+A pro+B“ und die Zahl der wählbaren Grundfe
 
 **Die Staffel und die Mentale Erschöpfung.** Eine Fähigkeit wirkt „Willenskraft +2 pro+1 und Selbstbeherrschung +2 pro+1 und Trefferschwelle +1 pro+2“. Der Probenwert ist 30, die gewählte Erschwerung 14, und der Held teilt sie ganz der Wirkungsstärke zu. Das Wurfziel ist 30 − 14 = 16 (ohne vorherige ME). Bei Erfolg steigen Willenskraft und Selbstbeherrschung um je 2 × 14 = 28 und die Trefferschwelle um 1 × (14 ÷ 2) = 7. Die ME-Kosten sind (14 − Aura) ÷ 2. Bei Aura 7 sind das 4, mit dem Talent „Immer halbe ME“ 2.
 
-**Gleichgewicht und Feingefühl.** Der Adept hat Magie 3, Aura 4, Geschicklichkeit 17 und TaW 24. Er will ein Wurfziel von etwa 15, ein Wirken in 1 Kampfrunde und eine Wirkungsdauer von 60 Sekunden.
+**Gleichgewicht und Feingefühl.** Der Adept hat Magie 3, Aura 4, Geschicklichkeit 17 und FW 24. Er will ein Wurfziel von etwa 15, ein Wirken in 1 Kampfrunde und eine Wirkungsdauer von 60 Sekunden.
 
 ```text
 Eigenschaftsbonus (Geschicklichkeit 17) = 17 ÷ 2, aufgerundet 9, minus 5 = 4

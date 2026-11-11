@@ -150,12 +150,12 @@ Der Wert des Vorrats bestimmt, was der Held beim Wirken und Aufrechterhalten kö
 
 Bei einer verfügbaren Weisheit mit Bruchteil gilt der ganzzahlige Anteil: 5,5 entspricht 5.
 
-Diese Liste beschreibt, was zu welchem Wert passt. Sie begrenzt die Aktionspunkte nicht selbst. Im Kampf kostet es Aktionspunkte ([[Glossar#AP|AP]]), in einer Kampfrunde einen neuen Zauber zu wirken. Der Preis hängt vom Vorrat der Disziplin ab (siehe [[Kampfrunde-Aktionen-Initiative-und-Sicht]]):
+Diese Liste beschreibt, was zu welchem Wert passt. Sie begrenzt die AK nicht selbst. Im Kampf kostet es AK ([[Glossar#AK|Aktionskosten]]), in einer Kampfrunde einen neuen Zauber zu wirken. Der Preis hängt vom Vorrat der Disziplin ab (siehe [[Kampfrunde-Aktionen-Initiative-und-Sicht]]):
 
-- Vorrat 1 oder 2: 3 AP.
-- Vorrat 3 oder 4: 2 AP.
-- Vorrat 5 oder 6: 1 AP.
-- Vorrat 7 oder mehr: 0 AP.
+- Vorrat 1 oder 2: 3 AK.
+- Vorrat 3 oder 4: 2 AK.
+- Vorrat 5 oder 6: 1 AK.
+- Vorrat 7 oder mehr: 0 AK.
 
 ### Freigabe
 
@@ -166,7 +166,7 @@ Der Vorrat füllt sich nicht allmählich wieder auf. Der Beitrag eines Effekts w
 
 ### Beispiele
 
-- Der KI-Adept hat Aura 5 und hält 2 KI-Fähigkeiten. Die freie Aura ist 5 − 2 = 3. Er kann ein neues KI-Wirken beginnen, denn 3 ist mindestens 1. Bei Wert 3 passt „läuft oder reitet zügig“. Ein neuer Zauber kostet 2 AP.
+- Der KI-Adept hat Aura 5 und hält 2 KI-Fähigkeiten. Die freie Aura ist 5 − 2 = 3. Er kann ein neues KI-Wirken beginnen, denn 3 ist mindestens 1. Bei Wert 3 passt „läuft oder reitet zügig“. Ein neuer Zauber kostet 2 AK.
 - Der Psi-Adept hat Magie 6 und hält eine Psi-Fähigkeit auf Stufe 3. Die freie Magie ist 6 − 3 = 3. Eine zweite Psi-Fähigkeit kann er bis Stufe 3 wählen. Wählt er Stufe 3, ist die freie Magie danach 0, und er kann nichts weiter aufrechterhalten.
 - Der Magus hat Weisheit 7 und hält einen Anhaltend-Zauber vom Grad 3. Er kostet 1,5, die verfügbare Weisheit ist 5,5. Ein weiterer Zauber ist bis Grad 5 wählbar (5,5 ≥ 5), ein Zauber vom Grad 6 nicht. Es wird nichts gerundet.
 - Derselbe Held hält 1 KI-Fähigkeit und einen Anhaltend-Zauber vom Grad 2. Die freie Aura ist Aura − 1, die verfügbare Weisheit Weisheit − 1. Die freie Magie bleibt unberührt.

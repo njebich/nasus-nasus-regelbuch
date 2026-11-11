@@ -28,7 +28,7 @@ Der Schütze legt sein Ziel in der Ansage-Phase fest. Die Ansage ist bindend, wi
 Ist das angesagte Ziel zum Zeitpunkt der Ausführung tot, in Deckung oder außer Sicht, muss der Schuss nicht ausgeführt werden. Es gilt die allgemeine Regel des Nachsteuerns ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]). Für den Fernkampf gilt zusätzlich:
 
 - Der Schütze kann den Schuss nicht auf ein anderes Ziel umlenken. Er ist an das angesagte Ziel gebunden.
-- Die frei gewordenen Aktionspunkte darf er nur für eine Drehung oder eine Defensivaktion verwenden, nicht für eine neue Angriffshandlung.
+- Die frei gewordenen AK darf er nur für eine Drehung oder eine Defensivaktion verwenden, nicht für eine neue Angriffshandlung.
 - Steht das Ziel in Volldeckung, ist das nicht automatisch ein Zielverlust. Der Schütze darf weiter darauf feuern, muss aber nicht (siehe „Blindes Feuern auf ein Ziel in Volldeckung“). Mehr zur Deckung steht in [[Deckung]].
 
 ## Zielen oder direkt schießen
@@ -151,7 +151,7 @@ Das Ziel wählt für jeden einzelnen Fernkampf-Angriff genau eine Möglichkeit: 
 ### Kosten und Zeitpunkt
 
 - Ausweichen und Parade kosten die Aktion, die der Verteidiger für die Kampfrunde angesagt hat.
-- Die Glücksprobe ist frei. Sie kostet keine Aktionspunkte und kann in einer Kampfrunde beliebig oft eingesetzt werden, aber nur einmal gegen denselben einzelnen Fernkampf-Angriff.
+- Die Glücksprobe ist frei. Sie kostet keine AK und kann in einer Kampfrunde beliebig oft eingesetzt werden, aber nur einmal gegen denselben einzelnen Fernkampf-Angriff.
 - Die Verteidigungsprobe fällt im Moment des Schusses, am Rang des Schützen in der Ausführungs-Reihenfolge. Der Rang des Ziels spielt keine Rolle. Die Kosten fallen in derselben Kampfrunde an wie der Schuss.
 
 ## Die Wirkung des Schusses

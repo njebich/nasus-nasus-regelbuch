@@ -45,16 +45,16 @@ Verglichen wird der Klassenabstand d zwischen der Attacke und der Verteidigung. 
 
 Bei Fehlschlag oder Patzer der Parade entscheidet nicht der Abstand. Die Vergleichsprobe läuft immer. Der Abstand d zählt dort nur für die Erschwerung der Vergleichsprobe.
 
-**Defensives Ausweichen.** Das defensive Ausweichen kostet 1 AK. Dem Verteidiger bleiben 2 Aktionspunkte (AP) für eine Parade oder eine Bewegung.
+**Defensives Ausweichen.** Das defensive Ausweichen kostet 1 AK. Dem Verteidiger bleiben 2 AK für eine Parade oder eine Bewegung.
 
 - Das Ausweichen gelingt (n oder besser) und d ist 0 oder kleiner: Das Umwerfen scheitert.
-- Das Ausweichen gelingt und d ist 1 oder größer, oder das Ausweichen misslingt (Fehlschlag oder Patzer): Zuerst kommt die Rest-Parade. Der Verteidiger würfelt aus seinen verbliebenen 2 AP eine Parade gegen dieselbe Attacke. Danach gilt die Regel für die Parade oben, mit der Klasse dieser Parade.
-- Führt der Verteidiger keine Rest-Parade aus, weil er keine 2 AP mehr hat oder sich dagegen entscheidet, gilt das Ergebnis des defensiven Ausweichens gegen die Attacke: Die Vergleichsprobe läuft mit d = Klasse der Attacke minus Klasse des Ausweichens. Die Attacke des Umwerfens gilt dabei mit ihrer Klasse weiter als erfolgreich.
+- Das Ausweichen gelingt und d ist 1 oder größer, oder das Ausweichen misslingt (Fehlschlag oder Patzer): Zuerst kommt die Rest-Parade. Der Verteidiger würfelt aus seinen verbliebenen 2 AK eine Parade gegen dieselbe Attacke. Danach gilt die Regel für die Parade oben, mit der Klasse dieser Parade.
+- Führt der Verteidiger keine Rest-Parade aus, weil er keine 2 AK mehr hat oder sich dagegen entscheidet, gilt das Ergebnis des defensiven Ausweichens gegen die Attacke: Die Vergleichsprobe läuft mit d = Klasse der Attacke minus Klasse des Ausweichens. Die Attacke des Umwerfens gilt dabei mit ihrer Klasse weiter als erfolgreich.
 - Der Angreifer erhält keine Extra-Aktion. Die unbewaffnete Extra-Aktion, die das Gitter bei d = 1 vorsieht, entfällt.
 
 Bei misslungenem Ausweichen entscheidet nicht der Abstand. Die Vergleichsprobe läuft, und d zählt nur für die Erschwerung.
 
-**Offensives Ausweichen.** Das offensive Ausweichen kostet 3 AK, danach bleiben keine AP. Eine Rest-Parade ist nicht möglich.
+**Offensives Ausweichen.** Das offensive Ausweichen kostet 3 AK, danach bleiben keine AK. Eine Rest-Parade ist nicht möglich.
 
 - Das Ausweichen gelingt (n oder besser) und d ist höchstens 1: Das Umwerfen scheitert.
 - Das Ausweichen gelingt und d ist mindestens 2, oder das Ausweichen misslingt (Fehlschlag oder Patzer): Die Vergleichsprobe läuft mit d = Klasse der Attacke minus Klasse des Ausweichens. Der Angreifer erhält keine Extra-Aktion.

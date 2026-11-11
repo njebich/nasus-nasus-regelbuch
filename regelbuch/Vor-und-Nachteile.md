@@ -6,7 +6,7 @@ status: entwurf
 
 # Vor- und Nachteile: Kauf und Verkauf
 
-Der Held kauft Vorteile mit [[Erfahrung-und-Steigerung|Steigerungspunkten (SP)]] und wählt Nachteile, die ihm SP gutschreiben. Ein Vorteil kostet seinen Katalogpreis. Ein Nachteil hat einen negativen Katalogpreis und bringt genau so viele SP ein. Im Katalog stehen Einträge mit positiven, negativen und mit Null-Kosten. Bezahlt wird nur mit SP, nicht mit Erfahrungspunkten und nicht mit Talentpunkten.
+Der Held kauft Vorteile mit [[Erfahrung-und-Steigerung|Entwicklungspunkten (EP)]] und wählt Nachteile, die ihm EP gutschreiben. Ein Vorteil kostet seinen Katalogpreis. Ein Nachteil hat einen negativen Katalogpreis und bringt genau so viele EP ein. Im Katalog stehen Einträge mit positiven, negativen und mit Null-Kosten. Bezahlt wird nur mit EP, nicht mit Abenteuerpunkten und nicht mit Talentpunkten.
 
 Wie ein Eintrag wirkt, steht in den Kapiteln zu den einzelnen Einträgen:
 
@@ -19,17 +19,17 @@ Wie ein Eintrag wirkt, steht in den Kapiteln zu den einzelnen Einträgen:
 
 ### Nachteil wählen
 
-Wählt der Held einen Nachteil mit dem Katalogpreis −N, bekommt er N SP gutgeschrieben, 1:1. Seine verfügbaren SP steigen um N. Sie dürfen dabei auch über die ihm gewährten SP hinauswachsen.
+Wählt der Held einen Nachteil mit dem Katalogpreis −N, bekommt er N EP gutgeschrieben, 1:1. Seine verfügbaren EP steigen um N. Sie dürfen dabei auch über die ihm gewährten EP hinauswachsen.
 
 ### Verkaufen
 
-Wer einen Vorteil oder Nachteil gewöhnlich verkauft, bucht genau die Umkehrung des Kaufs. Es entstehen keine SP, und es verschwinden keine. Gibt der Held einen Nachteil zurück, zahlt er die zuvor gutgeschriebenen N SP wieder.
+Wer einen Vorteil oder Nachteil gewöhnlich verkauft, bucht genau die Umkehrung des Kaufs. Es entstehen keine EP, und es verschwinden keine. Gibt der Held einen Nachteil zurück, zahlt er die zuvor gutgeschriebenen N EP wieder.
 
 ### Protokoll
 
-Jede Gutschrift und jede Ausgabe von SP wird in einem Protokoll geführt. So bleibt nachvollziehbar, wie sich die SP jedes Helden entwickelt haben, und ein späterer Zustandswechsel lässt keine SP stillschweigend verschwinden. Jede Rückgabe und jeder Verkauf wird außerdem am Tisch angesagt.
+Jede Gutschrift und jede Ausgabe von EP wird in einem Protokoll geführt. So bleibt nachvollziehbar, wie sich die EP jedes Helden entwickelt haben, und ein späterer Zustandswechsel lässt keine EP stillschweigend verschwinden. Jede Rückgabe und jeder Verkauf wird außerdem am Tisch angesagt.
 
-Einmal gewährte oder ausgegebene SP gehen durch gewöhnliches Spielgeschehen nicht verloren. Die einzige Ausnahme ist die Wiederbelebung (siehe [[Erfahrung-und-Steigerung|Erfahrung und Steigerung]]).
+Einmal gewährte oder ausgegebene EP gehen durch gewöhnliches Spielgeschehen nicht verloren. Die einzige Ausnahme ist die Wiederbelebung (siehe [[Erfahrung-und-Steigerung|Erfahrung und Steigerung]]).
 
 ## Die Erschaffung
 
@@ -46,7 +46,7 @@ Es zählt jeder Vorteil und jeder Nachteil, den der Held bei der Erschaffung wä
 
 Der Saldo liegt höchstens 300 von 0 entfernt, in beide Richtungen:
 
-- Nachteile dürfen die Vorteile höchstens um 300 übersteigen. Über Nachteile lassen sich keine SP gewinnen.
+- Nachteile dürfen die Vorteile höchstens um 300 übersteigen. Über Nachteile lassen sich keine EP gewinnen.
 - Vorteile dürfen die Nachteile höchstens um 300 übersteigen. Teure Vorteile verlangen also Nachteile.
 
 Die Grenze gilt nur bei der Erschaffung und wird dort geprüft. Danach hat der Saldo keinen Deckel mehr, und die Summe der Vorteile darf unbegrenzt steigen.
@@ -82,12 +82,12 @@ Jeder Eintrag des Katalogs gehört genau einer von drei Klassen an. Wenige Eintr
 - jede Untergruppe von Anfälligkeit: Beherrschung, jede Elementar-Beschwörung, profane Waffen, Alchemie
 - Unempfindlichkeit gegen profane Waffen und die gespiegelte Anfälligkeit gegen profane Waffen. Beide folgen dem Standardablauf der Anfälligkeit.
 - Immunität gegen ein Element (5 Einträge). Sie sind zusätzlich nur vom Meister vergebbar und nur für Elementare.
-- Migräne, alle 5 Stufen. Sie ist nur bei der Erschaffung wählbar, bringt 25/50/75/100/150 SP und tritt nie als Zustand auf.
+- Migräne, alle 5 Stufen. Sie ist nur bei der Erschaffung wählbar, bringt 25/50/75/100/150 EP und tritt nie als Zustand auf.
 - Kurzatmigkeit
-- Einarmigkeit, Einbeinigkeit, Keine Arme, Keine Beine und Stumm. Die Gutschrift beträgt je Gliedmaße 400 SP, bei Stumm 300 SP.
-- das Schlaf-Profil (alle 4 Stufen, 0 SP) und das Aussehen-Profil (alle 7 Stufen). Das sind Pflichtachsen, die nach der Erschaffung nur der Meister wechseln kann.
-- Allerweltsgesicht (250 SP). Der Ruhm des Helden kann es regional aussetzen.
-- Sprachtalent (50 SP), Weltgewandt (100 SP), Fettleibig (−100 SP) und Träge Reflexe (−120 SP). Sie sind nur bei der Erschaffung zu haben, ohne Kreis-Alternative, und deshalb dauerhaft.
+- Einarmigkeit, Einbeinigkeit, Keine Arme, Keine Beine und Stumm. Die Gutschrift beträgt je Gliedmaße 400 EP, bei Stumm 300 EP.
+- das Schlaf-Profil (alle 4 Stufen, 0 EP) und das Aussehen-Profil (alle 7 Stufen). Das sind Pflichtachsen, die nach der Erschaffung nur der Meister wechseln kann.
+- Allerweltsgesicht (250 EP). Der Ruhm des Helden kann es regional aussetzen.
+- Sprachtalent (50 EP), Weltgewandt (100 EP), Fettleibig (−100 EP) und Träge Reflexe (−120 EP). Sie sind nur bei der Erschaffung zu haben, ohne Kreis-Alternative, und deshalb dauerhaft.
 
 Die übrigen Besonderen Fähigkeiten haben eine Kreis-Alternative. Das sind Fliegen, Schweben, Teleportation, Natürliche Regeneration I bis III, Wasserwandeln, Meisterliche Grundfertigkeit und Meisterliche WHK. Sie bleiben frei und sind nicht auf die Erschaffung beschränkt.
 
@@ -95,7 +95,7 @@ Natürliche Regeneration IV bis VII ist ein reiner Wert für NSC und Kreaturen. 
 
 ### Sonderfall Untotenkrankheit
 
-Die Untotenkrankheit gehört zu keiner der drei Klassen. Ihr Eintrag kostet 0 SP, und der Held kann ihn nicht bei der Erschaffung wählen. Er bekommt sie ausschließlich durch ein Ereignis der Spielwelt: den Angriff eines Untoten. Entfernen lässt sie sich nur über die Voraussetzung „magische Krankheit“ (Heilung G6, „Heiliges Land“ oder „Starke Allheilmittel“). Es gibt keinen Kauf und keinen Verkauf für SP, keine Meister-Freigabe und keinen gewöhnlichen Heiler. Bei Kosten von 0 SP ist sie in beide Richtungen SP-neutral.
+Die Untotenkrankheit gehört zu keiner der drei Klassen. Ihr Eintrag kostet 0 EP, und der Held kann ihn nicht bei der Erschaffung wählen. Er bekommt sie ausschließlich durch ein Ereignis der Spielwelt: den Angriff eines Untoten. Entfernen lässt sie sich nur über die Voraussetzung „magische Krankheit“ (Heilung G6, „Heiliges Land“ oder „Starke Allheilmittel“). Es gibt keinen Kauf und keinen Verkauf für EP, keine Meister-Freigabe und keinen gewöhnlichen Heiler. Bei Kosten von 0 EP ist sie in beide Richtungen EP-neutral.
 
 Der Nachteil und der entfernbare Zustand der Untotenkrankheit sind getrennte Einträge (siehe unten).
 
@@ -104,14 +104,14 @@ Der Nachteil und der entfernbare Zustand der Untotenkrankheit sind getrennte Ein
 [[Gaben-und-Schwaechen|Kind der Fröhlichkeit]] hat eine eigene Klasse neben den drei oben:
 
 - Jeder Spielercharakter hat es automatisch. Es ist fest gesetzt, Hinzufügen und Entfernen sind gesperrt.
-- Der Held kann es weder wählen noch verkaufen noch entfernen. Es kostet 0 SP und ist in jede Richtung SP-neutral. Es hat keine Entfernungs-Voraussetzung und tritt nie als Zustand auf.
+- Der Held kann es weder wählen noch verkaufen noch entfernen. Es kostet 0 EP und ist in jede Richtung EP-neutral. Es hat keine Entfernungs-Voraussetzung und tritt nie als Zustand auf.
 - Es steht nicht in der Warnung vor dem Abschluss der Erschaffung. Es ist immer da und nie eine Abweichung.
 
 Benannte NSC können es nach Entscheid des Meisters führen. Namenlose NSC und Kreaturen führen es nicht.
 
 ## Entfernen außerhalb einer Session
 
-Wer einen Nachteil außerhalb einer laufenden Session entfernen will (SP-Rückkauf), muss die Entfernungs-Voraussetzung des Eintrags erfüllen. Einträge mit Meister-Freigabe brauchen zusätzlich die Freigabe des Meisters. Jeder entfernbare Zustand hat eine solche Voraussetzung:
+Wer einen Nachteil außerhalb einer laufenden Session entfernen will (EP-Rückkauf), muss die Entfernungs-Voraussetzung des Eintrags erfüllen. Einträge mit Meister-Freigabe brauchen zusätzlich die Freigabe des Meisters. Jeder entfernbare Zustand hat eine solche Voraussetzung:
 
 - **Gliedmaß, Auge, Hand, Fuß:** Heilung G5 „Gliedmaßen nachwachsen lassen“, [[KI|KI-Regeneration]] oder „Ruf des Tepod“. Als Gliedmaß gilt jeder Körperteil mit eigener Trefferzone.
 - **Unmagische Krankheit:** Heilung G3.
@@ -126,12 +126,12 @@ Wer einen Nachteil außerhalb einer laufenden Session entfernen will (SP-Rückka
 
 Der Meister kann jeden Eintrag des Katalogs vergeben, gleich in welcher Klasse er steht und ob er nur bei der Erschaffung wählbar ist. Er hat zwei Möglichkeiten:
 
-- **Mit SP-Auswirkung:** wie ein regulärer Kauf, bei einem Nachteil mit Gutschrift, 1:1.
-- **Zeitweilig mit 0 SP Auswirkung:** keine Gutschrift bei der Vergabe und keine Kosten bei der Entfernung. Das ist dieselbe SP-Neutralität wie bei aufgezwungenen Zuständen (siehe unten).
+- **Mit EP-Auswirkung:** wie ein regulärer Kauf, bei einem Nachteil mit Gutschrift, 1:1.
+- **Zeitweilig mit 0 EP Auswirkung:** keine Gutschrift bei der Vergabe und keine Kosten bei der Entfernung. Das ist dieselbe EP-Neutralität wie bei aufgezwungenen Zuständen (siehe unten).
 
 Ist ein so vergebener Eintrag für die Geschichte gesperrt, lässt er sich also über die gewöhnlichen Wege seiner Klasse und seiner Entfernungs-Voraussetzung nicht entfernen, muss der Meister einen Weg zur Entfernung garantieren.
 
-Ist ein zeitweiliger Eintrag am Ende der Kampagne nicht aufgelöst, wird er auf Wunsch des Spielers entweder entfernt, oder die entsprechenden SP werden gutgeschrieben.
+Ist ein zeitweiliger Eintrag am Ende der Kampagne nicht aufgelöst, wird er auf Wunsch des Spielers entweder entfernt, oder die entsprechenden EP werden gutgeschrieben.
 
 Die Untotenkrankheit fällt nicht darunter. Sie ist das Ergebnis eines Ereignisses der Spielwelt, keine Vergabe durch den Meister.
 
@@ -139,20 +139,20 @@ Die Untotenkrankheit fällt nicht darunter. Sie ist das Ergebnis eines Ereigniss
 
 Dieselbe körperliche oder sensorische Beeinträchtigung kann auf zwei Wegen zum Helden kommen:
 
-- **Bei der Erschaffung gewählt:** Sie ist dauerhaft an den Helden gebunden. Der Nachteil bringt beim Kauf SP.
+- **Bei der Erschaffung gewählt:** Sie ist dauerhaft an den Helden gebunden. Der Nachteil bringt beim Kauf EP.
 - **Später durch den Meister oder die Spielwelt verursacht:** fehlende Augen, verlorenes Augenlicht, fehlende Gliedmaßen und so weiter. Sie ist ein vordefinierter, entfernbarer [[Zustaende-Grundregeln|Zustand]], dessen Wirkung dem passenden Nachteil entspricht.
 
 Ein entfernbarer Zustand und das dauerhafte Merkmal, das die Entfernung dieses Zustands verhindert, sind zwei verschiedene Einträge. Muster ist die Blindheit: „Blind“ ist der entfernbare Zustand, „Blindheit“ ist das dauerhafte Merkmal, das den Zustand „Blind“ unentfernbar macht. Dieselbe Trennung gilt für die übrigen körperlichen und sensorischen Merkmale und für die Untotenkrankheit.
 
-Ein vom Meister oder von der Welt verursachter Zustand bringt bei der Anwendung keine SP und kostet bei der Entfernung keine SP. Das gilt auch dann, wenn er einem Nachteil entspricht. Die Erschaffung des Helden bleibt dabei unverändert. Die von der Welt verursachte Beeinträchtigung folgt der Definition des Zustands.
+Ein vom Meister oder von der Welt verursachter Zustand bringt bei der Anwendung keine EP und kostet bei der Entfernung keine EP. Das gilt auch dann, wenn er einem Nachteil entspricht. Die Erschaffung des Helden bleibt dabei unverändert. Die von der Welt verursachte Beeinträchtigung folgt der Definition des Zustands.
 
-Merkmal und zugehöriger Zustand folgen derselben Wirkung. Herkunft, SP-Regeln, Dauer und Entfernbarkeit bleiben getrennt. Das gilt auch für Zustände durch Zauber oder Alchemika.
+Merkmal und zugehöriger Zustand folgen derselben Wirkung. Herkunft, EP-Regeln, Dauer und Entfernbarkeit bleiben getrennt. Das gilt auch für Zustände durch Zauber oder Alchemika.
 
 ## Beispiele
 
-- **Fettleibig bei der Erschaffung (−100):** Der Spieler wählt den Nachteil. Der Held bekommt 100 SP gutgeschrieben, seine verfügbaren SP steigen um 100, und die Gutschrift steht im Protokoll. Der Eintrag ist dauerhaft, weil er nur bei der Erschaffung zu haben ist. Er steht in der Warnung vor dem Abschluss. Nach der Erschaffung lässt er sich nicht entfernen.
-- **Einäugig bei der Erschaffung (−400):** Der Held bekommt 400 SP gutgeschrieben. Der Eintrag ist dauerhaft, steht in der Warnung und lässt sich nach der Erschaffung nicht entfernen.
-- **Der Held verliert später im Spiel ein Auge:** Der Meister wendet den entfernbaren Zustand „einäugig“ an, der wie der Nachteil wirkt. Der Held bekommt keine SP. Zur Entfernung muss die Voraussetzung für Gliedmaß und Auge erfüllt sein: Heilung G5 „Gliedmaßen nachwachsen lassen“, KI-Regeneration oder „Ruf des Tepod“. Danach folgt ein SP-neutraler Rückbau.
+- **Fettleibig bei der Erschaffung (−100):** Der Spieler wählt den Nachteil. Der Held bekommt 100 EP gutgeschrieben, seine verfügbaren EP steigen um 100, und die Gutschrift steht im Protokoll. Der Eintrag ist dauerhaft, weil er nur bei der Erschaffung zu haben ist. Er steht in der Warnung vor dem Abschluss. Nach der Erschaffung lässt er sich nicht entfernen.
+- **Einäugig bei der Erschaffung (−400):** Der Held bekommt 400 EP gutgeschrieben. Der Eintrag ist dauerhaft, steht in der Warnung und lässt sich nach der Erschaffung nicht entfernen.
+- **Der Held verliert später im Spiel ein Auge:** Der Meister wendet den entfernbaren Zustand „einäugig“ an, der wie der Nachteil wirkt. Der Held bekommt keine EP. Zur Entfernung muss die Voraussetzung für Gliedmaß und Auge erfüllt sein: Heilung G5 „Gliedmaßen nachwachsen lassen“, KI-Regeneration oder „Ruf des Tepod“. Danach folgt ein EP-neutraler Rückbau.
 - **Ein Angst-Thema kaufen oder verkaufen:** Der Eintrag verlangt die Freigabe des Meisters. Ohne Freigabe geschieht nichts.
-- **Untotenkrankheit:** Ein Untoter greift den Helden an, im Nahkampf mit einem Biss oder mit einer Attacke, deren Wirkung „Überträgt Untotenkrankheit“ lautet, und verursacht dabei mindestens 1 TP. Damit hat sich der Held infiziert. Der Eintrag kostet 0 SP, also ändern sich die SP in keine Richtung. Der Nachteil und der Zustand sind getrennte Einträge. Entfernt wird die Krankheit nur über die Voraussetzung „magische Krankheit“: Heilung G6, „Heiliges Land“ oder „Starke Allheilmittel“.
-- **Erschaffung mit dem Nachteil Blindheit (Gutschrift 500):** Der Saldo von +500 überschreitet die Grenze 300. Wählt der Spieler Vorteile von zusammen mindestens 200 SP, zum Beispiel Blinder Kampf I bis III (150 + 25 + 25), liegt der Saldo bei +300.
+- **Untotenkrankheit:** Ein Untoter greift den Helden an, im Nahkampf mit einem Biss oder mit einer Attacke, deren Wirkung „Überträgt Untotenkrankheit“ lautet, und verursacht dabei mindestens 1 TP. Damit hat sich der Held infiziert. Der Eintrag kostet 0 EP, also ändern sich die EP in keine Richtung. Der Nachteil und der Zustand sind getrennte Einträge. Entfernt wird die Krankheit nur über die Voraussetzung „magische Krankheit“: Heilung G6, „Heiliges Land“ oder „Starke Allheilmittel“.
+- **Erschaffung mit dem Nachteil Blindheit (Gutschrift 500):** Der Saldo von +500 überschreitet die Grenze 300. Wählt der Spieler Vorteile von zusammen mindestens 200 EP, zum Beispiel Blinder Kampf I bis III (150 + 25 + 25), liegt der Saldo bei +300.

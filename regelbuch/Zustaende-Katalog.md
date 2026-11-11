@@ -173,7 +173,7 @@ Die Kontrollreichweite ist Macht × 10 m, für Menschen und Tiere gleich.
 
 - der Zauber Stumm (Beherrschung, Grad 2, anhaltend). Wirkungsdauer und Löseprobe gehören zum Zauber ([[Spruchmagie]]);
 - das Alchemikum Zungengift ([[Alchemika]]);
-- der Verlust der Zunge im Spiel. Der Held ist dann stumm, bis die Zunge geheilt wird (Heilung, Grad 5; weitere Wege nennt [[Aussehen-Schlaf-Sinne-und-Koerper]]). Das ist kein Kauf: Es gibt keine SP und keine SP-Kosten bei der Entfernung;
+- der Verlust der Zunge im Spiel. Der Held ist dann stumm, bis die Zunge geheilt wird (Heilung, Grad 5; weitere Wege nennt [[Aussehen-Schlaf-Sinne-und-Koerper]]). Das ist kein Kauf: Es gibt keine EP und keine EP-Kosten bei der Entfernung;
 - das Körpermerkmal Stumm. Es ist dauerhaft und nicht entfernbar.
 
 **Wirkung.** Das Opfer bringt keinen Ton heraus. Man hört nur die Atemluft. Artikuliertes Sprechen ist unmöglich. Nur die Spruchmagie ist betroffen. KI, Psi und Wunder haben keine zwingende Sprachkomponente und bleiben unberührt. Für die Spruchmagie gilt nach Zauberstufe:
@@ -341,7 +341,7 @@ Die getroffene Zone ist dauerhaft verloren. Die Behinderung entspricht der Behin
 
 Totale Regeneration stellt nur Zonen wieder her, die noch vorhanden sind, und bringt eine Gliedmaße nicht zurück. Auch das Wunder Lahjas Kuss heilt LE, aber fehlende Gliedmaßen wachsen damit nicht nach. Die bloße Regeneration der LE bringt sie ebenfalls nicht zurück.
 
-**Mentale Behinderung.** Bei traumatischem Verlust startet die Mentale Behinderung (MBE) sofort mit dem vollen Wert der Zone (Arm 3, Bein 4). Sie sinkt um 1 mit jedem neuen magischen Tag, von Sonnenaufgang zu Sonnenaufgang ([[Zeit-und-Spielablauf]]), bis auf 0. Danach bleibt dauerhaft nur noch die Körperliche Behinderung (KBE). Das gilt unabhängig davon, ob die Zone Wunden hat oder wie viel LE sie besitzt. Dieser Zustand bringt keine Steigerungspunkte und kostet auch keine. Die angeborene Variante, die der Spieler zur Erschaffung kauft (−400 oder −800 Steigerungspunkte), ist ein anderer Eintrag ([[Aussehen-Schlaf-Sinne-und-Koerper]]).
+**Mentale Behinderung.** Bei traumatischem Verlust startet die Mentale Behinderung (MBE) sofort mit dem vollen Wert der Zone (Arm 3, Bein 4). Sie sinkt um 1 mit jedem neuen magischen Tag, von Sonnenaufgang zu Sonnenaufgang ([[Zeit-und-Spielablauf]]), bis auf 0. Danach bleibt dauerhaft nur noch die Körperliche Behinderung (KBE). Das gilt unabhängig davon, ob die Zone Wunden hat oder wie viel LE sie besitzt. Dieser Zustand bringt keine Entwicklungspunkte und kostet auch keine. Die angeborene Variante, die der Spieler zur Erschaffung kauft (−400 oder −800 Entwicklungspunkte), ist ein anderer Eintrag ([[Aussehen-Schlaf-Sinne-und-Koerper]]).
 
 **Beispiel.** Ein scharfer Treffer mit TP ≥ LE plus Gesundheit amputiert einen Arm. Die Körperliche Behinderung bleibt dauerhaft bei 3. Die Mentale Behinderung startet bei 3 und sinkt an den folgenden drei magischen Tagen auf 2, 1 und 0. Den Arm bringen erst Gliedmaßen nachwachsen lassen, die KI-Fähigkeit Regeneration oder Ruf des Tepod zurück. Totale Regeneration oder die bloße Regeneration der LE tun das nicht.
 

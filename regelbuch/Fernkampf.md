@@ -19,9 +19,9 @@ Basiswert = (Sinnesschärfe + Geschicklichkeit + Wert der Waffenkategorie
              [+ Spezialisierung]) / 4
 ```
 
-Der Basiswert hat keine Obergrenze von 20. Sinnesschärfe und Geschicklichkeit sind [[Eigenschaften]]. Die Waffenkategorie (zum Beispiel Bögen oder Armbrüste) ist ein Fernkampfwert, den der Held mit Steigerungspunkten kauft ([[Erfahrung-und-Steigerung]]). Eine Spezialisierung darunter kann hinzukommen.
+Der Basiswert hat keine Obergrenze von 20. Sinnesschärfe und Geschicklichkeit sind [[Eigenschaften]]. Die Waffenkategorie (zum Beispiel Bögen oder Armbrüste) ist ein Fernkampfwert, den der Held mit Entwicklungspunkten kauft ([[Erfahrung-und-Steigerung]]). Eine Spezialisierung darunter kann hinzukommen.
 
-Jeder Talentwert-Punkt einer Spezialisierung kostet nach demselben Rangprinzip wie im Nahkampf ([[Nahkampf]]) 10, 5 oder 3 Steigerungspunkte: 10 für die höchstwertige Spezialisierung unter derselben Hauptfertigkeit, 5 für die zweithöchste, 3 für jede weitere.
+Jeder Fertigkeitswert-Punkt einer Spezialisierung kostet nach demselben Rangprinzip wie im Nahkampf ([[Nahkampf]]) 10, 5 oder 3 Entwicklungspunkte: 10 für die höchstwertige Spezialisierung unter derselben Hauptfertigkeit, 5 für die zweithöchste, 3 für jede weitere.
 
 ## Reichweite und Reichweitenmodifikator
 

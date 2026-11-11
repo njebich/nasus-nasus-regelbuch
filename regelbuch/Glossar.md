@@ -8,9 +8,9 @@ aliases: [Glossar, Abkürzungen, Kürzel]
 
 Die Abkürzungen des Regelbuchs, alphabetisch. Jeder Eintrag sagt in einem Satz, was gemeint ist, und verweist auf das Kapitel, das die Regel erklärt.
 
-**AK (Aktionskosten).** Der Preis einer einzelnen Aktion in Aktionspunkten. Siehe Aktionsbudget.
+**AK (Aktionskosten).** Der Preis einer einzelnen Aktion. Pro Runde kannst du Aktionen mit Gesamtkosten von höchstens 3 AK ausführen. Siehe Aktionsbudget.
 
-**AP (Aktionspunkte).** Das Budget eines Teilnehmers pro Kampfrunde: 3 AP. Siehe Aktionsbudget.
+**AP (Abenteuerpunkte).** Der Gesamtfortschritt eines Helden. Sie werden gesammelt und nie ausgegeben. Siehe Abenteuerpunkte.
 
 **AT (Attacke).** Die Probe für eine Attacke. Siehe AT-Probe.
 
@@ -24,9 +24,11 @@ Die Abkürzungen des Regelbuchs, alphabetisch. Jeder Eintrag sagt in einem Satz,
 
 **ED (Effektdauer).** Die Zeitspanne zwischen der erfolgreichen Probe und der vollen Wirkung. Siehe Vorbereitungs-, Effekt- und Wirkungsdauer.
 
-**EP (Erfahrungspunkte).** Der Gesamtfortschritt eines Helden. Sie werden gesammelt und nie ausgegeben. Siehe Erfahrungspunkte.
+**EP (Entwicklungspunkte).** Die Kaufwährung für Eigenschaften, Sprache & Kultur sowie Vor- und Nachteile. Siehe EP-Budget.
 
 **FK (Fernkampf).** Die Probe für einen Fernkampfangriff. Siehe FK-Probe.
+
+**FW (Fertigkeitswert).** Der Wert, mit dem der Held eine Fertigkeit beherrscht. Siehe [[Talente]].
 
 **Ini (Initiative).** Die Rangfolge der Teilnehmer in einer Kampfrunde. Gewürfelt wird W30 − W12. Siehe Runden und Initiative.
 
@@ -58,15 +60,11 @@ Die Abkürzungen des Regelbuchs, alphabetisch. Jeder Eintrag sagt in einem Satz,
 
 **SB (Selbstbeherrschung).** Die Probe, mit der der Held auf erheblichen Trefferschaden reagiert. Siehe SB-Probe.
 
-**SP.** Zwei Bedeutungen, je nach Zusammenhang:
-- **Steigerungspunkte:** die Kaufwährung für Eigenschaften, Sprache & Kultur sowie Vor- und Nachteile. Siehe SP-Budget.
-- **Schadenspunkte:** der Rohschaden vor der Minderung durch Rüstung oder Schild. Siehe NK-Ini-Bubble.
+**SP (Schadenspunkte).** Der Rohschaden vor der Minderung durch Rüstung oder Schild. Siehe NK-Ini-Bubble.
 
 **SSK (Sprach- und Kultur-Fertigkeiten).** Die Fertigkeitsfamilie für Sprachen und Kulturen, neben Grundfertigkeiten und WHK. Siehe [[Herkunft-Ort-Sprache-Schrift-Kultur|Herkunft]].
 
 **TaP (Talentpunkte).** Die Währung für Talente. Siehe Talentpunkte-Budget.
-
-**TaW (Talentwert).** Der Wert, mit dem der Held eine Fertigkeit beherrscht. Siehe [[Talente]].
 
 **TP (Trefferpunkte).** Der Schaden nach der Rüstungsminderung. Siehe SB-Probe.
 

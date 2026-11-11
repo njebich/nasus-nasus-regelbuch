@@ -14,7 +14,7 @@ Teilungen und Malnahmen in den Formeln dieses Kapitels werden sofort aufgerundet
 
 ### Hauptfertigkeit
 
-Der Held kauft für jede Waffenkategorie eine eigene Hauptfertigkeit mit Steigerungspunkten ([[Erfahrung-und-Steigerung]]). Die Kaufkurve lautet „Wert × 25“. Es gibt fünf Hauptfertigkeiten:
+Der Held kauft für jede Waffenkategorie eine eigene Hauptfertigkeit mit Entwicklungspunkten ([[Erfahrung-und-Steigerung]]). Die Kaufkurve lautet „Wert × 25“. Es gibt fünf Hauptfertigkeiten:
 
 - Hiebwaffen
 - Klingenwaffen
@@ -32,17 +32,17 @@ Bei der Attacke ist Eigenschaft 1 immer Mut. Eigenschaft 2 ist Athletik bei Hieb
 
 ### Spezialisierung
 
-Unter jeder Hauptfertigkeit kann der Held Spezialisierungen kaufen, zum Beispiel Schwerter unter Klingenwaffen. Jede Spezialisierung hat einen eigenen Talentwert (TaW), den der Held mit Steigerungspunkten kauft. Jeder einzelne Talentwert-Punkt kostet:
+Unter jeder Hauptfertigkeit kann der Held Spezialisierungen kaufen, zum Beispiel Schwerter unter Klingenwaffen. Jede Spezialisierung hat einen eigenen Fertigkeitswert (FW), den der Held mit Entwicklungspunkten kauft. Jeder einzelne Fertigkeitswert-Punkt kostet:
 
-- 15 Steigerungspunkte, wenn die Spezialisierung unter derselben Hauptfertigkeit die höchstwertige ist,
-- 8 Steigerungspunkte, wenn genau eine andere Spezialisierung höherwertig ist,
-- 4 Steigerungspunkte, wenn mindestens zwei andere höherwertig sind.
+- 15 Entwicklungspunkte, wenn die Spezialisierung unter derselben Hauptfertigkeit die höchstwertige ist,
+- 8 Entwicklungspunkte, wenn genau eine andere Spezialisierung höherwertig ist,
+- 4 Entwicklungspunkte, wenn mindestens zwei andere höherwertig sind.
 
 Maßgeblich ist der Stand unmittelbar vor dem Punkt, nicht die Reihenfolge der bisherigen Käufe. Eine andere Spezialisierung zählt nur dann als höherwertig, wenn ihr Wert echt größer ist. Bei Gleichstand gilt der höhere Preis.
 
 Beispiel: Drei Spezialisierungen a, b und c stehen alle bei 0. Der erste Punkt auf a kostet 15, denn niemand ist höher. Der erste Punkt auf b kostet 8, denn a (1) ist höher. Der erste Punkt auf c kostet 4, denn a und b sind höher. Danach stehen alle drei bei 1, und der nächste Punkt kostet auf jeder von ihnen wieder 15.
 
-Beispiel: Die Spezialisierungen a, b und c stehen bei 24, 14 und 13. Der Held steigert c zweimal. Der erste Punkt (13 auf 14) kostet 4, denn a (24) und b (14) sind höher als 13. Der zweite Punkt (14 auf 15) kostet 8, denn nur a (24) ist höher als 14, b (14) ist gleich. Zusammen sind das 12 Steigerungspunkte.
+Beispiel: Die Spezialisierungen a, b und c stehen bei 24, 14 und 13. Der Held steigert c zweimal. Der erste Punkt (13 auf 14) kostet 4, denn a (24) und b (14) sind höher als 13. Der zweite Punkt (14 auf 15) kostet 8, denn nur a (24) ist höher als 14, b (14) ist gleich. Zusammen sind das 12 Entwicklungspunkte.
 
 ### Pool-Punkte
 
@@ -50,7 +50,7 @@ Jede Waffe, die der Held besitzt, hat eigene Pool-Punkte. Das ist ein Vorrat an 
 
 ```text
 Pool-Punkte der Waffe = Überschuss Attacke + Überschuss Parade
-                        + Talentwert der zugehörigen Spezialisierung
+                        + Fertigkeitswert der zugehörigen Spezialisierung
                         − bereits ausgegebene Pool-Punkte
 ```
 
@@ -110,7 +110,7 @@ mAW = (Eigenschaftsbonus Schnelligkeit + Meisterliches Ausweichen) / 5 + 21,
       höchstens 21 + ((Obergrenze von gAW) − 1) / 2
 ```
 
-Gutes Ausweichen und Meisterliches Ausweichen sind Sonderfertigkeiten. Der Held kauft sie mit Steigerungspunkten, jede höchstens bis 12. Ein Talent, das diese Grenze anhebt, gibt es nicht. Den Eigenschaftsbonus erklärt das Kapitel [[Eigenschaften]].
+Gutes Ausweichen und Meisterliches Ausweichen sind Sonderfertigkeiten. Der Held kauft sie mit Entwicklungspunkten, jede höchstens bis 12. Ein Talent, das diese Grenze anhebt, gibt es nicht. Den Eigenschaftsbonus erklärt das Kapitel [[Eigenschaften]].
 
 ## Behinderung und Erschwerung
 
@@ -125,7 +125,7 @@ Bestätigte Erschwerungen im Nahkampf gibt es zwei: die freiwillige Erschwerung 
 
 ### Freiwillige Erschwerung der Attacke
 
-Der Held kann seine Attacke freiwillig erschweren. Die Parade kann er nicht freiwillig erschweren. Je +3 gewählter Erschwerung bekommt er wahlweise 2 Trefferzonen-Rerolls ([[Treffer-und-Schaden]]) oder 2 Steigerungspunkte. Sie wirkt wie jede andere Erschwerung.
+Der Held kann seine Attacke freiwillig erschweren. Die Parade kann er nicht freiwillig erschweren. Je +3 gewählter Erschwerung bekommt er wahlweise 2 Trefferzonen-Rerolls ([[Treffer-und-Schaden]]) oder 2 Entwicklungspunkte. Sie wirkt wie jede andere Erschwerung.
 
 ### Überzählige Pool-Punkte schützen den Normalwert
 
@@ -176,7 +176,7 @@ Weitere Beispiele mit Ausgangswerten 20 / 10 / 26 und ohne Erschwerung:
 | 5 | 0 | 15 | 5 | 21 |
 | 5 | 5 | 20 | 5 | 21 |
 
-Beispiel zur freiwilligen Erschwerung: nAT ausgebaut 20, 2 überzählige Pool-Punkte, gewählte Erschwerung 3 (dafür 2 Trefferzonen-Rerolls oder 2 Steigerungspunkte). Der Normalwert beträgt 20 − (3 − 2) = 19.
+Beispiel zur freiwilligen Erschwerung: nAT ausgebaut 20, 2 überzählige Pool-Punkte, gewählte Erschwerung 3 (dafür 2 Trefferzonen-Rerolls oder 2 Entwicklungspunkte). Der Normalwert beträgt 20 − (3 − 2) = 19.
 
 ### Zu wenig Stärke für die Waffe
 

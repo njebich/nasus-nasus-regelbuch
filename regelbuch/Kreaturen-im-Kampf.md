@@ -157,15 +157,15 @@ Mit Konstitution 12, Stärke 10 und Vitalität 5 ergeben sich diese Grundwerte:
 
 ### Der Faktor
 
-Die LE der Zone ist der Grundwert mal dem LE-Faktor, aufgerundet. Der Standardfaktor ist 1. Der Faktor gehört zur Bauform des Körperteils und gilt für jedes Exemplar einzeln. Bezahlt wird er je Körperteil in Steigerungspunkten ([[Erfahrung-und-Steigerung]]):
+Die LE der Zone ist der Grundwert mal dem LE-Faktor, aufgerundet. Der Standardfaktor ist 1. Der Faktor gehört zur Bauform des Körperteils und gilt für jedes Exemplar einzeln. Bezahlt wird er je Körperteil in Entwicklungspunkten ([[Erfahrung-und-Steigerung]]):
 
-- Faktor 1 kostet 0 Steigerungspunkte.
-- Ein Faktor unter 1 kostet 0 Steigerungspunkte und gibt keine Gutschrift.
-- Ein Faktor über 1 kostet 200 × Faktor − 200 Steigerungspunkte.
+- Faktor 1 kostet 0 Entwicklungspunkte.
+- Ein Faktor unter 1 kostet 0 Entwicklungspunkte und gibt keine Gutschrift.
+- Ein Faktor über 1 kostet 200 × Faktor − 200 Entwicklungspunkte.
 
 Bei mehreren gleichartigen Körperteilen, etwa acht Armen, fallen die Kosten für jedes einzeln an. Der Faktor ändert nur die LE, nicht die Behinderung.
 
-Beispiele mit dem Grundwert 13 für einen Arm: Faktor 1,5 ergibt 13 × 1,5 = 19,5, aufgerundet 20 LE, bei Kosten von 200 × 1,5 − 200 = 100 Steigerungspunkten je Arm. Faktor 0,5 ergibt 13 × 0,5 = 6,5, aufgerundet 7 LE, bei Kosten von 0. Ein Kopf mit Faktor 2 hat 24 LE und kostet 200 Steigerungspunkte.
+Beispiele mit dem Grundwert 13 für einen Arm: Faktor 1,5 ergibt 13 × 1,5 = 19,5, aufgerundet 20 LE, bei Kosten von 200 × 1,5 − 200 = 100 Entwicklungspunkten je Arm. Faktor 0,5 ergibt 13 × 0,5 = 6,5, aufgerundet 7 LE, bei Kosten von 0. Ein Kopf mit Faktor 2 hat 24 LE und kostet 200 Entwicklungspunkte.
 
 ### Die Behinderung der Zonen
 

@@ -46,16 +46,16 @@ Tritt ein Teilnehmer in einer späteren Kampfrunde in eine bestehende Gruppe ein
 
 Die Gruppe arbeitet Paar für Paar ab, geordnet nach dem Nahkampf-Ini-Wurf des Angreifers. Es gibt keine getrennte Ansage-Phase, keine umgekehrte Ausführungsreihenfolge und keine Liste, in der alle Mitglieder der Reihe nach handeln. Darin unterscheidet sich die Gruppe von der Runde außerhalb.
 
-1. Das Mitglied mit dem besten Wurf sagt seinen Rundenplan an und führt ihn sofort aus. Der Rundenplan ist der komplette Plan für 3 Aktionspunkte ([[Glossar#AP|AP]]), nicht Aktion für Aktion. Meist ist es ein Angriff auf sein Ziel.
+1. Das Mitglied mit dem besten Wurf sagt seinen Rundenplan an und führt ihn sofort aus. Der Rundenplan ist der komplette Plan für 3 AK ([[Glossar#AK|Aktionskosten]]), nicht Aktion für Aktion. Meist ist es ein Angriff auf sein Ziel.
 2. Unmittelbar danach sagt dieses Ziel an und führt aus, gleich wo es in der Rangfolge steht. Das Ziel ist der Ini-Letzte dieser Paarung. Gemeint ist das Mitglied der Paarung mit dem niedrigsten Wurf und nicht das Mitglied, das zuletzt ansagt. Es entscheidet mit vollem Wissen über den bereits ausgeführten Angriff: verteidigen oder verzichten und selbst angreifen (siehe „Der Nahkampf-Austausch“).
 3. Dann kommt das nächste noch nicht behandelte Mitglied nach dem Nahkampf-Ini-Wurf, zusammen mit seinem Ziel. Wieder folgt zuerst der Angriff, dann die Antwort des Ziels.
 4. Das geht weiter, bis alle Mitglieder der Gruppe gehandelt haben.
 
-- **Ein Mitglied handelt einmal je Kampfrunde.** Es hat ein Budget von 3 Aktionspunkten und handelt entweder als Angreifer oder als angegriffenes Ziel. Ein bereits behandeltes Ziel bekommt keine zweite Aktivierung.
-- **Später Angreifer gegen ein bereits behandeltes Ziel.** Greift ein Angreifer aus Schritt 3 ein Ziel an, das in einer früheren Paarung schon gehandelt und seine 3 Aktionspunkte verbraucht hat, kann sich das Ziel nicht mehr wehren und kassiert den Angriff. Hat es Aktionspunkte zurückbehalten, verteidigt es daraus.
+- **Ein Mitglied handelt einmal je Kampfrunde.** Es hat ein Budget von 3 AK und handelt entweder als Angreifer oder als angegriffenes Ziel. Ein bereits behandeltes Ziel bekommt keine zweite Aktivierung.
+- **Später Angreifer gegen ein bereits behandeltes Ziel.** Greift ein Angreifer aus Schritt 3 ein Ziel an, das in einer früheren Paarung schon gehandelt und seine 3 AK verbraucht hat, kann sich das Ziel nicht mehr wehren und kassiert den Angriff. Hat es AK zurückbehalten, verteidigt es daraus.
 - **Keine vorgezogene Reaktion.** Jeder Angriff wird sofort aufgelöst. Ein Mitglied mit schlechterer Initiative kann auf den Angriff eines besseren nicht mit einem eigenen vorgezogenen Zug reagieren. Es hat nur die Antwort auf genau diesen Angriff oder das Verzichten. Das ist das Gegenstück zum Reaktionsfenster der Runde.
 - **Die Ansage ist öffentlich.** Jede Ansage samt Ziel ist den anderen Mitgliedern bekannt.
-- **Zielverlust.** Ist das angesagte Ziel bei der Ausführung weg, weil es in Deckung gegangen, außerhalb des Sichtfelds oder tot ist, muss die zielgebundene Handlung nicht ausgeführt werden. Die frei gewordenen Aktionspunkte dürfen nur für eine Drehung oder eine Defensivaktion verwendet werden (Nachsteuern, [[Kampfrunde-Aktionen-Initiative-und-Sicht]]).
+- **Zielverlust.** Ist das angesagte Ziel bei der Ausführung weg, weil es in Deckung gegangen, außerhalb des Sichtfelds oder tot ist, muss die zielgebundene Handlung nicht ausgeführt werden. Die frei gewordenen AK dürfen nur für eine Drehung oder eine Defensivaktion verwendet werden (Nachsteuern, [[Kampfrunde-Aktionen-Initiative-und-Sicht]]).
 - **Sichtkegel.** Die Blickrichtung und der Sichtkegel von 120° gelten auch in der Gruppe. Die Pflicht zur Orientierung entfällt dort.
 
 ## Der Nahkampf-Austausch
@@ -95,7 +95,7 @@ Will der Ini-Letzte verzichten und selbst angreifen, muss er eine einfache Mut-P
 - **Auslöser:** Der Ini-Letzte will verzichten und selbst angreifen. Es muss nicht sein, dass beide einen Angriff angesagt haben.
 - **Zeitpunkt:** bei der Ansage des Ini-Letzten, im zweiten Schritt des Ablaufs der Gruppe. Er sagt an, dass er verzichtet und angreift, und würfelt sofort.
 - **Erfolg:** Die Gegenattacke wird ausgeführt. Es gilt der beidseitige Angriff.
-- **Fehlschlag:** Der Ini-Letzte behält seine 3 Aktionspunkte. Er darf sie nur für eine Parade (2 AK) und/oder ein defensives Ausweichen (1 AK) einsetzen. Ein offensives Ausweichen und eine Attacke sind ihm verwehrt.
+- **Fehlschlag:** Der Ini-Letzte behält seine 3 AK. Er darf sie nur für eine Parade (2 AK) und/oder ein defensives Ausweichen (1 AK) einsetzen. Ein offensives Ausweichen und eine Attacke sind ihm verwehrt.
 
 ## Das Meisterscreen-Gitter
 
@@ -189,35 +189,35 @@ Bei einem Patzer des Angreifers ist nichts zu parieren. Deshalb steht in der Zel
 
 **Angreifer nAT**
 
-- gegen Patzer, Fehlschlag: nur PA (2 AP) sonst Treffer
+- gegen Patzer, Fehlschlag: nur PA (2 AK) sonst Treffer
 - gegen nAW: ausgewichen
 - gegen gAW: ausgewichen, Ini bestimmen, Flucht möglich
 - gegen mAW, fAW: ausgewichen, Ini-Wechsel, Flucht möglich
 
 **Angreifer gAT**
 
-- gegen Patzer, Fehlschlag: nur PA (2 AP) sonst Treffer
-- gegen nAW: unbewaffnete EA gg. PA (2 AP)
+- gegen Patzer, Fehlschlag: nur PA (2 AK) sonst Treffer
+- gegen nAW: unbewaffnete EA gg. PA (2 AK)
 - gegen gAW: ausgewichen
 - gegen mAW: ausgewichen, Ini bestimmen, Flucht möglich
 - gegen fAW: ausgewichen, Ini-Wechsel, Flucht möglich
 
 **Angreifer mAT**
 
-- gegen Patzer, Fehlschlag, nAW: nur PA (2 AP) sonst Treffer
-- gegen gAW: unbewaffnete EA gg. PA (2 AP)
+- gegen Patzer, Fehlschlag, nAW: nur PA (2 AK) sonst Treffer
+- gegen gAW: unbewaffnete EA gg. PA (2 AK)
 - gegen mAW: ausgewichen
 - gegen fAW: ausgewichen, Ini bestimmen, Flucht möglich
 
 **Angreifer fAT**
 
-- gegen Patzer, Fehlschlag, nAW, gAW: nur PA (2 AP) sonst Treffer
-- gegen mAW: unbewaffnete EA gg. PA (2 AP)
+- gegen Patzer, Fehlschlag, nAW, gAW: nur PA (2 AK) sonst Treffer
+- gegen mAW: unbewaffnete EA gg. PA (2 AK)
 - gegen fAW: ausgewichen
 
 Zwei Besonderheiten dieser Tabelle:
 
-- Die Spalte Patzer lautet bei allen gelungenen Angriffen (nAT bis fAT) „nur PA (2 AP) sonst Treffer“ und nicht „Treffer“. Auch nach einem Patzer beim defensiven Ausweichen bleibt der Paradeversuch aus den verbliebenen Aktionspunkten.
+- Die Spalte Patzer lautet bei allen gelungenen Angriffen (nAT bis fAT) „nur PA (2 AK) sonst Treffer“ und nicht „Treffer“. Auch nach einem Patzer beim defensiven Ausweichen bleibt der Paradeversuch aus den verbliebenen AK.
 - Beim Stufenunterschied von minus 1 steht hier „Ini bestimmen“, bei der Parade in Tabelle A dagegen „pariert, Ini-Wechsel“. Das ist Absicht.
 
 #### Tabelle C: Attacke gegen offensives Ausweichen
@@ -284,9 +284,9 @@ Die Tabellen sind die ausgeschriebene Form dieses Modells. Weicht das Modell von
 
 | d | Tabelle A, Parade | Tabelle B, defensives Ausweichen | Tabelle C, offensives Ausweichen |
 |---:|---|---|---|
-| +3 und mehr | pariert, meisterlicher Treffer | nur PA (2 AP) sonst Treffer | Treffer |
-| +2 | pariert, bewaffnete EA | nur PA (2 AP) sonst Treffer | Treffer |
-| +1 | pariert, unbewaffnete EA | unbewaffnete EA gg. PA (2 AP) | ausgewichen |
+| +3 und mehr | pariert, meisterlicher Treffer | nur PA (2 AK) sonst Treffer | Treffer |
+| +2 | pariert, bewaffnete EA | nur PA (2 AK) sonst Treffer | Treffer |
+| +1 | pariert, unbewaffnete EA | unbewaffnete EA gg. PA (2 AK) | ausgewichen |
 | 0 | pariert (bei nAT gegen nPA zusätzlich Bruchtest!) | ausgewichen | ausgewichen, Ini-Wechsel |
 | −1 | pariert, Ini-Wechsel | ausgewichen, Ini bestimmen, Flucht möglich | ausgewichen, unbewaffnete Konter-EA |
 | −2 | pariert, unbewaffnete Konter-EA | ausgewichen, Ini-Wechsel, Flucht möglich | ausgewichen, Konter-EA |
@@ -300,7 +300,7 @@ Die Tabellen sind die ausgeschriebene Form dieses Modells. Weicht das Modell von
 **Verteidigung im Fehlschlag-Bereich, Angreifer im Erfolgsbereich:**
 
 - Tabelle A: „Treffer“.
-- Tabelle B: „nur PA (2 AP) sonst Treffer“, auch bei einem Patzer der Verteidigung. Der Paradeversuch aus den verbliebenen Aktionspunkten bleibt, es heißt nie glatt „Treffer“.
+- Tabelle B: „nur PA (2 AK) sonst Treffer“, auch bei einem Patzer der Verteidigung. Der Paradeversuch aus den verbliebenen AK bleibt, es heißt nie glatt „Treffer“.
 - Tabelle C: „Treffer“.
 
 **„Flucht möglich“** gilt nur in Tabelle B. Es gilt genau dann, wenn der Verteidiger defensives Ausweichen gewählt hat, mindestens n gewürfelt hat und seine Erfolgsstufe höher ist als die des Angreifers.
@@ -324,7 +324,7 @@ Die Tabellen sind die ausgeschriebene Form dieses Modells. Weicht das Modell von
 Die neue Rangfolge gilt ab dem nächsten Austausch der Paarung, der laufende Austausch ist bereits aufgelöst. In einer Gruppe mit drei oder mehr Mitgliedern ändert ein Ausgang der Initiative nur die zwei beteiligten Parteien, und der Ablauf der Gruppe läuft mit der geänderten Reihenfolge weiter.
 #### Extra-Aktionen (EA)
 
-Eine Extra-Aktion ([[Glossar#EA|EA]]) ist eine Zusatzaktion, die der Stufenunterschied des Austauschs gewährt. Sie kostet 0 AK und liegt außerhalb des Budgets von 3 Aktionspunkten. Sie steht auch dann zur Verfügung, wenn das Budget schon verbraucht ist. Je Kampfrunde ist höchstens eine Extra-Aktion erlaubt ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]).
+Eine Extra-Aktion ([[Glossar#EA|EA]]) ist eine Zusatzaktion, die der Stufenunterschied des Austauschs gewährt. Sie kostet 0 AK und liegt außerhalb des Budgets von 3 AK. Sie steht auch dann zur Verfügung, wenn das Budget schon verbraucht ist. Je Kampfrunde ist höchstens eine Extra-Aktion erlaubt ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]).
 
 **Wer sie bekommt.** Der Gewinner des Stufenunterschieds. „Konter-EA“ und „unbewaffnete Konter-EA“ führt der Verteidiger aus. „EA“, „unbewaffnete EA“ und „bewaffnete EA“ führt der Angreifer aus.
 
@@ -336,28 +336,28 @@ Eine Extra-Aktion ([[Glossar#EA|EA]]) ist eine Zusatzaktion, die der Stufenunter
 - Die Ausnahme ist die bewaffnete Extra-Aktion aus der Zelle fAT gegen nPA („pariert, meisterlicher Treffer“). Sie ist ein automatischer meisterlicher Erfolg ohne eigenen Wurf.
 - Das Talent Kampf mit zwei Waffen erlaubt ab Stufe 1, eine „unbewaffnete EA“ mit der Waffe in der linken Hand statt der bloßen Hand auszuführen ([[Kampf-Talente]]).
 
-Die Ausgänge „nur PA (2 AP) …“ und „… gg. PA (2 AP)“ sind keine Extra-Aktion.
+Die Ausgänge „nur PA (2 AK) …“ und „… gg. PA (2 AK)“ sind keine Extra-Aktion.
 
-#### Die reaktive Parade „nur PA (2 AP)“
+#### Die reaktive Parade „nur PA (2 AK)“
 
-Die Ausgänge „nur PA (2 AP) sonst Treffer“ und „unbewaffnete EA gg. PA (2 AP)“ gibt es nur in Tabelle B. Sie enthalten eine reaktive Parade aus den verbliebenen Aktionspunkten. Diese Parade ist keine Extra-Aktion. Sie kostet 2 AP aus dem regulären Budget.
+Die Ausgänge „nur PA (2 AK) sonst Treffer“ und „unbewaffnete EA gg. PA (2 AK)“ gibt es nur in Tabelle B. Sie enthalten eine reaktive Parade aus den verbliebenen AK. Diese Parade ist keine Extra-Aktion. Sie kostet 2 AK aus dem regulären Budget.
 
 **Ablauf.**
 
 1. Die Attacke gelingt.
-2. Der Verteidiger hat defensives Ausweichen angesagt (1 AP).
-3. Der Wurf des defensiven Ausweichens reicht nicht (Zelle „nur PA (2 AP) sonst Treffer“).
-4. Der Verteidiger würfelt aus seinen verbliebenen 2 AP eine reguläre Parade gegen genau dieselbe Attacke.
+2. Der Verteidiger hat defensives Ausweichen angesagt (1 AK).
+3. Der Wurf des defensiven Ausweichens reicht nicht (Zelle „nur PA (2 AK) sonst Treffer“).
+4. Der Verteidiger würfelt aus seinen verbliebenen 2 AK eine reguläre Parade gegen genau dieselbe Attacke.
 
 **Auswertung.**
 
 - Die reaktive Parade wird wie eine normale Parade in Tabelle A nachgeschlagen: Erfolgsstufe der Attacke gegen Erfolgsstufe der reaktiven Parade. Der Ausgang aus Tabelle A gilt vollständig. Das ist „pariert“ (kein Schaden), „Ini-Wechsel“ und auch eine Extra-Aktion oder Konter-EA, wenn die Erfolgsstufe der Parade sie gewährt.
 - Tabelle A kennt keinen Ausgang „nur PA“. Der Nachschlag endet also nach einem Schritt.
-- Reicht die reaktive Parade nicht (Ausgang aus Tabelle A ist „Treffer“) oder fehlen die 2 AP, ist es ein Treffer.
-- Die reaktive Parade ist die eine Parade der Kampfrunde und die letzte wählbare Aktion. Danach sind die Aktionspunkte bei 0. Eine daraus gewährte Extra-Aktion kostet trotzdem 0 AK.
-- Der Ausgang steht auch in der Spalte Patzer. Nach einem Patzer beim defensiven Ausweichen bleibt der Paradeversuch aus den verbliebenen Aktionspunkten.
+- Reicht die reaktive Parade nicht (Ausgang aus Tabelle A ist „Treffer“) oder fehlen die 2 AK, ist es ein Treffer.
+- Die reaktive Parade ist die eine Parade der Kampfrunde und die letzte wählbare Aktion. Danach sind die AK bei 0. Eine daraus gewährte Extra-Aktion kostet trotzdem 0 AK.
+- Der Ausgang steht auch in der Spalte Patzer. Nach einem Patzer beim defensiven Ausweichen bleibt der Paradeversuch aus den verbliebenen AK.
 
-**„unbewaffnete EA gg. PA (2 AP)“** gilt bei d = +1. Der Angreifer erhält eine unbewaffnete Extra-Aktion mit eigener Attackeprobe. Der Verteidiger darf gerade diese eine Extra-Aktion mit der reaktiven Parade abwehren. Das ist die einzige Ausnahme des Gitters zur Regel, dass eine erfolgreiche Extra-Aktion nicht pariert werden kann.
+**„unbewaffnete EA gg. PA (2 AK)“** gilt bei d = +1. Der Angreifer erhält eine unbewaffnete Extra-Aktion mit eigener Attackeprobe. Der Verteidiger darf gerade diese eine Extra-Aktion mit der reaktiven Parade abwehren. Das ist die einzige Ausnahme des Gitters zur Regel, dass eine erfolgreiche Extra-Aktion nicht pariert werden kann.
 
 #### „Flucht möglich“
 
@@ -365,17 +365,17 @@ Der Ausgang erscheint nur in Tabelle B und eröffnet die Fluchtgelegenheit. Er g
 
 ### Mehrere Angreifer in einer Kampfrunde
 
-Jeder Teilnehmer hat genau ein defensives Ausweichen je Kampfrunde. Es kostet 1 AP und wird gegen jede Attacke in Tabelle B abgelesen. Ein Wurf des Ausweichens wird nie in mehrere kleinere Würfe aufgeteilt.
+Jeder Teilnehmer hat genau ein defensives Ausweichen je Kampfrunde. Es kostet 1 AK und wird gegen jede Attacke in Tabelle B abgelesen. Ein Wurf des Ausweichens wird nie in mehrere kleinere Würfe aufgeteilt.
 
 | Verteidigung | Würfe je Kampfrunde | Kosten | Wirkt gegen |
 |---|---|---|---|
-| defensives Ausweichen | genau 1 | 1 AP | jeden Angriff der Kampfrunde |
-| offensives Ausweichen | genau 1 | 3 AP (ganze Kampfrunde) | nur einen Angriff |
-| Parade | höchstens 1 (letzte wählbare Aktion) | 2 AP | nur einen Angriff |
+| defensives Ausweichen | genau 1 | 1 AK | jeden Angriff der Kampfrunde |
+| offensives Ausweichen | genau 1 | 3 AK (ganze Kampfrunde) | nur einen Angriff |
+| Parade | höchstens 1 (letzte wählbare Aktion) | 2 AK | nur einen Angriff |
 
 - Beim defensiven Ausweichen ist die Erfolgsstufe des einen Wurfs die Spalte von Tabelle B für jeden Austausch der Kampfrunde. Ein guter Wurf schützt ungeteilt gegen alle Angreifer der Gruppe.
 - Das offensive Ausweichen wirkt wie die Parade: ein Wurf, aber nur gegen einen Angriff. Wer gegen mehrere Gegner offensiv ausweicht oder nur pariert, ist gegen alle außer einem ungedeckt. Welcher Angriff gedeckt ist, wählt der Verteidiger oder der Meister.
-- Die reaktive Parade aus den verbliebenen Aktionspunkten ist dieselbe einmalige Parade, nur reaktiv statt angesagt.
+- Die reaktive Parade aus den verbliebenen AK ist dieselbe einmalige Parade, nur reaktiv statt angesagt.
 - Ein Verteidiger kassiert einen weiteren Angriff, wenn er kein defensives Ausweichen angesagt hatte. Das gilt bei voller Offensive, bei offensivem Ausweichen oder Parade gegen mehrere Gegner, wenn er in seinem eigenen Austausch bereits geflohen ist und wenn er nur pariert hat und der Angriff nicht der eine parierte ist.
 
 ## Den Nahkampf verlassen: der Fluchtversuch
@@ -409,7 +409,7 @@ Athletik ist eine [[Eigenschaften|Eigenschaft]], Fliehen eine [[Sonderfertigkeit
 ### Mehrere Gegner
 
 - Die Austausche werden in der Reihenfolge der Gruppe abgehandelt, der Beste nach Nahkampf-Ini zuerst.
-- Wer in seinem Austausch flieht, hat danach keine Aktionspunkte mehr, um die Attacke eines anderen Gegners der Gruppe abzuwehren. Er kassiert sie.
+- Wer in seinem Austausch flieht, hat danach keine AK mehr, um die Attacke eines anderen Gegners der Gruppe abzuwehren. Er kassiert sie.
 - Wie viele Angriffe eine Verteidigung deckt, steht unter „Mehrere Angreifer in einer Kampfrunde“.
 
 ### Flucht statt Drehung
@@ -432,7 +432,7 @@ Bildung und Auflösung der Gruppe sind symmetrisch. Beide sind an die Bewegung i
 Stürmen drei oder mehr Teilnehmer innerhalb einer einzigen Kampfrunde in dieselbe neue Gruppe, obwohl die Rangfolge der Runde schon geworfen und die Ansage-Phase schon gelaufen ist, greift die Gruppe sofort in dieser Kampfrunde. Für einen einzelnen später eintretenden Teilnehmer gilt dagegen der spätere Beitritt.
 
 - Die Gruppe unterbricht die laufende Ausführungs-Phase der Runde und sortiert deren Rest neu.
-- Gebunden bleiben nur die Aktionskosten, die für die auslösende Bewegung schon ausgegeben wurden. Der Rest des Budgets von 3 Aktionspunkten dieser Kampfrunde wird frei neu verteilt.
+- Gebunden bleiben nur die Aktionskosten, die für die auslösende Bewegung schon ausgegeben wurden. Der Rest des Budgets von 3 AK dieser Kampfrunde wird frei neu verteilt.
 - Unbeteiligte Dritte, die in der Ausführungsreihenfolge zwischen den Mitgliedern der Gruppe standen und schon dran waren, werden übersprungen und nicht wiederholt. Die Umsortierung berührt nur den noch nicht ausgeführten Rest der Runde.
 
 ## Grenzfall: die Gruppe aus zwei Parteien
@@ -445,6 +445,6 @@ Die Ini-bessere Partei sagt an und führt aus, in aller Regel ein Angriff. Die I
 - **nAT gegen nPA (Tabelle A).** Die Zelle lautet „pariert, Bruchtest!“. Es gibt keinen Schaden, aber beide Waffen legen eine Klingenbruch-Probe ab.
 - **fAT gegen nPA (Tabelle A).** Die Zelle lautet „pariert, meisterlicher Treffer“. Die Attacke ist pariert, aber die bewaffnete Extra-Aktion des Angreifers landet automatisch als meisterlicher Treffer und geht in die Schadensberechnung.
 - **Patzer gegen gAW (defensives Ausweichen, Tabelle B).** Die Zelle lautet „Ini-Wechsel, Flucht möglich“. Die beiden tauschen ihre Plätze in der Rangfolge der Gruppe. Hatte der Ausweichende „will fliehen“ angesagt, eröffnet sich der Fluchtversuch.
-- **mAT gegen nAW (defensives Ausweichen, Tabelle B).** Die Zelle lautet „nur PA (2 AP) sonst Treffer“. Die Attacke gelingt, der Verteidiger hatte defensives Ausweichen angesagt (1 AP), und sein Wurf reicht nicht. Er würfelt aus seinen 2 AP eine reguläre Parade gegen dieselbe Attacke, nachgeschlagen in Tabelle A (mAT gegen die Erfolgsstufe der Parade). Der Ausgang aus Tabelle A gilt voll: „pariert“, gegebenenfalls mit Extra-Aktion oder Konter-EA, wenn die Erfolgsstufe der Parade sie gewährt. Reicht die Parade nicht oder fehlen die 2 AP, ist es ein Treffer.
+- **mAT gegen nAW (defensives Ausweichen, Tabelle B).** Die Zelle lautet „nur PA (2 AK) sonst Treffer“. Die Attacke gelingt, der Verteidiger hatte defensives Ausweichen angesagt (1 AK), und sein Wurf reicht nicht. Er würfelt aus seinen 2 AK eine reguläre Parade gegen dieselbe Attacke, nachgeschlagen in Tabelle A (mAT gegen die Erfolgsstufe der Parade). Der Ausgang aus Tabelle A gilt voll: „pariert“, gegebenenfalls mit Extra-Aktion oder Konter-EA, wenn die Erfolgsstufe der Parade sie gewährt. Reicht die Parade nicht oder fehlen die 2 AK, ist es ein Treffer.
 - **nAT gegen gAW (offensives Ausweichen, Tabelle C).** Die Zelle lautet „ausgewichen, Ini-Wechsel“. Es gibt keinen Schaden, und die Paarung tauscht ihre Plätze in der Rangfolge der Gruppe.
 

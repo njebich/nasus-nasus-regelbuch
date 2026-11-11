@@ -1,6 +1,6 @@
 ---
 title: Talente
-aliases: [Talente, Talent, Talentwert, TaW, Talentpunkte kaufen, Talentkauf, Talenterwerb, Stufenkette, Stufenketten, Talent-Stufenketten, Talentgruppe, Talentgruppen, Fähigkeit freischalten, Blutmagie, Mehrfachschuss]
+aliases: [Talente, Talent, Fertigkeitswert, FW, Talentpunkte kaufen, Talentkauf, Talenterwerb, Stufenkette, Stufenketten, Talent-Stufenketten, Talentgruppe, Talentgruppen, Fähigkeit freischalten, Blutmagie, Mehrfachschuss]
 status: entwurf
 ---
 
@@ -23,13 +23,13 @@ Ein Talent ist ein käuflicher Katalogeintrag mit einem festen Preis in Talentpu
 
 Der Katalog ordnet die Talente in sieben Gruppen: Abenteurer, Krieger, Magier, Schütze, KI-Adept, PSI-Magier und Geweihte. Die Gruppe ordnet die Talente im Katalog. Sie ist keine Kaufsperre und keine Eigenschaft des Helden. Die Gruppen tragen klassenartige Namen, aber der Held gehört keiner Gruppe und keiner Klasse an. Wer ein Talent nutzen darf, legt das Talent selbst fest.
 
-## Talentpunkte und Talentwert
+## Talentpunkte und Fertigkeitswert
 
-Talentpunkte ([[Glossar#TaP|TaP]]) sind die Währung, mit der der Held Talente bezahlt. Sie sind etwas anderes als Erfahrungspunkte und Steigerungspunkte. Wie viele TaP der Held hat, steht im Kapitel [[Erfahrung-und-Steigerung|Erfahrung und Steigerung]].
+Talentpunkte ([[Glossar#TaP|TaP]]) sind die Währung, mit der der Held Talente bezahlt. Sie sind etwas anderes als Abenteuerpunkte und Entwicklungspunkte. Wie viele TaP der Held hat, steht im Kapitel [[Erfahrung-und-Steigerung|Erfahrung und Steigerung]].
 
-Der Talentwert (TaW) ist der Wert, mit dem der Held eine Fertigkeit beherrscht, zum Beispiel eine KI-Fähigkeit oder einen Zauber. Er misst die Fertigkeit. Talentpunkte bezahlen Talente, der Talentwert gehört zur Fertigkeit. Wie der Held den Talentwert einer Fertigkeit kauft, steht im Kapitel der jeweiligen Gruppe, zum Beispiel bei [[KI]], [[Psi]], [[Spruchmagie]], [[Nahkampf]] und [[Fernkampf]].
+Der Fertigkeitswert (FW) ist der Wert, mit dem der Held eine Fertigkeit beherrscht, zum Beispiel eine KI-Fähigkeit oder einen Zauber. Er misst die Fertigkeit. Talentpunkte bezahlen Talente, der Fertigkeitswert gehört zur Fertigkeit. Wie der Held den Fertigkeitswert einer Fertigkeit kauft, steht im Kapitel der jeweiligen Gruppe, zum Beispiel bei [[KI]], [[Psi]], [[Spruchmagie]], [[Nahkampf]] und [[Fernkampf]].
 
-Ein zeitweiliger Bonus auf einen Talentwert, wie ihn die Meisterlichen Fähigkeiten geben, ist kein Talentpunkt. Er ändert die TaP des Helden nicht (siehe [[Gaben-und-Schwaechen|Gaben und Schwächen]]).
+Ein zeitweiliger Bonus auf einen Fertigkeitswert, wie ihn die Meisterlichen Fähigkeiten geben, ist kein Talentpunkt. Er ändert die TaP des Helden nicht (siehe [[Gaben-und-Schwaechen|Gaben und Schwächen]]).
 
 ## Wer ein Talent kaufen darf
 

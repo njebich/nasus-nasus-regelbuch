@@ -24,7 +24,7 @@ Von den Wundern sind 13 allgemein. Sie gelten für jede gewählte Religion und S
 - Wunder: das Talent Wunder.
 - Ritual: das Talent Ritual.
 
-Diese drei Talente zählen zu den Wissens-, Handwerks- und Kulturfertigkeiten ([[Glossar#WHK|WHK]]), aber nicht zu ihrem normalen Katalog. Der Held kauft sie nur als Geweihten-Talente ([[Religion]]). Ist der Talentwert ([[Glossar#TaW|TaW]]) des Gebets-Talents kleiner als 1, gibt es für dieses Wunder keine Probe, gleich wie hoch das Karma ist. Hat der Held keines der drei Talente, gibt es für kein Wunder eine Probe.
+Diese drei Talente zählen zu den Wissens-, Handwerks- und Kulturfertigkeiten ([[Glossar#WHK|WHK]]), aber nicht zu ihrem normalen Katalog. Der Held kauft sie nur als Geweihten-Talente ([[Religion]]). Ist der Fertigkeitswert ([[Glossar#FW|FW]]) des Gebets-Talents kleiner als 1, gibt es für dieses Wunder keine Probe, gleich wie hoch das Karma ist. Hat der Held keines der drei Talente, gibt es für kein Wunder eine Probe.
 
 **Karma-Schwelle.** Jedes Wunder hat ein Mindest-Karma (MinKarma). Liegt das Karma des Helden darunter, ist das Wunder gesperrt ([[Attribute]]). Das gilt unabhängig vom Talent: Der Held kann das Gebets-Talent gelernt haben und trotzdem unter dem Mindest-Karma eines bestimmten Wunders liegen.
 
@@ -33,14 +33,14 @@ Diese drei Talente zählen zu den Wissens-, Handwerks- und Kulturfertigkeiten ([
 ## Die Wunder-Probe
 
 ```text
-Probe = Ausstrahlungsbonus + TaW des Gebets-Talents − Malus
+Probe = Ausstrahlungsbonus + FW des Gebets-Talents − Malus
 ```
 
 - **Ausstrahlungsbonus** ist der Eigenschaftsbonus der Ausstrahlung ([[Eigenschaften]]). Er ist für alle Wunder dieselbe Eigenschaft. Wunder haben keine eigene Eigenschaft.
-- **TaW des Gebets-Talents** ist der Talentwert des Talents, das das Gebet des Wunders bestimmt.
+- **FW des Gebets-Talents** ist der Fertigkeitswert des Talents, das das Gebet des Wunders bestimmt.
 - **Malus** ist ein fester Erschwerniswert des einzelnen Wunders. Es gibt weder Stufen noch Grade.
 
-Die Formel enthält keine Division. Die Probe kann negativ werden, wenn der Malus den Ausstrahlungsbonus plus TaW übersteigt. Dafür gilt die allgemeine Regel für verringerte Probenwerte ([[Wuerfeln-und-Proben]]).
+Die Formel enthält keine Division. Die Probe kann negativ werden, wenn der Malus den Ausstrahlungsbonus plus FW übersteigt. Dafür gilt die allgemeine Regel für verringerte Probenwerte ([[Wuerfeln-und-Proben]]).
 
 ### Wurf und Erfolg
 
@@ -107,11 +107,11 @@ Für Wunder gibt es keinen Schaden bei zu wenig Karmapool. Stattdessen gilt die 
 
 ## Beispiele
 
-**Probe.** Das Gebet ist Stoß, der TaW des Stoßgebets ist 8, der Ausstrahlungsbonus 3 und der Malus 4. Die Probe ist 3 + 8 − 4 = 7.
+**Probe.** Das Gebet ist Stoß, der FW des Stoßgebets ist 8, der Ausstrahlungsbonus 3 und der Malus 4. Die Probe ist 3 + 8 − 4 = 7.
 
 **Karmapool.** Der Held hat Geweihtengrad 4 (Etablierter) und Karma 6. Das KPP-Maximum ist 175 + 6 × 10 = 235.
 
-**Gesperrt.** Ein Held mit Karma 2 betrachtet ein Wunder mit MinKarma 3. Das Wunder ist gesperrt, gleich wie hoch sein TaW ist.
+**Gesperrt.** Ein Held mit Karma 2 betrachtet ein Wunder mit MinKarma 3. Das Wunder ist gesperrt, gleich wie hoch sein FW ist.
 
 **Regeneration.** Der Held hat Geweihtengrad 3 und Karma 5. Der Karmapool steigt pro Tag um 3 / 2 + 5 / 2, aufgerundet je Division, also 2 + 3 = 5, höchstens bis zum KPP-Maximum.
 
@@ -122,7 +122,7 @@ Für Wunder gibt es keinen Schaden bei zu wenig Karmapool. Stattdessen gilt die 
 - Das Wunder patzt, die Pechsprobe ergibt 0. Pech, mal 2: Der Karmapool sinkt um 30.
 - Das Wunder patzt, die Pechsprobe ergibt 21. Glück, mal 0,5: Der Karmapool sinkt um 8 (15 × 0,5 = 7,5, aufgerundet).
 
-**Karmapool deckt die Kosten nicht.** Der Held hat einen aktuellen Karmapool von 10 und betrachtet ein Wunder mit KPP-Wert 15. Die Kosten sind nicht gedeckt, das Wunder ist nicht versuchbar, gleich wie hoch TaW und MinKarma sind.
+**Karmapool deckt die Kosten nicht.** Der Held hat einen aktuellen Karmapool von 10 und betrachtet ein Wunder mit KPP-Wert 15. Die Kosten sind nicht gedeckt, das Wunder ist nicht versuchbar, gleich wie hoch FW und MinKarma sind.
 
 **Patzer über den Karmapool hinaus.** Der Held hat einen aktuellen Karmapool von 15. Das reicht für die Kosten eines Wunders mit KPP-Wert 15. Der Wurf patzt, die Pechsprobe ergibt Pech, fällig sind 30. Der Karmapool sinkt auf 0, ohne zusätzlichen Schaden.
 

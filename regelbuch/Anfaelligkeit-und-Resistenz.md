@@ -8,7 +8,7 @@ status: entwurf
 
 Manche Helden erleiden von einer Quelle mehr Schaden als andere, manche weniger, manche gar keinen. Die Anfälligkeit erhöht den Schaden aus einer Quelle. Resistenz, Immunität und Unempfindlichkeit senken oder verhindern ihn. Einige Resistenzen wirken nicht auf Schaden, sondern auf Heilung und Zauberwirkung. Die Astrale Abschottung bündelt acht Resistenzen mit einem Magie-Wert von 0.
 
-Alle Einträge sind [[Vor-und-Nachteile|Vor- und Nachteile]]. Dort steht, wie Kauf, Verkauf und Entfernung allgemein funktionieren. Dieses Kapitel sagt, was die Einträge bewirken. „Steigerungspunkte“ und „Schadenspunkte“ stehen hier ausgeschrieben, weil beide „SP“ abgekürzt werden.
+Alle Einträge sind [[Vor-und-Nachteile|Vor- und Nachteile]]. Dort steht, wie Kauf, Verkauf und Entfernung allgemein funktionieren. Dieses Kapitel sagt, was die Einträge bewirken. „Entwicklungspunkte“ und „Schadenspunkte“ stehen hier ausgeschrieben, weil beide „EP“ abgekürzt werden.
 
 Die Effekte auf Schaden greifen spät, nach jeder Rüstungs- und Schutzschicht. Sie ändern nie den gewürfelten Rohschaden.
 
@@ -36,10 +36,10 @@ Daraus folgt:
 
 ### Anfälligkeit gegen eine Schadensquelle
 
-Es gibt sieben Gruppen: Beherrschung, Erdbeschwörung, Feuerbeschwörung, Luftbeschwörung, Magiebeschwörung, Wasserbeschwörung und profane Waffen. Jede Gruppe hat beide Stufen. Die Anfälligkeit ist ein Nachteil und bringt Steigerungspunkte ein:
+Es gibt sieben Gruppen: Beherrschung, Erdbeschwörung, Feuerbeschwörung, Luftbeschwörung, Magiebeschwörung, Wasserbeschwörung und profane Waffen. Jede Gruppe hat beide Stufen. Die Anfälligkeit ist ein Nachteil und bringt Entwicklungspunkte ein:
 
-- **Stufe 1:** Die Trefferpunkte aus dieser Quelle werden mit 1,5 malgenommen. Der Nachteil bringt 200 Steigerungspunkte.
-- **Stufe 2:** Die Trefferpunkte aus dieser Quelle werden mit 2 malgenommen. Der Nachteil bringt 500 Steigerungspunkte.
+- **Stufe 1:** Die Trefferpunkte aus dieser Quelle werden mit 1,5 malgenommen. Der Nachteil bringt 200 Entwicklungspunkte.
+- **Stufe 2:** Die Trefferpunkte aus dieser Quelle werden mit 2 malgenommen. Der Nachteil bringt 500 Entwicklungspunkte.
 
 Je Gruppe gilt höchstens eine Stufe. Verschiedene Gruppen sind kombinierbar, zum Beispiel Feuerbeschwörung Stufe 2 zusammen mit Erdbeschwörung Stufe 1, solange sie nicht dieselbe Schadensinstanz treffen (siehe „Mehrere Faktoren“ unten).
 
@@ -49,15 +49,15 @@ Jede Anfälligkeit ist ein dauerhaftes Merkmal. Der Held kann sie nur bei der Er
 
 ### Anfälligkeit gegen Alchemie
 
-Diese Anfälligkeit steht ebenfalls unter den Vor- und Nachteilen, ist aber kein Schadensfaktor. Sie erschwert jede Alchemieresistenz-Probe des Helden um einen festen Betrag ([[Alchemika]]). Es gibt Stufen von 1 bis 7. Der Nachteil bringt Steigerungspunkte ein, keine Erfahrungspunkte:
+Diese Anfälligkeit steht ebenfalls unter den Vor- und Nachteilen, ist aber kein Schadensfaktor. Sie erschwert jede Alchemieresistenz-Probe des Helden um einen festen Betrag ([[Alchemika]]). Es gibt Stufen von 1 bis 7. Der Nachteil bringt Entwicklungspunkte ein, keine Abenteuerpunkte:
 
 - **Stufe 1** (versteckt): keine Wirkung, keine Gutschrift. Die Stufe zählt nur mit.
-- **Stufe 2, Geringe Anfälligkeit:** Proben um 5 erschwert, 20 Steigerungspunkte.
-- **Stufe 3, Leichte Anfälligkeit:** um 10 erschwert, 40 Steigerungspunkte.
-- **Stufe 4, Mittlere Anfälligkeit:** um 15 erschwert, 60 Steigerungspunkte.
-- **Stufe 5, Schwere Anfälligkeit:** um 20 erschwert, 80 Steigerungspunkte.
-- **Stufe 6, Sehr schwere Anfälligkeit:** um 25 erschwert, 100 Steigerungspunkte.
-- **Stufe 7, Extreme Anfälligkeit:** um 30 erschwert, 120 Steigerungspunkte.
+- **Stufe 2, Geringe Anfälligkeit:** Proben um 5 erschwert, 20 Entwicklungspunkte.
+- **Stufe 3, Leichte Anfälligkeit:** um 10 erschwert, 40 Entwicklungspunkte.
+- **Stufe 4, Mittlere Anfälligkeit:** um 15 erschwert, 60 Entwicklungspunkte.
+- **Stufe 5, Schwere Anfälligkeit:** um 20 erschwert, 80 Entwicklungspunkte.
+- **Stufe 6, Sehr schwere Anfälligkeit:** um 25 erschwert, 100 Entwicklungspunkte.
+- **Stufe 7, Extreme Anfälligkeit:** um 30 erschwert, 120 Entwicklungspunkte.
 
 Der Held hat höchstens eine Stufe. Der Eintrag lautet nach diesem Muster: „Dieser Charakter ist [Schweregrad] anfällig für Alchemika. Alle Alchemieresistenz-Proben werden um [x] erschwert.“ Jede Stufe sperrt zusätzlich die Steigerung der Sonderfertigkeit Alchemieresistenz: „Die Sonderfertigkeit ‚Alchemieresistenz‘ kann nicht gesteigert werden.“ ([[Sonderfertigkeiten]]) Auch diese Anfälligkeit ist dauerhaft und nur bei der Erschaffung wählbar.
 
@@ -65,23 +65,23 @@ Der Held hat höchstens eine Stufe. Der Eintrag lautet nach diesem Muster: „Di
 
 ### Resistenz gegen ein Element
 
-Es gibt die Resistenz gegen Erde, Feuer, Luft, Wasser und Magie. Jede kostet 300 Steigerungspunkte. Der Held erleidet durch das Element nur die Hälfte der Trefferpunkte. Der Faktor wirkt in Schritt 4.
+Es gibt die Resistenz gegen Erde, Feuer, Luft, Wasser und Magie. Jede kostet 300 Entwicklungspunkte. Der Held erleidet durch das Element nur die Hälfte der Trefferpunkte. Der Faktor wirkt in Schritt 4.
 
 Die Resistenz gilt unabhängig von der Quelle. Die Resistenz gegen Feuer halbiert die Trefferpunkte aus Feuermagie genauso wie die aus natürlichem Feuer, etwa durch eine Fackel, Lava oder einen Brand.
 
 ### Resistenz gegen Beherrschung
 
-Die Resistenz gegen Beherrschung kostet 300 Steigerungspunkte. Die Erschwerung der eigenen Gegenproben des Helden gegen Beherrschungswirkungen ([[Spruchmagie]]) wird halbiert. Ein Schadensfaktor ist sie nicht.
+Die Resistenz gegen Beherrschung kostet 300 Entwicklungspunkte. Die Erschwerung der eigenen Gegenproben des Helden gegen Beherrschungswirkungen ([[Spruchmagie]]) wird halbiert. Ein Schadensfaktor ist sie nicht.
 
 ### Kauf der Element-Resistenzen und der Resistenz gegen Beherrschung
 
 - Bei der Erschaffung wählt der Held sie ohne Voraussetzung.
-- Nach der Erschaffung braucht er mindestens 500 Steigerungspunkte, die er in die jeweilige Schule investiert hat: bei einer Element-Resistenz in die zugehörige Beschwörungs-Schule, bei der Resistenz gegen Beherrschung in die Schule Beherrschung.
+- Nach der Erschaffung braucht er mindestens 500 Entwicklungspunkte, die er in die jeweilige Schule investiert hat: bei einer Element-Resistenz in die zugehörige Beschwörungs-Schule, bei der Resistenz gegen Beherrschung in die Schule Beherrschung.
 - Diese Resistenzen sind frei kaufbar und frei verkaufbar, 1:1 und ohne Freigabe des Meisters.
 
 ### Meisterliche Resistenz gegen alle Magie
 
-Dies ist ein Vorteil, den nur der Meister vergibt. Er kostet 300 Steigerungspunkte. Er bündelt ausschließlich die vorteilhaften Resistenzen:
+Dies ist ein Vorteil, den nur der Meister vergibt. Er kostet 300 Entwicklungspunkte. Er bündelt ausschließlich die vorteilhaften Resistenzen:
 
 - die fünf Element-Resistenzen, jede unabhängig von der Quelle;
 - die Halbierung der Gegenproben gegen Beherrschung.
@@ -90,7 +90,7 @@ Er enthält keinen Nachteil, also weder die Resistenz gegen magische Heilung noc
 
 ### Resistenz gegen magische Heilung
 
-Das ist ein Nachteil und bringt 300 Steigerungspunkte ein. Der Spieler kann ihn nur bei der Erschaffung wählen. Verkauf und Entfernung brauchen die Freigabe des Meisters.
+Das ist ein Nachteil und bringt 300 Entwicklungspunkte ein. Der Spieler kann ihn nur bei der Erschaffung wählen. Verkauf und Entfernung brauchen die Freigabe des Meisters.
 
 Magische Heilung stellt beim Helden nur die halbe vorgesehene Menge wieder her. Das gilt auch für magische Heiltränke, für die Heilung durch [[KI]] und für magische Regeneration. Es gilt für die Lebensenergie und für die Gesundheit, auch wenn der Wirkungstext nur „Lebensenergie“ nennt. Göttliche und unmagische Heilung und Regeneration ([[Wunder]]) bleiben unberührt.
 
@@ -101,7 +101,7 @@ Zwei Gruppen von Zaubern sind besonders:
 
 ### Resistenz gegen Verzauberung
 
-Das ist ein Nachteil und bringt 100 Steigerungspunkte ein. Der Spieler kann ihn nur bei der Erschaffung wählen. Verkauf und Entfernung brauchen die Freigabe des Meisters.
+Das ist ein Nachteil und bringt 100 Entwicklungspunkte ein. Der Spieler kann ihn nur bei der Erschaffung wählen. Verkauf und Entfernung brauchen die Freigabe des Meisters.
 
 Die Wirkung und die Wirkungsdauer jeder Verzauberung, die den Helden als Ziel hat, werden halbiert, schädliche wie hilfreiche. Zwei Ausnahmen gelten:
 
@@ -116,7 +116,7 @@ Die Wirkung und die Wirkungsdauer jeder Verzauberung, die den Helden als Ziel ha
 
 ## Immunität gegen ein Element
 
-Es gibt die Immunität gegen Erde, Feuer, Luft, Magie und Wasser. Jede kostet 0 Steigerungspunkte.
+Es gibt die Immunität gegen Erde, Feuer, Luft, Magie und Wasser. Jede kostet 0 Entwicklungspunkte.
 
 - Sie ist nur für Elementare gedacht und im Spielermodus nie wählbar. Nur der Meister vergibt sie.
 - Bei der Erschaffung eines Elementars im Meistermodus ist die Immunität gegen das eigene Element Pflicht. Ein Elementar erhält ausschließlich die Immunität, die zu seinem eigenen Element passt. Die übrigen vier kann er nicht wählen.
@@ -125,13 +125,13 @@ Es gibt die Immunität gegen Erde, Feuer, Luft, Magie und Wasser. Jede kostet 0 
 
 ## Unempfindlichkeit gegen profane Waffen
 
-Die Unempfindlichkeit gegen profane Waffen kostet 1000 Steigerungspunkte und ist ein dauerhaftes Merkmal, das der Held nur bei der Erschaffung wählen kann. Sie halbiert die Trefferpunkte durch profane Waffen in Schritt 4, auf derselben Stufe wie der Faktor der Anfälligkeit und nicht auf den Rohschaden vor der Minderung.
+Die Unempfindlichkeit gegen profane Waffen kostet 1000 Entwicklungspunkte und ist ein dauerhaftes Merkmal, das der Held nur bei der Erschaffung wählen kann. Sie halbiert die Trefferpunkte durch profane Waffen in Schritt 4, auf derselben Stufe wie der Faktor der Anfälligkeit und nicht auf den Rohschaden vor der Minderung.
 
 Ihr Spiegel ist der Nachteil Anfälligkeit gegen profane Waffen, Stufe 2. Er multipliziert die Trefferpunkte mit 2, genau umgekehrt und auf derselben Stufe des Schadensablaufs.
 
 ## Astrale Abschottung
 
-Die Astrale Abschottung kostet fest 200 Steigerungspunkte, unabhängig von den Bestandteilen. Der Held kann sie nur bei der Erschaffung wählen und braucht dafür Magie 0 ([[Attribute]]). Sie ist ein dauerhaftes Merkmal.
+Die Astrale Abschottung kostet fest 200 Entwicklungspunkte, unabhängig von den Bestandteilen. Der Held kann sie nur bei der Erschaffung wählen und braucht dafür Magie 0 ([[Attribute]]). Sie ist ein dauerhaftes Merkmal.
 
 Sie ist ein Bündel aus neun Bestandteilen, die wirken, als hätte der Held sie einzeln erworben:
 

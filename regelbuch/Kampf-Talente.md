@@ -77,7 +77,7 @@ Der Held verdreifacht den Schaden einer angesagten Nahkampfattacke. Das Talent h
 **Wirkung.** Die Schadenspunkte der Attacke werden mit 3 malgenommen. Sie werden multiplikativ mit den Faktoren aus dem Bonusmenü verrechnet ([[Wuerfeln-und-Proben]]).
 
 **Variante Stehen.**
-- In der Kampfrunde davor hat der Held keine Aktionskosten ausgegeben. Auch eine Parade oder ein Ausweichen kostet Aktionspunkte und bricht das Stehen.
+- In der Kampfrunde davor hat der Held keine Aktionskosten ausgegeben. Auch eine Parade oder ein Ausweichen kostet AK und bricht das Stehen.
 - Der Schlag gilt nur in der folgenden Kampfrunde.
 
 **Variante Ansturm.**
@@ -111,7 +111,7 @@ Eine Waffe außerhalb eines festen Ausrüstungsplatzes, etwa ein Messer in einer
 
 Zwei Waffen gleichzeitig für 0 Aktionskosten ziehen kann nur, wer das Schnellziehen beider Waffenarten hat und dazu den Kampf mit zwei Waffen (siehe unten) oder, bei Pistolen, Beidhändig Pistolenschießen.
 
-Beispiel: Das Ziehen der Waffe kostet 2 Aktionskosten, ein Angriff 3, das Budget beträgt 3 Aktionspunkte ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]). Ohne das Talent sind Ziehen und Angriff zusammen 2 + 3 = 5 Aktionskosten und passen nicht in dieselbe Kampfrunde. Mit dem Schnellziehen der Waffenart sind es 0 + 3 = 3, und beides passt.
+Beispiel: Das Ziehen der Waffe kostet 2 Aktionskosten, ein Angriff 3, das Budget beträgt 3 AK ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]). Ohne das Talent sind Ziehen und Angriff zusammen 2 + 3 = 5 Aktionskosten und passen nicht in dieselbe Kampfrunde. Mit dem Schnellziehen der Waffenart sind es 0 + 3 = 3, und beides passt.
 
 ### Kampf mit zwei Waffen (Stufe 1 bis 4: 28, 8, 12 und 16 TaP)
 
@@ -220,8 +220,8 @@ Beispiel: Der Held besitzt Beidhändig Pistolenschießen, aber nicht Linkshändi
 
 Der Schütze schießt mehrere Pfeile mit einer Probe und nimmt dafür einen geteilten Probenwert.
 
-- **Doppelschuss** (Stufe 1, 40 TaP). Schaltet für jede Bogenart die Fertigkeit „Doppelschuss“ frei. Jeder Punkt kostet 18 Steigerungspunkte. Der Probenwert ist (Geschicklichkeit + Sinnesschärfe + Fertigkeit + Spezialisierung + Doppelschuss) : 4. Bei einem Doppelschuss wird der Probenwert halbiert.
-- **Tripelschuss** (Stufe 2, 20 TaP). Schaltet die Fertigkeit „Tripelschuss“ frei. Jeder Punkt kostet 18 Steigerungspunkte. Der Probenwert ist (Geschicklichkeit + Sinnesschärfe + Fertigkeit + Spezialisierung + Doppelschuss + Tripelschuss) : 4. Bei einem Tripelschuss wird der Probenwert gedrittelt.
+- **Doppelschuss** (Stufe 1, 40 TaP). Schaltet für jede Bogenart die Fertigkeit „Doppelschuss“ frei. Jeder Punkt kostet 18 Entwicklungspunkte. Der Probenwert ist (Geschicklichkeit + Sinnesschärfe + Fertigkeit + Spezialisierung + Doppelschuss) : 4. Bei einem Doppelschuss wird der Probenwert halbiert.
+- **Tripelschuss** (Stufe 2, 20 TaP). Schaltet die Fertigkeit „Tripelschuss“ frei. Jeder Punkt kostet 18 Entwicklungspunkte. Der Probenwert ist (Geschicklichkeit + Sinnesschärfe + Fertigkeit + Spezialisierung + Doppelschuss + Tripelschuss) : 4. Bei einem Tripelschuss wird der Probenwert gedrittelt.
 
 ### Point-Blank Shot (10 TaP)
 

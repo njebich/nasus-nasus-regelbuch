@@ -10,7 +10,7 @@ Der Held kann besondere Fähigkeiten haben, etwa fliegen, schweben oder sich sch
 
 ## Überblick
 
-| Eintrag | Art | SP | Wann kaufbar |
+| Eintrag | Art | EP | Wann kaufbar |
 |---|---|---:|---|
 | Fliegen | Vorteil | 2500 | ab Kreis 7 |
 | Schweben | Vorteil | 1000 | ab Kreis 6 |
@@ -30,7 +30,7 @@ Der Held kann besondere Fähigkeiten haben, etwa fliegen, schweben oder sich sch
 | Migräne (5 Stufen) | Nachteil | −25 bis −150 | nur bei der Erschaffung |
 | Kind der Fröhlichkeit | Vorteil | 0 | jeder Spielercharakter hat es |
 
-Bei einem Nachteil bekommt der Held die genannten SP gutgeschrieben, bei einem Vorteil zahlt er sie.
+Bei einem Nachteil bekommt der Held die genannten EP gutgeschrieben, bei einem Vorteil zahlt er sie.
 
 ## Was bleibt und was sich wieder verkaufen lässt
 
@@ -90,23 +90,23 @@ Natürliche Regeneration IV bis VII heilt 7, 9, 11 und 13 LE pro KR, ebenfalls n
 
 Siehe auch [[Gesundheit-und-Mana-Regeneration]].
 
-## Mana in Talentwerte umwandeln
+## Mana in Fertigkeitswerte umwandeln
 
 ### Meisterliche Grundfertigkeit
 
 Es gibt 20 Einträge, einen je Grundfertigkeit. Jeder gilt nur für seine Grundfertigkeit und wird einzeln gekauft.
 
-Der Held kann höchstens so viel Mana einsetzen, wie seine Macht beträgt. Die Wirkung dauert Macht × 2 Minuten. Das Mana wird in Talentwert (TaW) der gewählten Grundfertigkeit umgewandelt, 1 TaW je 4 Mana.
+Der Held kann höchstens so viel Mana einsetzen, wie seine Macht beträgt. Die Wirkung dauert Macht × 2 Minuten. Das Mana wird in Fertigkeitswert (FW) der gewählten Grundfertigkeit umgewandelt, 1 FW je 4 Mana.
 
 ### Meisterliche WHK
 
 Es gibt einen Eintrag. Der Spieler wählt bei jedem Kauf, für welche spezialisierbare WHK er gilt. Dieselbe WHK darf er nicht doppelt wählen.
 
-Auch hier kann er höchstens so viel Mana einsetzen, wie seine Macht beträgt. Die Wirkung dauert Macht Stunden. Das Mana wird in Talentwert (TaW) der gewählten WHK umgewandelt, 1 TaW je 2 Mana.
+Auch hier kann er höchstens so viel Mana einsetzen, wie seine Macht beträgt. Die Wirkung dauert Macht Stunden. Das Mana wird in Fertigkeitswert (FW) der gewählten WHK umgewandelt, 1 FW je 2 Mana.
 
 ### Der Bonus ist kein Talentpunkt
 
-Der Bonus aus beiden Fähigkeiten ist ein zeitweiliger Talentwert, keine Talentpunkte. Er erhöht weder die verfügbaren noch die gewährten TaP des Helden und kann keine Talentkäufe bezahlen.
+Der Bonus aus beiden Fähigkeiten ist ein zeitweiliger Fertigkeitswert, keine Talentpunkte. Er erhöht weder die verfügbaren noch die gewährten TaP des Helden und kann keine Talentkäufe bezahlen.
 
 ## Soziale Gaben
 
@@ -114,7 +114,7 @@ Gesellschaftlich ist jede Grundfertigkeits-, WHK- oder Sprache-und-Kultur-Probe,
 
 ### Sprachtalent
 
-Der Held versteht alle Sprachen innerhalb kürzester Zeit. Er darf mit vorhandenen SP während des Abenteuers seine Sprachprovenienz auf gute Kenntnis steigern. Sprachprovenienz meint ausschließlich seine Herkunftssprachen, nicht jede Sprache, die er kennt.
+Der Held versteht alle Sprachen innerhalb kürzester Zeit. Er darf mit vorhandenen EP während des Abenteuers seine Sprachprovenienz auf gute Kenntnis steigern. Sprachprovenienz meint ausschließlich seine Herkunftssprachen, nicht jede Sprache, die er kennt.
 
 Bei allen gesellschaftlichen Proben bekommt er einen Bonus von 2.
 
@@ -138,13 +138,13 @@ Der Held hat eine Erschwernis von 1 auf die Ausweichen-Probe ([[Glossar#AW|AW]])
 
 - Der Held fliegt mit 8 m/s. Das liegt zwischen seiner Geh- und seiner Laufgeschwindigkeit. Erschöpfung, Konzentration und Fernkampfmodifikatoren gelten wie beim Laufen. Fliegt er schneller als seine Laufgeschwindigkeit, gelten sie wie beim Sprinten.
 - Der Held hat Natürliche Regeneration II (Kreis 5, Stufe I vorausgesetzt) und heilt 3 LE pro KR, zuerst Gesundheit, dann die Trefferzone mit den niedrigsten LE. Kauft er später Stufe III, heilt er ab dann nur noch 5 LE pro KR.
-- Der Held hat Meisterliche Grundfertigkeit für Schleichen (Kreis 3). Er setzt bis zu Macht Mana für Macht × 2 Minuten ein. Der Bonus auf Schleichen ist das eingesetzte Mana geteilt durch 4. Bei 6 Mana sind das 2 TaW. Die TaP des Helden ändern sich nicht.
+- Der Held hat Meisterliche Grundfertigkeit für Schleichen (Kreis 3). Er setzt bis zu Macht Mana für Macht × 2 Minuten ein. Der Bonus auf Schleichen ist das eingesetzte Mana geteilt durch 4. Bei 6 Mana sind das 2 FW. Die TaP des Helden ändern sich nicht.
 - Der Held hat Weltgewandt (Intelligenz 15, eine Sprache auf Muttersprache-Niveau). Er bekommt +5 auf gesellschaftliche Grundfertigkeits-, WHK- und Sprache-und-Kultur-Proben auf Intelligenz oder Ausstrahlung. Ausstrahlung 15 braucht er dafür nicht.
-- Der Spieler wählt bei der Erschaffung Fettleibig. Der Held bekommt 100 SP gutgeschrieben. Den Nachteil wird er nach der Erschaffung nicht mehr los.
+- Der Spieler wählt bei der Erschaffung Fettleibig. Der Held bekommt 100 EP gutgeschrieben. Den Nachteil wird er nach der Erschaffung nicht mehr los.
 
 ## Schlechte Eigenschaft
 
-Der Held kann bei der Erschaffung für eine seiner zehn Eigenschaften den Nachteil Schlechte Eigenschaft wählen. Es gibt ihn für Ausstrahlung, Intelligenz, Mut, Sinnesschärfe, Willenskraft, Athletik, Geschicklichkeit, Konstitution, Schnelligkeit und Stärke. Alle zehn kosten gleich und wirken gleich. Sie unterscheiden sich nur in der betroffenen Eigenschaft. Der Held bekommt 200 SP gutgeschrieben. Der Meister muss die Wahl nicht freigeben.
+Der Held kann bei der Erschaffung für eine seiner zehn Eigenschaften den Nachteil Schlechte Eigenschaft wählen. Es gibt ihn für Ausstrahlung, Intelligenz, Mut, Sinnesschärfe, Willenskraft, Athletik, Geschicklichkeit, Konstitution, Schnelligkeit und Stärke. Alle zehn kosten gleich und wirken gleich. Sie unterscheiden sich nur in der betroffenen Eigenschaft. Der Held bekommt 200 EP gutgeschrieben. Der Meister muss die Wahl nicht freigeben.
 
 Der Nachteil ersetzt das Maximum, das die Tabelle seines Volkes für diese Eigenschaft vorgibt (siehe [[Spezies]] und [[Eigenschaften]]), durch einen festen Deckel. Der Deckel hängt weder von Spezies noch von Rolle ab.
 
@@ -157,7 +157,7 @@ Der Mindestwert, den das Volk für die Eigenschaft vorgibt, bleibt wirksam, wird
 
 - **Mindestwert unter dem Deckel.** Der Held wählt den Wert frei zwischen Mindestwert und Deckel. Ein Goblin hat zum Beispiel Mut-Mindestwert 5 und Deckel 7.
 - **Mindestwert gleich dem Deckel oder höher.** Der Deckel ist dann der verbindliche Zielwert. Der Held muss auf genau 7 steigern, der höhere Mindestwert des Volkes ist unerreichbar.
-- **Der Held hatte den Wert schon höher gekauft** (zum Beispiel wegen der Kaufreihenfolge bei der Erschaffung). Der Wert fällt sofort auf den Deckel zurück. Die dafür ausgegebenen SP bekommt der Held gutgeschrieben. SP verfallen dabei nicht.
+- **Der Held hatte den Wert schon höher gekauft** (zum Beispiel wegen der Kaufreihenfolge bei der Erschaffung). Der Wert fällt sofort auf den Deckel zurück. Die dafür ausgegebenen EP bekommt der Held gutgeschrieben. EP verfallen dabei nicht.
 
 Das gilt für Spielercharaktere und für nicht-untote NSC.
 
@@ -173,24 +173,24 @@ Das Talent, das das Maximum dieser Eigenschaft anhebt (6 TaP, ab Kreis 3, siehe 
 
 ### Verkaufen
 
-Der Held kann die Schlechte Eigenschaft erst verkaufen, wenn die betroffene Eigenschaft den Wert 9 erreicht hat. Das setzt Kreis 3 voraus, weil der Deckel davor bei 7 liegt. Er zahlt die 200 SP zurück. Der Nachteil entfällt, und für die Eigenschaft gilt wieder die Tabelle seines Volkes. Das reguläre Maximum ab Kreis 3 liegt bei jedem Volk bei mindestens 31, der geforderte Wert 9 wird dabei nie unterschritten. Das Talent zum Anheben des Maximums ist danach für diese Eigenschaft wieder kaufbar.
+Der Held kann die Schlechte Eigenschaft erst verkaufen, wenn die betroffene Eigenschaft den Wert 9 erreicht hat. Das setzt Kreis 3 voraus, weil der Deckel davor bei 7 liegt. Er zahlt die 200 EP zurück. Der Nachteil entfällt, und für die Eigenschaft gilt wieder die Tabelle seines Volkes. Das reguläre Maximum ab Kreis 3 liegt bei jedem Volk bei mindestens 31, der geforderte Wert 9 wird dabei nie unterschritten. Das Talent zum Anheben des Maximums ist danach für diese Eigenschaft wieder kaufbar.
 
 ### Der Meister vergibt die Schlechte Eigenschaft
 
-Der Meister kann die Schlechte Eigenschaft zeitweilig vergeben, zum Beispiel als Fluch für eine Session. Das hat keine Auswirkung auf die SP.
+Der Meister kann die Schlechte Eigenschaft zeitweilig vergeben, zum Beispiel als Fluch für eine Session. Das hat keine Auswirkung auf die EP.
 
-Vergibt er sie dauerhaft außerhalb der Erschaffung, muss er dem Helden die 200 SP gutschreiben, genau wie bei einem Kauf bei der Erschaffung. Er kann sie nicht ohne SP vergeben.
+Vergibt er sie dauerhaft außerhalb der Erschaffung, muss er dem Helden die 200 EP gutschreiben, genau wie bei einem Kauf bei der Erschaffung. Er kann sie nicht ohne EP vergeben.
 
 ### Beispiele zur Schlechten Eigenschaft
 
 - Ein Goblin (Mut-Mindestwert 5) wählt bei der Erschaffung Schlechte Eigenschaft: Mut. Er wählt den Wert frei zwischen 5 und 7.
 - Ein Volk hat Ausstrahlung-Mindestwert 10. Der Spieler wählt Schlechte Eigenschaft: Ausstrahlung. Der Mindestwert ist unerreichbar, der Held muss auf genau 7 steigern.
 - Ein nicht-untoter NSC gehört zu einem Volk mit Konstitution-Mindestwert 20, der für NSC sonst verbindlich ist. Er trägt Schlechte Eigenschaft: Konstitution. Sein Wert wird auf genau 7 festgelegt (ab Kreis 3: 9). Dabei entsteht kein Fehler.
-- Der Held hat Konstitution 10 schon gekauft (Mindestwert des Volkes 10) und wählt dann Schlechte Eigenschaft: Konstitution. Der Wert fällt sofort auf 7. Die SP für die Punkte 8 bis 10 bekommt er gutgeschrieben.
+- Der Held hat Konstitution 10 schon gekauft (Mindestwert des Volkes 10) und wählt dann Schlechte Eigenschaft: Konstitution. Der Wert fällt sofort auf 7. Die EP für die Punkte 8 bis 10 bekommt er gutgeschrieben.
 - Der Held hat Schlechte Eigenschaft: Mut mit Wert 7. Ein Segen gibt ihm +3 Mut. Sein wirksamer Mut ist 10. Der Deckel gilt nur für den gekauften Wert.
 - Der Held erreicht Kreis 3 mit Schlechte Eigenschaft: Stärke und Wert 7. Der Deckel steigt auf 9, der Wert bleibt bei 7, der Held muss nicht auf 9 steigern. Das Talent zum Anheben des Stärke-Maximums bleibt gesperrt, bis er den Nachteil verkauft.
-- Der Held steigert ab Kreis 3 seine Willenskraft bis auf 9 und verkauft Schlechte Eigenschaft: Willenskraft. Er zahlt 200 SP zurück. Es gilt wieder die Tabelle seines Volkes, und das Talent zum Anheben des Maximums ist wieder kaufbar.
-- Der Meister vergibt Schlechte Eigenschaft: Athletik dauerhaft an einen laufenden Helden, aus Gründen der Geschichte. Der Held bekommt 200 SP gutgeschrieben. Vergibt er sie nur als Fluch für eine Session, ändern sich die SP in keine Richtung.
+- Der Held steigert ab Kreis 3 seine Willenskraft bis auf 9 und verkauft Schlechte Eigenschaft: Willenskraft. Er zahlt 200 EP zurück. Es gilt wieder die Tabelle seines Volkes, und das Talent zum Anheben des Maximums ist wieder kaufbar.
+- Der Meister vergibt Schlechte Eigenschaft: Athletik dauerhaft an einen laufenden Helden, aus Gründen der Geschichte. Der Held bekommt 200 EP gutgeschrieben. Vergibt er sie nur als Fluch für eine Session, ändern sich die EP in keine Richtung.
 
 ## Migräne
 
@@ -198,7 +198,7 @@ Der Held hat in unregelmäßigen Abständen mehrtägige Migräne-Anfälle. Währ
 
 ### Die fünf Stufen
 
-| Stufe | SP | Erschwernis der Konstitution-Probe |
+| Stufe | EP | Erschwernis der Konstitution-Probe |
 |---|---:|---:|
 | Leichte Migräne | −25 | 5 |
 | Mittlere Migräne | −50 | 10 |
@@ -208,7 +208,7 @@ Der Held hat in unregelmäßigen Abständen mehrtägige Migräne-Anfälle. Währ
 
 Der Held kann nur eine Stufe haben. Die Stufen unterscheiden sich nur in der Erschwernis der täglichen Konstitution-Probe. Alles andere gilt für alle Stufen gleich.
 
-Der Spieler wählt die Migräne bei der Erschaffung, der Meister muss sie nicht freigeben. Der Held bekommt 25, 50, 75, 100 oder 150 SP gutgeschrieben. Danach lässt sich die Migräne nicht entfernen, nicht verkaufen und nicht heilen, auch nicht magisch. Der Meister verhängt im Spiel keine Migräne.
+Der Spieler wählt die Migräne bei der Erschaffung, der Meister muss sie nicht freigeben. Der Held bekommt 25, 50, 75, 100 oder 150 EP gutgeschrieben. Danach lässt sich die Migräne nicht entfernen, nicht verkaufen und nicht heilen, auch nicht magisch. Der Meister verhängt im Spiel keine Migräne.
 
 ### Ruhephase
 
@@ -245,7 +245,7 @@ Die üblichen Ausnahmen der MBE bleiben: Sie gilt nicht für AT-Proben und nicht
 
 ## Kind der Fröhlichkeit
 
-Jeder Spielercharakter hat diesen Vorteil automatisch. Er kostet 0 SP und lässt sich weder wählen noch abwählen noch verkaufen. Er erscheint auch nicht in der Warnung beim Abschluss der Erschaffung.
+Jeder Spielercharakter hat diesen Vorteil automatisch. Er kostet 0 EP und lässt sich weder wählen noch abwählen noch verkaufen. Er erscheint auch nicht in der Warnung beim Abschluss der Erschaffung.
 
 Benannte NSC führen ihn, wenn der Meister das entscheidet, und zwar mit beiden Wirkungen wie ein Spielercharakter. Namenlose NSC und Kreaturen haben ihn nicht.
 
@@ -263,7 +263,7 @@ Selbstbeherrschungs- und Statusproben lösen nicht aus. Auch Sprache und Kultur 
 
 ### Die Zusatzprobe
 
-Die Zusatzprobe läuft unter exakt denselben Bedingungen wie die Probe, die sie ausgelöst hat: gleicher Probenwert, gleiche Erschwernisse. Sie kostet keine Aktion, keine [[Glossar#AP|AP]] und kein Mana und hat keine Handlungswirkung. Nur ihre Erfolgsstufe zählt.
+Die Zusatzprobe läuft unter exakt denselben Bedingungen wie die Probe, die sie ausgelöst hat: gleicher Probenwert, gleiche Erschwernisse. Sie kostet keine Aktion, keine [[Glossar#AK|AK]] und kein Mana und hat keine Handlungswirkung. Nur ihre Erfolgsstufe zählt.
 
 ### Was die Erfolgsstufe anhebt
 

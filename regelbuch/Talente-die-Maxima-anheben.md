@@ -8,7 +8,7 @@ status: entwurf
 
 Ein Maximum-Talent erhöht das erlaubte Maximum eines anderen Werts, nicht den Wert selbst. Der Wert kann eine [[Grundfertigkeiten|Grundfertigkeit]] sein, eine Kampffertigkeit ([[Nahkampf]], [[Fernkampf]]), eine [[Sonderfertigkeiten|Sonderfertigkeit]], eine [[Eigenschaften|Eigenschaft]], ein [[Attribute|Attribut]], eine [[KI]]- oder [[Psi]]-Fähigkeit, eine Zauberschule ([[Spruchmagie]]) und mehr.
 
-Der Held steigert den Wert weiterhin ganz normal, mit Steigerungspunkten beziehungsweise mit Talentwert, bis hinauf zum neuen Maximum. Das Talent schenkt ihm nur Spielraum nach oben.
+Der Held steigert den Wert weiterhin ganz normal, mit Entwicklungspunkten beziehungsweise mit Fertigkeitswert, bis hinauf zum neuen Maximum. Das Talent schenkt ihm nur Spielraum nach oben.
 
 ## Voraussetzungen
 

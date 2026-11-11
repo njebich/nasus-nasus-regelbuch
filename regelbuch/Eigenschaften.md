@@ -6,7 +6,7 @@ status: entwurf
 
 # Eigenschaften (Eig)
 
-Der Held hat zehn Eigenschaften. Er kauft sie mit Steigerungspunkten, und aus jeder Eigenschaft ergibt sich ein Eigenschaftsbonus, mit dem viele Formeln rechnen. Auf jede Eigenschaft kann der Held auch würfeln.
+Der Held hat zehn Eigenschaften. Er kauft sie mit Entwicklungspunkten, und aus jeder Eigenschaft ergibt sich ein Eigenschaftsbonus, mit dem viele Formeln rechnen. Auf jede Eigenschaft kann der Held auch würfeln.
 
 Fünf Eigenschaften sind geistig:
 
@@ -30,12 +30,12 @@ Für alle zehn Eigenschaften gelten dieselben Regeln für Kosten, Grenzen und Er
 
 ## Kauf und Kosten
 
-Der Held kauft eine Eigenschaft mit Steigerungspunkten ([[Glossar#SP|SP]]). Der gekaufte Wert liegt zwischen 0 und 64 und ist immer eine ganze Zahl. Es wird nie gerundet.
+Der Held kauft eine Eigenschaft mit Entwicklungspunkten ([[Glossar#EP|EP]]). Der gekaufte Wert liegt zwischen 0 und 64 und ist immer eine ganze Zahl. Es wird nie gerundet.
 
 Die Kosten sind für alle zehn Eigenschaften gleich. Jeder Schritt kostet:
 
 ```text
-Schritt 1 bis 11:   je 30 SP
+Schritt 1 bis 11:   je 30 EP
 ab Schritt 12:      Kosten des Schritts davor + 3
                     (gleichbedeutend: 3 × Schrittnummer − 3)
 Gesamtkosten(Wert) = Summe aller Schritte von 1 bis Wert
@@ -44,9 +44,9 @@ Gesamtkosten(Wert) = Summe aller Schritte von 1 bis Wert
 Beispiele:
 
 ```text
-Wert 11:  330 SP   (11 × 30)
-Wert 31:  1560 SP
-Wert 64:  6213 SP
+Wert 11:  330 EP   (11 × 30)
+Wert 31:  1560 EP
+Wert 64:  6213 EP
 ```
 
 Der Kauf einer Eigenschaft hängt an keiner Sperre und keiner Freischaltung. Bei den Attributen ist das anders (siehe [[Attribute]]).
@@ -116,7 +116,7 @@ Dieselben Regeln gelten für die Attribute.
 
 ## Rückgabe
 
-Außerhalb einer laufenden Session kann der Held gekaufte Eigenschaftspunkte jederzeit zurückgeben. Er bekommt die aufsummierten SP voll erstattet. Während einer Session ist die Rückgabe gesperrt. Dieselbe Regel gilt für Attribute, Talentpunkte und Steigerungspunkte (siehe [[Erfahrung-und-Steigerung]]).
+Außerhalb einer laufenden Session kann der Held gekaufte Eigenschaftspunkte jederzeit zurückgeben. Er bekommt die aufsummierten EP voll erstattet. Während einer Session ist die Rückgabe gesperrt. Dieselbe Regel gilt für Attribute, Talentpunkte und Entwicklungspunkte (siehe [[Erfahrung-und-Steigerung]]).
 
 Jede Rückgabe wird protokolliert und am Tisch angesagt.
 

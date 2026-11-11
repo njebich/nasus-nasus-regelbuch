@@ -6,7 +6,7 @@ status: entwurf
 
 # Aussehen, Schlaf, Sinne und Körper
 
-Jeder Held hat ein Aussehen und eine Schlaftiefe, und mancher Held sieht schlecht, ist einarmig oder bringt keinen Ton heraus. Aussehen und Schlaf legt jeder Spieler bei der Erschaffung fest. Die Merkmale für Sehen und Körper sind [[Vor-und-Nachteile|Vor- und Nachteile]]: Sie bringen dem Helden Steigerungspunkte ([[Glossar#SP|SP]]) oder kosten welche.
+Jeder Held hat ein Aussehen und eine Schlaftiefe, und mancher Held sieht schlecht, ist einarmig oder bringt keinen Ton heraus. Aussehen und Schlaf legt jeder Spieler bei der Erschaffung fest. Die Merkmale für Sehen und Körper sind [[Vor-und-Nachteile|Vor- und Nachteile]]: Sie bringen dem Helden Entwicklungspunkte ([[Glossar#EP|EP]]) oder kosten welche.
 
 Besondere Fähigkeiten, Schwächen wie Migräne und das Kind der Fröhlichkeit stehen im Kapitel [[Gaben-und-Schwaechen|Gaben und Schwächen]].
 
@@ -16,13 +16,13 @@ Besondere Fähigkeiten, Schwächen wie Migräne und das Kind der Fröhlichkeit s
 
 Aussehen und Schlaf sind Pflichtprofile. Der Spieler wählt für jedes genau eine Stufe, und die Stufen schließen einander aus. Wählt er nichts, gilt bei beiden die Stufe Normal.
 
-- Bei der Erschaffung lässt sich die Stufe frei wechseln. Die SP werden 1:1 abgerechnet.
+- Bei der Erschaffung lässt sich die Stufe frei wechseln. Die EP werden 1:1 abgerechnet.
 - Mit dem Abschluss der Erschaffung steht die Stufe fest. Danach ändert nur der Meister sie, auch weg von Normal.
 - Vor dem Abschluss weist das Regelwerk den Spieler auf jede Stufe hin, die von Normal abweicht. Normal selbst erscheint dort nicht.
 
 ### Zusatzmerkmale, Sehen und Körper
 
-Das Allerweltsgesicht, die Sicht-Merkmale und die Körper-Merkmale wählt der Spieler bei der Erschaffung und kann sie dort auch wieder abwählen. Die SP werden 1:1 abgerechnet. Die Ausnahme ist die Kette Blinder Kampf: Sie lässt sich jederzeit kaufen.
+Das Allerweltsgesicht, die Sicht-Merkmale und die Körper-Merkmale wählt der Spieler bei der Erschaffung und kann sie dort auch wieder abwählen. Die EP werden 1:1 abgerechnet. Die Ausnahme ist die Kette Blinder Kampf: Sie lässt sich jederzeit kaufen.
 
 - Ein bei der Erschaffung gewähltes Merkmal bleibt für immer. Auch magische Heilung und das Wunder Ruf des Tepod entfernen es nicht.
 - Vor dem Abschluss der Erschaffung nennt das Regelwerk jedes gewählte Merkmal und weist darauf hin, dass es bleibt.
@@ -32,7 +32,7 @@ Das Allerweltsgesicht, die Sicht-Merkmale und die Körper-Merkmale wählt der Sp
 
 ### Später im Spiel: Verlust und befristete Wirkung
 
-Verliert der Held im Spiel ein Auge, einen Arm, ein Bein oder die Stimme, oder erblindet er, trägt er stattdessen einen entfernbaren Zustand ([[Zustaende-Katalog|Zustand]]). Der Zustand wirkt genauso wie das Merkmal, bringt aber keine SP. Ein Held, der das Merkmal schon bei der Erschaffung gewählt hat, kann den gleichnamigen Zustand nicht loswerden.
+Verliert der Held im Spiel ein Auge, einen Arm, ein Bein oder die Stimme, oder erblindet er, trägt er stattdessen einen entfernbaren Zustand ([[Zustaende-Katalog|Zustand]]). Der Zustand wirkt genauso wie das Merkmal, bringt aber keine EP. Ein Held, der das Merkmal schon bei der Erschaffung gewählt hat, kann den gleichnamigen Zustand nicht loswerden.
 
 Zum Entfernen eines Zustands, der ein Auge, ein Körperglied oder die Zunge betrifft, ist eine der folgenden Heilungen nötig:
 
@@ -42,13 +42,13 @@ Zum Entfernen eines Zustands, der ein Auge, ein Körperglied oder die Zunge betr
 
 Ein Auge zählt als Körperteil mit eigener Trefferzone. Die Zunge zählt als heilbarer Körperteil, auch ohne eigene Trefferzone.
 
-Auch Zauber und Alchemika können ein Sicht-Merkmal befristet verleihen oder, wie eine magische Blendung, befristet auferlegen. Die Wirkung ist dieselbe wie beim Dauermerkmal, es fließen keine SP, und das Dauermerkmal des Helden bleibt davon unberührt.
+Auch Zauber und Alchemika können ein Sicht-Merkmal befristet verleihen oder, wie eine magische Blendung, befristet auferlegen. Die Wirkung ist dieselbe wie beim Dauermerkmal, es fließen keine EP, und das Dauermerkmal des Helden bleibt davon unberührt.
 
 ## Aussehen
 
 Das Aussehen bestimmt, wie leicht der Held mit seiner Ausstrahlung Eindruck macht und wie leicht sich andere an sein Gesicht erinnern. Es gibt sieben Stufen. Jeder Spieler darf jede Stufe wählen, unabhängig von der Ausstrahlung seines Helden.
 
-| Stufe | SP | Proben, in die die Ausstrahlung eingeht | Beschreibung durch einen Zeugen |
+| Stufe | EP | Proben, in die die Ausstrahlung eingeht | Beschreibung durch einen Zeugen |
 |---|---|---|---|
 | Abstoßend | Held bekommt 180 | erschwert um 6 | Intelligenzprobe erleichtert um 6 |
 | Hässlich | Held bekommt 90 | erschwert um 4 | Intelligenzprobe erleichtert um 3 |
@@ -68,9 +68,9 @@ Nicht betroffen sind Proben ohne Ausstrahlung oder Eigenschaftsbonus Ausstrahlun
 
 Will jemand das Gesicht des Helden später beschreiben, legt er eine [[Glossar#Int|Intelligenz]]probe ab. Bei Abstoßend, Hässlich, Schön und Atemberaubend fällt sie leichter: um 6, 3, 3 und 6. Es fällt allen leicht, sich an den Helden zu erinnern. Bei Unterdurchschnittlich, Normal und Hübsch ändert das Aussehen die Probe nicht.
 
-### Allerweltsgesicht (250 SP)
+### Allerweltsgesicht (250 EP)
 
-Das Allerweltsgesicht ist keine Stufe des Aussehens. Es kommt zusätzlich zum gewählten Aussehen dazu und kostet 250 SP.
+Das Allerweltsgesicht ist keine Stufe des Aussehens. Es kommt zusätzlich zum gewählten Aussehen dazu und kostet 250 EP.
 
 Es fällt allen Lebewesen schwer, sich überhaupt an den Helden zu erinnern. Ein Zeuge, der ihn beschreiben will, legt zwei Proben ab:
 
@@ -85,13 +85,13 @@ Hat der Held in einer Region Ruhm erlangt, kann der Meister die Wirkung des Alle
 
 ### Beispiele
 
-- **Schön (90 SP).** Der Spieler zahlt 90 SP. Der Held erhält auf alle Proben auf Grundfertigkeiten, WHK und SSK, in die die Ausstrahlung oder ihr Eigenschaftsbonus eingeht, eine Erleichterung um 4. Will ein Zeuge ihn später beschreiben, ist dessen Intelligenzprobe um 3 erleichtert.
-- **Normal mit Allerweltsgesicht (250 SP), Eigenschaftsbonus Ausstrahlung 4.** Das Aussehen verändert keine Probe. Der Zeuge würfelt zuerst eine Sinnesschärfe-Probe, erschwert um 12 − 4 = 8, dann eine Intelligenzprobe, erschwert um 8. Nur wenn beide gelingen, ist seine Beschreibung aussagekräftig.
+- **Schön (90 EP).** Der Spieler zahlt 90 EP. Der Held erhält auf alle Proben auf Grundfertigkeiten, WHK und SSK, in die die Ausstrahlung oder ihr Eigenschaftsbonus eingeht, eine Erleichterung um 4. Will ein Zeuge ihn später beschreiben, ist dessen Intelligenzprobe um 3 erleichtert.
+- **Normal mit Allerweltsgesicht (250 EP), Eigenschaftsbonus Ausstrahlung 4.** Das Aussehen verändert keine Probe. Der Zeuge würfelt zuerst eine Sinnesschärfe-Probe, erschwert um 12 − 4 = 8, dann eine Intelligenzprobe, erschwert um 8. Nur wenn beide gelingen, ist seine Beschreibung aussagekräftig.
 - **Atemberaubend mit Allerweltsgesicht, Eigenschaftsbonus Ausstrahlung 4.** Der Zeuge würfelt die Sinnesschärfe-Probe, erschwert um 8. Seine Intelligenzprobe ist dann um 8 − 6 = 2 erschwert. Beide müssen gelingen.
 
 ## Schlaf
 
-Die Schlaftiefe bestimmt, wie gut sich der Held im Schlaf erholt und wie leicht er im Schlaf etwas bemerkt. Es gibt vier Stufen. Alle kosten 0 SP, die Wahl ändert das SP-Budget nicht.
+Die Schlaftiefe bestimmt, wie gut sich der Held im Schlaf erholt und wie leicht er im Schlaf etwas bemerkt. Es gibt vier Stufen. Alle kosten 0 EP, die Wahl ändert das EP-Budget nicht.
 
 | Stufe | Regenerationsklasse | Eigene Sinnesschärfe-Proben im Zustand Schlaf |
 |---|---:|---|
@@ -146,7 +146,7 @@ Der K-Mod (Komplementärsinn-Mod) ist die Summe der Pfad-Mali aller Komplementä
 
 Der Spieler kann je Sinn einen Eintrag wählen, der den Sinn eine Stufe unter oder über Normal ansetzt. Der Eintrag ist durch die Rolle des Sinns (Zielsinn oder Komplementärsinn) und den Sinn selbst bestimmt, zum Beispiel Zielsinn Optik oder Komplementärsinn Akustik. Ohne Wahl gilt die Normalstufe. Ein Sinn ist nur wählbar, wenn die Kreatur die zugehörige Physis besitzt. Gewählt werden dürfen die Sinne, die zur Kreatur des Helden gehören, sowie die Astralsicht, wenn ihre Voraussetzungen erfüllt sind.
 
-| Eintrag | Wirkung | SP |
+| Eintrag | Wirkung | EP |
 |---|---|---|
 | Schlechter Sinn, Zielsinn | Z-Mod = 3 | Held bekommt 50 |
 | Schlechter Sinn, Komplementärsinn | Pfad-Malus 9 | Held bekommt 20 |
@@ -165,10 +165,10 @@ Was der Held für schlechtere Sinne gutgeschrieben bekommt, hängt von der Stufe
 
 | Stufe | −1 | −2 | −3 | −4 | −5 | Totalausfall |
 |---|---:|---:|---:|---:|---:|---:|
-| Zielsinn, SP | 50 | 80 | 140 | 230 | 350 | 500 |
-| Komplementärsinn, SP | 20 | 30 | 50 | 80 | 120 | 170 |
+| Zielsinn, EP | 50 | 80 | 140 | 230 | 350 | 500 |
+| Komplementärsinn, EP | 20 | 30 | 50 | 80 | 120 | 170 |
 
-Ein scharfer Komplementärsinn (+1) kostet 40 SP.
+Ein scharfer Komplementärsinn (+1) kostet 40 EP.
 
 ### Erschwerung durch den Meister
 
@@ -176,7 +176,7 @@ Der Meister kann alle Sinne einzeln oder gemeinsam erschweren. Beispiele sind ma
 
 ## Sehen
 
-Die Merkmale zum Sehen verändern die Optik dauerhaft. Nachteile bringen SP und erlegen eine Erschwerung auf. Vorteile kosten SP und senken oder ersetzen die Sichtmodifikatoren, die im Kampf je nach Licht und Umgebung gelten ([[Fernkampf]]). Es gibt sieben Merkmale und dazu die Kette Blinder Kampf: Blindheit, Einäugig, Kurzsichtigkeit, Weitsichtigkeit, Dämmerungssicht, Nachtsicht und Astrales Auge.
+Die Merkmale zum Sehen verändern die Optik dauerhaft. Nachteile bringen EP und erlegen eine Erschwerung auf. Vorteile kosten EP und senken oder ersetzen die Sichtmodifikatoren, die im Kampf je nach Licht und Umgebung gelten ([[Fernkampf]]). Es gibt sieben Merkmale und dazu die Kette Blinder Kampf: Blindheit, Einäugig, Kurzsichtigkeit, Weitsichtigkeit, Dämmerungssicht, Nachtsicht und Astrales Auge.
 
 Wenn dieses Kapitel eine Erschwerung nennt, ist es eine Erschwerung der Probe ([[Behinderung-und-Erschwernis|Behinderung und Erschwernis]]).
 
@@ -197,28 +197,28 @@ Blind ist ein Zustand, der aus mehreren Gründen eintritt. Alle erzeugen dasselb
 
 Ein sehender Held in absoluter Dunkelheit trägt ebenfalls 18 + K-Mod.
 
-### Blindheit (−500 SP)
+### Blindheit (−500 EP)
 
-Der Held bekommt 500 SP. Blindheit und die volle Kette Blinder Kampf (zusammen 500 SP) gleichen sich in den SP aus.
+Der Held bekommt 500 EP. Blindheit und die volle Kette Blinder Kampf (zusammen 500 EP) gleichen sich in den EP aus.
 
 - **Erschwerung:** Dauerhaft 18 + K-Mod, es gilt das Wirkungspaket des Zustands Blind.
 - **Fernkampf nur als Deutschuss:** Der blinde Schütze schießt auf ein Hex, in dem er einen Gegner vermutet, etwa nach Gehör, nach der letzten bekannten Position oder nach Überlegung. Er legt sich auf dieses Hex fest, ohne die genaue Position und Ausrichtung des Gegners zu kennen. Ein Treffer setzt voraus, dass der Gegner dort wirklich steht, sonst passiert nichts ([[Fernkampf-im-Kampf]]). Für einen blinden Helden ist Fernkampf immer ein Deutschuss. Zielen ist nicht möglich.
 - **Wert des Deutschusses:** 18 + K-Mod. Mehrere Ursachen für Wahrnehmungsverlust zählen nicht zusammen, es gilt die schlechteste einzelne. Die Erschwerung durch die Größe des Ziels kommt additiv dazu.
 - **Astrales Auge** gibt dem blinden Helden das Zielen im Fernkampf zurück. Es gilt dann die normale Erschwerungstabelle des Fernkampfs statt des Deutschusses.
 
-### Einäugig (−400 SP)
+### Einäugig (−400 EP)
 
-Dem Helden fehlt ein Auge, ihm fehlt die Tiefenwahrnehmung. Er bekommt 400 SP.
+Dem Helden fehlt ein Auge, ihm fehlt die Tiefenwahrnehmung. Er bekommt 400 EP.
 
 - **Erschwerung 9** auf alle Handlungen jenseits von 10 m Entfernung. Im Astralraum gilt sie nicht.
 - Blinder Kampf senkt sie nicht, denn er wirkt nur bis 10 m.
-- Verliert der Held das Auge erst im Spiel, ist es ein entfernbarer Zustand ohne SP mit denselben Werten. Entfernt wird er wie oben beschrieben.
+- Verliert der Held das Auge erst im Spiel, ist es ein entfernbarer Zustand ohne EP mit denselben Werten. Entfernt wird er wie oben beschrieben.
 
 ### Kurzsichtigkeit und Weitsichtigkeit
 
-Beide Merkmale gibt es in fünf Stufen mit gleichen Kosten und Werten. Der Held bekommt die SP gutgeschrieben.
+Beide Merkmale gibt es in fünf Stufen mit gleichen Kosten und Werten. Der Held bekommt die EP gutgeschrieben.
 
-| Stufe | SP | Erschwerung |
+| Stufe | EP | Erschwerung |
 |---|---:|---:|
 | Leicht | 30 | 3 |
 | Mittel | 60 | 6 |
@@ -233,27 +233,27 @@ Beide Merkmale gibt es in fünf Stufen mit gleichen Kosten und Werten. Der Held 
 
 **Brille.** Die Brille ist ein gewöhnlicher Gegenstand, den der Held beim Optiker kauft. Es gibt je Stufe eine eigene Brille, also fünf Brillen für Kurzsichtigkeit und fünf für Weitsichtigkeit. Eine Brille aus der Familie des Helden senkt die Erschwerung auf den Tabellenwert der Stufe |Stufe des Helden − Stufe der Brille|. Bei Differenz 0 entfällt die Erschwerung. Eine Brille der anderen Familie wirkt nicht. Geht die Brille verloren oder kaputt, gilt sofort wieder die volle Erschwerung.
 
-### Dämmerungssicht (100 SP)
+### Dämmerungssicht (100 EP)
 
-Der Held zahlt 100 SP. Dämmerungssicht senkt Sicht-Erschwerungen, die durch Dunkelheit entstehen, um 2. Sie braucht Restlicht. In absoluter Dunkelheit wirkt sie nicht, der Held ist dort blind.
+Der Held zahlt 100 EP. Dämmerungssicht senkt Sicht-Erschwerungen, die durch Dunkelheit entstehen, um 2. Sie braucht Restlicht. In absoluter Dunkelheit wirkt sie nicht, der Held ist dort blind.
 
-### Nachtsicht (150 SP)
+### Nachtsicht (150 EP)
 
-Der Held zahlt 150 SP. Nachtsicht setzt Sicht-Erschwerungen, die durch Dunkelheit entstehen, fest auf 2. Sie braucht Restlicht. In absoluter Dunkelheit wirkt sie nicht, der Held ist dort blind. Nachtsicht macht nie etwas schlechter. Liegt die Erschwerung ohnehin unter 2, gilt der kleinere Wert der normalen Sicht (siehe „Bester Wert gewinnt“).
+Der Held zahlt 150 EP. Nachtsicht setzt Sicht-Erschwerungen, die durch Dunkelheit entstehen, fest auf 2. Sie braucht Restlicht. In absoluter Dunkelheit wirkt sie nicht, der Held ist dort blind. Nachtsicht macht nie etwas schlechter. Liegt die Erschwerung ohnehin unter 2, gilt der kleinere Wert der normalen Sicht (siehe „Bester Wert gewinnt“).
 
-### Astrales Auge (300 SP, gesamt 500 SP)
+### Astrales Auge (300 EP, gesamt 500 EP)
 
 Die Astralsicht ist ein eigener Sehkanal. Sie ist nie gleichzeitig mit der Optik aktiv und schaltet nur den Zielsinn um, die Komplementärsinne bleiben. Wer Astrales Auge und die Optik hat, wechselt von Kampfrunde zu Kampfrunde ohne Kosten zwischen beiden.
 
 Solange der Held die Astralsicht benutzt, helfen ihm die Sichthilfen der Optik, Dämmerungssicht und Nachtsicht, nicht. Die Magische Wand der Antimagie ist für die Astralsicht undurchdringlich ([[Magie-im-Kampf]]).
 
-**Stufe I (300 SP).** Voraussetzung ist Aura 1 ([[Attribute]]).
+**Stufe I (300 EP).** Voraussetzung ist Aura 1 ([[Attribute]]).
 
 - Der Zielsinn steht auf Stufe 5: Z-Mod = 3.
 - Der Held sieht dauerhaft auf der Astralebene, auch ohne Licht. Auren erkennt er als schwach, mittel, stark oder heilig, bei Graden bis 3, bis 5, bis 7 und über 7. Unbelebte Materie sieht er nur als undeutliche Umrisse.
 - Für einen blinden Helden gibt Stufe I das Zielen im Fernkampf zurück (siehe Blindheit).
 
-**Stufe II (+200 SP, gesamt 500 SP).** Voraussetzung ist Stufe I.
+**Stufe II (+200 EP, gesamt 500 EP).** Voraussetzung ist Stufe I.
 
 - Der Zielsinn steht auf Stufe 6: Z-Mod = 0, kein Malus.
 - Die Aura-Bänder bleiben. Unbelebte Materie bleibt nur Umriss, aber deutlich genug für Bewegung und Orientierung wie bei einem Sehenden.
@@ -264,7 +264,7 @@ Die Sichtmodifikatoren ersetzt das Astrale Auge durch einen eigenen Ersatzwert (
 
 Der Held hat gelernt, auch ohne Sicht zu kämpfen. Oder seine Augen tragen die genetische Signatur seiner Vorfahren, die ihm Infrarotsicht schenkt: Er sieht im Dunkeln Wärmesignaturen.
 
-Blinder Kampf ist eine Kette aus 15 Vorteilen. Stufe N setzt Stufe N−1 voraus. Stufe I kostet 150 SP, die Stufen II bis XV je 25 SP, alle 15 Stufen zusammen 500 SP. Auch mit Blindheit gilt der volle Preis. Der Held kann Blinder Kampf jederzeit kaufen, nicht nur bei der Erschaffung. Er lässt sich mit jedem anderen Sicht-Merkmal verbinden, auch mit Blindheit.
+Blinder Kampf ist eine Kette aus 15 Vorteilen. Stufe N setzt Stufe N−1 voraus. Stufe I kostet 150 EP, die Stufen II bis XV je 25 EP, alle 15 Stufen zusammen 500 EP. Auch mit Blindheit gilt der volle Preis. Der Held kann Blinder Kampf jederzeit kaufen, nicht nur bei der Erschaffung. Er lässt sich mit jedem anderen Sicht-Merkmal verbinden, auch mit Blindheit.
 
 **Reichweite.** Blinder Kampf wirkt im Nahkampf sowie im Fernkampf und bei Zaubern gegen Ziele bis 10 m. Das ist das erste Entfernungsband des Fernkampfs. Gegen Ziele jenseits von 10 m gelten die normalen Fernkampfregeln.
 
@@ -330,13 +330,13 @@ Wählt der Spieler ein Merkmal, das sich mit einem bereits gewählten ausschlie�
 
 ## Körper und Stimme
 
-Dem Helden kann ein Arm oder ein Bein fehlen, beide Arme oder beide Beine, oder er kann keinen Ton herausbringen. Alle fünf Merkmale sind Nachteile mit festen Kosten. Der Held bekommt die SP gutgeschrieben:
+Dem Helden kann ein Arm oder ein Bein fehlen, beide Arme oder beide Beine, oder er kann keinen Ton herausbringen. Alle fünf Merkmale sind Nachteile mit festen Kosten. Der Held bekommt die EP gutgeschrieben:
 
-- Einarmigkeit: 400 SP
-- Einbeinigkeit: 400 SP
-- Keine Arme: 800 SP
-- Keine Beine: 800 SP
-- Stumm: 300 SP
+- Einarmigkeit: 400 EP
+- Einbeinigkeit: 400 EP
+- Keine Arme: 800 EP
+- Keine Beine: 800 EP
+- Stumm: 300 EP
 
 Die Gliedmaßen wirken auf die körperliche Behinderung (KBE, [[Behinderung-und-Erschwernis|Behinderung und Erschwernis]]), auf die Fortbewegung ([[Bewegung]]), auf die Waffenführung und auf die Zauberstufe ([[Spruchmagie]]). Bei den Zauberstufen gilt: Auf Stufe 1 braucht der Zauberer Geste und Formel, auf Stufe 2 darf er eine von beiden weglassen, auf Stufe 3 beide. Die Stufen 2 und 3 braucht ein Talent ([[Talente]]).
 
@@ -396,7 +396,7 @@ Der Held bringt keinen Ton heraus, nur die Atemluft ist hörbar. Die Wirkung ist
 Neben der körperlichen Behinderung gibt es die mentale (MBE).
 
 - **Angeboren** (bei der Erschaffung gewählt): Der Held trägt nur die KBE. Die MBE ist 0, denn es gibt kein Verlustereignis, das sie rechtfertigt.
-- **Verlust im Spiel** (Zustand, ohne SP): Die KBE beträgt 3 (Arm) oder 4 (Bein), dauerhaft wie beim angeborenen Fall. Zusätzlich trägt der Held eine MBE. Sie beginnt beim vollen Trefferzonen-Wert (3 oder 4) und sinkt um 1 je neuem magischem Tag nach dem Verlust ([[Zeit-und-Spielablauf|Zeit]]), bis sie 0 erreicht. Danach bleibt nur die KBE, wie beim angeborenen Fall. Der Zustand der Wunde spielt dafür keine Rolle, der Abbau läuft allein über die magischen Tage. Die Entfernung des Zustands kostet keine SP.
+- **Verlust im Spiel** (Zustand, ohne EP): Die KBE beträgt 3 (Arm) oder 4 (Bein), dauerhaft wie beim angeborenen Fall. Zusätzlich trägt der Held eine MBE. Sie beginnt beim vollen Trefferzonen-Wert (3 oder 4) und sinkt um 1 je neuem magischem Tag nach dem Verlust ([[Zeit-und-Spielablauf|Zeit]]), bis sie 0 erreicht. Danach bleibt nur die KBE, wie beim angeborenen Fall. Der Zustand der Wunde spielt dafür keine Rolle, der Abbau läuft allein über die magischen Tage. Die Entfernung des Zustands kostet keine EP.
 
 Das ist die einzige Stelle, an der das bei der Erschaffung gewählte Merkmal und der Zustand zeitweise auseinanderlaufen.
 
@@ -406,8 +406,8 @@ Das ist die einzige Stelle, an der das bei der Erschaffung gewählte Merkmal und
 - **Einbeinigkeit (angeboren), zu Fuß fliehen.** Ohne Krücke sind es 1 Feld pro Kampfrunde, kein Sprint. Mit Holzbein: Gehen 1,5 m/s × 0,5 = 0,75, gerundet 1 Feld pro Kampfrunde. Dauerlauf und Sprint werden entsprechend mit ×0,5 gerechnet.
 - **Keine Arme (angeboren), Magier mit dem Talent für Zauberstufe 2.** Den Feuerball wirkt er nur auf Stufe 2: Die Geste entfällt, die Formel bleibt. Eine Waffe führt er nicht. Auf körperliche Proben trägt er KBE 6.
 - **Stumm und Keine Arme, Magier.** Er zaubert nur auf Stufe 3, ohne Geste und ohne Formel. Dafür braucht er das Talent für Zauberstufe 3 und dessen Voraussetzung, das Talent für Zauberstufe 2.
-- **Der Meister lässt einen Helden im Kampf einen Arm verlieren.** Er trägt den Zustand „einarmig“ ohne SP. KBE 3 bleibt dauerhaft. Die MBE ist am Verlusttag 3 und sinkt um 1 je neuem magischem Tag, nach 3 magischen Tagen ist sie 0. Die KBE lässt sich nur mit Heilung G5, KI-Regeneration oder Ruf des Tepod entfernen.
-- **Ein Held wird im Spiel durch einen Fluch stumm.** Er trägt den Zustand „stumm“, ohne SP und ohne Behinderung. Entfernt wird er durch Heilung G5, KI-Regeneration oder Ruf des Tepod.
+- **Der Meister lässt einen Helden im Kampf einen Arm verlieren.** Er trägt den Zustand „einarmig“ ohne EP. KBE 3 bleibt dauerhaft. Die MBE ist am Verlusttag 3 und sinkt um 1 je neuem magischem Tag, nach 3 magischen Tagen ist sie 0. Die KBE lässt sich nur mit Heilung G5, KI-Regeneration oder Ruf des Tepod entfernen.
+- **Ein Held wird im Spiel durch einen Fluch stumm.** Er trägt den Zustand „stumm“, ohne EP und ohne Behinderung. Entfernt wird er durch Heilung G5, KI-Regeneration oder Ruf des Tepod.
 - **Einarmigkeit und Einbeinigkeit (beides angeboren).** KBE 7, MBE 0. Der Held kann kriechen, denn 1 Arm plus 1 Bein sind 2 Gliedmaßen.
 - **Keine Arme und Keine Beine (angeboren).** KBE 14, MBE 0. Der Held kann sich nicht selbst fortbewegen, man trägt oder schiebt ihn. Spruchmagie ist nur auf Stufe 3 möglich.
 

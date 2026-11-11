@@ -40,7 +40,7 @@ Während der VD gilt:
 
 - Der Magus muss sich durchgehend konzentrieren ([[Magie-Wirkungsdauer-und-Konzentration]]). Rufen ist in dieser Zeit nicht möglich.
 - Wird er gestört, etwa durch einen Treffer, kann ihn der Mentale Fokus retten. Die Regel steht in [[Magie-Wirkungsdauer-und-Konzentration]].
-- Wie viele Aktionspunkte der Zauber in dieser Kampfrunde kostet, hängt vom freien Wert der Disziplin ab. Die Staffel steht in [[Kampfrunde-Aktionen-Initiative-und-Sicht]].
+- Wie viele AK der Zauber in dieser Kampfrunde kostet, hängt vom freien Wert der Disziplin ab. Die Staffel steht in [[Kampfrunde-Aktionen-Initiative-und-Sicht]].
 
 ### Die Vorbereitung über mehrere Kampfrunden
 
@@ -88,7 +88,7 @@ Ist am Ende der VD oder beim Einsetzen kein gewünschtes Ziel verfügbar, weil a
 1. **Den Zauber halten.** Es gilt die Haltezeit von Magie mal Sekunden mit dem vollen Grad. Das Ziel wird dann beim Einsetzen gewählt.
 2. **Den Zauber fallen lassen.** Das kostet die halben Manakosten.
 3. **Ihn gegen die Deckung verwenden,** soweit der Zauber das zulässt. Das geht nur bei einmaligen und anhaltenden Zaubern mit dem Ziel „Aura“, wenn das Ziel in dieser Kampfrunde gesehen wurde. Der Zauber trifft dann die Deckung. Wie das je nach Zauberform aussieht, steht unten. Bipolare Zauber können das nicht.
-4. **Ein anderes gültiges Ziel wählen,** wenn nötig mit einer zulässigen Drehung dorthin. Bei Zielverlust während einer angesagten Aktion stehen dafür die frei gewordenen Aktionspunkte zur Verfügung. Sie dürfen nur für Drehung oder Defensivaktion verwendet werden ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]).
+4. **Ein anderes gültiges Ziel wählen,** wenn nötig mit einer zulässigen Drehung dorthin. Bei Zielverlust während einer angesagten Aktion stehen dafür die frei gewordenen AK zur Verfügung. Sie dürfen nur für Drehung oder Defensivaktion verwendet werden ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]).
 
 Die Vollendung eines Zaubers ist nie ein Zwang. Anders als beim Fernkampf und Nahkampf darf der Magus hier auf ein neues Ziel umlenken. Der Grund: Sein Ziel wird erst am Beginn der Effektdauer festgelegt.
 
@@ -123,8 +123,8 @@ Anders als im Fernkampf ist die Glücksprobe bei Magie nicht immer verfügbar. S
 ### Kosten und Zeitpunkt
 
 - Ausweichen und Parieren kosten den Verteidiger seine für die Kampfrunde angesagte Aktion, wie gegen einen Fernkampf-Angriff ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]). Gemeint ist die Kampfrunde, in der die Wirkung einsetzt. Das ist nicht zwingend die, in der der Magus gewirkt hat.
-- Die Glücksprobe ist frei. Sie kostet keine Aktionspunkte und kann in einer Kampfrunde beliebig oft eingesetzt werden, aber nur einmal gegen denselben einzelnen Magie-Angriff. Gegen zwei verschiedene Zauber in derselben Kampfrunde darf das Ziel je eine Glücksprobe würfeln, auch zusätzlich zu einer Glücksprobe gegen einen Fernkampf-Angriff derselben Kampfrunde.
-- Das Ziel würfelt beim Einsetzen der Wirkung. Das ist der Beginn der Effektdauer, bei „sofort“ also das Ende der VD des Magus. Bei einer Wirkung, die verzögert oder in einer Rampe einsetzt, ist es der Beginn der Wirkungsdauer. Der Rang des Ziels in der Ausführungs-Reihenfolge spielt keine Rolle. Setzt die Wirkung erst in einer späteren Kampfrunde ein, fällt die Probe samt ihren Aktionspunkten in diese Kampfrunde.
+- Die Glücksprobe ist frei. Sie kostet keine AK und kann in einer Kampfrunde beliebig oft eingesetzt werden, aber nur einmal gegen denselben einzelnen Magie-Angriff. Gegen zwei verschiedene Zauber in derselben Kampfrunde darf das Ziel je eine Glücksprobe würfeln, auch zusätzlich zu einer Glücksprobe gegen einen Fernkampf-Angriff derselben Kampfrunde.
+- Das Ziel würfelt beim Einsetzen der Wirkung. Das ist der Beginn der Effektdauer, bei „sofort“ also das Ende der VD des Magus. Bei einer Wirkung, die verzögert oder in einer Rampe einsetzt, ist es der Beginn der Wirkungsdauer. Der Rang des Ziels in der Ausführungs-Reihenfolge spielt keine Rolle. Setzt die Wirkung erst in einer späteren Kampfrunde ein, fällt die Probe samt ihren AK in diese Kampfrunde.
 - Hat der Zauber mehrere Ziele oder das Ziel „Gruppe“, verteidigt jedes Ziel einzeln mit eigener Probe und zählt seine Deckung einzeln.
 
 ### Der Ausgang ist zweiteilig

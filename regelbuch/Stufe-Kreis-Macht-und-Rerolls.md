@@ -6,13 +6,13 @@ status: entwurf
 
 # Stufe, Kreis, Macht und Rerolls
 
-Aus den gesammelten [[Erfahrung-und-Steigerung|Erfahrungspunkten]] ergeben sich zwei Kennzahlen des Helden: seine Stufe und sein Kreis. Der Kreis bestimmt, wie viele Rerolls der Held pro Session hat. Die Macht des Helden hängt ebenfalls vom Kreis ab.
+Aus den gesammelten [[Erfahrung-und-Steigerung|Abenteuerpunkten]] ergeben sich zwei Kennzahlen des Helden: seine Stufe und sein Kreis. Der Kreis bestimmt, wie viele Rerolls der Held pro Session hat. Die Macht des Helden hängt ebenfalls vom Kreis ab.
 
 ## Stufe und Kreis
 
-Stufe und Kreis hängen nur an den gesamten Erfahrungspunkten (EP) des Helden. Steigerungspunkte, Talentpunkte oder andere Quellen spielen keine Rolle. Beide Werte werden immer gemeinsam bestimmt. Sie ändern sich, sobald die gesamten EP eine neue Schwelle erreichen.
+Stufe und Kreis hängen nur an den gesamten Abenteuerpunkten (AP) des Helden. Entwicklungspunkte, Talentpunkte oder andere Quellen spielen keine Rolle. Beide Werte werden immer gemeinsam bestimmt. Sie ändern sich, sobald die gesamten AP eine neue Schwelle erreichen.
 
-Der Held hat die höchste Stufe, deren EP-ab-Wert die gesamten EP nicht übersteigt. Genau auf der Schwelle gilt die neue Stufe: Bei 10200 EP hat der Held Stufe 49 und Kreis 7, nicht Stufe 48.
+Der Held hat die höchste Stufe, deren AP-ab-Wert die gesamten AP nicht übersteigt. Genau auf der Schwelle gilt die neue Stufe: Bei 10200 AP hat der Held Stufe 49 und Kreis 7, nicht Stufe 48.
 
 Der Kreis folgt aus der Stufe:
 
@@ -22,38 +22,38 @@ Kreis = Wurzel der Stufe, abgerundet
 
 Die Wurzel wird hier nicht kaufmännisch gerundet, sondern immer abgerundet. Stufe 8 hat Kreis 2, Stufe 9 hat Kreis 3.
 
-Mit 0 EP hat der Held Stufe 0 und Kreis 0. Niedriger geht es nicht. Nach oben gibt es keine Grenze.
+Mit 0 AP hat der Held Stufe 0 und Kreis 0. Niedriger geht es nicht. Nach oben gibt es keine Grenze.
 
-### Wie viele EP eine Stufe kostet
+### Wie viele AP eine Stufe kostet
 
-Die ersten Stufen folgen einem eigenen, unregelmäßigen Tempo. Die Schwellen steigen in Schritten von 20, 40, 60 und 80 EP:
+Die ersten Stufen folgen einem eigenen, unregelmäßigen Tempo. Die Schwellen steigen in Schritten von 20, 40, 60 und 80 AP:
 
 ```text
-Stufe 1 ab 20 EP
-Stufe 2 ab 60 EP
-Stufe 3 ab 120 EP
-Stufe 4 ab 200 EP
+Stufe 1 ab 20 AP
+Stufe 2 ab 60 AP
+Stufe 3 ab 120 AP
+Stufe 4 ab 200 AP
 ```
 
 Stufe 0 bis 3 gehören zu Kreis 0 und Kreis 1, Stufe 4 beginnt Kreis 2.
 
-Danach kostet jede Stufe 50 EP mal die Zahl des Kreises, in dem sie liegt. Das ist die Rate des Kreises. Kreis 3 hat die Rate 150, Kreis 4 die Rate 200 und so weiter. Eine Stufe innerhalb eines Kreises c (zwischen c² und (c+1)²) liegt um diese Rate über der vorigen:
+Danach kostet jede Stufe 50 AP mal die Zahl des Kreises, in dem sie liegt. Das ist die Rate des Kreises. Kreis 3 hat die Rate 150, Kreis 4 die Rate 200 und so weiter. Eine Stufe innerhalb eines Kreises c (zwischen c² und (c+1)²) liegt um diese Rate über der vorigen:
 
 ```text
-EP ab (Stufe) = EP ab (Stufe − 1) + 50 × c
+AP ab (Stufe) = AP ab (Stufe − 1) + 50 × c
 ```
 
 Die erste Stufe eines neuen Kreises c (ab Kreis 3) kostet noch die Rate des vorigen Kreises. Erst die Stufen danach kosten die Rate des neuen Kreises:
 
 ```text
-EP ab (c²) = EP ab (c² − 1) + 50 × (c − 1)
+AP ab (c²) = AP ab (c² − 1) + 50 × (c − 1)
 ```
 
 Dieses Muster gilt für jeden Kreis ohne Obergrenze. Die Kreis-Grenzen liegen bei Stufe 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196 und so weiter, jeweils beim Quadrat des Kreises.
 
 Wo ein Kreis beginnt:
 
-| Kreis | erste Stufe | EP ab |
+| Kreis | erste Stufe | AP ab |
 |---:|---:|---:|
 | 0 | 0 | 0 |
 | 1 | 1 | 20 |
@@ -79,14 +79,14 @@ Stufe und Kreis werden für jede Spielfigur gleich bestimmt, auch für Kreaturen
 ### Beispiele
 
 ```text
-0 EP     → Stufe 0,   Kreis 0
-1600 EP  → Stufe 15,  Kreis 3
-10200 EP → Stufe 49,  Kreis 7
-85850 EP → Stufe 195, Kreis 13   (letzte Zeile der Tabelle)
-86500 EP → Stufe 196, Kreis 14
+0 AP     → Stufe 0,   Kreis 0
+1600 AP  → Stufe 15,  Kreis 3
+10200 AP → Stufe 49,  Kreis 7
+85850 AP → Stufe 195, Kreis 13   (letzte Zeile der Tabelle)
+86500 AP → Stufe 196, Kreis 14
 ```
 
-Das letzte Beispiel folgt aus der Regel: Stufe 196 beginnt Kreis 14 und kostet noch die Rate von Kreis 13, also 85850 + 50 × 13 = 86500 EP.
+Das letzte Beispiel folgt aus der Regel: Stufe 196 beginnt Kreis 14 und kostet noch die Rate von Kreis 13, also 85850 + 50 × 13 = 86500 AP.
 
 ## Macht
 

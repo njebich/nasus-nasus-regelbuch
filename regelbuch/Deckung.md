@@ -114,7 +114,7 @@ Ein Deckungsobjekt hat keine Trefferpunkte. Stattdessen gilt eine Schwelle:
 
 ## In Deckung gehen und aus Deckung gehen
 
-Der Held sucht Deckung auf oder verlässt sie mit einer eigenen Aktion. Sie kostet 0 AK ([[Glossar#AK|AK]]) und ist höchstens einmal je Kampfrunde möglich ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]). Außerdem gilt:
+Der Held sucht Deckung auf oder verlässt sie mit einer eigenen Aktion. Sie kostet 0 AK ([[Glossar#AK|Aktionskosten]]) und ist höchstens einmal je Kampfrunde möglich ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]). Außerdem gilt:
 
 - Sie ist eine reine Haltungsänderung, zum Beispiel sich ducken oder hinter eine Brüstung sinken, und keine Bewegung. Der Held darf in derselben Kampfrunde in Richtung des Hindernisses laufen und danach in Deckung gehen. Die Deckungsaktion zählt nicht als die eine Laufen-Aktion der Kampfrunde und nicht als die eine Drehung.
 - Je Kampfrunde gibt es höchstens eine Deckungsaktion, entweder hinein oder heraus. Beides oder mehrere sind nicht möglich.
@@ -147,11 +147,11 @@ Wer selbst in Deckung steht und einen Fernkampf-Angriff abgeben will, muss Waffe
 
 ## Zielverlust durch Deckung
 
-Ist ein angesagtes Ziel zum Zeitpunkt der Ausführung in Deckung, muss die zielgebundene Handlung nicht ausgeführt werden. Das ist eine Möglichkeit und kein Zwang. Die allgemeine Regel mit den frei gewordenen Aktionspunkten steht in [[Kampfrunde-Aktionen-Initiative-und-Sicht]]. Für Deckung gilt:
+Ist ein angesagtes Ziel zum Zeitpunkt der Ausführung in Deckung, muss die zielgebundene Handlung nicht ausgeführt werden. Das ist eine Möglichkeit und kein Zwang. Die allgemeine Regel mit den frei gewordenen AK steht in [[Kampfrunde-Aktionen-Initiative-und-Sicht]]. Für Deckung gilt:
 
 - **Volldeckung:** Der Angreifer darf abbrechen, denn er hat keine saubere Sichtlinie. Er darf auch durch das Hindernis angreifen.
 - **Teildeckung:** Das Ziel ist nicht verloren, solange eine freie Zone existiert. Die Handlung läuft normal. Der Angreifer darf trotzdem abbrechen, wenn ihm die Aussicht auf die freien Zonen zu schlecht ist.
-- Nach einem Abbruch dürfen die frei gewordenen Aktionspunkte nur für eine Drehung oder eine Defensivaktion genutzt werden.
+- Nach einem Abbruch dürfen die frei gewordenen AK nur für eine Drehung oder eine Defensivaktion genutzt werden.
 - Das gilt für Nahkampf, Fernkampf und Magie.
 
 In der Ansage-Phase sehen später Ansagende, dass ein Ziel in Deckung gegangen ist. Früher Ansagende können ihr Ziel bis zur Ausführung ganz oder teilweise verlieren.

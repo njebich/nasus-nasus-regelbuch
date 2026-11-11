@@ -6,7 +6,7 @@ status: entwurf
 
 # Attribute (Att)
 
-Der Held hat sechs Attribute: Aura, Glück, Karma, Magie, Vitalität und Weisheit. Fünf davon kauft er mit Steigerungspunkten. Die Weisheit steigt von selbst mit dem Kreis. Aus den Attributen entstehen viele weitere Werte des Helden, zum Beispiel Mana, [[Stufe-Kreis-Macht-und-Rerolls|Macht]], [[Ausdauer]], Gesundheit, Ausweichen, Trefferschwelle und Karma-Pool-Punkte. Wer zaubern, Psi wirken oder KI einsetzen will, braucht außerdem Aura und Magie (siehe unten).
+Der Held hat sechs Attribute: Aura, Glück, Karma, Magie, Vitalität und Weisheit. Fünf davon kauft er mit Entwicklungspunkten. Die Weisheit steigt von selbst mit dem Kreis. Aus den Attributen entstehen viele weitere Werte des Helden, zum Beispiel Mana, [[Stufe-Kreis-Macht-und-Rerolls|Macht]], [[Ausdauer]], Gesundheit, Ausweichen, Trefferschwelle und Karma-Pool-Punkte. Wer zaubern, Psi wirken oder KI einsetzen will, braucht außerdem Aura und Magie (siehe unten).
 
 Attribute und [[Eigenschaften]] sind verschiedene Werte. Die Eigenschaften sind zehn eigene Werte mit eigener Kostenkurve und eigenen Höchstwerten. Die Attribute haben eine andere Kostenkurve und ihre eigene, nach Kreis gestaffelte Obergrenze.
 
@@ -18,11 +18,11 @@ Die Weisheit wird nicht gekauft. Sie beträgt immer:
 Weisheit = Kreis + 1
 ```
 
-Ein Held mit Kreis 0 hat Weisheit 1. Die Weisheit kostet keine Steigerungspunkte, hat kein eigenes Höchstmaß und unterliegt nicht dem Höchstwert der gekauften Attribute. Den Kreis erklärt das Kapitel [[Stufe-Kreis-Macht-und-Rerolls]].
+Ein Held mit Kreis 0 hat Weisheit 1. Die Weisheit kostet keine Entwicklungspunkte, hat kein eigenes Höchstmaß und unterliegt nicht dem Höchstwert der gekauften Attribute. Den Kreis erklärt das Kapitel [[Stufe-Kreis-Macht-und-Rerolls]].
 
 ## Kauf und Kosten
 
-Der Held kauft Aura, Glück, Karma, Magie und Vitalität mit Steigerungspunkten ([[Glossar#SP|SP]]). Der Wert ist immer eine ganze Zahl. Alle Kosten sind ganzzahlig, es wird nie gerundet.
+Der Held kauft Aura, Glück, Karma, Magie und Vitalität mit Entwicklungspunkten ([[Glossar#EP|EP]]). Der Wert ist immer eine ganze Zahl. Alle Kosten sind ganzzahlig, es wird nie gerundet.
 
 Die Kosten sind für alle fünf Attribute gleich und werden aufsummiert:
 
@@ -34,11 +34,11 @@ Preis für den nächsten Schritt (Wert → Wert + 1) = 80 + 20 × Wert
 | Wert | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | Preis des Schritts | – | 80 | 100 | 120 | 140 | 160 | 180 | 200 | 220 |
-| Gesamtkosten (SP) | 0 | 80 | 180 | 300 | 440 | 600 | 780 | 980 | 1200 |
+| Gesamtkosten (EP) | 0 | 80 | 180 | 300 | 440 | 600 | 780 | 980 | 1200 |
 
-Beispiele: Ein Held, der sein Attribut auf 1 kauft, zahlt 80 SP. Auf 4 kostet es insgesamt 440 SP, auf 7 insgesamt 980 SP. Der Schritt von 6 auf 7 kostet 80 + 20 × 6 = 200 SP.
+Beispiele: Ein Held, der sein Attribut auf 1 kauft, zahlt 80 EP. Auf 4 kostet es insgesamt 440 EP, auf 7 insgesamt 980 EP. Der Schritt von 6 auf 7 kostet 80 + 20 × 6 = 200 EP.
 
-Die gekauften Attribute zählen zu den ausgegebenen SP des Helden ([[Erfahrung-und-Steigerung]]). Boni aus Artefakten verändern die Kosten nicht.
+Die gekauften Attribute zählen zu den ausgegebenen EP des Helden ([[Erfahrung-und-Steigerung]]). Boni aus Artefakten verändern die Kosten nicht.
 
 ### Der Höchstwert
 
@@ -57,13 +57,13 @@ Höchstwert = 4 + Kreis, höchstens aber 7
 
 Maßgeblich ist der Kreis des Helden, nicht seine Stufe. Der Höchstwert gilt für jede Spezies gleich, für Spielercharaktere wie für Nichtspielercharaktere (NSC). Anders als bei den Eigenschaften hängt er von keinem Volk ab.
 
-Ein Held mit Kreis 0 kann sein Attribut also höchstens auf 4 kaufen. Das kostet insgesamt 440 SP.
+Ein Held mit Kreis 0 kann sein Attribut also höchstens auf 4 kaufen. Das kostet insgesamt 440 EP.
 
 Der Kreis kann nur steigen. Ein regulär gekaufter Wert liegt deshalb nie über dem später geltenden Höchstwert.
 
 ### Das Talent für das Höchstmaß
 
-Für jedes gekaufte Attribut gibt es ein eigenes Talent, das nur das Maximum dieses einen Attributs um 1 anhebt. Es kostet 18 Talentpunkte ([[Glossar#TaP|TaP]]) und ist erst ab Kreis 3 kaufbar. Unter Kreis 3 kann der Held es nicht kaufen. Mit dem Talent liegt der Höchstwert bei 8, und Wert 8 kostet 1200 SP, wie die Tabelle zeigt. Für die Weisheit gibt es das Talent nicht. Die Talente stehen im Kapitel [[Talente-die-Maxima-anheben]].
+Für jedes gekaufte Attribut gibt es ein eigenes Talent, das nur das Maximum dieses einen Attributs um 1 anhebt. Es kostet 18 Talentpunkte ([[Glossar#TaP|TaP]]) und ist erst ab Kreis 3 kaufbar. Unter Kreis 3 kann der Held es nicht kaufen. Mit dem Talent liegt der Höchstwert bei 8, und Wert 8 kostet 1200 EP, wie die Tabelle zeigt. Für die Weisheit gibt es das Talent nicht. Die Talente stehen im Kapitel [[Talente-die-Maxima-anheben]].
 
 ## Wer die Attribute kauft
 
@@ -75,7 +75,7 @@ Die Kauf- und Obergrenzregeln gelten für Spielercharaktere und für NSC einer s
 
 Karma ist bei der Erschaffung verborgen und bleibt auf 0, bis der Held Geweihter oder Paladin ist. Dafür braucht er die erste Stufe der Geweihten-Kette seiner Religion (siehe [[Religion]]). Diese Stufe hebt die Sperre. Sie setzt nicht voraus, dass der Held schon Karma über 0 hat.
 
-Verliert der Held die letzte Stufe der Kette, ist Karma wieder gesperrt. Das geschieht, wenn er im Charakterbogen die Religion wechselt oder wenn der Meister ihm die Stufe entzieht. Beides ist nur außerhalb einer Session möglich. Der gekaufte Wert von Karma wird dann auf 0 gesetzt, und der Held bekommt die dafür ausgegebenen SP zurück.
+Verliert der Held die letzte Stufe der Kette, ist Karma wieder gesperrt. Das geschieht, wenn er im Charakterbogen die Religion wechselt oder wenn der Meister ihm die Stufe entzieht. Beides ist nur außerhalb einer Session möglich. Der gekaufte Wert von Karma wird dann auf 0 gesetzt, und der Held bekommt die dafür ausgegebenen EP zurück.
 
 Ein göttliches Karma-Artefakt bleibt davon unberührt. Ein Held, der kein Geweihter ist, erhält das wirksame Karma des Artefakts voll, einschließlich seines Beitrags zu den Karma-Pool-Punkten und zur Macht.
 
@@ -85,7 +85,7 @@ KI, Psi und Spruchmagie setzen voraus, dass sowohl die gekaufte Magie als auch d
 
 ## Glück bei der Erschaffung
 
-Die Erschaffung eines Spielercharakters schlägt für Glück den Wert 1 vor und füllt ihn vor. Das ist kein Mindestwert und keine Gratisgabe: Die 80 SP für den Wert 1 zählen wie jeder Kauf, und der Spieler darf Glück auf 0 senken. Für die anderen vier gekauften Attribute gibt es keinen Vorschlag.
+Die Erschaffung eines Spielercharakters schlägt für Glück den Wert 1 vor und füllt ihn vor. Das ist kein Mindestwert und keine Gratisgabe: Die 80 EP für den Wert 1 zählen wie jeder Kauf, und der Spieler darf Glück auf 0 senken. Für die anderen vier gekauften Attribute gibt es keinen Vorschlag.
 
 ## Magische und göttliche Erhöhungen
 
@@ -102,9 +102,9 @@ Auch die Weisheit wird so behandelt. In Formeln wie Mana und Macht beträgt sie 
 
 ## Rückgabe
 
-Außerhalb einer laufenden Session kann der Held gekaufte Attribute jederzeit zurückgeben. Er bekommt die aufsummierten SP genau erstattet. Während einer Session ist die Rückgabe gesperrt.
+Außerhalb einer laufenden Session kann der Held gekaufte Attribute jederzeit zurückgeben. Er bekommt die aufsummierten EP genau erstattet. Während einer Session ist die Rückgabe gesperrt.
 
-Der Meister entzieht keine SP und senkt keinen gekauften Wert direkt. Eine Senkung in einer Szene ist ein Abzug auf den gekauften Wert, kein neuer Kaufwert. Gewährt der Meister dem Helden einen Nachteil, wirkt dieser mit seinem vollen SP-Effekt: Die verfügbaren SP des Helden steigen um die volle Gutschrift. Die gesamten Erfahrungspunkte ändern sich dadurch nie.
+Der Meister entzieht keine EP und senkt keinen gekauften Wert direkt. Eine Senkung in einer Szene ist ein Abzug auf den gekauften Wert, kein neuer Kaufwert. Gewährt der Meister dem Helden einen Nachteil, wirkt dieser mit seinem vollen EP-Effekt: Die verfügbaren EP des Helden steigen um die volle Gutschrift. Die gesamten Abenteuerpunkte ändern sich dadurch nie.
 
 Jede Rückgabe wird protokolliert und am Tisch angesagt.
 
@@ -136,7 +136,7 @@ Manche Zustände verbieten Proben, zum Beispiel Bewusstlos. Attributsproben sind
 
 Die Glücksprobe ist die am besten belegte Attributsprobe. Der Held kann sie als Verteidigung gegen Fernkampf- und Magie-Angriffe einsetzen, gleichrangig neben Ausweichen und Parade. Für sie gilt:
 
-- Sie kostet nichts, auch keine Aktionspunkte ([[Glossar#AP|AP]]). Ausweichen ([[Glossar#AW|AW]]) und Parade ([[Glossar#PA|PA]]) kosten den Verteidiger dagegen AP.
+- Sie kostet nichts, auch keine AK ([[Glossar#AK|Aktionskosten]]). Ausweichen ([[Glossar#AW|AW]]) und Parade ([[Glossar#PA|PA]]) kosten den Verteidiger dagegen AK.
 - Der Held kann sie beliebig oft pro Kampfrunde würfeln.
 - Gegen denselben einzelnen Angriff aber nur einmal.
 - Auch als Verteidigung bleibt sie eine Einzelprobe des Verteidigers, keine Vergleichsprobe zwischen zwei Seiten.

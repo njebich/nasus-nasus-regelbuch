@@ -1,12 +1,12 @@
 ---
 title: Kampfrunde, Aktionen, Initiative und Sicht
-aliases: [Kampfrunde, Kampfrunde-Aktionen-Initiative-und-Sicht, KR, Initiative, Ini, Runden-Ini-Wert, Ini-Wurf, Ini-Differenz, Nahkampf-Ini-Wert, Ansage, Rundenplan, Reaktionsfenster, Zielverlust, Nachsteuern, Aktionspunkte, AP, Aktionskosten, AK, Aktionsliste, Aktionsbudget, Kampf-Laufen-Probe, Kampf-Sprung-Probe, Extra-Aktion, EA, Zusatzaktion, Warten, Rufen, Waffe ziehen, Zielen, Nachladen, Sichtfeld, Facing, Blickrichtung, Sichtkegel, toter Winkel, Drehung, Orientierung, Überraschungsangriff, Gefahreninstinkt-Probe, Positions-Modifikator, Todesschwelle]
+aliases: [Kampfrunde, Kampfrunde-Aktionen-Initiative-und-Sicht, KR, Initiative, Ini, Runden-Ini-Wert, Ini-Wurf, Ini-Differenz, Nahkampf-Ini-Wert, Ansage, Rundenplan, Reaktionsfenster, Zielverlust, Nachsteuern, Aktionskosten, AK, Aktionsliste, Aktionsbudget, Kampf-Laufen-Probe, Kampf-Sprung-Probe, Extra-Aktion, EA, Zusatzaktion, Warten, Rufen, Waffe ziehen, Zielen, Nachladen, Sichtfeld, Facing, Blickrichtung, Sichtkegel, toter Winkel, Drehung, Orientierung, Überraschungsangriff, Gefahreninstinkt-Probe, Positions-Modifikator, Todesschwelle]
 status: entwurf
 ---
 
 # Kampfrunde, Aktionen, Initiative und Sicht
 
-In einer Kampfrunde handeln alle Teilnehmer nach demselben Ablauf: Erst wird die Reihenfolge ausgewürfelt, dann sagen alle ihre Handlungen an, dann führen alle sie aus. Jeder Teilnehmer hat dafür ein festes Budget an Aktionspunkten, und jeder blickt in eine bestimmte Richtung. Dieses Kapitel beschreibt den Ablauf der Runde, die Initiative, die Kosten aller Aktionen und das Sichtfeld mit den Überraschungsangriffen im Nahkampf. Die einzelnen Kampfhandlungen stehen in [[Nahkampf-im-Kampf]], [[Fernkampf-im-Kampf]] und [[Magie-im-Kampf]].
+In einer Kampfrunde handeln alle Teilnehmer nach demselben Ablauf: Erst wird die Reihenfolge ausgewürfelt, dann sagen alle ihre Handlungen an, dann führen alle sie aus. Jeder Teilnehmer hat dafür ein festes Budget an Aktionskosten, und jeder blickt in eine bestimmte Richtung. Dieses Kapitel beschreibt den Ablauf der Runde, die Initiative, die Kosten aller Aktionen und das Sichtfeld mit den Überraschungsangriffen im Nahkampf. Die einzelnen Kampfhandlungen stehen in [[Nahkampf-im-Kampf]], [[Fernkampf-im-Kampf]] und [[Magie-im-Kampf]].
 
 ## Die Kampfrunde im Überblick
 
@@ -57,19 +57,19 @@ Innerhalb einer Nahkampf-Gruppe gilt statt des Runden-Ini-Werts der Nahkampf-Ini
 - Das Meisterscreen-Gitter ändert die Rangfolge der Runde nicht. Seine Ausgänge „Ini bestimmen“ und „Ini-Wechsel“ wirken nur innerhalb einer Nahkampf-Gruppe, und zwar auf deren Rangfolge im Nahkampf. Die Neubestimmung dort folgt dem eigenen Takt der Gruppe ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]).
 - Treten mehrere Wesen innerhalb einer Runde gleichzeitig in eine Nahkampf-Gruppe ein, ist das ein Sonderfall der Gruppe.
 
-## Aktionspunkte und Aktionskosten
+## Aktionskosten
 
 ### Das Budget
 
-Jeder Teilnehmer hat in jeder Kampfrunde 3 Aktionspunkte ([[Glossar#AP|AP]]). Jede Aktion hat einen Preis in Aktionskosten ([[Glossar#AK|AK]]). Die Aktionskosten aller Aktionen, die der Teilnehmer in einer Kampfrunde ausführt, ergeben zusammen höchstens 3.
+Jede Aktion hat einen Preis in Aktionskosten ([[Glossar#AK|AK]]). Pro Runde kannst du Aktionen mit Gesamtkosten von höchstens 3 AK ausführen.
 
 - Jede Aktion kann nur einmal je Kampfrunde ausgeführt werden. Einzige Ausnahme ist der Tausch einer angesagten Drehung gegen eine andere Drehung (siehe „Drehung“ im Abschnitt zur Sicht). Die Extra-Aktion ist keine reguläre Aktion.
-- Nicht genutzte Aktionspunkte verfallen am Ende der Kampfrunde. Sie werden nicht übertragen.
+- Nicht genutzte AK verfallen am Ende der Kampfrunde. Sie werden nicht übertragen.
 - Kommunikation („Rufen“) kostet keine Aktionskosten. Sie ist auf den Inhalt begrenzt, der in einer Kampfrunde, also einer Sekunde, übermittelt werden kann. Während der Vorbereitungszeit eines Zaubers ([[Magie-Wirkungsdauer-und-Konzentration|Magie: Wirkungsdauer und Konzentration]]) ist sie nicht möglich.
 - Pro Kampfrunde ist höchstens eine Aktion der Kategorie „Laufen“ erlaubt. Dazu gehören Gehen, Laufen, Sprint, Sprung und Fliehen. Das gilt auch dann, wenn eine erfolgreiche Kampf-Laufen-Probe die Aktionskosten auf 0 senkt.
 - Pro Kampfrunde ist höchstens eine Extra-Aktion erlaubt.
 
-Aktionspunkte und Ausdauer sind getrennt. Die Ausdauerkosten einer Kampfaktion stehen bei der Aktion selbst ([[Nahkampf]], [[Fernkampf]]). Im Blutrausch entfallen nur die Ausdauerabzüge der Kampfaktionen. Das Budget von 3 Aktionspunkten bleibt.
+Aktionskosten und Ausdauer sind getrennt. Die Ausdauerkosten einer Kampfaktion stehen bei der Aktion selbst ([[Nahkampf]], [[Fernkampf]]). Im Blutrausch entfallen nur die Ausdauerabzüge der Kampfaktionen. Das Budget von 3 AK bleibt.
 
 ### Die Aktionsliste
 
@@ -140,7 +140,7 @@ Die Parade ist die letzte wählbare Aktion in der Kampfrunde.
 - Ein abgelegter Gegenstand ist ohne Probe wieder aufnehmbar.
 - Der Rucksack wird mit Ablegen abgesetzt und mit Einstecken aufgesetzt. Eine Waffe aus dem Rucksack zu holen heißt also: Rucksack absetzen (Ablegen), Waffe herausnehmen (Aufnehmen), Rucksack aufsetzen (Einstecken).
 - Einen fallen gelassenen Gegenstand muss der Held erst lokalisieren, bevor er ihn aufheben kann.
-- Finden entscheidet der Meister. Ist der Gegenstand durch Entwaffnen oder durch die Selbstbeherrschungstabelle verloren gegangen, entfällt der Meisterentscheid. Dann ist das Suchen eine Ansage ohne Aktionspunkte. In der Such-Kampfrunde gilt die Herabstufung KK −1 ([[Behinderung-und-Erschwernis]]). Suchzeit und Sinnesschärfe-Probe richten sich nach dem Zustand „Verlorenen Gegenstand aufheben“ ([[Treffer-und-Schaden]]). Der gefundene Gegenstand wird am Landeort aufgenommen. Die Herabstufung KK −1 gilt dafür nicht.
+- Finden entscheidet der Meister. Ist der Gegenstand durch Entwaffnen oder durch die Selbstbeherrschungstabelle verloren gegangen, entfällt der Meisterentscheid. Dann ist das Suchen eine Ansage ohne AK. In der Such-Kampfrunde gilt die Herabstufung KK −1 ([[Behinderung-und-Erschwernis]]). Suchzeit und Sinnesschärfe-Probe richten sich nach dem Zustand „Verlorenen Gegenstand aufheben“ ([[Treffer-und-Schaden]]). Der gefundene Gegenstand wird am Landeort aufgenommen. Die Herabstufung KK −1 gilt dafür nicht.
 
 ### Laufen und die Kampf-Laufen-Probe
 
@@ -184,16 +184,16 @@ Nachladen kostet 3 AK und belegt immer die volle Kampfrunde. Wie viele Kampfrund
 
 Der Verteidiger wählt bei jedem Angriff eine von drei Antworten: Parade, defensives Ausweichen oder offensives Ausweichen. Die Werte der Proben stehen in [[Nahkampf]]. Hier stehen die Kosten:
 
-- **Defensives Ausweichen** kostet 1 AK und lässt 2 Aktionspunkte frei, zum Beispiel für eine Parade als Rückfall oder für eine Bewegung. Im Meisterscreen-Gitter bringt es die Ausgänge „Flucht möglich“ und die Rückfall-Parade ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]).
+- **Defensives Ausweichen** kostet 1 AK und lässt 2 AK frei, zum Beispiel für eine Parade als Rückfall oder für eine Bewegung. Im Meisterscreen-Gitter bringt es die Ausgänge „Flucht möglich“ und die Rückfall-Parade ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]).
 - **Offensives Ausweichen** kostet 3 AK und belegt die ganze Kampfrunde. Es bleiben nur Aktionen für 0 AK. Dafür schaltet es im Gitter die Gegenangriffs-Ausgänge frei, etwa die Konter-Extra-Aktion.
 
 ### Warten
 
-Warten kostet keine Aktionspunkte. Der Wartende darf als Reaktion trotzdem defensives Ausweichen (1 AK), offensives Ausweichen (3) oder eine Parade (2) einsetzen. Er bezahlt sie aus seinem zurückbehaltenen Budget von 3 Aktionspunkten.
+Warten kostet keine AK. Der Wartende darf als Reaktion trotzdem defensives Ausweichen (1 AK), offensives Ausweichen (3) oder eine Parade (2) einsetzen. Er bezahlt sie aus seinem zurückbehaltenen Budget von 3 AK.
 
-### Aktionspunkte von Zaubern
+### Aktionskosten von Zaubern
 
-Wie viele Aktionspunkte ein neuer Spruchzauber, eine neue KI-Fähigkeit oder ein neuer Psi-Zauber kostet, hängt davon ab, wie viel der Held von seinem jeweiligen Attribut noch frei hat. Jede Disziplin hat ihren eigenen freien Wert, und die drei sind unabhängig voneinander ([[Magie-Wirkungsdauer-und-Konzentration|Magie: Wirkungsdauer und Konzentration]]):
+Wie viele AK ein neuer Spruchzauber, eine neue KI-Fähigkeit oder ein neuer Psi-Zauber kostet, hängt davon ab, wie viel der Held von seinem jeweiligen Attribut noch frei hat. Jede Disziplin hat ihren eigenen freien Wert, und die drei sind unabhängig voneinander ([[Magie-Wirkungsdauer-und-Konzentration|Magie: Wirkungsdauer und Konzentration]]):
 
 - **KI:** freie Aura = Aura − Anzahl der aktiven KI-Fähigkeiten
 - **Psi:** freie Magie = Magie − Summe der gewählten Psi-Stufen
@@ -201,18 +201,18 @@ Wie viele Aktionspunkte ein neuer Spruchzauber, eine neue KI-Fähigkeit oder ein
 
 Ist die verfügbare Weisheit eine Bruchzahl, zählt für die Staffel ihr ganzzahliger Anteil.
 
-| freier Wert | Aktionspunkte des Zaubers |
+| freier Wert | Aktionskosten des Zaubers |
 |---:|---:|
 | 1 bis 2 | 3 |
 | 3 bis 4 | 2 |
 | 5 bis 6 | 1 |
 | 7 und mehr | 0 |
 
-- Bei 3 Aktionspunkten belegt der Zauber die volle Kampfrunde. Daneben ist nur beiläufige Bewegung möglich, aber kein zweiter Schritt, der Aktionskosten hat.
-- Bei 2 Aktionspunkten bleibt 1 Aktionspunkt für eine Aktion zu 1 AK.
-- Bei 1 Aktionspunkt bleiben 2 Aktionspunkte frei.
-- Bei 0 Aktionspunkten läuft der Zauber neben einem vollen Rundenplan von 3 Aktionspunkten mit, zum Beispiel Attacke und Zauber.
-- Die übrigen Aktionspunkte werden nach den normalen Budgetregeln verwendet.
+- Bei 3 AK belegt der Zauber die volle Kampfrunde. Daneben ist nur beiläufige Bewegung möglich, aber kein zweiter Schritt, der Aktionskosten hat.
+- Bei 2 AK bleibt 1 AK für eine Aktion zu 1 AK.
+- Bei 1 AK bleiben 2 AK frei.
+- Bei 0 AK läuft der Zauber neben einem vollen Rundenplan von 3 AK mit, zum Beispiel Attacke und Zauber.
+- Die übrigen AK werden nach den normalen Budgetregeln verwendet.
 - Für einen neuen Effekt braucht der Held während der Vorbereitungszeit mindestens 1 Punkt im freien Wert seiner Disziplin. Sonst entsteht kein neuer Effekt.
 - Einen bereits laufenden Zauber zu halten („Spruchzauber halten“) kostet 1 AK. Das ist unabhängig von der Staffel, denn es wirkt keinen neuen Zauber.
 
@@ -220,12 +220,12 @@ Wie stark jede aktive Wirkung den freien Wert senkt, steht bei [[KI]], [[Psi]] u
 
 ### Extra-Aktionen
 
-Eine Extra-Aktion ist eine Zusatzaktion, die ein Unterschied der Kampfklassen gewährt. Im Meisterscreen-Gitter heißt sie auch Konter-Extra-Aktion, unbewaffnete Extra-Aktion oder bewaffnete Extra-Aktion. Für die Aktionspunkte gilt:
+Eine Extra-Aktion ist eine Zusatzaktion, die ein Unterschied der Kampfklassen gewährt. Im Meisterscreen-Gitter heißt sie auch Konter-Extra-Aktion, unbewaffnete Extra-Aktion oder bewaffnete Extra-Aktion. Für die Aktionskosten gilt:
 
 - Die Extra-Aktion kostet 0 AK.
-- Sie wird nicht aus dem Budget von 3 Aktionspunkten bezahlt. Sie steht auch dann zur Verfügung, wenn das Budget schon verbraucht ist, etwa direkt nach einer Attacke für 3 AK.
+- Sie wird nicht aus dem Budget von 3 AK bezahlt. Sie steht auch dann zur Verfügung, wenn das Budget schon verbraucht ist, etwa direkt nach einer Attacke für 3 AK.
 - Je Kampfrunde ist höchstens eine Extra-Aktion erlaubt.
-- Die „PA-Extra-Aktion“ des Gitters ist keine Extra-Aktion. Sie ist eine gewöhnliche Parade als Reaktion, die vollständig aus den tatsächlich verbliebenen Aktionspunkten der Kampfrunde bezahlt wird (Parade = 2 AK). Hat der Verteidiger nach seiner angesagten Aktion keine 2 Aktionspunkte mehr, ist keine spontane Parade möglich.
+- Die „PA-Extra-Aktion“ des Gitters ist keine Extra-Aktion. Sie ist eine gewöhnliche Parade als Reaktion, die vollständig aus den tatsächlich verbliebenen AK der Kampfrunde bezahlt wird (Parade = 2 AK). Hat der Verteidiger nach seiner angesagten Aktion keine 2 AK mehr, ist keine spontane Parade möglich.
 
 Welche Gitter-Ausgänge eine Extra-Aktion gewähren, wer sie ausführt und welche Proben sie braucht, steht in [[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]].
 
@@ -238,19 +238,19 @@ Welche Gitter-Ausgänge eine Extra-Aktion gewähren, wer sie ausführt und welch
 - Bat’leth orkisch
 - die Grundzeile Unbewaffnet sowie die Zeilen Gepanzert, Schlagring und Veteranenhand
 
-### Grenzfälle der Aktionspunkte
+### Grenzfälle der Aktionskosten
 
 - Eine Attacke (3 AK) füllt das Budget. Dazu kommt nur noch eine Extra-Aktion oder eine andere Aktion für 0 AK.
 - Defensives Ausweichen (1) und Parade (2) ergeben zusammen 3 und sind zulässig. Die Parade deckt auch die spontane Parade der „PA-Extra-Aktion“ ab.
 - Zwei verschiedene Bewegungen, zum Beispiel Gehen und Sprint, schließt die Grenze von einer Laufen-Aktion je Kampfrunde aus. Eine Drehung gehört zu einer eigenen Kategorie und ist zusätzlich möglich.
-- Zauber und volle Attacke in einer Kampfrunde gehen nur bei einem freien Wert von 7 oder mehr, denn dann kostet der Zauber 0 Aktionspunkte. Bei einem freien Wert von 5 bis 6 kostet der Zauber 1 Aktionspunkt. Es bleiben 2, genug für defensives Ausweichen plus Drehung oder für eine Parade, aber nicht für eine Attacke.
-- Bildet sich in derselben Kampfrunde gleichzeitig eine Nahkampf-Gruppe neu, bleiben nur die Aktionskosten gebunden, die für die auslösende Bewegung schon ausgegeben sind. Die übrigen Aktionspunkte der Kampfrunde werden neu verteilt ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]).
+- Zauber und volle Attacke in einer Kampfrunde gehen nur bei einem freien Wert von 7 oder mehr, denn dann kostet der Zauber 0 AK. Bei einem freien Wert von 5 bis 6 kostet der Zauber 1 AK. Es bleiben 2, genug für defensives Ausweichen plus Drehung oder für eine Parade, aber nicht für eine Attacke.
+- Bildet sich in derselben Kampfrunde gleichzeitig eine Nahkampf-Gruppe neu, bleiben nur die Aktionskosten gebunden, die für die auslösende Bewegung schon ausgegeben sind. Die übrigen AK der Kampfrunde werden neu verteilt ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]).
 
 ## Ansage und Ausführung
 
 ### Die Ansage
 
-Wer an der Reihe ist, sagt seinen kompletten Rundenplan an. Das sind alle Aktionen, die er in dieser Kampfrunde im Budget von 3 AP ausführen will. Er sagt sie gebündelt in einer Ansage an und nicht Aktion für Aktion einzeln. Zu jeder Aktion gehört das Ziel.
+Wer an der Reihe ist, sagt seinen kompletten Rundenplan an. Das sind alle Aktionen, die er in dieser Kampfrunde im Budget von 3 AK ausführen will. Er sagt sie gebündelt in einer Ansage an und nicht Aktion für Aktion einzeln. Zu jeder Aktion gehört das Ziel.
 
 - Die Ansage ist bindend. In der Ausführungs-Phase wird jede Handlung exakt wie angesagt ausgeführt. Die einzige Ausnahme ist das Nachsteuern bei Zielverlust (siehe unten).
 - Die Ansage ist öffentlich. Wer später ansagt, kennt jede frühere Handlung samt Ziel.
@@ -273,8 +273,8 @@ Erreicht eine Nahkampf-Gruppe in dieser Reihenfolge ihren Platz, wird sie in sic
 Ist das angesagte Ziel zum Zeitpunkt der Ausführung weg, weil es in Deckung gegangen, außerhalb des Sichtfelds oder tot ist, gilt:
 
 - Die Handlung, die an das Ziel gebunden ist, muss nicht ausgeführt werden. Das sind die Nahkampf-Attacke, der Fernkampf-Schuss und die Vollendung eines Zaubers.
-- Die dadurch frei gewordenen AP dürfen nur für eine Drehung oder eine Defensivaktion verwendet werden, für keine andere neue Handlung.
-- Eine angesagte Laufen-Bewegung darf wahlweise ausgeführt oder unterlassen werden. Unterlässt der Teilnehmer sie, erlauben die frei gewordenen AP keine neue Bewegung. Auch dann sind nur Drehung oder Defensivaktion möglich.
+- Die dadurch frei gewordenen AK dürfen nur für eine Drehung oder eine Defensivaktion verwendet werden, für keine andere neue Handlung.
+- Eine angesagte Laufen-Bewegung darf wahlweise ausgeführt oder unterlassen werden. Unterlässt der Teilnehmer sie, erlauben die frei gewordenen AK keine neue Bewegung. Auch dann sind nur Drehung oder Defensivaktion möglich.
 - Das gilt gleichermaßen für Nahkampf, Fernkampf und Magie.
 
 Wann ein Ziel „außerhalb des Sichtfelds“ ist, steht im Abschnitt zur Sicht. Zu Deckung siehe [[Deckung]].
@@ -298,7 +298,7 @@ Mit Intelligenz 11, Geschicklichkeit 11 und Athletik 11 (Mut und Schnelligkeit w
 
 Hätte B die bessere Ini-Differenz geworfen, hätte A auf den später angesagten Schuss von B in dieser Kampfrunde nicht mehr reagieren können.
 
-**Nachsteuern bei Zielverlust.** C hat „Fernkampf-Schuss auf D“ angesagt, das kostet 3 AP. In der Ausführungs-Phase ist D vor C an der Reihe und geht in Deckung. C muss nicht schießen. Die frei gewordenen AP darf C nur für eine Drehung oder eine Defensivaktion nutzen.
+**Nachsteuern bei Zielverlust.** C hat „Fernkampf-Schuss auf D“ angesagt, das kostet 3 AK. In der Ausführungs-Phase ist D vor C an der Reihe und geht in Deckung. C muss nicht schießen. Die frei gewordenen AK darf C nur für eine Drehung oder eine Defensivaktion nutzen.
 
 ## Die zehn Schritte der Kampfrunde
 
@@ -395,7 +395,7 @@ Orientierung ist also entweder gratis oder zieht eine Drehung nach sich.
 - **Erzwungene Reaktion.** Muss der Held während des Ziehens oder Ladens einer Waffe ausweichen, verzögert sich diese Handlung. Eine Drehung wird ohne Verzögerung ausgeführt. Sie kostet 0 bis 2 AK.
 - **Mehrere Gegner um den Helden.** Nur die Gegner in den drei gesehenen Richtungen sind in Sicht. In der Nahkampf-Gruppe entfällt die Pflicht zur Orientierung.
 - **180°-Drehung bei einem Ziel genau hinter dem Helden.** Danach steht das Ziel frontal und ist voll im Sichtfeld.
-- **Drehung als Nachsteuer-Option.** Beim Zielverlust erlauben die frei gewordenen AP nur Drehung oder Defensivaktion. Eine Drehung um bis zu 180° ist fast immer noch möglich, denn sie kostet 0 bis 2 AK.
+- **Drehung als Nachsteuer-Option.** Beim Zielverlust erlauben die frei gewordenen AK nur Drehung oder Defensivaktion. Eine Drehung um bis zu 180° ist fast immer noch möglich, denn sie kostet 0 bis 2 AK.
 - **Eine Drehung ändert die Lage zu allen Gegnern.** Die Klasse nach der Tabelle oben wird für jeden Angriff nach der Blickrichtung bei dessen Attacke neu bestimmt. Dreht sich ein überraschtes Ziel zum Angreifer hin, kommen dadurch andere Gegner aus dem toten Winkel in den Sichtkegel, und ein frontaler Gegner kann herausgedreht werden. Beispiel: Zwei Angreifer haben beide eine bessere Initiative als das Ziel. Der mit der besten Initiative greift überraschend aus S an, ein zweiter steht in SO. Dreht sich das Ziel um 180° zum Angreifer aus S, steht der zweite danach seitlich im Sichtkegel. Sein folgender Angriff ist „visuell“ (siehe unten), und das Ziel kann voll ausweichen.
 - **Flucht statt Drehung.** Nimmt das überraschte Ziel den Angriff wahr, weil seine Gefahreninstinkt-Probe gelingt oder weil die Drehung den Angreifer in Sicht bringt, kann es statt zu drehen und zu kämpfen die Flucht ansagen: defensives Ausweichen plus Fliehen, zusammen 3 AK. Gelingt der Ablauf der Flucht, entgeht das Ziel den Attacken der übrigen Gegner der Gruppe. Die Gruppe löst sich für den Fliehenden auf ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]).
 
@@ -422,7 +422,7 @@ Entscheidend ist das Feld, in dem der Angreifer im Moment seiner Attacke steht, 
 Für jeden Nahkampf-Angriff hat das Ziel einen von drei Zuständen:
 
 - **Visuell.** Der Angreifer steht bei seiner Attacke im Sichtkegel des Ziels (N, NO oder NW).
-- **Verfolgt.** Der Angreifer steht im toten Winkel (SO, SW oder S), ist dem Ziel aber bekannt: Er hat in einer früheren Kampfrunde schon angegriffen, er war vorher in Sicht, oder ein Verbündeter hat ihn durch einen Ruf lokalisiert (Rufen kostet 0 AP). Verfolgt ist der Zustand auch, wenn das Ziel in dieser Kampfrunde seine Gefahreninstinkt-Probe besteht.
+- **Verfolgt.** Der Angreifer steht im toten Winkel (SO, SW oder S), ist dem Ziel aber bekannt: Er hat in einer früheren Kampfrunde schon angegriffen, er war vorher in Sicht, oder ein Verbündeter hat ihn durch einen Ruf lokalisiert (Rufen kostet 0 AK). Verfolgt ist der Zustand auch, wenn das Ziel in dieser Kampfrunde seine Gefahreninstinkt-Probe besteht.
 - **Überrascht.** Der Angreifer steht im toten Winkel, ist dem Ziel unbekannt (der Meister hat ihn nicht platziert) und das Ziel verfehlt seine Gefahreninstinkt-Probe.
 
 Überrascht ist der eigentliche Überraschungsangriff. Ab der folgenden Kampfrunde ist der Angreifer bekannt.
@@ -447,25 +447,25 @@ Die Probe ist eine einfache Probe auf eine [[Grundfertigkeiten|Grundfertigkeit]]
 
 Der Angreifer behält in jedem Fall sein +1 bei SO, SW und S.
 
-Einem Angriff, den es nicht kommen spürt, weicht das Ziel nicht aus. Es bleibt nur die zusätzlich erschwerte Parade, sofern das Budget an AP dafür reicht. Das Ausweichen ist entweder voll verfügbar oder gar nicht. Einen verminderten Ausweichmodus gibt es nicht.
+Einem Angriff, den es nicht kommen spürt, weicht das Ziel nicht aus. Es bleibt nur die zusätzlich erschwerte Parade, sofern das Budget an AK dafür reicht. Das Ausweichen ist entweder voll verfügbar oder gar nicht. Einen verminderten Ausweichmodus gibt es nicht.
 
 ### Die Reaktion auf einen Überraschungsangriff
 
-- Das Ziel hat gegen einen unbekannten Angreifer aus dem toten Winkel nichts angesagt. Es reagiert mit seinem vollen Budget von 3 AP, unabhängig von der Initiative. Es kann eine Drehung (0, 1 oder 2 AK für 60°, 120° oder 180°, höchstens eine je Kampfrunde) und eine Verteidigung beliebig im Budget verbinden. Der Preis für das kalte Reagieren sind die Positions-Mali und, nach misslungener Gefahreninstinkt-Probe, das bleibende −1.
+- Das Ziel hat gegen einen unbekannten Angreifer aus dem toten Winkel nichts angesagt. Es reagiert mit seinem vollen Budget von 3 AK, unabhängig von der Initiative. Es kann eine Drehung (0, 1 oder 2 AK für 60°, 120° oder 180°, höchstens eine je Kampfrunde) und eine Verteidigung beliebig im Budget verbinden. Der Preis für das kalte Reagieren sind die Positions-Mali und, nach misslungener Gefahreninstinkt-Probe, das bleibende −1.
 - Gezielt zum Angreifer hindrehen kann sich das Ziel nur nach bestandener Gefahreninstinkt-Probe, sonst kennt es die Richtung nicht. Die Spieler sollen kein Wissen nutzen, das ihr Held nicht hat. Nach einem Fehlschlag bleibt es beim Zustand „überrascht“: kein gezieltes Hindrehen, kein Ausweichen, nur die durch die Position erschwerte Parade mit dem bleibenden −1.
 - Bringt eine Drehung den Angreifer bis zu seiner Attacke in den Sichtkegel, wird der Zustand „visuell“. Das Ausweichen ist wieder voll möglich, und der Positions-Modifikator richtet sich nach der neuen Richtung. Das bleibende −1 an der Parade bleibt, wenn die Probe vorher misslungen war. Es bleibt auch dann, wenn die Drehung aus einem anderen Grund erfolgt, etwa zu einem anderen, sichtbaren Gegner.
 - Ab der nächsten Kampfrunde ist der Angreifer bekannt: Der Zustand ist „verfolgt“, es gibt keine Gefahreninstinkt-Probe und kein bleibendes −1. Ein weiterer Angriff aus dem toten Winkel trägt nur noch den Positions-Modifikator. Drehen und Verteidigen folgen dem normalen Ablauf der Kampfrunde.
 
 ### Beispiel: Angreifer aus S, Gefahreninstinkt gelungen
 
-Das Ziel besteht die Gefahreninstinkt-Probe. Der Zustand ist „verfolgt“, das Ausweichen deshalb durchgehend voll. Das Ziel hat die vollen 3 AP.
+Das Ziel besteht die Gefahreninstinkt-Probe. Der Zustand ist „verfolgt“, das Ausweichen deshalb durchgehend voll. Das Ziel hat die vollen 3 AK.
 
-- **Keine Drehung** (0 AK, 3 AP übrig): Der Angreifer steht bei S. Attacke-Klasse +1, Parade-Klasse −2. Ausweichen voll.
-- **Drehung um 60°** (0 AK, 3 AP übrig): Der Angreifer steht bei SO oder SW. Attacke-Klasse +1, Parade-Klasse −1. Ausweichen voll.
-- **Drehung um 120°** (1 AK, 2 AP übrig): Der Angreifer steht bei NO oder NW. Parade-Klasse −1. Ausweichen voll.
-- **Drehung um 180°** (2 AK, 1 AP übrig): Der Angreifer steht bei N, frontal. Kein Positions-Modifikator. Ausweichen voll, aber mit nur 1 AP bleibt nur das defensive Ausweichen (1 AK). Eine Parade (2 AK) ist nicht mehr möglich.
+- **Keine Drehung** (0 AK, 3 AK übrig): Der Angreifer steht bei S. Attacke-Klasse +1, Parade-Klasse −2. Ausweichen voll.
+- **Drehung um 60°** (0 AK, 3 AK übrig): Der Angreifer steht bei SO oder SW. Attacke-Klasse +1, Parade-Klasse −1. Ausweichen voll.
+- **Drehung um 120°** (1 AK, 2 AK übrig): Der Angreifer steht bei NO oder NW. Parade-Klasse −1. Ausweichen voll.
+- **Drehung um 180°** (2 AK, 1 AK übrig): Der Angreifer steht bei N, frontal. Kein Positions-Modifikator. Ausweichen voll, aber mit nur 1 AK bleibt nur das defensive Ausweichen (1 AK). Eine Parade (2 AK) ist nicht mehr möglich.
 
-Die Drehung um 60° ist umsonst: Sie kostet 0 AK und senkt den Malus der Parade von −2 auf −1. Größere Drehungen kosten AP, die dann für die Verteidigung fehlen, senken den Malus aber weiter.
+Die Drehung um 60° ist umsonst: Sie kostet 0 AK und senkt den Malus der Parade von −2 auf −1. Größere Drehungen kosten AK, die dann für die Verteidigung fehlen, senken den Malus aber weiter.
 
 Misslingt die Gefahreninstinkt-Probe, entfällt diese ganze Leiter. Es gibt keine gezielte Drehung und kein Ausweichen, nur die Parade: mit Attacke-Klasse +1 und Parade-Klasse −3 bei S, mit Attacke-Klasse +1 und Parade-Klasse −2 bei SO oder SW.
 
