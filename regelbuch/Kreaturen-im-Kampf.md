@@ -238,7 +238,7 @@ Gegen Kerne ändert „Heilig“ nichts, denn deren Überschuss geht ohnehin an 
 - **Spinnenbein.** Ein Glied am Kopfbruststück, wie der Oktopusarm.
 - **Schwanz** an Oberleib und Unterleib. Ein Nahkampftreffer mit gAT auf den Schwanz in einem Hexfeld, in dem nur der Unterleib steht: Der Überschuss geht an den Unterleib. Stehen beide Kern-Zonen im Feld, geht er an die, die in der Tabelle zuerst steht, also an den Oberleib.
 - **Drache.** Er belegt 4 Hexfelder. Kopf und Oberleib liegen in den vorderen Feldern, Unterleib und Schwanz in den hinteren. Er hat zwei Flügel, deren Anschluss auf Oberleib und Unterleib liegt. Der linke Flügel liegt auf dem linken vorderen und dem linken hinteren Feld. Er ist eine Zone mit einer LE und steht in beiden Tabellen mit vollem Gewicht. Ist seine LE erschöpft oder steht sie auf 0, geht der Überschuss oder der gesamte Schaden bei einem Angriff auf das linke vordere Feld an den Oberleib, bei einem Angriff auf das linke hintere Feld an den Unterleib. Ein Treffer aus dem einen Feld zieht dieselbe LE des Flügels ab wie ein Treffer aus dem anderen.
-- **Untoter mit Armen** (mehr als eine Zone). Ein heiliger Fernkampftreffer auf den Arm mit Überschuss: Der Überschuss geht an die angeschlossene Zone, die Brust.
+- **Untoter mit Armen** (mehr als eine Zone). Ein heiliger Fernkampftreffer auf den Arm mit Überschuss: Der Überschuss geht an die angeschlossene Zone, die Brust. Bei einem körperlichen Untoten mit UK 12 am Arm und 18 Trefferpunkten ist der Überschuss 6, und er kommt auf die Rundensumme der Brust.
 - **Magiekonstrukt** (eine Zone, keine Gesundheit). Ein heiliger Treffer mit Überschuss: Der Überschuss verfällt, denn das Konstrukt hat weder eine andere Zone noch Gesundheit.
 - **Geist** (Magiekorpus, untot, eine Zone, keine Gesundheit). Ein heiliger Treffer mit Überschuss: Der Überschuss verfällt, aus demselben Grund.
 - **Dämonide** (Wirt mit zwei Armen, zwei Beinen und Rumpf). Ein heiliger Nahkampftreffer auf ein Bein mit Überschuss, ohne gAT: Der Überschuss geht an die angeschlossene Zone, weil der Dämonide wie ein Magiekonstrukt mit mehr als einer Zone behandelt wird.
@@ -272,7 +272,7 @@ Gebrochen und Heilender Knochen gibt es nur bei den Skelettkategorien Endoskelet
 
 Bei den Kategorien „kein Skelett“ und „immateriell“ entfällt der Bruch, und der Heilende Knochen kann nicht entstehen. Fällt eine Zone durch einen einzigen Treffer von ihrer vollen LE auf 0, trägt sie die verdoppelte Behinderung, solange ihre LE 0 beträgt. Steht die LE wieder über 0, endet die Behinderung. Ein Heilzauber, der einen Bruch heilen würde, heilt nur die Wunde oder wirkt wie sonst auf LE und Gesundheit.
 
-Die Sonderschwelle für Hand und Fuß (Bruch bereits ab der halben maximalen LE der Gruppe, aufgerundet) gilt für jede Krit-Zeile der Wirkungsarten Greifen und Stand, auch für deren Ersatzzeilen (Armspitze, Klaue, Greifzange).
+Die Sonderschwelle für Hand und Fuß (Bruch bereits ab der halben maximalen LE der Gruppe, aufgerundet) gilt für jede Krit-Zeile der Wirkungsarten Greifen und Stand, auch für deren Ersatzzeilen (Armspitze, Klaue, Greifzange). Die Flügelspitze hat keine Sonderschwelle.
 
 ### Amputation
 
@@ -343,6 +343,8 @@ Die getroffene Zone wird wie üblich ausgewürfelt. Die Trefferpunkte jedes Tref
 - **Jede andere Zone:** Der Untote ist niedergestreckt.
 
 Mit der nächsten Kampfrunde beginnt jede Zone wieder bei 0. Der Schaden bleibt nicht stehen.
+
+Heiliger Schaden gegen ein Glied: Was über die UK hinausgeht, kommt auf die Rundensumme der angeschlossenen Zone. Der Überschuss ist die Rundensumme des Glieds nach dem Treffer minus seine UK.
 
 Ein niedergestreckter Untoter ist nicht tot. Er bleibt bis Sonnenuntergang liegen und steht dann wieder auf, mit der vollen UK für jede Zone, die er noch hat. Abgetrennte Glieder wachsen nicht nach.
 

@@ -18,7 +18,7 @@ Der Held schlägt dem Gegner die Waffe aus der Hand. Der Gegner wählt zuerst se
 
 Hat der Gegner mit einer Parade pariert, deren Klasse gleich der Klasse der Attacke oder schlechter ist, würfelt er eine Probe auf Geschicklichkeit, die um X erschwert ist. Weicht er aus oder pariert er mit einer besseren Klasse, scheitert das Entwaffnen.
 
-Misslingt dem Gegner die Probe, verliert er die Waffe seiner Haupthand. Ist die Haupthand leer, verliert er die Waffe der Nebenhand. Er erhält den Zustand „Verlorenen Gegenstand aufheben“ ([[Zustaende-Katalog]]). Hat er die Waffe bewusst aufgegeben, erhält er den Zustand nicht.
+Misslingt dem Gegner die Probe, verliert er die Waffe seiner Haupthand. Ist die Haupthand leer, verliert er die Waffe der Nebenhand. Er erhält den Zustand „Verlorenen Gegenstand aufheben“ ([[Treffer-und-Schaden]]). Hat er die Waffe bewusst aufgegeben, erhält er den Zustand nicht.
 
 Wo die Waffe landet, würfelt der Meister verdeckt. Für die Richtung würfelt er einen W8:
 

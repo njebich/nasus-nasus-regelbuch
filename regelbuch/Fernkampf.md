@@ -133,7 +133,7 @@ Ergibt der Wurf höchstens n, gelingt die Probe. Ist das Ergebnis größer, miss
 
 ### Sehr niedriger Wert
 
-Fällt der Basiswert nach Abzug der KBE auf 1 oder darunter, schiebt sich die Leiter nach hinten, genau wie bei der Attacke im Nahkampf ([[Nahkampf]]):
+Fällt der fertige Wert n nach Abzug von KBE und Erschwerungen auf 1 oder darunter, schiebt sich die Leiter nach hinten, genau wie bei der Attacke im Nahkampf ([[Nahkampf]]):
 
 - Bei einem Wert von 1 liegt der gute Erfolg bei Wurf 21 und der meisterliche Erfolg bei Wurf 29. Einen fröhlichen Erfolg gibt es nicht.
 - Bei einem Wert unter 1 liegt schon der Erfolg selbst bei Wurf 21 und der gute Erfolg bei Wurf 29. Meisterlicher und fröhlicher Erfolg entfallen.

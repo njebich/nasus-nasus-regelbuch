@@ -32,7 +32,7 @@ Jedes Mitglied würfelt einmal bei der Bildung der Gruppe W30 − W12 auf seinen
 Nahkampf-Ini-Differenz = Nahkampf-Ini-Wert − Würfelergebnis
 ```
 
-Die Rangfolge der Gruppe ergibt sich aus der Nahkampf-Ini-Differenz: Der beste Wert steht vorn, der schlechteste hinten.
+Die Rangfolge der Gruppe ergibt sich aus der Nahkampf-Ini-Differenz: Der beste Wert steht vorn, der schlechteste hinten. Haben zwei oder mehr Mitglieder dieselbe Differenz, würfeln nur sie noch einmal W30 − W12, mit unverändertem Nahkampf-Ini-Wert, bis ihre Differenzen verschieden sind.
 
 ### Einmal geworfen, dann fest
 
@@ -390,19 +390,20 @@ Jeder Teilnehmer hat genau ein defensives Ausweichen je Kampfrunde. Es kostet 1 
 
 - **Misslingt das defensive Ausweichen,** kassiert das Ziel den Treffer und flieht nicht.
 - **Gelingt das defensive Ausweichen** und liefert das Gitter „Flucht möglich“, folgt die Fliehen-Aktion.
+- **Gelingt das defensive Ausweichen,** aber das Gitter liefert kein „Flucht möglich“, gibt es in dieser Kampfrunde keine Flucht. „Flucht möglich“ steht nur, wenn die Stufe des Ausweichens höher ist als die Stufe des Angriffs. Der Fliehende bleibt im Nahkampf, die Fliehen-Aktion entfällt.
 
 ### Fliehen-Aktion und Fliehen-Probe
 
-Die Fliehen-Aktion ist eine Bewegung wie das Joggen. Sie zählt als die eine Laufen-Aktion der Kampfrunde ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]). Die Fliehen-Probe lautet:
+Die Fliehen-Aktion ist eine Bewegung wie der Dauerlauf. Sie zählt als die eine Laufen-Aktion der Kampfrunde ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]). Die Fliehen-Probe lautet:
 
 ```text
-Probenwert = Athletik + Fliehen − Behinderung (BE)
+Probenwert = Athletik + Fliehen − Körperliche Behinderung (KBE)
 Wurf: W30 − W12
 ```
 
 Athletik ist eine [[Eigenschaften|Eigenschaft]], Fliehen eine [[Sonderfertigkeiten|Sonderfertigkeit]]. Die Behinderung ist in [[Behinderung-und-Erschwernis]] erklärt.
 
-- **Gelingt die Probe,** ist der Teilnehmer weg, um die Distanz des Joggens. Die Gruppe löst sich sofort für den Fliehenden auf, er fällt zurück auf seinen Platz in der Rangfolge der Runde.
+- **Gelingt die Probe,** ist der Teilnehmer weg, um die Distanz des Dauerlaufs. Die Gruppe löst sich sofort für den Fliehenden auf, er fällt zurück auf seinen Platz in der Rangfolge der Runde.
 - **Misslingt die Probe,** endet die Kampfrunde ohne Flucht. In der nächsten Kampfrunde sinkt die Paradeklasse um 1 (PA-Kl.-1). Das ist dieselbe Herabstufung wie beim Band 12 der Selbstbeherrschungstabelle ([[Treffer-und-Schaden]]) und beim Zustand „entwaffnet“ ([[Zustaende-Katalog]]).
 
 ### Mehrere Gegner

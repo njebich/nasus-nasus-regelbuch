@@ -43,6 +43,8 @@ Ini-Differenz = Runden-Ini-Wert − Würfelergebnis
 
 Die Rangfolge aller Teilnehmer ergibt sich aus der Ini-Differenz. Wer die schlechteste Differenz hat, sagt in der Ansage-Phase zuerst an. Wer die beste hat, führt in der Ausführungs-Phase zuerst aus.
 
+Haben zwei oder mehr Teilnehmer dieselbe Ini-Differenz, würfeln nur diese Teilnehmer noch einmal W30 − W12, mit unverändertem Runden-Ini-Wert, bis ihre Differenzen verschieden sind. Die Plätze aller anderen bleiben.
+
 ### Der Nahkampf-Ini-Wert
 
 Innerhalb einer Nahkampf-Gruppe gilt statt des Runden-Ini-Werts der Nahkampf-Ini-Wert. Er ist der Runden-Ini-Wert plus der Waffen-Modifikator. Der Waffen-Modifikator ist der höchste Ini-Wert der Nahkampfwaffen, die der Held gerade führt ([[Nahkampfwaffen]]). Führt er mehrere Waffen, zählt nur der höchste Wert. Die Werte werden nicht addiert.
@@ -127,9 +129,9 @@ Die Parade ist die letzte wählbare Aktion in der Kampfrunde.
 
 **Umwerfen.** Umwerfen ist eine Nahkampf-Attacke und kostet 5 Ausdauer ([[Nahkampf-im-Kampf]]).
 
-**In Deckung gehen.** Das ist eine Haltungsänderung und keine Bewegung. Sie lässt sich mit einer Laufen-Aktion in Richtung Deckung verbinden. Je Kampfrunde ist sie höchstens einmal möglich, entweder hinein oder heraus. Das Herausgehen kann teilweise sein: Schießt der Held aus Volldeckung mit einer einhändigen Waffe, lässt das nur die obere Trefferzone offen ([[Deckung]]).
+**In Deckung gehen.** Das ist eine Haltungsänderung und keine Bewegung. Sie lässt sich mit einer Laufen-Aktion in Richtung Deckung verbinden. Je Kampfrunde ist sie höchstens einmal möglich, entweder hinein oder heraus. Das Herausgehen kann teilweise sein: Schießt der Held aus Volldeckung mit einer einhändigen Waffe, liegen nur Kopf, Brust und Arme frei, die unteren Trefferzonen bleiben gedeckt ([[Deckung]]).
 
-**Fliehen.** Fliehen ist die eine Laufen-Aktion der Kampfrunde. Die Bewegung entspricht dem Joggen. Wie sich der Held damit aus einem Nahkampf löst, steht in [[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]].
+**Fliehen.** Fliehen ist die eine Laufen-Aktion der Kampfrunde. Die Bewegung entspricht dem Dauerlauf. Wie sich der Held damit aus einem Nahkampf löst, steht in [[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]].
 
 **Gegenstände.**
 
@@ -138,7 +140,7 @@ Die Parade ist die letzte wählbare Aktion in der Kampfrunde.
 - Ein abgelegter Gegenstand ist ohne Probe wieder aufnehmbar.
 - Der Rucksack wird mit Ablegen abgesetzt und mit Einstecken aufgesetzt. Eine Waffe aus dem Rucksack zu holen heißt also: Rucksack absetzen (Ablegen), Waffe herausnehmen (Aufnehmen), Rucksack aufsetzen (Einstecken).
 - Einen fallen gelassenen Gegenstand muss der Held erst lokalisieren, bevor er ihn aufheben kann.
-- Finden entscheidet der Meister. Ist der Gegenstand durch Entwaffnen oder durch die Selbstbeherrschungstabelle verloren gegangen, entfällt der Meisterentscheid. Dann ist das Suchen eine Ansage ohne Aktionspunkte. In der Such-Kampfrunde gilt die Herabstufung KK −1 ([[Behinderung-und-Erschwernis]]). Suchzeit und Sinnesschärfe-Probe richten sich nach dem Zustand „Verlorenen Gegenstand aufheben“ ([[Zustaende-Katalog]]). Der gefundene Gegenstand wird am Landeort aufgenommen. Die Herabstufung KK −1 gilt dafür nicht.
+- Finden entscheidet der Meister. Ist der Gegenstand durch Entwaffnen oder durch die Selbstbeherrschungstabelle verloren gegangen, entfällt der Meisterentscheid. Dann ist das Suchen eine Ansage ohne Aktionspunkte. In der Such-Kampfrunde gilt die Herabstufung KK −1 ([[Behinderung-und-Erschwernis]]). Suchzeit und Sinnesschärfe-Probe richten sich nach dem Zustand „Verlorenen Gegenstand aufheben“ ([[Treffer-und-Schaden]]). Der gefundene Gegenstand wird am Landeort aufgenommen. Die Herabstufung KK −1 gilt dafür nicht.
 
 ### Laufen und die Kampf-Laufen-Probe
 
@@ -315,7 +317,7 @@ Jede Kampfrunde läuft in dieser Reihenfolge ab:
 
 ### Bewegungs-Rampe
 
-In der 1. Kampfrunde ist die Höchstgeschwindigkeit Joggen, ab der 2. Kampfrunde Sprint. Darunter ist die Geschwindigkeit frei wählbar. Wie die Bewegung auf dem Raster gezählt wird, steht in [[Bewegung]].
+In der 1. Kampfrunde ist die Höchstgeschwindigkeit Dauerlauf, ab der 2. Kampfrunde Sprint. Darunter ist die Geschwindigkeit frei wählbar. Wie die Bewegung auf dem Raster gezählt wird, steht in [[Bewegung]].
 
 ### Die Todesschwelle (Schritt 9)
 

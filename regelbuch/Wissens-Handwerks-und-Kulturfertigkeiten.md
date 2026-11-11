@@ -99,7 +99,7 @@ Fällt als Würfelergebnis eine 1, eine 21 oder eine 29, ersetzen feste Punkte d
 
 - Würfelergebnis 1 (guter Erfolg): Probenwert × 2 Punkte. Bei einem Probenwert von 0 oder weniger: 1 Punkt.
 - Würfelergebnis 21 (meisterlicher Erfolg): Probenwert × 3 Punkte. Bei einem Probenwert von 0 oder weniger: 2 Punkte.
-- Würfelergebnis 29 (fröhlicher Erfolg): Probenwert × 4 Punkte. Bei einem Probenwert von 0 oder weniger: 3 Punkte.
+- Würfelergebnis 29 (fröhlicher Erfolg): Probenwert × 4 Punkte. Bei einem Probenwert von 0 oder weniger: 3 Punkte. Das gilt nur mit dem Vorteil Kind der Fröhlichkeit ([[Gaben-und-Schwaechen]]). Ohne den Vorteil zählt die 29 wie jeder andere Wurf: Probenwert − 29 Punkte.
 
 Zeigt einer der beiden Würfe einen Pasch (Würfelergebnis 0), ist das ein sofortiger Patzer, egal was der andere Wurf zeigt. Der Pasch wird im Kapitel [[Wuerfeln-und-Proben]] erklärt.
 

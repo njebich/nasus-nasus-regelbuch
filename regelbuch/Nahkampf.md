@@ -221,7 +221,7 @@ Ein Patzer wird nicht nach Ermessen des Meisters entschieden, sondern mit der Pa
 
 ### Sehr niedriger Wert
 
-Fällt der Normalwert nach Abzug der Behinderung auf 1 oder darunter, schiebt sich die Leiter nach hinten. Gezählt wird nach dem Schutz durch überzählige Pool-Punkte, aber vor der Erschwerung und vor dem Malus für zu wenig Stärke. Das gilt für Attacke, Parade, Ausweichen und Fernkampf gleich:
+Fällt der fertige Normalwert auf 1 oder darunter, schiebt sich die Leiter nach hinten. Gezählt wird nach dem Schutz durch überzählige Pool-Punkte, nach der Erschwerung und nach dem Malus für zu wenig Stärke. Das gilt für Attacke, Parade, Ausweichen und Fernkampf gleich:
 
 - Bei einem Normalwert von 1 liegt der gute Erfolg bei Wurf 21 und der meisterliche Erfolg bei Wurf 29. Einen fröhlichen Erfolg gibt es nicht.
 - Bei einem Normalwert unter 1 liegt schon der Erfolg selbst bei Wurf 21 und der gute Erfolg bei Wurf 29. Meisterlicher und fröhlicher Erfolg entfallen.

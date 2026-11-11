@@ -37,7 +37,7 @@ Der Held würfelt W30 − W12. Ist das Ergebnis höchstens so hoch wie der Psi-W
 
 - Wurf 1: guter Erfolg, 1 Bonuspunkt.
 - Wurf 21: meisterlicher Erfolg, 2 Bonuspunkte.
-- Wurf 29: fröhlicher Erfolg, 3 Bonuspunkte.
+- Wurf 29: fröhlicher Erfolg, 3 Bonuspunkte. Das gilt nur mit dem Vorteil Kind der Fröhlichkeit ([[Gaben-und-Schwaechen]]). Ohne ihn zählt die 29 wie jedes andere Ergebnis.
 - Jedes andere Ergebnis bis zum Psi-Wert: normaler Erfolg, kein Bonuspunkt.
 - Ergebnis über dem Psi-Wert, ohne Pasch: Fehlschlag. Die Manakosten bei Misslingen sind fällig.
 - Wurf 0 (Pasch): Patzer. Die Manakosten bei Misslingen sind fällig, dazu gilt die Patzer-Regel unten.

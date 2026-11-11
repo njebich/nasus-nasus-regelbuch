@@ -101,7 +101,7 @@ Jede Zelle nennt die Option für diese Entfernung und diese Waffe. Ein Strich be
 | Entfernung | ohne Schild | mit Schild |
 |---|---|---|
 | 0 bis 3 m | Glück | PA-Kl.-1 |
-| 4 bis 10 m | AW:2 | nPA:2 |
+| 4 bis 10 m | AW:2 | PA:2 |
 | 11 bis 30 m | AW | PA |
 | 31 bis 60 m | [Ath/Sch] | PA+AW |
 | 61 bis 100 m | [Ath/Sch]+AW | [Ath/Sch]+PA |
@@ -114,7 +114,7 @@ Jede Zelle nennt die Option für diese Entfernung und diese Waffe. Ein Strich be
 | 0 bis 3 m | Glück | Glück |
 | 4 bis 10 m | Glück | PA-Kl.-2 |
 | 11 bis 30 m | Glück | PA-Kl.-1 |
-| 31 bis 60 m | AW:2 | nPA:2 |
+| 31 bis 60 m | AW:2 | PA:2 |
 | 61 bis 100 m | AW | PA |
 | ab 101 m | [Ath/Sch] | PA+AW |
 
@@ -132,7 +132,7 @@ Jede Zelle nennt die Option für diese Entfernung und diese Waffe. Ein Strich be
 **Lesen der Zellen:**
 
 - AW ist die Probe auf Ausweichen ([[Nahkampf]]), PA die Probe auf Parade. Glück ist die Glücksprobe ([[Attribute]]).
-- „X:N“ heißt: X geteilt durch N. Die Teilung rundet auf. „AW:2“ ist also die Hälfte des Ausweichwerts.
+- „X:N“ heißt: X geteilt durch N. Die Teilung rundet auf. „AW:2“ ist also die Hälfte des Ausweichwerts und „PA:2“ die Hälfte des Paradewerts.
 - „X+Y“ heißt: die beiden Werte werden zusammengezählt. „PA+AW“ ist der Paradewert plus der Ausweichwert.
 - „PA-Kl.-N“ heißt: die Paradeklasse sinkt um N ([[Nahkampf-im-Kampf]]).
 - „[Ath/Sch]“ ist der höhere der beiden Werte Athletik und Schnelligkeit. Der Held berechnet beide und nimmt den höheren ([[Eigenschaften]]).

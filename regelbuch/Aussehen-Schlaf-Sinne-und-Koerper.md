@@ -354,8 +354,8 @@ Dem Helden fehlt ein Arm.
 Dem Helden fehlt ein Bein.
 
 - KBE 4. Der Wert entspricht der Trefferzone „Rechtes/Linkes Bein“ in der einfachen Spalte der Trefferzonen-Tabelle.
-- **Ohne Hilfsmittel** kriecht der Held mit festen 1 Feld pro Kampfrunde (bei einem 1-m-Hexfeld 1 m/s). Das ist seine einzige Geschwindigkeit. Joggen und Sprint sind nicht möglich.
-- **Mit Hilfsmittel oder Hilfe** kann der Held alle Fortbewegungsarten nutzen, auch Joggen und Sprint. Die Geschwindigkeit wird mit einem Faktor multipliziert und nach den Rundungsregeln gerundet ([[Wuerfeln-und-Proben|Rundung]]):
+- **Ohne Hilfsmittel** kriecht der Held mit festen 1 Feld pro Kampfrunde (bei einem 1-m-Hexfeld 1 m/s). Das ist seine einzige Geschwindigkeit. Dauerlauf und Sprint sind nicht möglich.
+- **Mit Hilfsmittel oder Hilfe** kann der Held alle Fortbewegungsarten nutzen, auch Dauerlauf und Sprint. Die Geschwindigkeit wird mit einem Faktor multipliziert und nach den Rundungsregeln gerundet ([[Wuerfeln-und-Proben|Rundung]]):
   - einfache Krücke oder Holzbein: ×0,5
   - angepasste Gehhilfe oder tatkräftige fremde Hilfe: ×0,75
 
@@ -375,7 +375,7 @@ Dem Helden fehlen beide Arme.
 Dem Helden fehlen beide Beine.
 
 - KBE 8 (2 × 4).
-- Der Held kriecht mit festen 1 Feld pro Kampfrunde. Joggen und Sprint sind nicht möglich. Kriechen setzt mindestens 2 funktionsfähige Gliedmaßen voraus (siehe „Kombination“).
+- Der Held kriecht mit festen 1 Feld pro Kampfrunde. Dauerlauf und Sprint sind nicht möglich. Kriechen setzt mindestens 2 funktionsfähige Gliedmaßen voraus (siehe „Kombination“).
 - Hilfsmittel und Hilfe wirken mit den Faktoren ×0,5 und ×0,75 wie bei der Einbeinigkeit, soweit sie anwendbar sind.
 
 ### Stumm
@@ -403,7 +403,7 @@ Das ist die einzige Stelle, an der das bei der Erschaffung gewählte Merkmal und
 ### Beispiele
 
 - **Einarmigkeit (angeboren), Klettern-Probe.** Die Probe ist körperlich, also KBE 3: Der Probenwert sinkt um 3. Die MBE ist 0. Mit einer einhändigen Nahkampfwaffe gibt es keinen zusätzlichen Malus.
-- **Einbeinigkeit (angeboren), zu Fuß fliehen.** Ohne Krücke sind es 1 Feld pro Kampfrunde, kein Sprint. Mit Holzbein: Gehen 1,5 m/s × 0,5 = 0,75, gerundet 1 Feld pro Kampfrunde. Joggen und Sprint werden entsprechend mit ×0,5 gerechnet.
+- **Einbeinigkeit (angeboren), zu Fuß fliehen.** Ohne Krücke sind es 1 Feld pro Kampfrunde, kein Sprint. Mit Holzbein: Gehen 1,5 m/s × 0,5 = 0,75, gerundet 1 Feld pro Kampfrunde. Dauerlauf und Sprint werden entsprechend mit ×0,5 gerechnet.
 - **Keine Arme (angeboren), Magier mit dem Talent für Zauberstufe 2.** Den Feuerball wirkt er nur auf Stufe 2: Die Geste entfällt, die Formel bleibt. Eine Waffe führt er nicht. Auf körperliche Proben trägt er KBE 6.
 - **Stumm und Keine Arme, Magier.** Er zaubert nur auf Stufe 3, ohne Geste und ohne Formel. Dafür braucht er das Talent für Zauberstufe 3 und dessen Voraussetzung, das Talent für Zauberstufe 2.
 - **Der Meister lässt einen Helden im Kampf einen Arm verlieren.** Er trägt den Zustand „einarmig“ ohne SP. KBE 3 bleibt dauerhaft. Die MBE ist am Verlusttag 3 und sinkt um 1 je neuem magischem Tag, nach 3 magischen Tagen ist sie 0. Die KBE lässt sich nur mit Heilung G5, KI-Regeneration oder Ruf des Tepod entfernen.

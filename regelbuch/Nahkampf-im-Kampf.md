@@ -82,7 +82,7 @@ Beide Beteiligten würfeln W30 − W12 auf ihren Umwerfen-Probenwert. Er lautet:
 ```text
 Umwerfen-Probenwert = (Athletik + Stärke + Konstitution) / 2
                       + Körperbeherrschung
-                      − Behinderung
+                      − Körperliche Behinderung
 ```
 
 Athletik, Stärke und Konstitution sind [[Eigenschaften]]. Körperbeherrschung ist eine [[Grundfertigkeiten|Grundfertigkeit]]. Die Behinderung ist in [[Behinderung-und-Erschwernis]] erklärt.

@@ -65,7 +65,7 @@ Welche Grenze wie bindet, hängt von der Rolle der Figur ab.
 
 ### Spielercharakter
 
-Das Erschaffungsminimum des Volkes ist eine Empfehlung, kein hartes Minimum.
+Das Erschaffungsminimum des Volkes ist verbindlich.
 
 Das Erschaffungsmaximum des Volkes ist verbindlich, solange der Held unter Kreis 3 ist. Ab Kreis 3 gilt als verbindliches Maximum:
 
