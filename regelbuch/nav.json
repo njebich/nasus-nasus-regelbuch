@@ -1,8 +1,17 @@
 {
   "parts": [
     {
+      "title": "Teil I. Spielgrundlagen",
+      "pages": [
+        "Wuerfeln-und-Proben",
+        "Behinderung-und-Erschwernis",
+        "Zeit-und-Spielablauf"
+      ]
+    },
+    {
       "title": "Teil II. Der Held: Herkunft und Fortschritt",
       "pages": [
+        "Spezies",
         "Herkunft-Ort-Sprache-Schrift-Kultur",
         "Religion",
         "Stufe-Kreis-Macht-und-Rerolls",
@@ -20,6 +29,7 @@
         "Attribute",
         "Eigenschaften",
         "Grundfertigkeiten",
+        "Sonderfertigkeiten",
         "Nahkampf",
         "Fernkampf",
         "Wissens-Handwerks-und-Kulturfertigkeiten",
@@ -52,6 +62,16 @@
         "Zustaende-Katalog",
         "Tod-und-Wiederbelebung",
         "Kreaturen-im-Kampf"
+      ]
+    },
+    {
+      "title": "Teil V. Ausrüstung und Güter",
+      "pages": [
+        "Nahkampfwaffen",
+        "Feuerwaffen",
+        "Ruestung",
+        "Alchemika",
+        "Artefakte"
       ]
     },
     {
