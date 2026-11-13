@@ -1,12 +1,12 @@
 ---
 title: Treffer und Schaden
-aliases: [Treffer und Schaden, Treffer-und-Schaden, Trefferzonen, Trefferzonen-Tabelle, Trefferzone, Streiftreffer, Schadenspipeline, Schadensberechnung, Leberschutz, Weiterleitung, Weiterleitung an die Gesundheit, Sturzschaden, Schadensart, Scharf, Durchbohrend, Stumpf, Trefferzonen-Rerolls, TZ-Rerolls, Trefferzonen-Wiederholungswürfe, Wiederholungswürfe, Wiederholungswürfe im Kampf, Rerolls im Kampf, Selbstbeherrschung, SB-Probe, Selbstbeherrschungsprobe, Selbstbeherrschungstabelle, Trefferschwelle, TS, Konzentrationsprobe, Blutrausch, Todesschwelle im Kampf, Untoten-Kampfunfähigkeitsschwelle, Verlorenen Gegenstand aufheben]
+aliases: [Treffer und Schaden, Treffer-und-Schaden, Trefferzonen, Trefferzonen-Tabelle, Trefferzone, Streiftreffer, Schadenspipeline, Schadensberechnung, Leberschutz, Weiterleitung, Weiterleitung an die Gesundheit, Sturzschaden, Schadensart, Scharf, Durchbohrend, Stumpf, Trefferzonen-Rerolls, TZ-Rerolls, Trefferzonen-Rerolls, Rerolls, Rerolls im Kampf, Rerolls im Kampf, Selbstbeherrschung, SB-Probe, Selbstbeherrschungsprobe, Selbstbeherrschungstabelle, Trefferschwelle, TS, Konzentrationsprobe, Blutrausch, Todesschwelle im Kampf, Untoten-Kampfunfähigkeitsschwelle, Verlorenen Gegenstand aufheben]
 status: entwurf
 ---
 
 # Treffer und Schaden
 
-Landet ein Treffer, würfelt der Spieler mit einem W100, welche Trefferzone er trifft. Deckung, Schild und Rüstung mindern den Schaden, der Rest fällt von der Lebensenergie der Zone ab und, wenn die Zone leer ist, von der Gesundheit. Ist der Treffer schwer genug, muss der Getroffene eine Selbstbeherrschungsprobe würfeln. Dieses Kapitel beschreibt die Trefferzonen, die Schadensart, die Berechnung des Schadens, den Sturzschaden, die Selbstbeherrschungsprobe, den Blutrausch und die Wiederholungswürfe, mit denen Spieler Würfe im Kampf verändern.
+Landet ein Treffer, würfelt der Spieler mit einem W100, welche Trefferzone er trifft. Deckung, Schild und Rüstung mindern den Schaden, der Rest fällt von der Lebensenergie der Zone ab und, wenn die Zone leer ist, von der Gesundheit. Ist der Treffer schwer genug, muss der Getroffene eine Selbstbeherrschungsprobe würfeln. Dieses Kapitel beschreibt die Trefferzonen, die Schadensart, die Berechnung des Schadens, den Sturzschaden, die Selbstbeherrschungsprobe, den Blutrausch und die Rerolls, mit denen Spieler Würfe im Kampf verändern.
 
 Zwischenergebnisse der Schadensberechnung werden an den benannten Stellen sofort auf eine ganze Zahl aufgerundet ([[Wuerfeln-und-Proben|Würfeln und Proben]]). Wo eine Rechnung abweicht, steht es an der Stelle.
 
@@ -76,19 +76,19 @@ Fällt die Lebensenergie einer Zonengruppe auf 0, entsteht eine Behinderung in H
 
 Ein Wurf von 98 bis 100 ist ein Streiftreffer. Er hat keinen eigenen Zusatzeffekt. Die Trefferzone wird neu gewürfelt. Der Schaden, den der Angriff ursprünglich erzielt hat, wird durch W6 Schadenspunkte (SP, [[Glossar#SP|SP]]) ersetzt. Dieser Wert durchläuft die Schadenspipeline für die neu gewürfelte Zone wie jeder andere Treffer. Die Behinderung bei Lebensenergie 0 gilt für diese neue Zone, ein Streiftreffer hat keinen eigenen Wert.
 
-## Die Zone lenken: Trefferzonen-Wiederholungswürfe
+## Die Zone lenken: Trefferzonen-Rerolls
 
-Ein Trefferzonen-Wiederholungswurf wiederholt ausschließlich den W100-Wurf der Trefferzone. Er lenkt einen Treffer, der schon gelungen ist, auf eine angesagte Zone, zum Beispiel „auf den Kopf“. Ob der Angriff gelingt, ändert er nicht, nur wohin er trifft. Bezahlt wird er nicht aus dem [[Stufe-Kreis-Macht-und-Rerolls|Vorrat des Helden an Wiederholungswürfen]], er kommt aus eigenen Quellen.
+Ein Trefferzonen-Reroll wiederholt ausschließlich den W100-Wurf der Trefferzone. Er lenkt einen Treffer, der schon gelungen ist, auf eine angesagte Zone, zum Beispiel „auf den Kopf“. Ob der Angriff gelingt, ändert er nicht, nur wohin er trifft. Bezahlt wird er nicht aus dem [[Stufe-Kreis-Macht-und-Rerolls|Vorrat des Helden an Rerolls]], er kommt aus eigenen Quellen.
 
-### Woher die Wiederholungswürfe kommen
+### Woher die Rerolls kommen
 
-- **Ansage-Tabelle der guten, meisterlichen und fröhlichen Erfolge.** Die Zeile „3 Trefferzonen-Wiederholungswürfe“ gibt 3 Wiederholungswürfe je Ansagepunkt. Ein guter Erfolg (gAT) bringt 1 Ansagepunkt, ein meisterlicher (mAT) 2, ein fröhlicher (fAT) 3. Die Zeilen der Tabelle sind kombinierbar. Bei einem fröhlichen Erfolg sind aus dieser Zeile bis zu 9 Wiederholungswürfe möglich.
-- **Freiwillige Selbst-Erschwerung der Angriffsprobe** (Nahkampf-Attacke, Fernkampf, Zauber): 2 Wiederholungswürfe je +3 Erschwerung. Bei schlechter Sicht gibt es nur 1 je +3. Bei der Nahkampf-Attacke mindern überzählige Pool-Punkte die Senkung des Normalwerts, die aus der gewählten Erschwerung folgt ([[Nahkampf]]).
-- **Die Talente Gezielter Schuss** (Fernkampf, 50 TaP) **und Gezielter Schlag** (Nahkampf, 75 TaP). Sie geben keine eigenen Wiederholungswürfe, denn die 2 je +3 der Selbst-Erschwerung hat jeder Held. Das Talent erlaubt „auf kritisch weiterwürfeln“ bei jedem Treffer mit Ansage, auch bei einem normalen Erfolg (nFK, nAT) ([[Kampf-Talente]]).
-- **Die Zauberform Blitz** (Form 4, in allen fünf Elementen und in der Magiebeschwörung): 2 Wiederholungswürfe. Schlechte Sicht ändert daran nichts, denn die Wirkung des Zaubers ist fest.
-- **Die Zauberform Strahl** (Form 5) **und der Materie-Strahl** der Materiebeschwörung: 1 Wiederholungswurf ([[Magie-im-Kampf]]).
+- **Ansage-Tabelle der guten, meisterlichen und fröhlichen Erfolge.** Die Zeile „3 Trefferzonen-Rerolls“ gibt 3 Rerolls je Ansagepunkt. Ein guter Erfolg (gAT) bringt 1 Ansagepunkt, ein meisterlicher (mAT) 2, ein fröhlicher (fAT) 3. Die Zeilen der Tabelle sind kombinierbar. Bei einem fröhlichen Erfolg sind aus dieser Zeile bis zu 9 Rerolls möglich.
+- **Freiwillige Selbst-Erschwerung der Angriffsprobe** (Nahkampf-Attacke, Fernkampf, Zauber): 2 Rerolls je +3 Erschwerung. Bei schlechter Sicht gibt es nur 1 je +3. Bei der Nahkampf-Attacke mindern überzählige Pool-Punkte die Senkung des Normalwerts, die aus der gewählten Erschwerung folgt ([[Nahkampf]]).
+- **Die Talente Gezielter Schuss** (Fernkampf, 50 TaP) **und Gezielter Schlag** (Nahkampf, 75 TaP). Sie geben keine eigenen Rerolls, denn die 2 je +3 der Selbst-Erschwerung hat jeder Held. Das Talent erlaubt „auf kritisch weiterwürfeln“ bei jedem Treffer mit Ansage, auch bei einem normalen Erfolg (nFK, nAT) ([[Kampf-Talente]]).
+- **Die Zauberform Blitz** (Form 4, in allen fünf Elementen und in der Magiebeschwörung): 2 Rerolls. Schlechte Sicht ändert daran nichts, denn die Wirkung des Zaubers ist fest.
+- **Die Zauberform Strahl** (Form 5) **und der Materie-Strahl** der Materiebeschwörung: 1 Reroll ([[Magie-im-Kampf]]).
 
-Weitere Quellen sind möglich. Alle Quellen eines Angriffs bilden zusammen ein einziges Bündel, und die Regeln sind für Nahkampf, Fernkampf und Magie dieselben. Eine Obergrenze gibt es nicht. Ohne Ansage der Zone gibt es keine Wiederholungswürfe.
+Weitere Quellen sind möglich. Alle Quellen eines Angriffs bilden zusammen ein einziges Bündel, und die Regeln sind für Nahkampf, Fernkampf und Magie dieselben. Eine Obergrenze gibt es nicht. Ohne Ansage der Zone gibt es keine Rerolls.
 
 Als schlechte Sicht gelten Nebel, Nacht, Dämmerung, absolute Dunkelheit, Geblendetsein und alle Wetter-Modifikatoren ([[Fernkampf]]). Sie wirkt nur auf die Selbst-Erschwerung. Die Ansage-Tabelle bleibt unberührt.
 
@@ -96,13 +96,13 @@ Als schlechte Sicht gelten Nebel, Nacht, Dämmerung, absolute Dunkelheit, Geblen
 
 Der Angreifer sagt eine der sieben Hauptzonen an: Kopf, Brust, Unterleib, rechter Arm, linker Arm, rechtes Bein oder linkes Bein. Eine feine Unterzone wie das Auge kann er nicht ansagen. Für Kreaturen gelten eigene Zonen ([[Kreaturen-im-Kampf]]).
 
-Eine freiwillige Selbst-Erschwerung muss er vor dem Wurf ansagen, denn sie ändert die Angriffsprobe. Der Malus bleibt, auch wenn der Angriff misslingt. Wie viele Wiederholungswürfe zur Verfügung stehen, steht erst fest, wenn der Treffer aufgelöst ist: Erst dann ist bekannt, ob die Probe gelungen ist und mit welcher Erfolgsstufe.
+Eine freiwillige Selbst-Erschwerung muss er vor dem Wurf ansagen, denn sie ändert die Angriffsprobe. Der Malus bleibt, auch wenn der Angriff misslingt. Wie viele Rerolls zur Verfügung stehen, steht erst fest, wenn der Treffer aufgelöst ist: Erst dann ist bekannt, ob die Probe gelungen ist und mit welcher Erfolgsstufe.
 
-Der Schritt beginnt erst nach einem bestätigten Treffer. Misslingt die Angriffsprobe oder gelingt die Verteidigung (Parade, Ausweichen, Glück), gibt es keine Wiederholungswürfe.
+Der Schritt beginnt erst nach einem bestätigten Treffer. Misslingt die Angriffsprobe oder gelingt die Verteidigung (Parade, Ausweichen, Glück), gibt es keine Rerolls.
 
 ### Der erste Treffer der Zone gilt
 
-Der W100-Wurf der Trefferzone und die Wiederholungswürfe werden nacheinander geworfen. Der erste Wurf, der die angesagte Hauptzone trifft, gilt, mit seiner genauen Unterzone und deren Zusatzeffekt. Sobald er fällt, verfallen alle weiteren Wiederholungswürfe. Trifft schon der erste W100 die angesagte Zone, wird kein Wiederholungswurf gebraucht.
+Der W100-Wurf der Trefferzone und die Rerolls werden nacheinander geworfen. Der erste Wurf, der die angesagte Hauptzone trifft, gilt, mit seiner genauen Unterzone und deren Zusatzeffekt. Sobald er fällt, verfallen alle weiteren Rerolls. Trifft schon der erste W100 die angesagte Zone, wird kein Reroll gebraucht.
 
 Trifft kein Wurf die angesagte Zone, gilt der Wurf, dessen Zone der angesagten am nächsten liegt, mit seiner genauen Unterzone. Bei gleicher Entfernung gilt der zuerst geworfene.
 
@@ -118,7 +118,7 @@ Ellenbogen und die glatte Armzone sind der Knoten „Arm und Ellenbogen“, die 
 
 ### Auf kritisch weiterwürfeln
 
-Der Angreifer darf statt der Reihenfolge oben alle Wiederholungswürfe werfen. Unter allen Würfen, die die angesagte Hauptzone treffen, zählt dann die schlimmste Unterzone dieser Zone. Trifft kein Wurf die Zone, gilt die Regel für die nächstliegende Zone. Bei Gleichstand zwischen einer linken und einer rechten Unterzone (zum Beispiel Schultergelenk) gilt rechts.
+Der Angreifer darf statt der Reihenfolge oben alle Rerolls werfen. Unter allen Würfen, die die angesagte Hauptzone treffen, zählt dann die schlimmste Unterzone dieser Zone. Trifft kein Wurf die Zone, gilt die Regel für die nächstliegende Zone. Bei Gleichstand zwischen einer linken und einer rechten Unterzone (zum Beispiel Schultergelenk) gilt rechts.
 
 Das ist nur erlaubt bei
 
@@ -141,7 +141,7 @@ Ein Streiftreffer (98 bis 100) wird nicht sofort neu geworfen, sondern zurückge
 
 ### Der Neuwurf aus dem Vorrat
 
-Der Held kann einen Wiederholungswurf aus seinem Vorrat auch auf die Trefferzone ausgeben. Dann wird einmal neu mit einem W100 auf die Zone gewürfelt. Dieser Wurf gilt und ersetzt das gesamte Ergebnis des Bündels, auch eine schon ermittelte schlimmste Unterzone. Jeder weitere Wiederholungswurf aus dem Vorrat bringt wieder einen neuen W100, der gilt, bis der Vorrat leer ist. Ein solcher Wiederholungswurf wird nicht Teil des Bündels.
+Der Held kann einen Reroll aus seinem Vorrat auch auf die Trefferzone ausgeben. Dann wird einmal neu mit einem W100 auf die Zone gewürfelt. Dieser Wurf gilt und ersetzt das gesamte Ergebnis des Bündels, auch eine schon ermittelte schlimmste Unterzone. Jeder weitere Reroll aus dem Vorrat bringt wieder einen neuen W100, der gilt, bis der Vorrat leer ist. Ein solcher Reroll wird nicht Teil des Bündels.
 
 ### Beispiele
 
@@ -432,9 +432,9 @@ Sinkt die Gesundheit des Helden im Blutrausch unter 0, wird trotz der Immunität
 - Berserker wird gewirkt, die Wirkungsdauer ist bei Karma 6 sechs Minuten. Der Held bleibt danach 10 Minuten ununterbrochen im Kampf. Der Blutrausch endet nach 6 Minuten mit dem Ablauf der Wirkungsdauer, obwohl der Held noch im Kampf ist.
 - Ein Held hat einen natürlichen Blutrausch, dessen Zähler noch nicht abgelaufen ist, und wirkt zusätzlich erfolgreich Berserker mit sechs Minuten Wirkungsdauer. Es gibt keinen doppelten Ausdauer-Bonus und keine doppelte Halbierung. Maßgeblich ist die höhere Dauer, hier die neu hinzukommenden 6 Minuten, wenn sie länger sind als der laufende Zähler.
 
-## Wiederholungswürfe im Kampf
+## Rerolls im Kampf
 
-Der Vorrat an Wiederholungswürfen hängt vom Kreis des Helden ab. Was ein einzelner Wiederholungswurf bewirkt, für welche Würfe er gilt und wie sich der Vorrat füllt, steht im Kapitel [[Stufe-Kreis-Macht-und-Rerolls|Stufe, Kreis, Macht und Rerolls]]. Dieser Abschnitt sagt, wann im Kampf ein Wiederholungswurf ausgegeben wird, welche Würfe einer Kampfrunde er erreicht und was danach neu gewürfelt wird.
+Der Vorrat an Rerolls hängt vom Kreis des Helden ab. Was ein einzelner Reroll bewirkt, für welche Würfe er gilt und wie sich der Vorrat füllt, steht im Kapitel [[Stufe-Kreis-Macht-und-Rerolls|Stufe, Kreis, Macht und Rerolls]]. Dieser Abschnitt sagt, wann im Kampf ein Reroll ausgegeben wird, welche Würfe einer Kampfrunde er erreicht und was danach neu gewürfelt wird.
 
 ### Austausch und Beteiligung
 
@@ -451,28 +451,28 @@ Ein Held ist an einem Austausch beteiligt, wenn er in dieser Kampfrunde
 - **Der Zeitpunkt.** Die Entscheidung fällt bei Abschluss des Austauschs: sobald die Paarung fertig abgehandelt ist oder der Fernkampf- oder Zauber-Angriff aufgelöst ist. Der Spieler kann sie nicht bis zum Ende der Kampfrunde aufschieben. Lässt er das Fenster eines Austauschs verstreichen, ist es danach zu.
 - **Die Reichweite.** Erreichbar sind nur Austausche dieser Kampfrunde, an denen der Held beteiligt war. Frühere Kampfrunden sind nicht erreichbar.
 - **Welche Würfe.** In einem solchen Austausch darf der Spieler seine eigenen Würfe wiederholen und alle nicht geheimen Würfe der Nichtspielercharaktere, offen oder verdeckt. Nicht wiederholbar sind die Würfe anderer Spieler, außer durch das gemeinsame Opfer der Gruppe, und geheime Würfe des Meisters.
-- **Ein Wurf je Wiederholungswurf.** Ein Wiederholungswurf betrifft genau einen Wurf. Mehrere Würfe zu bündeln ist ausgeschlossen: Der Spieler wiederholt nicht Attacke und Parade zusammen, um danach das bessere Paket zu wählen, sondern entweder die Attacke oder die Parade.
+- **Ein Wurf je Reroll.** Ein Reroll betrifft genau einen Wurf. Mehrere Würfe zu bündeln ist ausgeschlossen: Der Spieler wiederholt nicht Attacke und Parade zusammen, um danach das bessere Paket zu wählen, sondern entweder die Attacke oder die Parade.
 - **Mehrere Stellen.** Im Fenster eines Austauschs darf der Spieler nacheinander beliebig viele Stellen wiederholen, bis der Vorrat 0 ist. Jede Entscheidung wird samt ihrer Folgen vollständig abgeschlossen, bevor die nächste beginnt.
-- **Die Kosten.** Ein Wiederholungswurf kostet nur 1 aus dem Vorrat. Er kostet keine AK, keine Aktion und kein anderes Budget.
+- **Die Kosten.** Ein Reroll kostet nur 1 aus dem Vorrat. Er kostet keine AK, keine Aktion und kein anderes Budget.
 
-Die Würfe eines Austauschs folgen einer festen Kette: Angriffswurf, Verteidigungswurf, Schadenswurf (Schadenspunkte, daraus Trefferpunkte), W100-Wurf der Trefferzone mit einem möglichen Bündel von Trefferzonen-Wiederholungswürfen, danach die Folgeproben (Klingenbruch, Selbstbeherrschungsprobe, Zustands- und Patzerauswertung). Dazu kommt der Initiative-Wurf der Nahkampf-Gruppe, sofern er in dieser Kampfrunde bestimmt wurde.
+Die Würfe eines Austauschs folgen einer festen Kette: Angriffswurf, Verteidigungswurf, Schadenswurf (Schadenspunkte, daraus Trefferpunkte), W100-Wurf der Trefferzone mit einem möglichen Bündel von Trefferzonen-Rerolls, danach die Folgeproben (Klingenbruch, Selbstbeherrschungsprobe, Zustands- und Patzerauswertung). Dazu kommt der Initiative-Wurf der Nahkampf-Gruppe, sofern er in dieser Kampfrunde bestimmt wurde.
 
-### Was nach einem Wiederholungswurf neu gewürfelt wird
+### Was nach einem Reroll neu gewürfelt wird
 
-Ein Wiederholungswurf entwertet genau die nachfolgenden Würfe desselben Austauschs, deren Eingaben sich durch den neuen Wert geändert haben. Sie werden neu ausgewertet, alles andere bleibt bestehen. Welche Würfe das sind, ergibt sich zwingend aus der Kette. Der Meister entscheidet nichts über Umfang oder Reihenfolge der Neuwürfe. Er passt nur Erzählfolgen und Positionen an, die ein geänderter Ausgang gegenstandslos macht, zum Beispiel „der Nichtspielercharakter war tot“, der jetzt lebt. Neu gewürfelte Würfe darf der Spieler seinerseits wiederholen, solange er Vorrat hat.
+Ein Reroll entwertet genau die nachfolgenden Würfe desselben Austauschs, deren Eingaben sich durch den neuen Wert geändert haben. Sie werden neu ausgewertet, alles andere bleibt bestehen. Welche Würfe das sind, ergibt sich zwingend aus der Kette. Der Meister entscheidet nichts über Umfang oder Reihenfolge der Neuwürfe. Er passt nur Erzählfolgen und Positionen an, die ein geänderter Ausgang gegenstandslos macht, zum Beispiel „der Nichtspielercharakter war tot“, der jetzt lebt. Neu gewürfelte Würfe darf der Spieler seinerseits wiederholen, solange er Vorrat hat.
 
 **Angriffswurf.** Das Gitter ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]) wird mit der neuen Erfolgsstufe der Attacke und dem vorhandenen Verteidigungswurf neu abgelesen. Das ergibt Treffer ja oder nein und den Ausgang der Zelle. Der Verteidigungswurf bleibt. Der W100-Wurf der Trefferzone bleibt auch, außer bei der Wahl unter a). Fehlschlag und Patzer zählen hier auch als andere Stufe, nicht nur n, g, m und f untereinander.
 
-- **a) Weiterhin Treffer, andere Stufe.** Der Schadenswurf wird neu geworfen, die Schadenspunkte neu, die Trefferpunkte neu berechnet. Der W100-Wurf der Trefferzone wird nicht neu geworfen, die getroffene Zone bleibt. Ausnahme: Schaltet die neue Stufe über die Ansage-Tabelle zusätzliche Ansagepunkte frei und wählt der Spieler jetzt Trefferzonen-Wiederholungswürfe, wird das gesamte Bündel neu aufgesetzt: alle schon geworfenen Wiederholungswürfe plus die neu hinzukommenden, zusammen, in einer frischen Auflösung mit der neuen Gesamtzahl. Die Zone darf dabei nachträglich angesagt werden, auch wenn der ursprüngliche Angriff keine Ansage hatte. Eine freiwillige Selbst-Erschwerung als Quelle kann nicht nachträglich ergänzt werden, denn sie verlangt die Ansage vor dem Wurf.
+- **a) Weiterhin Treffer, andere Stufe.** Der Schadenswurf wird neu geworfen, die Schadenspunkte neu, die Trefferpunkte neu berechnet. Der W100-Wurf der Trefferzone wird nicht neu geworfen, die getroffene Zone bleibt. Ausnahme: Schaltet die neue Stufe über die Ansage-Tabelle zusätzliche Ansagepunkte frei und wählt der Spieler jetzt Trefferzonen-Rerolls, wird das gesamte Bündel neu aufgesetzt: alle schon geworfenen Rerolls plus die neu hinzukommenden, zusammen, in einer frischen Auflösung mit der neuen Gesamtzahl. Die Zone darf dabei nachträglich angesagt werden, auch wenn der ursprüngliche Angriff keine Ansage hatte. Eine freiwillige Selbst-Erschwerung als Quelle kann nicht nachträglich ergänzt werden, denn sie verlangt die Ansage vor dem Wurf.
 - **b) Jetzt Fehlschlag oder Patzer.** Schadenswurf, Zonenwurf und alle Trefferfolgen entfallen ersatzlos. Ein neu gewürfelter Patzer löst die Patzerauswertung der Probenart aus (für den Nahkampf [[Nahkampf]]).
-- **c) Vorher Fehlschlag oder Patzer, jetzt Treffer.** Schadenswurf und Zonenwurf werden zum ersten Mal geworfen, mit der Stufe des neuen Treffers. Trefferzonen-Wiederholungswürfe gibt es nur, wenn eine Quelle sie stellt.
+- **c) Vorher Fehlschlag oder Patzer, jetzt Treffer.** Schadenswurf und Zonenwurf werden zum ersten Mal geworfen, mit der Stufe des neuen Treffers. Trefferzonen-Rerolls gibt es nur, wenn eine Quelle sie stellt.
 - **d) Unveränderte Stufe, weiterhin Treffer.** Schadenswurf und Zonenwurf bleiben unverändert.
 
 **Verteidigungswurf** (Parade oder Ausweichen). Dasselbe Gitter wird mit der vorhandenen Erfolgsstufe der Attacke und dem neuen Verteidigungswurf abgelesen. Kippt der Austausch zwischen Treffer und kein Treffer, folgt die Kette aus Schaden und Trefferzone wie oben. Der Angriffswurf bleibt. Bleibt der Ausgang des Gitters gleich, bleibt alles Nachfolgende.
 
 **Schadenswurf.** Die Schadenspunkte werden neu geworfen, und die Trefferpunkte werden mit den Schritten der Schadenspipeline neu berechnet, mit denselben Rundungen. Schadensgekoppelte Folgeproben wie der Klingenbruch folgen. Angriff, Verteidigung und der Zonenwurf bleiben, die Zone ändert sich nicht.
 
-**Zonenwurf.** Ein Wiederholungswurf aus dem Vorrat auf die Zone ersetzt das gesamte Ergebnis des Bündels durch einen neuen W100. Der Zusatzeffekt der neuen Zone gilt. Angriff, Verteidigung und die Höhe der Schadenspunkte bleiben, nur Zone und Zusatzeffekt ändern sich. Die Neuaufsetzung des Bündels unter a) ist davon verschieden: Sie wird nicht aus dem Vorrat bezahlt, sondern von den Trefferzonen-Wiederholungswürfen, die die neue Stufe über die Ansage-Tabelle freischaltet.
+**Zonenwurf.** Ein Reroll aus dem Vorrat auf die Zone ersetzt das gesamte Ergebnis des Bündels durch einen neuen W100. Der Zusatzeffekt der neuen Zone gilt. Angriff, Verteidigung und die Höhe der Schadenspunkte bleiben, nur Zone und Zusatzeffekt ändern sich. Die Neuaufsetzung des Bündels unter a) ist davon verschieden: Sie wird nicht aus dem Vorrat bezahlt, sondern von den Trefferzonen-Rerolls, die die neue Stufe über die Ansage-Tabelle freischaltet.
 
 **Initiative-Wurf der Nahkampf-Gruppe** (nur wenn in dieser Kampfrunde bestimmt). Die Rangfolge innerhalb der Gruppe wird ab der geänderten Position neu bestimmt, ebenso alle danach noch nicht abgehandelten Paarungen. Paarungen vor der geänderten Position bleiben.
 
@@ -491,12 +491,12 @@ Zwei Helden, A und B, und zwei Nichtspielercharaktere stehen in zwei Nahkampf-Gr
 
 - **Die eigene Paarung.** Held A und sein Gegner, der Nichtspielercharakter 1, tauschen Schläge. Bei Abschluss ihrer Paarung darf A seine eigenen Würfe und alle nicht geheimen Würfe des Nichtspielercharakters 1 aus dieser Paarung wiederholen: Attacke, Parade, Schaden, Trefferzone. Die Würfe von Held B darf er nicht wiederholen. Danach ist das Fenster zu, A kann nicht bis zum Ende der Kampfrunde warten.
 - **Eine fremde Gruppe.** Held A hat in dieser Kampfrunde nicht in Gruppe B gewirkt. Er darf dort gar nichts wiederholen, auch keine Würfe der Nichtspielercharaktere. Hätte er mit einem Fernkampf oder einem Zauber in Gruppe B hineingewirkt oder wäre er selbst Ziel eines Fernkampfs oder Zaubers aus Gruppe B, wäre er dort beteiligt. Er dürfte im Fenster dieses Austauschs die nicht geheimen Würfe der Nichtspielercharaktere wiederholen, nicht die von Held B.
-- **Eine bessere Stufe.** Ein Held trifft im Nahkampf mit nAT, ohne Ansage der Zone. Schaden und Trefferzone sind gefallen. Bei Abschluss der Paarung wiederholt er den Angriffswurf und erhält mAT. Die Schadenspunkte werden neu geworfen, die Trefferpunkte neu berechnet. Der Zonenwurf bliebe stehen. Der Held wählt aber die Ansagepunkte der mAT für Trefferzonen-Wiederholungswürfe und sagt „Kopf“ an: Das Bündel wird komplett neu aufgesetzt. Der Vorrat sinkt um 1.
+- **Eine bessere Stufe.** Ein Held trifft im Nahkampf mit nAT, ohne Ansage der Zone. Schaden und Trefferzone sind gefallen. Bei Abschluss der Paarung wiederholt er den Angriffswurf und erhält mAT. Die Schadenspunkte werden neu geworfen, die Trefferpunkte neu berechnet. Der Zonenwurf bliebe stehen. Der Held wählt aber die Ansagepunkte der mAT für Trefferzonen-Rerolls und sagt „Kopf“ an: Das Bündel wird komplett neu aufgesetzt. Der Vorrat sinkt um 1.
 - **Der Treffer kippt.** Ein gAT-Treffer steht, Schaden und Zone auch. Der Held wiederholt den Angriffswurf und erhält einen Fehlschlag. Schadenswurf, Zonenwurf und alle Trefferfolgen entfallen ersatzlos. Der Vorrat sinkt um 1.
 - **Die Initiative der Gruppe.** In dieser Kampfrunde ist Gruppe A neu entstanden. Held A hat seinen Initiative-Wurf für die Gruppe gewürfelt und liegt hinter dem Nichtspielercharakter 1, der zuerst zuschlug. Im Fenster seines Austauschs wiederholt er den Initiative-Wurf und erhält eine bessere Differenz. Die Abfolge der Gruppe wird ab der geänderten Position neu abgewickelt. Der Vorrat sinkt um 1. Ein Initiative-Wurf der ganzen Runde wäre hier nicht wiederholbar.
 
 ### Grenzfälle
 
-- Ein Wiederholungswurf, der einen schon verrechneten Treffer in einen Fehlschlag oder Patzer verwandelt, ist zulässig. Der neue Wert zählt bedingungslos, und die Entscheidung liegt beim Spieler, der den Wiederholungswurf ausgibt.
+- Ein Reroll, der einen schon verrechneten Treffer in einen Fehlschlag oder Patzer verwandelt, ist zulässig. Der neue Wert zählt bedingungslos, und die Entscheidung liegt beim Spieler, der den Reroll ausgibt.
 - Reicht der Vorrat für die gewünschte Tiefe der Neuwürfe nicht, bleibt das bis dahin erwürfelte Ergebnis stehen.
 - Mehrere Stellen im Fenster eines Austauschs werden streng nacheinander wiederholt. Die erste ist samt Folgen abgeschlossen, bevor die zweite beginnt.

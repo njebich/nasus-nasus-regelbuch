@@ -16,11 +16,11 @@ Der Held kennt Sprachen, Kulturen und Schriften. Jede Sprache und jede Kultur be
 
 Jede aktive Sprache hat genau eine zugehörige Kultur. Schriften sind nicht an Sprachen gebunden.
 
-Sprachen und Kulturen kauft der Held mit [[Glossar#EP|Entwicklungspunkten (EP)]], ebenso Schriften. Sie sind eigene Werte, keine [[Vor-und-Nachteile|Vor- oder Nachteile]].
+Sprachen und Kulturen steigert der Held mit [[Glossar#EP|Entwicklungspunkten (EP)]], ebenso Schriften. Sie sind eigene Werte, keine [[Vor-und-Nachteile|Vor- oder Nachteile]].
 
 ## Die Sprachen und Kulturen
 
-Es gibt 15 Sprachen und 15 Kulturen.
+Es gibt 15 Sprachen und 15 Kulturen. Beispiele für Einträge, die es hier nicht gibt: Altzwergisch, Altzwergische Schrift und Altzwergische Kultur.
 
 Sprachen:
 
@@ -71,7 +71,7 @@ Es gibt 8 Schriften:
 - Orkische Runen
 - Trollische Keilschrift
 
-Für jedes der elf Völker (siehe [[Spezies]]) ist festgelegt, welche Schrift es von Haus aus nutzt. Manche Völker teilen sich eine Schrift. Die vier Indianer-Sprachgruppen haben keine Schrift. „Keine Schrift“ ist für sie ein gültiger Eintrag, eine Schrift können sie daraus nicht kaufen.
+Für jedes der elf Völker (siehe [[Spezies]]) ist festgelegt, welche Schrift es von Haus aus nutzt. Manche Völker teilen sich eine Schrift. Die vier Indianer-Sprachgruppen haben keine Schrift. „Keine Schrift“ ist für sie ein gültiger Eintrag, eine Schrift können sie daraus nicht steigern.
 
 | Volk | Eigene Schrift |
 |---|---|
@@ -89,17 +89,17 @@ Für jedes der elf Völker (siehe [[Spezies]]) ist festgelegt, welche Schrift es
 
 ## Woher die Sprache kommt: Ort und Herkunft
 
-Eine Sprache ist an Gegenden gebunden und kann an mehrere Gegenden gebunden sein. Legt der Held eine neue Sprache an, liefert seine Herkunft diese Verbindung. Sie ist aber nicht die einzige Heimat der Sprache.
+Eine Sprache ist an Gegenden gebunden und kann an mehrere Gegenden gebunden sein. Legt der Held eine neue Sprache an, liefert seine Herkunft diese Verbindung. Sie ist aber nicht zwingend die einzige Heimat der Sprache.
 
 ## Kauf und Preis
 
-Nichts davon ist geschenkt. Auch Muttersprache und Heimatkultur kauft der Held bei der Erschaffung aus seinen Start-EP wie jeden anderen Erwerb (siehe [[Erfahrung-und-Steigerung]]).
+Sprachen, Kulturen und Schriften kosten jeweils nach ihrer Kostentabelle. Auch Muttersprache und Heimatkultur steigert der Held bei der Erschaffung aus seinen Start-EP wie jeden anderen Erwerb (siehe [[Erfahrung-und-Steigerung]]).
 
 **Sprachen und Kulturen.** Die Kenntnis hat fünf Stufen (siehe unten). Sprachen kosten nach einer fünfstufigen Kostentabelle, Kulturen nach einer eigenen fünfstufigen Kostentabelle.
 
 **Schriften.** Jede Schrift kostet 50 EP, gleich welche Schrift. Schriftkenntnis hat keine Stufen: Der Held kann eine Schrift oder kann sie nicht.
 
-**Mindestausgabe bei der Erschaffung.** Bei der Erschaffung muss der Held mindestens 90 EP für Sprachen und Kulturen ausgeben. Nur Käufe von Sprachen und Kulturen zählen dafür. Schriften kosten zwar EP, zählen aber nicht mit. Die 90 EP gelten unabhängig davon, wie viele Start-EP der Held hat.
+**Mindestausgabe bei der Erschaffung.** Bei der Erschaffung muss der Held mindestens 90 EP für Sprachen und Kulturen ausgeben. Nur Steigerungen von Sprachen und Kulturen zählen dafür. Schriften kosten zwar EP, zählen aber nicht mit. Die 90 EP gelten unabhängig davon, wie viele Start-EP der Held hat.
 
 ## Die fünf Kenntnisstufen
 
@@ -133,7 +133,7 @@ Spielen bei einer Probe Sprache und Kultur beide eine Rolle, gilt die niedrigere
 
 ## Handelssprache
 
-Die Handelssprache ist eine Sprache, die der Held nicht kaufen kann. Er hat sie, sobald er unter den vier Sprachen Goblinisch, Zwergisch, Orkisch und Elfisch
+Die Handelssprache ist eine Sprache, die der Held nicht steigern kann. Er hat sie, sobald er unter den vier Sprachen Goblinisch, Zwergisch, Orkisch und Elfisch
 
 - mindestens zwei verschiedene auf gute Kenntnis oder höher beherrscht und
 - eine dritte, andere Sprache davon auf Grundkenntnis oder höher.
@@ -165,7 +165,6 @@ Jedes geschriebene Dokument, das für Spieler bestimmt ist, nennt seine Sprache 
 ## Beispiele
 
 - Der Held kennt Zwergisch als Muttersprache und die Zwergische Kultur auf guter Kenntnis. Er führt eine soziale Probe, bei der beides zählt. Es gilt die niedrigere Stufe, gute Kenntnis, also −5 statt 0.
-- Der Held beherrscht Goblinisch und Orkisch auf guter Kenntnis und Zwergisch auf Grundkenntnis. Damit hat er die Handelssprache mit Kompetenz 75 %. Verkauft er später Zwergisch bis unter Grundkenntnis, verliert er die Handelssprache sofort wieder.
 - Eine Gruppe beherrscht die Handelssprache, und alle sind Elfisch-Muttersprachler. Die Spieler wählen Elfisch (Modifikator 0) statt der Handelssprache (Kompetenz 75 %).
-- Der Held kauft eine Schrift für 50 EP und eine Sprache ebenfalls für 50 EP. Nur die Sprache zählt zu den 90 EP Mindestausgabe.
+- Der Held steigert eine Schrift für 50 EP und eine Sprache ebenfalls für 50 EP. Nur die Sprache zählt zu den 90 EP Mindestausgabe.
 - Der Held erschafft bei der Erschaffung eine neue Sprache für seine Heimatregion. Die Sprache gehört dann zu dieser Region und steht allen Helden zur Verfügung. Der Meister muss nichts freigeben.

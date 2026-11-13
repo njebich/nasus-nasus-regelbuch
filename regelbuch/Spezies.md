@@ -40,9 +40,9 @@ Für jedes Volk und jede Eigenschaft gibt es einen Mindestwert und einen Höchst
 
 Zu jeder Eigenschaft gibt es ein Maximaltalent. Es erhöht den Höchstwert dieser Eigenschaft um 5 und ist erst ab Kreis 3 kaufbar (siehe [[Talente-die-Maxima-anheben]]). Den Kreis erklärt das Kapitel [[Stufe-Kreis-Macht-und-Rerolls|Stufe, Kreis, Macht und Rerolls]].
 
-Ein Zwerg hat Stärke 12 bis 24. Er beginnt also mit mindestens Stärke 12 und kann sie unter Kreis 3 höchstens auf 24 kaufen. Ab Kreis 3 darf er sie bis 31 kaufen, mit dem Maximaltalent für Stärke bis 36.
+Ein Zwerg hat Stärke 12 bis 24. Er beginnt also mit mindestens Stärke 12 und kann sie unter Kreis 3 höchstens auf 24 steigern. Ab Kreis 3 darf er sie bis 31 steigern, mit dem Maximaltalent für Stärke bis 36.
 
-Der Nachteil Schlechte Eigenschaft ersetzt den Höchstwert einer Eigenschaft durch einen festen Deckel: 7 unter Kreis 3, 9 ab Kreis 3. Liegt der Mindestwert des Volkes über dem Deckel, gilt der Deckel. Die Einzelheiten stehen im Kapitel [[Gaben-und-Schwaechen]].
+Der Nachteil Schlechte Eigenschaft ersetzt den Höchstwert einer Eigenschaft durch einen festen Deckel: 7 unter Kreis 3, 9 ab Kreis 3. Liegt der Mindestwert des Volkes über dem Deckel, gilt der Nachteil Schlechte Eigenschaft. Die Einzelheiten stehen im Kapitel [[Gaben-und-Schwaechen]].
 
 ## Die Grenzen der Eigenschaften
 

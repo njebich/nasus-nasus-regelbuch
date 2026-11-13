@@ -37,14 +37,12 @@ Jede Quelle zählt mit ihrem vollen Wert für beide. Damit gilt: KBE = MBE = BE.
 - **Ausdauer auf 0:** +3 bei [[Ausdauer]] 0 und weitere +3 für je 5 Punkte Ausdauer darunter.
 - **Selbstbeherrschungstabelle:** +1 bis +7, je nach Betrag des Ergebnisses der Selbstbeherrschungsprobe ([[Treffer-und-Schaden|Treffer und Schaden]]).
 
-Der Meister kann außerdem jeder Probe frei eine Behinderung auferlegen.
-
 Mehrere Quellen zugleich werden zusammengezählt. Nur die Frost-Behinderung zählt mit ihrer höchsten Quelle allein.
 
 ### Ausnahmen
 
 - **Attributsprobe:** Sie zieht keine Behinderung ab ([[Attribute]]).
-- **Attacke:** Die Mentale Behinderung gilt nicht für die Attacke-Probe, weder im [[Nahkampf]] noch im [[Fernkampf]]. In ihrer Formel steht Mut, bei manchen Waffenkategorien Sinnesschärfe, schon als eigener Teil. Dieselbe geistige Eigenschaft wird so nicht doppelt bestraft.
+- **Attacke:** Die Mentale Behinderung gilt nicht für die Attacke-Probe, weder im [[Nahkampf]] noch im [[Fernkampf]]. In der Nahkampfattacke-Formel steht Mut, in der Fernkampfattacke-Probe steht Sinnesschärfe. Dieselbe geistige Eigenschaft wird so nicht doppelt bestraft.
 - **Selbstbeherrschungsprobe:** Stammen KBE und MBE beim selben Treffer einer Kampfrunde aus derselben Trefferzone, erschwert nur der höhere der beiden Werte die Probe, nicht ihre Summe.
 
 ## Welcher Wurf welche Erfolgsstufe ergibt

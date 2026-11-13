@@ -30,7 +30,7 @@ Vier Würfe haben immer eine feste Bedeutung. Der Meister muss sie nicht ansagen
 - Wurf 0, der Pasch: Patzer.
 - Wurf 1: guter Erfolg, bei einem Probenwert von 2 oder höher.
 - Wurf 21: meisterlicher Erfolg, bei einem Probenwert von 2 oder höher, auch wenn der Probenwert darunter liegt.
-- Wurf 29: fröhlicher Erfolg, bei einem Probenwert von 2 oder höher, nur mit dem Vorteil „[[Gaben-und-Schwaechen|Kind der Fröhlichkeit]]“.
+- Wurf 29: fröhlicher Erfolg, bei einem Probenwert von 2 oder höher, auch wenn der Probenwert darunter liegt, nur mit dem Vorteil „[[Gaben-und-Schwaechen|Kind der Fröhlichkeit]]“.
 
 Beispiel: Ein Held hat beim Klettern den Probenwert 15 und würfelt 21. Das ist ein meisterlicher Erfolg. Würfelt er 18, ist es ein Fehlschlag.
 

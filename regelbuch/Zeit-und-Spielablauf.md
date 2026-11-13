@@ -70,10 +70,6 @@ Die ME sinkt auf 0. Die Zähler für Durst, Essen und Schlaf stehen wieder auf 0
 
 Eine fehlende oder abgetrennte Gliedmaße bleibt über neue Sessions und neue Abenteuer hinweg fort. Sie kehrt nur durch eine Heilung zurück, die das ausdrücklich kann.
 
-### Erschaffung
-
-Ein neu erschaffener Held beginnt mit voller Gesundheit und voller Lebensenergie in jeder vorhandenen Trefferzone.
-
 ## Zeit vergehen lassen
 
 Der Meister lässt Zeit vergehen, indem er eine Dauer nennt. Die Spieluhr rückt um diese Dauer vor, und jede Regeneration, die von der Zeit abhängt, läuft für diese Spanne ab: Mana, Gesundheit und Lebensenergie, Ausdauer, ME und jede weitere.
