@@ -159,16 +159,16 @@ Der Held verteilt die Punkte frei auf mehrere Achsen, solange die Summe die Punk
 | Wirkung | × 2 | × 3 | × 4 |
 | Reichweite | × 2 | × 3 | × 4 |
 | Wirkungsdauer | × 2 | × 3 | × 4 |
-| Beherrschung (M) | × 2 | × 3 | × 4 |
+| Beherrschung (Macht) | × 2 | × 3 | × 4 |
 | Kosten | × 0,5 | | |
 | Effektdauer | × 0,5 | | |
 | Kopieren | zweite Wirkung | | |
 
-Die Achse „Beherrschung (M)“ gibt es nur bei Zaubern der Schule Beherrschung.
+Die Achse „Beherrschung (Macht)“ gibt es nur bei Zaubern der Schule Beherrschung.
 
 Wählt der Held „Zauber kopieren“, verteilt er die übrigen Punkte frei auf die beiden Wirkungen. Für jede Wirkung gilt jede Achse höchstens einmal.
 
-Für [[Wunder]] gilt dasselbe Menü mit drei Unterschieden: Die Kosten sind Karma-Pool-Punkte ([[Glossar#KPP|KPP]]) statt Mana, die Wahl heißt „Wunder kopieren“, und die Achse „Beherrschung (M)“ entfällt. Die Zauber stehen im Kapitel [[Spruchmagie]].
+Für [[Wunder]] gilt dasselbe Menü mit drei Unterschieden: Die Kosten sind Karma-Pool-Punkte ([[Glossar#KPP|KPP]]) statt Mana, die Wahl heißt „Wunder kopieren“, und die Achse „Beherrschung (Macht)“ entfällt. Die Zauber stehen im Kapitel [[Spruchmagie]].
 
 ### Psi
 
@@ -294,7 +294,7 @@ Für diese Werte gilt die Grundregel ohne Abweichung:
 - **Tragen:** Jedes Produkt aus Stärke und Faktor und aus der Sonderfertigkeit Tragen und Faktor wird einzeln gerundet, ebenso das Produkt mit dem Behinderungsfaktor ([[Tragen]]).
 - **Natürliche Regeneration der KPP:** Geweihtengrad / 2 und Karma / 2 werden einzeln gerundet.
 - **Wunde-Schwelle bei Stumpf:** Trefferschwelle × 1,5 wird gerundet.
-- **Artefakt „Material verstärken“:** (M) : 3 wird gerundet.
+- **Artefakt „Material verstärken“:** Die Macht geteilt durch 3 wird gerundet.
 
 ### Rundung beim Schaden
 
@@ -350,7 +350,7 @@ Stärke 12, Schnelligkeit 12, Grundfertigkeit Springen 8: Hochsprung = 32 / 40 =
 
 **Verfügbare Weisheit.** Ein Held hat Weisheit 7. Ein anhaltender Zauber vom Grad 3 kostet 1,5, verfügbar bleiben 5,5. Er kann einen weiteren Zauber bis Grad 5 wählen, denn 5,5 ist mindestens 5. Grad 6 geht nicht.
 
-**Artefakt „Material verstärken“.** (M) 25: 25 / 3 = 8,33, also 9. (M) von 22 bis 24 ergibt 8, (M) von 25 bis 27 ergibt 9.
+**Artefakt „Material verstärken“.** Macht 25: 25 / 3 = 8,33, also 9. Macht von 22 bis 24 ergibt 8, Macht von 25 bis 27 ergibt 9.
 
 **Abrunden.**
 
