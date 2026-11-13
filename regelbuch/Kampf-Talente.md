@@ -78,7 +78,7 @@ Der Held verdreifacht den Schaden einer angesagten Nahkampfattacke.
 
 **Ansage.** Der Held sagt Zerschmettern an, wenn er in der Reihenfolge der Initiative an der Reihe ist. Die Ansage ist öffentlich. Sie gilt für genau eine angesagte Attacke, nicht für eine Extra-Aktion und nicht für einen Doppelschlag. Der Held wählt genau eine von zwei Varianten. Keine der Varianten lässt sich mit dem Positionsbonus Flanke oder Rücken (Attacke-Klasse +1) verbinden.
 
-**Wirkung.** Die Schadenspunkte der Attacke werden mit 3 malgenommen. Sie werden multiplikativ mit den Faktoren aus dem Bonusmenü verrechnet ([[Wuerfeln-und-Proben]]).
+**Wirkung.** Die Schadenspunkte der Attacke werden mit 3 malgenommen. Sie werden multiplikativ mit den Faktoren aus der Bonusauswahl verrechnet ([[Wuerfeln-und-Proben]]).
 
 **Variante Stehen.**
 - In der Kampfrunde davor hat der Held keine Aktionskosten ausgegeben. Auch eine Parade oder ein Ausweichen kostet AK und bricht das Stehen.
@@ -263,7 +263,7 @@ Der Zauberer opfert freiwillig Gesundheit und hebt damit die Schwelle des guten 
 
 ### Meuchler (36 TaP)
 
-Der Held greift mit Messer, Dolch oder Fechtwaffe aus dem Hinterhalt an und umgeht die Rüstung. Das Talent schaltet zwei Fähigkeiten frei, die unbemerkte Attacke und die Attacke im normalen Nahkampf. Beide gelten nur mit den Spezialisierungen Messer, Dolche und Fechtwaffen. Beide wirken über das Bonusmenü der Attacke ([[Wuerfeln-und-Proben]]).
+Der Held greift mit Messer, Dolch oder Fechtwaffe aus dem Hinterhalt an und umgeht die Rüstung. Das Talent schaltet zwei Fähigkeiten frei, die unbemerkte Attacke und die Attacke im normalen Nahkampf. Beide gelten nur mit den Spezialisierungen Messer, Dolche und Fechtwaffen. Beide wirken über die Bonusauswahl der Attacke ([[Wuerfeln-und-Proben]]).
 
 **Unbemerkte Attacke.** Hat das Ziel die Probe auf Gefahreninstinkt nicht geschafft, richtet die Attacke doppelten Schaden an: Die Schadenspunkte werden mit 2 malgenommen. Bei einem guten oder besseren Erfolg ignoriert sie zusätzlich die Rüstung. Das Bonusbudget der Erfolgsstufe gilt zusätzlich, einschließlich der Zeilen für Schadensfaktoren. Der Ausschluss aus dem normalen Nahkampf (siehe unten) gilt hier nicht.
 

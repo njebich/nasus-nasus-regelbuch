@@ -1,6 +1,6 @@
 ---
 title: Würfeln und Proben
-aliases: [Würfeln und Proben, Probe, Proben, Erfolgsstufe, Erfolgsstufen, Probenklasse, Probenklassen-Achse, Klassenvergleich, Vergleichsprobe, Ergebnisvergleich, Differenzprobe, Differenz, Probenergebnis, Patzer, Fehlschlag, guter Erfolg, meisterlicher Erfolg, fröhlicher Erfolg, Bonusmenü, Bonuspunkte, Doppelschlag, Rundung, Runden, Rundungsregel]
+aliases: [Würfeln und Proben, Probe, Proben, Erfolgsstufe, Erfolgsstufen, Probenklasse, Probenklassen-Achse, Klassenvergleich, Vergleichsprobe, Ergebnisvergleich, Differenzprobe, Differenz, Probenergebnis, Patzer, Fehlschlag, guter Erfolg, meisterlicher Erfolg, fröhlicher Erfolg, Bonusauswahl, Bonuspunkte, Doppelschlag, Rundung, Runden, Rundungsregel]
 status: entwurf
 ---
 
@@ -95,7 +95,7 @@ Ein guter, meisterlicher oder fröhlicher Erfolg gibt dem Helden bei mehreren Pr
 
 Ein fröhlicher Erfolg entsteht auf zwei Wegen. Der erste ist der Wurf 29 mit dem Vorteil „[[Gaben-und-Schwaechen|Kind der Fröhlichkeit]]“. Ohne den Vorteil ist die 29 ein Wurf wie jeder andere: Die Probe gelingt als normaler Erfolg ohne Bonuspunkte, wenn der Probenwert mindestens 29 beträgt, sonst misslingt sie. Der zweite Weg ist die Kampfklassen-Verschiebung. Er steht auch Figuren ohne das Talent offen, zum Beispiel Figuren des Meisters, und gibt dann die vollen 3 Punkte.
 
-### Was für jedes Bonusmenü gilt
+### Was für jedes Bonusauswahl gilt
 
 - Das Menü ändert weder die Erfolgsstufe noch ihre Schwellen.
 - Der Held entscheidet sofort nach dem Erfolg der Probe. Er kennt das Ergebnis der Verteidigung dann noch nicht.
@@ -124,16 +124,16 @@ Der höchste Würfel ist der Würfel der Schadensformel mit den meisten Seiten. 
 
 In jeder Kampfrunde ist nur eine Extra-Aktion möglich. Die zweite Attacke des Doppelschlags zählt als diese Extra-Aktion. Hat der Held die Extra-Aktion der Kampfrunde schon genutzt oder erhalten, kann er Doppelschlag in dieser Kampfrunde nicht wählen.
 
-Beide Attacken haben bei gutem oder besserem Ergebnis ein eigenes Bonusmenü. Die gewählten Zeilen gelten für die Attacke, bei der sie gewählt wurden. Im Menü der zweiten Attacke steht Doppelschlag nicht zur Wahl.
+Beide Attacken haben bei gutem oder besserem Ergebnis eine eigene Bonusauswahl. Die gewählten Zeilen gelten für die Attacke, bei der sie gewählt wurden. Im Menü der zweiten Attacke steht Doppelschlag nicht zur Wahl.
 
-**Umwerfen.** Die Attacke der Kampfaktion [[Nahkampf-im-Kampf|Umwerfen]] hat kein Bonusmenü. Ihre Erfolgsstufe vervielfacht nichts; sie entscheidet nur, ob die Vergleichsprobe stattfindet. Vervielfacht wird allein durch den Wurf der Vergleichsprobe selbst (1, 21 oder 29).
+**Umwerfen.** Die Attacke der Kampfaktion [[Nahkampf-im-Kampf|Umwerfen]] hat keine Bonusauswahl. Ihre Erfolgsstufe vervielfacht nichts; sie entscheidet nur, ob die Vergleichsprobe stattfindet. Vervielfacht wird allein durch den Wurf der Vergleichsprobe selbst (1, 21 oder 29).
 
 ### Meuchler und Zerschmettern
 
 Das Talent [[Kampf-Talente|Meuchler]] gilt nur mit Messern, Dolchen und Fechtwaffen.
 
 - **Im normalen Nahkampf** bekommt der Held die zusätzliche Zeile „Rüstungsignorierend“ für 1 Punkt, ab gAT. Wählt er sie bei mAT oder fAT, darf er „Schadenspunkte + höchster Würfel“, „Schadenspunkte × 2“ und „Schadenspunkte × 3“ nicht dazunehmen.
-- **Bei einer unbemerkten Attacke** hat das Ziel seine Gefahreninstinkt-Probe nicht geschafft. Die Schadenspunkte werden verdoppelt. Bei einer guten oder besseren Attacke wird außerdem die Rüstung ignoriert. Die Punkte des Bonusmenüs kommen dazu, auch für die Faktor-Zeilen. Der Ausschluss aus dem normalen Nahkampf gilt hier nicht.
+- **Bei einer unbemerkten Attacke** hat das Ziel seine Gefahreninstinkt-Probe nicht geschafft. Die Schadenspunkte werden verdoppelt. Bei einer guten oder besseren Attacke wird außerdem die Rüstung ignoriert. Die Punkte der Bonusauswahl kommen dazu, auch für die Faktor-Zeilen. Der Ausschluss aus dem normalen Nahkampf gilt hier nicht.
 
 Das Talent [[Kampf-Talente|Zerschmettern]] verdreifacht die Schadenspunkte. Der Faktor wird mit den gewählten Faktor-Zeilen malgenommen.
 
@@ -188,7 +188,7 @@ Mehr dazu steht im Kapitel [[KI]].
 
 ### Parade und Ausweichen
 
-Parade und Ausweichen ([[Glossar#AW|AW]]) haben kein Bonusmenü. Ihre Erfolgsstufen wirken nur über die Ausgänge des Meisterscreen-Gitters. Das Ausweichen gegen Fernkampf kennt nur Gelingen und Misslingen ([[Fernkampf-im-Kampf|Fernkampf im Kampf]]).
+Parade und Ausweichen ([[Glossar#AW|AW]]) haben keine Bonusauswahl. Ihre Erfolgsstufen wirken nur über die Ausgänge des Meisterscreen-Gitters. Das Ausweichen gegen Fernkampf kennt nur Gelingen und Misslingen ([[Fernkampf-im-Kampf|Fernkampf im Kampf]]).
 
 ### Was ein guter Erfolg ohne Punkte bringt
 

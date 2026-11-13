@@ -1,6 +1,6 @@
 ---
 title: Spruchmagie (SM)
-aliases: [Spruchmagie, SM, Zauberprobe, Zauber-Probe, Zauberwert, Zauberstufe, Zauberpatzer, Pechsprobe, Manabrand, Bonusmenü, Hauszauber, Hauszauber-Slots, Hauszauber-Slot, Ausdauerkosten Magie, Ausdauerkosten Spruchmagie, Schnell Zaubern]
+aliases: [Spruchmagie, SM, Zauberprobe, Zauber-Probe, Zauberwert, Zauberstufe, Zauberpatzer, Pechsprobe, Manabrand, Bonusauswahl, Hauszauber, Hauszauber-Slots, Hauszauber-Slot, Ausdauerkosten Magie, Ausdauerkosten Spruchmagie, Schnell Zaubern]
 status: entwurf
 ---
 
