@@ -1,10 +1,10 @@
 ---
-title: Erfahrung und Steigerung (AP, EP, TaP)
-aliases: [Abenteuerpunkte, AP, Entwicklungspunkte, EP, EP-Budget, Talentpunkte, TaP, Talentpunkte-Budget, Steigern, Steigerung, Erfahrung]
+title: Abenteuer-, Entwicklungs- und Talentpunkte (AP, EP, TaP)
+aliases: [Abenteuerpunkte, AP, Entwicklungspunkte, EP, EP-Budget, Talentpunkte, TaP, Talentpunkte-Budget, Steigern, Steigerung, Erfahrung, Erfahrung und Steigerung]
 status: entwurf
 ---
 
-# Erfahrung und Steigerung (AP, EP, TaP)
+# Abenteuer-, Entwicklungs- und Talentpunkte (AP, EP, TaP)
 
 Der Held sammelt Abenteuerpunkte (AP). Aus ihnen ergeben sich seine Entwicklungspunkte (EP) und seine Talentpunkte (TaP). Mit diesen beiden Währungen kauft er seine Werte, Vor- und Nachteile und Talente.
 

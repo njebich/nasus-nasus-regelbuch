@@ -73,7 +73,7 @@ Beim Umwerfen haben die Waffenklasse und der Bruchtest keine Wirkung. Die Tabell
 
 ### Erfolgsstufe
 
-Für die Attacke des Umwerfens gibt es kein Bonusmenü. Die Erfolgsstufe wirkt nur als Vervielfacher des Probenwerts in der Vergleichsprobe.
+Für die Attacke des Umwerfens gibt es kein Bonusmenü. Die Erfolgsstufe der Attacke vervielfacht nichts. Sie entscheidet nur, ob die Vergleichsprobe stattfindet. Vervielfacht wird allein durch den Wurf der Vergleichsprobe selbst (1, 21 oder 29).
 
 ### Die Umwerfen-Vergleichsprobe
 
@@ -203,7 +203,7 @@ Der Held oder ein Schmied, den er beauftragt, muss eine Waffenschmied-Probe best
 
 ### Verstärkter Klingenschutz
 
-Klingenbrecher und Klingenschutz können durch Fähigkeiten verändert werden. Ein Beispiel ist die Wirkung „Material verstärken“ eines Artefakts ([[Artefakte]]) oder des Zaubers der Spruchmagie ([[Spruchmagie]]). Sie erhöht Klingenschutz und Klingenbrecher gleichzeitig um die Macht geteilt durch 3. Weitere Quellen für Veränderungen sind möglich.
+Klingenbrecher und Klingenschutz können durch Fähigkeiten verändert werden. Ein Beispiel ist die Wirkung „Material verstärken“ eines Artefakts ([[Artefakte]]) oder des Zaubers der Spruchmagie ([[Spruchmagie]]). Sie erhöht Klingenschutz und Klingenbrecher gleichzeitig um die Macht des Zaubernden geteilt durch 3, aufgerundet. Weitere Quellen für Veränderungen sind möglich.
 
 ### Beispiele zur Klingenbruch-Probe
 

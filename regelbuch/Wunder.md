@@ -1,6 +1,6 @@
 ---
 title: Wunder
-aliases: [Wunder, Wunder-Probe, Wunderprobe, Gebet, Gebets-Talent, Stoßgebet, Ritual, Karmapool, KPP-Maximum, KPP-Basis, MinKarma, Gute Wunder, Wunder-Patzer]
+aliases: [Wunder, Wunder-Probe, Wunderprobe, Gebet, Gebets-Talent, Stoßgebet, Ritual, Karmapool, KPP-Maximum, KPP-Basis, MinKarma, Gute Wunderprobe, Wunder-Patzer]
 status: entwurf
 ---
 
@@ -48,9 +48,9 @@ Die Wunder-Probe ist eine einfache Probe. Der Held würfelt W30 − W12. Ist das
 
 Bei einem Patzer (Wurf 0) gilt immer die eigene Patzer-Regel unten, so wie bei Spruchmagie, Psi und KI ([[Spruchmagie]], [[Psi]], [[KI]]).
 
-### Gute Wunder
+### Gute Wunderprobe
 
-Das Talent Gute Wunder ([[Talente-die-Werte-veraendern]]) verändert nur die Schwelle des guten Erfolgs. Statt des Wurfs 1 gilt bei Stufe 1 des Talents das Karma und bei Stufe 2 das Karma plus die Aura. Die Schwelle ist auf die Hälfte der Probe begrenzt.
+Das Talent Gute Wunderprobe ([[Talente-die-Werte-veraendern]]) verändert nur die Schwelle des guten Erfolgs. Statt des Wurfs 1 gilt bei Stufe 1 des Talents das Karma und bei Stufe 2 das Karma plus die Aura. Die Schwelle ist auf die Hälfte der Probe begrenzt.
 
 Die Probe selbst bleibt unverändert. Beide Werte werden nebeneinander geschrieben, in der Form Probe/gSchwelle, sobald die Schwelle größer als 1 ist. Sie werden weder addiert noch ersetzt.
 
@@ -93,7 +93,7 @@ Das Wirken eines Wunders zieht den KPP-Wert des Wunders vom aktuellen Karmapool 
 - **Probe misslingt (ohne Patzer):** der halbe KPP-Wert, aufgerundet.
 - **Patzer:** siehe unten.
 
-Bei zwei der 60 Wunder steht statt einer Zahl eine Formel als KPP-Wert, zum Beispiel Karma × 10. Dort wird zuerst die Formel ausgewertet und dann wie bei jedem festen KPP-Wert verfahren.
+Bei zwei Wundern steht statt einer Zahl eine Formel als KPP-Wert, zum Beispiel Karma × 10. Dort wird zuerst die Formel ausgewertet und dann wie bei jedem festen KPP-Wert verfahren.
 
 ## Patzer und Pechsprobe
 

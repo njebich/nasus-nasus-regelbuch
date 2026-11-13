@@ -63,7 +63,7 @@ Der Schlaf endet mit einer erfolgreichen Aufwach-Probe oder wenn Bewusstlos oder
 
 **Dauer und Ende.** Die Quelle bestimmt, wie es endet.
 
-- **Koma der Heilung.** Die Regeneration beträgt W30 + Magie × 3. Die Koma-Dauer ist 1 Stunde je 3 regenerierte Lebensenergie (LE). Steht der Held an der Todesschwelle, wird nur die Koma-Dauer mit 5 malgenommen, nicht der Regenerationstakt. Das Koma endet automatisch, sobald der Held vollständig genesen ist, und geht dann automatisch in Schlaf über.
+- **Koma der Heilung.** Das Koma heilt insgesamt W30 + Magie des Zaubernden × 3 Lebensenergie (LE). Die Koma-Dauer ist 1 Stunde je 3 LE. Steht der Held an der Todesschwelle, wird nur die Koma-Dauer mit 5 malgenommen, nicht die Gesamtmenge. Nach 6 Stunden kommt der normale Schlafwurf der Schlafphase dazu, denn Koma ist ein Schlafzustand. Das Koma endet, wenn die Zauberdauer abläuft oder alle LE voll sind, und geht dann automatisch in Schlaf über. Beispiel: Der Wurf ergibt 9 und die Magie des Zaubernden ist 6, also heilt es insgesamt 9 + 18 = 27 LE in 9 Stunden.
 - **Koma ohne Zauber** (Ereignis der Welt, Gewalt des Meisters). Es gibt keinen Regenerationsbonus und keine Dauer nach Formel. Wann das Koma in Schlaf übergeht, entscheidet allein der Meister.
 
 **Besonderheiten.** Ein Koma von mindestens 6 Stunden ist immer eine Schlafphase. Der Schlafwurf für Mana und für Gesundheit und Lebensenergie kommt dann zusätzlich zum Regenerationstakt der Quelle ([[Gesundheit-und-Mana-Regeneration]]). Das gilt für Koma der Heilung ebenso wie für das Koma ohne Zauber. Außerdem verdoppelt das Koma die Abschnittszeit der Versorgung: Der Durst-Abschnitt dauert 16 Stunden, der Essens-Abschnitt 24 Stunden, und der laufende Abschnitt wird anteilig fortgeführt.
@@ -105,7 +105,7 @@ Nach dem Aufwachen läuft unabhängig vom Auslöser dieselbe Folgekette wie in d
 
 Das Herz startet auf zwei Wegen wieder:
 
-1. Der Heilzauber Defibrillator (Heilung, Grad 4) startet ein gestopptes Herz neu, sofern es nicht zerstört ist. Er garantiert mindestens Magie weitere Minuten Leben. Bei Wiederholung am selben Tag verdoppelt sich die Erschwerung.
+1. Der Heilzauber Defibrillator (Heilung, Grad 4) startet ein gestopptes Herz neu, sofern es nicht zerstört ist. Er garantiert mindestens die Magie des Zaubernden an weiteren Minuten Leben. Bei Wiederholung am selben Tag verdoppelt sich die Erschwerung.
 2. Eine Herz-Lungen-Massage mit einer Medizin-Probe, Erschwerung 16.
 
 **Beispiel.** Tod (NN) trifft ein Ziel. Bewusstlos und Herzstillstand beginnen gleichzeitig, über dieselbe Vitalitäts-Probe: sofort und danach jede Minute. Ein Erfolg weckt das Ziel (Bewusstlos endet) und zählt zugleich für den Herzstillstand. Drei Fehlschläge nacheinander töten das Ziel. Nach dem Aufwachen bleibt eine Behinderung von Magie × 2, die um 1 pro Minute sinkt.
@@ -335,7 +335,7 @@ Die getroffene Zone ist dauerhaft verloren. Die Behinderung entspricht der Behin
 
 **Ende.** Drei Quellen stellen die Gliedmaße vollständig wieder her:
 
-- die KI-Fähigkeit Regeneration, die der Held nur auf sich selbst anwendet. Sie regeneriert, ohne Gesundheit wiederherzustellen ([[KI]]),
+- die KI-Fähigkeit KI-Regeneration, die der Held nur auf sich selbst anwendet. Sie regeneriert, ohne Gesundheit wiederherzustellen ([[KI]]),
 - der Zauber Gliedmaßen nachwachsen lassen (Heilung, Grad 5), für jede eigene Trefferzone, nicht nur Arm und Bein, auch Auge, Hand und Fuß ([[Spruchmagie]]),
 - das Wunder Ruf des Tepod (Mindestkarma 5), bei dem das Nachwachsen Teil einer Komplettheilung ist ([[Wunder]]).
 
@@ -343,7 +343,7 @@ Totale Regeneration stellt nur Zonen wieder her, die noch vorhanden sind, und br
 
 **Mentale Behinderung.** Bei traumatischem Verlust startet die Mentale Behinderung (MBE) sofort mit dem vollen Wert der Zone (Arm 3, Bein 4). Sie sinkt um 1 mit jedem neuen magischen Tag, von Sonnenaufgang zu Sonnenaufgang ([[Zeit-und-Spielablauf]]), bis auf 0. Danach bleibt dauerhaft nur noch die Körperliche Behinderung (KBE). Das gilt unabhängig davon, ob die Zone Wunden hat oder wie viel LE sie besitzt. Dieser Zustand bringt keine Entwicklungspunkte und kostet auch keine. Die angeborene Variante, die der Spieler zur Erschaffung kauft (−400 oder −800 Entwicklungspunkte), ist ein anderer Eintrag ([[Aussehen-Schlaf-Sinne-und-Koerper]]).
 
-**Beispiel.** Ein scharfer Treffer mit TP ≥ LE plus Gesundheit amputiert einen Arm. Die Körperliche Behinderung bleibt dauerhaft bei 3. Die Mentale Behinderung startet bei 3 und sinkt an den folgenden drei magischen Tagen auf 2, 1 und 0. Den Arm bringen erst Gliedmaßen nachwachsen lassen, die KI-Fähigkeit Regeneration oder Ruf des Tepod zurück. Totale Regeneration oder die bloße Regeneration der LE tun das nicht.
+**Beispiel.** Ein scharfer Treffer mit TP ≥ LE plus Gesundheit amputiert einen Arm. Die Körperliche Behinderung bleibt dauerhaft bei 3. Die Mentale Behinderung startet bei 3 und sinkt an den folgenden drei magischen Tagen auf 2, 1 und 0. Den Arm bringen erst Gliedmaßen nachwachsen lassen, die KI-Fähigkeit KI-Regeneration oder Ruf des Tepod zurück. Totale Regeneration oder die bloße Regeneration der LE tun das nicht.
 
 ### Krank
 
@@ -365,8 +365,8 @@ Es gibt keinen gemeinsamen Zustand „Vergiftet“. Jedes Gift wirkt auf eine vo
 **Gifte, die einen bestehenden Zustand auslösen.**
 
 - **Blendgift** (alle drei Stufen gleich). Der Betroffene ist blind. Es gilt der Zustand Blind mit seinem Probenabzug von 18 und der Ausnahme für die Astralsicht ([[Aussehen-Schlaf-Sinne-und-Koerper]]). Der Abzug ist keine Behinderung.
-- **Schlafgift** (drei Stufen, unmagisch). Der Betroffene fällt in den Zustand Schlaf, mit dem natürlichen Wach-Rhythmus (Sinnesschärfe und Gefahrensinn). Die Kadenz des Zaubers Einschläfern gilt nicht. Die Stufen entsprechen den Schlaf-Profilen: leicht = Leichter Schlaf, normal = Normal, stark = Tiefer Schlaf.
-- **Lähmungsgift** (alle drei Stufen gleich). Die betroffene Trefferzone gilt als mit einem Treffer auf 0 gebracht: Sie ist gebrochen, mit der Behinderung mal 2. Der Bruch wird wie jeder Bruch geheilt (siehe oben). Er endet mit der Wirkungsdauer des Gifts. Der LE-Stand der Zone bleibt unverändert.
+- **Schlafgift** (drei Stufen, unmagisch). Der Betroffene fällt in den Zustand Schlaf, mit dem natürlichen Wach-Rhythmus (Sinnesschärfe und Gefahreninstinkt). Die Kadenz des Zaubers Einschläfern gilt nicht. Die Stufen entsprechen den Schlaf-Profilen: leicht = Leichter Schlaf, normal = Normal, stark = Tiefer Schlaf.
+- **Lähmungsgift** (alle drei Stufen gleich). Die betroffene Trefferzone gilt als mit einem Treffer auf 0 gebracht: Sie ist gebrochen, mit der Behinderung mal 2. Das Lähmungsgift endet mit der Wirkungsdauer. Ist es ein magisches Gift, wirkt ein Antimagie-Zauber dagegen, ebenso die Mächtige Entseuchung (Heilung, Grad 6); gegen ein unmagisches Gift wirkt Entseuchung (Heilung, Grad 4). Ein Antidot ([[Alchemika]]) wirkt gegen magisches wie unmagisches Gift: Es gibt eine neue Alchemieresistenz-Probe gegen jedes Alchemikum, das gerade wirkt. Die Heilungsregeln des echten Bruchs (Medizin-Probe, Heilender Knochen) gelten hier nicht. Der LE-Stand der Zone bleibt unverändert.
 
 **Gift mit eigenem Zustand.** Zungengift (alle Stufen textgleich, „Artikuliertes Sprechen unmöglich“) führt für die Wirkungsdauer in den Zustand Stumm. Der Betroffene gibt keinen Ton von sich und kann Zauber nur ab Zauberstufe 2 ohne Formel wirken. Es ist derselbe Zustand wie bei dem Zauber Stumm und dem Körpermerkmal Stumm.
 
@@ -375,7 +375,7 @@ Es gibt keinen gemeinsamen Zustand „Vergiftet“. Jedes Gift wirkt auf eine vo
 - **Behinderungsgift** (leicht, normal, stark): Körperliche Behinderung W4, W6 oder W8.
 - **Schwächegift** (leicht, normal, stark): Die Trefferschwelle sinkt um 1, 2 oder 3.
 - **Nahrungsgift** (leicht, normal, stark): Verlust von W6, W8 oder W8 Gesundheit pro Minute. Dazu steigt die Körperliche Behinderung jede Minute um 1, 2 oder 3.
-- **Taubheitsgift** (alle drei Stufen gleich): Körperliche Behinderung 2 und eine Erschwerung von 12 auf den Gefahrensinn.
+- **Taubheitsgift** (alle drei Stufen gleich): Körperliche Behinderung 2 und eine Erschwerung von 12 auf den Gefahreninstinkt.
 - **Hässlichkeitsgift, Verwirrungsgift, Regigift:** Wertmodifikatoren für die Wirkungsdauer.
 - **Waffengift und Jagdgift** (acht Varianten): Giftschaden auf eine Trefferzone ([[Alchemika]]).
 - **Managift** (drei Stufen): ein einmaliger, unmittelbarer Verlust von Mana.
@@ -397,7 +397,7 @@ Zwei Zustände, die der Held gleichzeitig tragen kann: Psychische Abhängigkeit 
 
 **Unterdrückung.** Der Zauber Zwang unterdrücken (Heilung, Grad 1) hilft dem Opfer, dem psychischen Zwang für die Wirkungsdauer zu entgehen. Das schließt alle psychischen Drogenabhängigkeiten und Süchte ein. Magische Zwänge sind davon nicht betroffen. Ein Beherrschungszauber ist also keine Psychische Abhängigkeit, er gehört zu den Zuständen Beherrscht und Kontrolliert.
 
-**Ende.** Dauerhaft endet der Zustand durch keinen bekannten Weg. Nach Ablauf der Wirkungsdauer des Zaubers ist die Abhängigkeit unverändert aktiv.
+**Ende.** Für die Abhängigkeit ist kein Weg zum Beenden festgelegt. Eine eigene Mechanik folgt später; bis dahin wirken die Zauber, wie sie geschrieben sind. Nach Ablauf der Wirkungsdauer des Zaubers ist die Abhängigkeit unverändert aktiv.
 
 **Beispiel.** Der Held leidet unter einer Psychischen Abhängigkeit und erhält Zwang unterdrücken. Für die Wirkungsdauer entgeht er dem psychischen Zwang vollständig. Danach ist die Abhängigkeit wieder wie zuvor.
 
@@ -409,7 +409,7 @@ Zwei Zustände, die der Held gleichzeitig tragen kann: Psychische Abhängigkeit 
 
 **Linderung.** Der Zauber Entzug lindern (Heilung, Grad 2) halbiert alle Entzugserscheinungen, die durch physische Abhängigkeiten entstehen. Er entfernt sie nicht.
 
-**Ende.** Dauerhaft endet der Zustand durch keinen bekannten Weg. Nach Ablauf der Wirkungsdauer des Zaubers gilt wieder der volle Entzug.
+**Ende.** Für die Abhängigkeit ist kein Weg zum Beenden festgelegt. Eine eigene Mechanik folgt später; bis dahin wirken die Zauber, wie sie geschrieben sind. Nach Ablauf der Wirkungsdauer des Zaubers gilt wieder der volle Entzug.
 
 **Beispiel.** Der Held hat eine Physische Abhängigkeit und erhält Entzug lindern. Die Entzugserscheinungen sind für die Wirkungsdauer halbiert, nicht aufgehoben.
 

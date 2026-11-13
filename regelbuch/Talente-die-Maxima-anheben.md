@@ -10,6 +10,8 @@ Ein Maximum-Talent erhöht das erlaubte Maximum eines anderen Werts, nicht den W
 
 Der Held steigert den Wert weiterhin ganz normal, mit Entwicklungspunkten beziehungsweise mit Fertigkeitswert, bis hinauf zum neuen Maximum. Das Talent schenkt ihm nur Spielraum nach oben.
 
+Solche Talente gibt es für alle Werte, die ein Maximum haben. Wie das Steigern im Einzelnen abläuft, zeigt das Charaktererschaffungstool.
+
 ## Voraussetzungen
 
 Eine Erhöhung gilt nur, wenn der Held das Talent besitzt ([[Talente]]) und die Vorstufe der Kette erfüllt ist.
@@ -20,11 +22,11 @@ Die Talente, die das Maximum einer Eigenschaft oder eines Attributs anheben, sin
 
 Das Talent einer Eigenschaft kostet 6 Talentpunkte und hebt ihr Maximum um 5 an. Zu jeder der zehn Eigenschaften gibt es ein eigenes Talent. Die Talente der Attribute stehen im Kapitel [[Attribute]].
 
-Ein Held mit Kreis 2 kann das Talent „Eigenschaft erhöhen“ für Mut nicht kaufen. Mit Kreis 3 kann er es kaufen. Ohne das Talent liegt das Maximum des Muts bei Kreis 3 bei 31, mit dem Talent bei 36.
+Ein Held mit Kreis 2 kann das Talent „Eigenschaftsmaximum erhöhen: Mut“ nicht kaufen. Mit Kreis 3 kann er es kaufen. Ohne das Talent liegt das Maximum des Muts bei Kreis 3 bei 31, mit dem Talent bei 36.
 
 ### Kaufsperre durch Schlechte Eigenschaft
 
-Das Talent „Eigenschaft erhöhen“ ist gesperrt, solange die Eigenschaft den Nachteil Schlechte Eigenschaft trägt. Jede der zehn Eigenschaften hat dafür ihren eigenen Nachteil, und jeder sperrt genau das Talent seiner Eigenschaft. Der Nachteil bei Mut sperrt also das Talent für Mut und kein anderes. Verkauft der Held den Nachteil, ist das Talent wieder kaufbar (siehe [[Gaben-und-Schwaechen|Gaben und Schwächen]]).
+Das Talent „Eigenschaftsmaximum erhöhen: <Eigenschaft>“ ist gesperrt, solange die Eigenschaft den Nachteil Schlechte Eigenschaft trägt. Jede der zehn Eigenschaften hat dafür ihren eigenen Nachteil, und jeder sperrt genau das Talent seiner Eigenschaft. Der Nachteil bei Mut sperrt also das Talent für Mut und kein anderes. Verkauft der Held den Nachteil, ist das Talent wieder kaufbar (siehe [[Gaben-und-Schwaechen|Gaben und Schwächen]]).
 
 ## Worauf sich eine Erhöhung bezieht
 
@@ -62,6 +64,6 @@ Für die Summe der Erhöhungen gibt es keine Obergrenze. Ein negativer Bonus ist
 
 - **Eine Kette.** Die Sonderfertigkeit Ausdauer hat ohne Talent das Maximum 12. Das Talent Ausdauer gibt +6, +12 und +18 für die Stufen 1, 2 und 3. Mit Stufe 1 liegt das Maximum bei 18. Mit Stufe 1 und 2 liegt es bei 12 + 12 = 24, denn es zählt nur der höhere Bonus. Mit Stufe 1, 2 und 3 liegt es bei 30.
 - **Zwei verschiedene Fertigkeiten.** Der Held hat das Talent Ausdauer Stufe 2 (Ziel Ausdauer, Bonus 12) und das Talent Ausweichen Stufe 1 (Ziel Ausweichen, Bonus 6). Das Maximum von Ausdauer steigt um 12, das von Ausweichen um 6, unabhängig voneinander.
-- **Zwei verschiedene Zauberschulen.** Der Held hat das Talent Magus Stufe 2 in der Heilung, Großmagus (Familie der Heilzauber, Bonus 12), und das Talent Magus Stufe 1 in der Antimagie, Magus (Familie der Antimagie-Zauber, Bonus 6). Das Schulmaximum der Heilung steigt um 12, das der Antimagie um 6, beide zugleich.
+- **Zwei verschiedene Zauberschulen.** Der Held hat das Talent Großmagus der Heilung, Stufe 2 (Familie der Heilzauber, Bonus 12), und das Talent Magus der Antimagie, Stufe 1 (Familie der Antimagie-Zauber, Bonus 6). Das Schulmaximum der Heilung steigt um 12, das der Antimagie um 6, beide zugleich.
 - **Eine ganze Kategorie.** Der Held hat das Talent Grundfertigkeiten Stufe 3 (Ziel: alle Grundfertigkeiten, Bonus 6). Es wirkt auf jede Grundfertigkeit gleichzeitig, nicht nur auf eine.
 - **Einzelne Fertigkeit und Kategorie zusammen.** Der Held hat das Talent Charismatischer Führer (Ziel Überzeugen, Bonus 6) und das Talent Grundfertigkeiten Stufe 2 (Ziel: alle Grundfertigkeiten, Bonus 4). Überzeugen ist selbst eine Grundfertigkeit, beide Boni treffen also denselben Wert, aber über zwei verschiedene Ziele. Das Maximum von Überzeugen steigt um 10 (6 + 4), nicht um den höheren der beiden Werte (6).

@@ -1,6 +1,6 @@
 ---
 title: Kampfrunde, Aktionen, Initiative und Sicht
-aliases: [Kampfrunde, Kampfrunde-Aktionen-Initiative-und-Sicht, KR, Initiative, Ini, Runden-Ini-Wert, Ini-Wurf, Ini-Differenz, Nahkampf-Ini-Wert, Ansage, Rundenplan, Reaktionsfenster, Zielverlust, Nachsteuern, Aktionskosten, AK, Aktionsliste, Aktionsbudget, Kampf-Laufen-Probe, Kampf-Sprung-Probe, Extra-Aktion, EA, Zusatzaktion, Warten, Rufen, Waffe ziehen, Zielen, Nachladen, Sichtfeld, Facing, Blickrichtung, Sichtkegel, toter Winkel, Drehung, Orientierung, Überraschungsangriff, Gefahreninstinkt-Probe, Positions-Modifikator, Todesschwelle]
+aliases: [Kampfrunde, Kampfrunde-Aktionen-Initiative-und-Sicht, KR, Initiative, Ini, Runden-Ini-Wert, Ini-Wurf, Ini-Differenz, Nahkampf-Ini-Wert, Ansage, Rundenplan, Reaktionsfenster, Zielverlust, Nachsteuern, Aktionskosten, AK, Aktionsliste, Aktionsbudget, Kampf-Laufen-Probe, Kampf-Sprung-Probe, Extra-Aktion, EA, Extra-Aktion, Warten, Rufen, Waffe ziehen, Zielen, Nachladen, Sichtfeld, Facing, Blickrichtung, Sichtkegel, toter Winkel, Drehung, Orientierung, Überraschungsangriff, Gefahreninstinkt-Probe, Positions-Modifikator, Todesschwelle]
 status: entwurf
 ---
 
@@ -123,9 +123,11 @@ Aktionskosten und Ausdauer sind getrennt. Die Ausdauerkosten einer Kampfaktion s
 | Fallen lassen | 0 |
 | Finden | 3 |
 
-Keine Aktionskosten haben Warten, Rufen und Orientierung.
+Keine Aktionskosten haben Warten, Rufen, Orientierung und Gegner identifizieren.
 
-Die Parade ist die letzte wählbare Aktion in der Kampfrunde.
+**Gegner identifizieren** (Arbeitsname, 0 AK). Der Held macht einen Angreifer im toten Winkel für den Gewarnten bekannt: Dessen Zustand wechselt auf „verfolgt“. Die Aktion steht neben dem Rufen und setzt voraus, dass der Rufende den Angreifer sieht. Je Kampfrunde kann ein Held einen Gegner identifizieren. Der Ruf gilt für alle Verbündeten in Hörweite. Die Hörweite ist nicht beziffert und gilt pauschal wie bei jedem Zielsinn; im Moment entscheidet der Meister.
+
+Attacke, Parade und Fernkampf-Attacke sind jeweils die letzte Aktion der Kampfrunde. Danach tut der Teilnehmer in dieser Runde nichts mehr, auch nichts für 0 AK. Ein Zauber beendet die Runde nicht. Aktionen für 0 AK vor der Attacke bleiben möglich, etwa eine Drehung, eine Bewegung mit gelungener Kampf-Laufen-Probe oder ein Zauber für 0 AK. Die Extra-Aktion aus dem Gitter bleibt unberührt.
 
 **Umwerfen.** Umwerfen ist eine Nahkampf-Attacke und kostet 5 Ausdauer ([[Nahkampf-im-Kampf]]).
 
@@ -185,7 +187,7 @@ Nachladen kostet 3 AK und belegt immer die volle Kampfrunde. Wie viele Kampfrund
 Der Verteidiger wählt bei jedem Angriff eine von drei Antworten: Parade, defensives Ausweichen oder offensives Ausweichen. Die Werte der Proben stehen in [[Nahkampf]]. Hier stehen die Kosten:
 
 - **Defensives Ausweichen** kostet 1 AK und lässt 2 AK frei, zum Beispiel für eine Parade als Rückfall oder für eine Bewegung. Im Meisterscreen-Gitter bringt es die Ausgänge „Flucht möglich“ und die Rückfall-Parade ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]).
-- **Offensives Ausweichen** kostet 3 AK und belegt die ganze Kampfrunde. Es bleiben nur Aktionen für 0 AK. Dafür schaltet es im Gitter die Gegenangriffs-Ausgänge frei, etwa die Konter-Extra-Aktion.
+- **Offensives Ausweichen** kostet 3 AK, belegt die ganze Kampfrunde und beendet sie: Danach tut der Held in dieser Runde nichts mehr. Das defensive Ausweichen beendet die Runde nicht. Es schaltet im Gitter die Gegenangriffs-Ausgänge frei, etwa die Konter-Extra-Aktion.
 
 ### Warten
 
@@ -220,7 +222,7 @@ Wie stark jede aktive Wirkung den freien Wert senkt, steht bei [[KI]], [[Psi]] u
 
 ### Extra-Aktionen
 
-Eine Extra-Aktion ist eine Zusatzaktion, die ein Unterschied der Kampfklassen gewährt. Im Meisterscreen-Gitter heißt sie auch Konter-Extra-Aktion, unbewaffnete Extra-Aktion oder bewaffnete Extra-Aktion. Für die Aktionskosten gilt:
+Eine Extra-Aktion ist eine Extra-Aktion, die ein Unterschied der Kampfklassen gewährt. Im Meisterscreen-Gitter heißt sie auch Konter-Extra-Aktion, unbewaffnete Extra-Aktion oder bewaffnete Extra-Aktion. Für die Aktionskosten gilt:
 
 - Die Extra-Aktion kostet 0 AK.
 - Sie wird nicht aus dem Budget von 3 AK bezahlt. Sie steht auch dann zur Verfügung, wenn das Budget schon verbraucht ist, etwa direkt nach einer Attacke für 3 AK.
@@ -240,7 +242,7 @@ Welche Gitter-Ausgänge eine Extra-Aktion gewähren, wer sie ausführt und welch
 
 ### Grenzfälle der Aktionskosten
 
-- Eine Attacke (3 AK) füllt das Budget. Dazu kommt nur noch eine Extra-Aktion oder eine andere Aktion für 0 AK.
+- Eine Attacke (3 AK) füllt das Budget und beendet die Kampfrunde. Vorher sind Aktionen für 0 AK möglich, danach kommt nur noch die Extra-Aktion aus dem Gitter.
 - Defensives Ausweichen (1) und Parade (2) ergeben zusammen 3 und sind zulässig. Die Parade deckt auch die spontane Parade der „PA-Extra-Aktion“ ab.
 - Zwei verschiedene Bewegungen, zum Beispiel Gehen und Sprint, schließt die Grenze von einer Laufen-Aktion je Kampfrunde aus. Eine Drehung gehört zu einer eigenen Kategorie und ist zusätzlich möglich.
 - Zauber und volle Attacke in einer Kampfrunde gehen nur bei einem freien Wert von 7 oder mehr, denn dann kostet der Zauber 0 AK. Bei einem freien Wert von 5 bis 6 kostet der Zauber 1 AK. Es bleiben 2, genug für defensives Ausweichen plus Drehung oder für eine Parade, aber nicht für eine Attacke.
@@ -307,7 +309,7 @@ Jede Kampfrunde läuft in dieser Reihenfolge ab:
 1. **Initiative bestimmen.** Siehe „Die Initiative“.
 2. **Umgebung bestimmen (Meister).** Der Meister legt fest: a) die Bedingungen und die generellen Erschwerungen ([[Behinderung-und-Erschwerung]], [[Fernkampf]]), b) den Kampfplatz und die Deckungsmöglichkeiten ([[Deckung]]), c) die Entfernungen. Er platziert und beschreibt jedes Ziel, das gesehen werden kann.
 3. **Ansage der Aktionen.** Siehe „Ansage und Ausführung“.
-4. **Aktionen ausführen.** Siehe „Ansage und Ausführung“. Die Aktionen sind a) Warten, b) Rufen, c) Orientierung, d) Bewegung, e) Waffe ziehen, f) Waffe laden, g) Nahkampf ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]; das Umwerfen wird als Nahkampf-Attacke gewürfelt, [[Nahkampf-im-Kampf]]), h) Fernkampf ([[Fernkampf-im-Kampf]]), i) Magie ([[Magie-im-Kampf]]).
+4. **Aktionen ausführen.** Siehe „Ansage und Ausführung“. Die Aktionen sind a) Warten, b) Rufen (auch Gegner identifizieren), c) Orientierung, d) Bewegung, e) Waffe ziehen, f) Waffe laden, g) Nahkampf ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]; das Umwerfen wird als Nahkampf-Attacke gewürfelt, [[Nahkampf-im-Kampf]]), h) Fernkampf ([[Fernkampf-im-Kampf]]), i) Magie ([[Magie-im-Kampf]]).
 5. **Bruchtest.** Siehe die Klingenbruch-Probe in [[Nahkampf-im-Kampf]]. Beim Umwerfen entfällt der Bruchtest.
 6. **Wirkung und Schaden.** In dieser Reihenfolge: Trefferzone würfeln, Deckung, Schild, Rüstungsschutz, Schaden, Lebensenergie, Gesundheit, Blutung notieren, Behinderung notieren, Selbstbeherrschungsprobe, gegebenenfalls Konzentrationsprobe ([[Treffer-und-Schaden]]).
 7. **Kampfunfähigkeit.** Misslingt die Selbstbeherrschungsprobe ausreichend, dauert die Kampfunfähigkeit W15 + W6 Kampfrunden. Fehlen kampfnötige Gliedmaßen, werden Art und Zeit bestimmt ([[Zustaende-Katalog]]).
@@ -434,7 +436,8 @@ Die Probe fällt in zwei Fällen: Bei einem Angriff aus dem toten Winkel von ein
 Die Probe ist eine einfache Probe auf eine [[Grundfertigkeiten|Grundfertigkeit]], und zwar auf Sinnesschärfe plus der [[Sonderfertigkeiten|Sonderfertigkeit]] Gefahreninstinkt (zusammen „Sinnesschärfe + Gefahreninstinkt“).
 
 - Jeder unbekannte Angreifer aus dem toten Winkel bekommt eine eigene Probe. Gelingt sie, ist der Zustand „verfolgt“. Misslingt sie, ist er „überrascht“.
-- Im Standardfall ist die Probe nicht modifiziert. Der Meister darf sie für besondere Umstände erschweren, zum Beispiel bei einem vorbereiteten Hinterhalt. Er darf sie erleichtern, etwa wenn ein Verbündeter, der den Angreifer sieht, einen Warn-Ruf ausstößt. Der Ruf ersetzt die Probe nicht.
+- Im Standardfall ist die Probe nicht modifiziert. Der Meister darf sie für besondere Umstände erschweren, zum Beispiel bei einem vorbereiteten Hinterhalt. Er darf sie auch erleichtern.
+- Ruft ein Verbündeter, der den Angreifer sieht, eine Warnung, ist der Angreifer dem Ziel bekannt (verfolgt). Eine Gefahreninstinkt-Probe ist dann nicht nötig.
 - Der Spruch Unsichtbarkeit erschwert die Probe.
 - Ab der Kampfrunde nach seinem ersten Angriff ist der Angreifer bekannt. Der Zustand ist dann „verfolgt“, und es gibt keine weitere Probe.
 

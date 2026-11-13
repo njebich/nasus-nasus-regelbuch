@@ -8,7 +8,7 @@ status: entwurf
 
 Für körperliche Anstrengung über das Normalmaß hinaus gibt der Held Ausdauer aus. Sinkt sie auf 0, bekommt er Behinderungen auf seine Proben. Sobald die Anstrengung vollständig endet, erholt er sich wieder.
 
-Ausdauer kosten Nahkampfhandlungen ([[Nahkampf]]), das Halten eines gespannten Bogens ([[Fernkampf]]), Zaubern ([[Spruchmagie]]), das Abfangen des Rückstoßes einer [[Feuerwaffen|Feuerwaffe]], Gehen, Laufen, Sprinten, Marschieren und Springen ([[Bewegung]]) sowie das Tragen von Lasten ([[Tragen]]). Was eine Handlung kostet, steht im Kapitel der Handlung, zusammengefasst in der [[Ausdauerkosten-Uebersicht|Ausdauerkosten-Übersicht]]. Dieses Kapitel sagt, wie viel Ausdauer der Held hat, was ihr Fehlen bewirkt und wie sie zurückkehrt.
+Ausdauer kosten Nahkampfhandlungen ([[Nahkampf]]), das Halten eines gespannten Bogens ([[Fernkampf]]), Zaubern ([[Spruchmagie]]), das Abfangen des Rückstoßes einer [[Feuerwaffen|Feuerwaffe]], Gehen, Laufen, Sprinten und Springen ([[Bewegung]]) sowie das Tragen von Lasten ([[Tragen]]). Was eine Handlung kostet, steht im Kapitel der Handlung, zusammengefasst in der [[Ausdauerkosten-Uebersicht|Ausdauerkosten-Übersicht]]. Dieses Kapitel sagt, wie viel Ausdauer der Held hat, was ihr Fehlen bewirkt und wie sie zurückkehrt.
 
 ## Das Maximum
 
@@ -64,6 +64,8 @@ liegend        = stehend × 4
 Ein sehr schwacher Held regeneriert stehend also mindestens 3 Ausdauer pro Sekunde, sitzend oder kniend mindestens 6 und liegend mindestens 12.
 
 Sekunde und Minute sind Zeiteinheiten der Spielwelt. Sie gelten unabhängig von der Dauer einer Kampfrunde (siehe [[Zeit-und-Spielablauf|Zeit und Spielablauf]]).
+
+Solange ein Kampf läuft, erholt sich die Ausdauer nicht über 60 Prozent. Die Erholung zwischen 60 und 80 Prozent braucht eine volle Minute ohne Unterbrechung und ohne Kampfhandlung. Beispiel: Ein Held steht bei 65 Prozent und kämpft noch zwanzig ruhige Kampfrunden lang weiter. Er erholt sich in dieser Zeit nicht.
 
 ### Oberhalb von 80 %
 

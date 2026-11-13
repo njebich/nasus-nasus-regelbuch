@@ -59,7 +59,7 @@ So vergleichen das [[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter|Meisterscreen
 
 ### Die Vergleichsprobe
 
-Sagt der Meister eine Vergleichsprobe an, würfelt jeder Beteiligte eine Differenzprobe: W30 − W12 (zu den Würfeln siehe [[Glossar#WX|Glossar]]). Verglichen werden die Probenergebnisse, also die Differenzen. Die Erfolgsstufe entscheidet in der Vergleichsprobe nichts. Eine Erschwerung wird vorher vom eigenen Ergebnis abgezogen.
+Sagt der Meister eine Vergleichsprobe an, würfelt jeder Beteiligte eine Differenzprobe: W30 − W12 (zu den Würfeln siehe [[Glossar#WX|Glossar]]). Verglichen werden die Probenergebnisse, also die Differenzen. Die Erfolgsstufe entscheidet in der Vergleichsprobe nichts. Eine Erschwerung wird vom fertigen Probenergebnis abgezogen, also nach dem Vervielfachen bei Wurf 1, 21 oder 29. Beispiel: Probenwert 10, Erschwerung 4, Wurf 1: 10 × 2 − 4 = 16.
 
 Das Probenergebnis hängt vom Wurf und vom Probenwert ab:
 
@@ -93,7 +93,7 @@ Ein guter, meisterlicher oder fröhlicher Erfolg gibt dem Helden bei mehreren Pr
 - meisterlicher Erfolg: 2 Punkte
 - fröhlicher Erfolg: 3 Punkte
 
-Ein fröhlicher Erfolg entsteht auf zwei Wegen. Der erste ist der Wurf 29 mit dem Talent „[[Gaben-und-Schwaechen|Kind der Fröhlichkeit]]“. Ohne das Talent ist die 29 ein Wurf wie jeder andere: Die Probe gelingt als normaler Erfolg ohne Bonuspunkte, wenn der Probenwert mindestens 29 beträgt, sonst misslingt sie. Der zweite Weg ist die Kampfklassen-Verschiebung. Er steht auch Figuren ohne das Talent offen, zum Beispiel Figuren des Meisters, und gibt dann die vollen 3 Punkte.
+Ein fröhlicher Erfolg entsteht auf zwei Wegen. Der erste ist der Wurf 29 mit dem Vorteil „[[Gaben-und-Schwaechen|Kind der Fröhlichkeit]]“. Ohne den Vorteil ist die 29 ein Wurf wie jeder andere: Die Probe gelingt als normaler Erfolg ohne Bonuspunkte, wenn der Probenwert mindestens 29 beträgt, sonst misslingt sie. Der zweite Weg ist die Kampfklassen-Verschiebung. Er steht auch Figuren ohne das Talent offen, zum Beispiel Figuren des Meisters, und gibt dann die vollen 3 Punkte.
 
 ### Was für jedes Bonusmenü gilt
 
@@ -126,14 +126,14 @@ In jeder Kampfrunde ist nur eine Extra-Aktion möglich. Die zweite Attacke des D
 
 Beide Attacken haben bei gutem oder besserem Ergebnis ein eigenes Bonusmenü. Die gewählten Zeilen gelten für die Attacke, bei der sie gewählt wurden. Im Menü der zweiten Attacke steht Doppelschlag nicht zur Wahl.
 
-**Umwerfen.** Die Attacke der Kampfaktion [[Nahkampf-im-Kampf|Umwerfen]] hat kein Bonusmenü. Ihre Erfolgsstufe wirkt dort nur als Vervielfacher des Probenwerts in der Vergleichsprobe des Umwerfens.
+**Umwerfen.** Die Attacke der Kampfaktion [[Nahkampf-im-Kampf|Umwerfen]] hat kein Bonusmenü. Ihre Erfolgsstufe vervielfacht nichts; sie entscheidet nur, ob die Vergleichsprobe stattfindet. Vervielfacht wird allein durch den Wurf der Vergleichsprobe selbst (1, 21 oder 29).
 
 ### Meuchler und Zerschmettern
 
 Das Talent [[Kampf-Talente|Meuchler]] gilt nur mit Messern, Dolchen und Fechtwaffen.
 
 - **Im normalen Nahkampf** bekommt der Held die zusätzliche Zeile „Rüstungsignorierend“ für 1 Punkt, ab gAT. Wählt er sie bei mAT oder fAT, darf er „Schadenspunkte + höchster Würfel“, „Schadenspunkte × 2“ und „Schadenspunkte × 3“ nicht dazunehmen.
-- **Bei einer unbemerkten Attacke** hat das Ziel seine Gefahrensinn-Probe nicht geschafft. Die Schadenspunkte werden verdoppelt. Bei einer guten oder besseren Attacke wird außerdem die Rüstung ignoriert. Die Punkte des Bonusmenüs kommen dazu, auch für die Faktor-Zeilen. Der Ausschluss aus dem normalen Nahkampf gilt hier nicht.
+- **Bei einer unbemerkten Attacke** hat das Ziel seine Gefahreninstinkt-Probe nicht geschafft. Die Schadenspunkte werden verdoppelt. Bei einer guten oder besseren Attacke wird außerdem die Rüstung ignoriert. Die Punkte des Bonusmenüs kommen dazu, auch für die Faktor-Zeilen. Der Ausschluss aus dem normalen Nahkampf gilt hier nicht.
 
 Das Talent [[Kampf-Talente|Zerschmettern]] verdreifacht die Schadenspunkte. Der Faktor wird mit den gewählten Faktor-Zeilen malgenommen.
 
@@ -272,10 +272,10 @@ Ein Behinderungsfaktor (× 0,25, × 0,5 oder × 0,75) wirkt auf den Viertel-Wert
 
 Diese Werte runden zur Null hin, auf ganze Zahlen:
 
-- **Blutrausch:** die Halbierung der Kampfbehinderung aus Gliedmaßen, die auf 0 [[Glossar#LE|LE]] geschlagen oder abgetrennt sind ([[Treffer-und-Schaden|Treffer und Schaden]]).
+- **Blutrausch:** die Halbierung der Körperlichen Behinderung aus Gliedmaßen, die auf 0 [[Glossar#LE|LE]] geschlagen oder abgetrennt sind ([[Treffer-und-Schaden|Treffer und Schaden]]).
 - **KI-Staffel „pro+B“:** Die Wirkung ist A mal die zugeteilte Erschwerung geteilt durch B. Die Division wird abgerundet, nur volle Schritte zählen.
 - **KI Meister der Grundfertigkeiten:** Die Zahl der wählbaren Grundfertigkeiten ist 1 + Wert / 5, die Division abgerundet.
-- **KI Regeneration und Selbstheilung:** E_w : 3 LE je Sekunde und E_w : 5 LE je weiterer Zone, jeweils abgerundet.
+- **KI-Regeneration und Selbstheilung:** Die KI-Wirkungserschwerung geteilt durch 3 ergibt die LE je Sekunde, geteilt durch 5 die LE je weiterer Zone, jeweils abgerundet.
 - **Kreis:** Der Kreis ist die Wurzel aus der Stufe, abgerundet ([[Stufe-Kreis-Macht-und-Rerolls|Stufe, Kreis, Macht und Rerolls]]).
 
 ### Ein Wert ohne Rundung
@@ -354,7 +354,7 @@ Stärke 12, Schnelligkeit 12, Grundfertigkeit Springen 8: Hochsprung = 32 / 40 =
 
 **Abrunden.**
 
-- Blutrausch: Die Kampfbehinderung aus Gliedmaßen ist 5. 5 / 2 = 2,5, also 2.
+- Blutrausch: Die Körperliche Behinderung aus Gliedmaßen ist 5. 5 / 2 = 2,5, also 2.
 - Staffel „pro+B“: Eine Fähigkeit gibt „Willenskraft +2 pro+1“ und „Trefferschwelle +1 pro+2“. Bei Erschwerung 1 steigt die Willenskraft um 2 × 1 = 2 und die Trefferschwelle um 1 × 0 = 0, denn 1 / 2 wird 0. Bei Erschwerung 3 steigt die Willenskraft um 2 × 3 = 6 und die Trefferschwelle um 1 × 1 = 1, denn 3 / 2 wird 1.
 - Meister der Grundfertigkeiten: Die Werte 1, 4, 5, 9, 10 und 15 geben 1, 1, 2, 2, 3 und 4 Grundfertigkeiten.
 - Kreis: Die Stufen 8, 9, 15 und 16 geben die Kreise 2, 3, 3 und 4.

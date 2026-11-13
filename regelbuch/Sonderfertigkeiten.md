@@ -10,7 +10,7 @@ Eine Sonderfertigkeit ist ein Wert, den der Held Punkt für Punkt kauft und der 
 
 ## Kauf und Kosten
 
-Der Held kauft Sonderfertigkeiten mit Entwicklungspunkten ([[Erfahrung-und-Steigerung|Erfahrung und Steigerung]]). Jeder Punkt kostet 9 Entwicklungspunkte, bei jeder Sonderfertigkeit und auf jeder Höhe:
+Der Held kauft Sonderfertigkeiten mit Entwicklungspunkten ([[Abenteuer-Entwicklungs-und-Talentpunkte|Abenteuer-, Entwicklungs- und Talentpunkte]]). Jeder Punkt kostet 9 Entwicklungspunkte, bei jeder Sonderfertigkeit und auf jeder Höhe:
 
 ```text
 Kosten = Wert × 9 Entwicklungspunkte
@@ -34,7 +34,7 @@ In der Liste unten steht bei jeder Sonderfertigkeit, was die Talentstufen kosten
 
 Zauber, KI-Fähigkeiten, Alchemika, Wunder und Talente können die Werte verändern, in die eine Sonderfertigkeit eingeht, etwa die Ausdauer, das Ausweichen, das Mana oder die Selbstbeherrschung. Sie ändern das Ergebnis, nicht die gekaufte Sonderfertigkeit und nicht ihre Kosten.
 
-- Die [[KI|KI-Fähigkeit]] „Abhärtung“ kann den Alchemieresistenz-Wert erhöhen, die KI-Fähigkeit „Konzentration“ die Selbstbeherrschung.
+- Die [[KI|KI-Fähigkeit]] „Abhärtung“ kann den Alchemieresistenz-Wert erhöhen, die KI-Fähigkeit „Konzentration“ die Trefferschwelle (+1 je +2 gewählter Erschwerung). Konzentration ist keine Sonderfertigkeit.
 - Der Zauber „Selbstbeherrschung erhöhen“ ([[Spruchmagie]]) erhöht die Selbstbeherrschung. Der Zauber „Unsichtbarkeit“ erschwert Gefahreninstinkt-Proben.
 - Gegenmittel können neue Alchemieresistenz-Proben auslösen, mit einem Bonus, der vom Mittel abhängt ([[Alchemika]]).
 - Der Zauber „Grundfertigkeit erhöhen“ wirkt nicht auf Sonderfertigkeiten.
@@ -135,11 +135,13 @@ Acht Sonderfertigkeiten heißen Ladeschütze, jede für eine Waffenart. Sieben d
 
 ```text
 Ladezeit = Ladezeit der Waffe
-           − (Eigenschaftsbonus Geschicklichkeit + Ladeschütze) / Ladezeit-Modifikator der Waffe
+           − (Eigenschaftsbonus Geschicklichkeit + Ladeschütze) / Nachladen-Teiler der Waffe
            mindestens 1 Kampfrunde
 ```
 
-Den Eigenschaftsbonus erklärt das Kapitel [[Eigenschaften]]. Gezählt wird in Kampfrunden ([[Zeit-und-Spielablauf|Zeit und Spielablauf]]).
+Den Eigenschaftsbonus erklärt das Kapitel [[Eigenschaften]]. Gezählt wird in Kampfrunden ([[Zeit-und-Spielablauf|Zeit und Spielablauf]]). Den Nachladen-Teiler gibt die Lademechanik der Waffe ([[Feuerwaffen]]).
+
+Beispiel: Die Waffe lädt in 10 Kampfrunden, der Nachladen-Teiler ist 6, der Eigenschaftsbonus Geschicklichkeit 3 und Ladeschütze 9. Es werden (3 + 9) / 6 = 2 Kampfrunden abgezogen, die Ladezeit beträgt 8 Kampfrunden.
 
 **Ladeschütze Armbrust.** Verkürzt die Ladezeit von Armbrüsten. Es gilt die schnellste Ladetechnik, deren Mindeststärke der Held erfüllt.
 Talent: 2 TaP, Maximum +6, höchstens 18.

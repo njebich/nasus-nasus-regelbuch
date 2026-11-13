@@ -1,6 +1,6 @@
 ---
 title: Talente, die Werte verändern
-aliases: [Talent-Modifikator, Talent-Faktor, Zäher Bursche, Mana-Regeneration, Guter-Erfolg-Schwelle, Gute-Familie, Spruchgüte, Gute KI, Gute PSI, Gute Wunder, Fernkampfgeschick, Zuschlag, Schwelle des guten Erfolgs]
+aliases: [Talent-Modifikator, Talent-Faktor, Zäher Bursche, Mana-Regeneration, Guter-Erfolg-Schwelle, Gute-Familie, Gute Spruchmagie-Probe, Gute KI-Probe, Gute Psi-Probe, Gute Wunderprobe, Fernkampfgeschick, Zuschlag, Schwelle des guten Erfolgs]
 status: entwurf
 ---
 
@@ -41,12 +41,14 @@ Beispiel: Der Held besitzt beide Stufen. Stufe 1 ist Voraussetzung für Stufe 2.
 
 Jede Probe wird auf der Leiter der Erfolgsstufen ausgewertet: Patzer, Fehlschlag, Erfolg, guter Erfolg, meisterlicher Erfolg, fröhlicher Erfolg ([[Wuerfeln-und-Proben|Würfeln und Proben]]). Bei Spruchmagie, KI, Psi und Wundern lässt sich die Schwelle für den guten Erfolg durch ein Talent verändern. Jede dieser vier Probenarten hat ein Paar aus Stufe 1 und Stufe 2:
 
-| Probenart | Talent | Stufe 1 ersetzt die Schwelle durch | Stufe 2 ersetzt sie durch |
-|---|---|---|---|
-| [[Spruchmagie]] | Spruchgüte | Weisheit | Weisheit + Eigenschaftsbonus |
-| [[KI]] | Gute KI | Magie | Magie + Aura |
-| [[Psi]] | Gute PSI | Magie | Magie + Eigenschaftsbonus |
-| [[Wunder]] | Gute Wunder | Karma | Karma + Aura |
+| Probenart | Talent | Stufe 1 ersetzt die Schwelle durch | Stufe 2 ersetzt sie durch | Kosten Stufe 1 / Stufe 2 (TaP) |
+|---|---|---|---|---|
+| [[Spruchmagie]] | Gute Spruchmagie-Probe | Weisheit | Weisheit + Eigenschaftsbonus | 16 / 24 |
+| [[KI]] | Gute KI-Probe | Magie | Magie + Aura | 30 / 40 |
+| [[Psi]] | Gute Psi-Probe | Magie | Magie + Eigenschaftsbonus | 14 / 22 |
+| [[Wunder]] | Gute Wunderprobe | Karma | Karma + Aura | 15 / 20 |
+
+Ohne eines dieser Talente liegt der gute Erfolg bei Wurf 1.
 
 Der Eigenschaftsbonus ist der Bonus der Eigenschaft, die zur Fähigkeit oder zum Zauber gehört ([[Eigenschaften]]). Weisheit, Magie, Karma und Aura sind [[Attribute]].
 
@@ -58,15 +60,15 @@ Das Ergebnis ist nach oben begrenzt. Die Schwelle des guten Erfolgs überschreit
 
 Jedes Paar ist eine Stufenkette mit zwei Stufen. Stufe 2 setzt Stufe 1 voraus. Stufe 2 ersetzt den Wert von Stufe 1, beide werden nicht addiert.
 
-Jedes Talent hat feste Talentpunkte-Kosten, die sich je Probenart unterscheiden. Die vier Probenarten beeinflussen einander nicht. Ein Held kann zum Beispiel Spruchgüte Stufe 2 und Gute KI Stufe 1 unabhängig voneinander besitzen.
+Jedes Talent hat feste Talentpunkte-Kosten, die sich je Probenart unterscheiden. Die vier Probenarten beeinflussen einander nicht. Ein Held kann zum Beispiel Gute Spruchmagie-Probe Stufe 2 und Gute KI-Probe Stufe 1 unabhängig voneinander besitzen.
 
 Das Talent verändert nur die Schwelle des guten Erfolgs.
 
 ### Beispiele
 
-- Der Held besitzt Gute KI Stufe 2. Die Schwelle des guten Erfolgs der KI ist Magie + Aura, höchstens die Hälfte des normalen Erfolgswerts.
-- Der Held besitzt Gute Wunder Stufe 1 (nicht Stufe 2). Die Schwelle des guten Erfolgs der Wunder ist Karma, höchstens die Hälfte des normalen Erfolgswerts.
-- Der Held besitzt Spruchgüte Stufe 1, seine Weisheit ist 6, und sein Zauberwert ist 20. Die Hälfte des Zauberwerts ist 10. Die Schwelle ist 6, denn 6 liegt unter 10.
+- Der Held besitzt Gute KI-Probe Stufe 2. Die Schwelle des guten Erfolgs der KI ist Magie + Aura, höchstens die Hälfte des normalen Erfolgswerts.
+- Der Held besitzt Gute Wunderprobe Stufe 1 (nicht Stufe 2). Die Schwelle des guten Erfolgs der Wunder ist Karma, höchstens die Hälfte des normalen Erfolgswerts.
+- Der Held besitzt Gute Spruchmagie-Probe Stufe 1, seine Weisheit ist 6, und sein Zauberwert ist 20. Die Hälfte des Zauberwerts ist 10. Die Schwelle ist 6, denn 6 liegt unter 10.
 - Hätte derselbe Held Weisheit 14, gälte nicht 14, sondern 10. Das ist die Hälfte des Zauberwerts.
 
 ## Fernkampfgeschick

@@ -25,7 +25,7 @@ Der Katalog ordnet die Talente in sieben Gruppen: Abenteurer, Krieger, Magier, S
 
 ## Talentpunkte und Fertigkeitswert
 
-Talentpunkte ([[Glossar#TaP|TaP]]) sind die Währung, mit der der Held Talente bezahlt. Sie sind etwas anderes als Abenteuerpunkte und Entwicklungspunkte. Wie viele TaP der Held hat, steht im Kapitel [[Erfahrung-und-Steigerung|Erfahrung und Steigerung]].
+Talentpunkte ([[Glossar#TaP|TaP]]) sind die Währung, mit der der Held Talente bezahlt. Sie sind etwas anderes als Abenteuerpunkte und Entwicklungspunkte. Wie viele TaP der Held hat, steht im Kapitel [[Abenteuer-Entwicklungs-und-Talentpunkte|Abenteuer-, Entwicklungs- und Talentpunkte]].
 
 Der Fertigkeitswert (FW) ist der Wert, mit dem der Held eine Fertigkeit beherrscht, zum Beispiel eine KI-Fähigkeit oder einen Zauber. Er misst die Fertigkeit. Talentpunkte bezahlen Talente, der Fertigkeitswert gehört zur Fertigkeit. Wie der Held den Fertigkeitswert einer Fertigkeit kauft, steht im Kapitel der jeweiligen Gruppe, zum Beispiel bei [[KI]], [[Psi]], [[Spruchmagie]], [[Nahkampf]] und [[Fernkampf]].
 
@@ -35,7 +35,7 @@ Ein zeitweiliger Bonus auf einen Fertigkeitswert, wie ihn die Meisterlichen Fäh
 
 Jeder Held darf jedes Talent des Katalogs kaufen, gleich in welcher Gruppe es steht. Einschränkungen kommen nur aus den Voraussetzungen des einzelnen Talents (siehe unten).
 
-Beispiel: Der Held kauft Ausdauer Stufe 1 (Gruppe Abenteurer) und hat zuvor schon Magus Stufe 1 Heilung (Gruppe Magier) gekauft. Beide Käufe sind zulässig und unabhängig voneinander.
+Beispiel: Der Held kauft Ausdauer Stufe 1 (Gruppe Abenteurer) und hat zuvor schon Magus der Heilung, Stufe 1 (Gruppe Magier) gekauft. Beide Käufe sind zulässig und unabhängig voneinander.
 
 ## Der Kauf
 
@@ -97,7 +97,7 @@ Beispiel Kampf mit zwei Waffen: Die Sonderregeln von Stufe 1 gelten bei jeder be
 
 Ausdauer: Der Held besitzt Ausdauer Stufe 1 (Maximum der Sonderfertigkeit Ausdauer +6) und kauft Ausdauer Stufe 2 (+12). Wirksam ist +12, nicht +6 +12 = +18. Stufe 1 bleibt als Voraussetzung nötig. Hat die Sonderfertigkeit ohne Talent das Maximum 12, gilt mit Stufe 1 das Maximum 18, mit Stufe 2 das Maximum 24 und mit Stufe 3 das Maximum 30. Siehe [[Sonderfertigkeiten]].
 
-Zwei Magus-Schulen: Der Held besitzt Magus Stufe 1 der Schule Antimagie (+6) und Magus Stufe 1 der Schule Heilung (+6). Das sind zwei verschiedene Familien. Beide Werte zählen, jeder für seine eigene Schule: +6 und +6.
+Zwei Magus-Schulen: Der Held besitzt Magus der Antimagie, Stufe 1 (+6) und Magus der Heilung, Stufe 1 (+6). Das sind zwei verschiedene Familien. Beide Werte zählen, jeder für seine eigene Schule: +6 und +6.
 
 ## Talente schalten Fähigkeiten frei
 
@@ -128,4 +128,4 @@ Beispiel: Der Zauberer hat Gesundheit 8, Vitalität 5 und Blutmagie Stufe 2, als
 
 - Bei einem Opfer von 4 ist die Mut-Probe um 4 erschwert. Gelingt sie, steigt die Schwelle des guten Erfolgs um 8, höchstens bis zum Zauberwert.
 - Bei einem Opfer von 13 stirbt der Zauberer eine Minute nach der Auflösung an der Blutung.
-- Der Zauberer hat zusätzlich Spruchgüte Stufe 1. Seine Weisheit ist 6, die Hälfte des Zauberwerts ist 10, der Zauberwert ist 20. Opfert er so viel, dass k × n = 8 ist, liegt die Schwelle des guten Erfolgs bei 6 + 8 = 14.
+- Der Zauberer hat zusätzlich Gute Spruchmagie-Probe Stufe 1. Seine Weisheit ist 6, die Hälfte des Zauberwerts ist 10, der Zauberwert ist 20. Opfert er so viel, dass k × n = 8 ist, liegt die Schwelle des guten Erfolgs bei 6 + 8 = 14.

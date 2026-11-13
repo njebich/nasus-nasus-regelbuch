@@ -118,8 +118,8 @@ Die Wirkung und die Wirkungsdauer jeder Verzauberung, die den Helden als Ziel ha
 
 Es gibt die Immunität gegen Erde, Feuer, Luft, Magie und Wasser. Jede kostet 0 Entwicklungspunkte.
 
-- Sie ist nur für Elementare gedacht und im Spielermodus nie wählbar. Nur der Meister vergibt sie.
-- Bei der Erschaffung eines Elementars im Meistermodus ist die Immunität gegen das eigene Element Pflicht. Ein Elementar erhält ausschließlich die Immunität, die zu seinem eigenen Element passt. Die übrigen vier kann er nicht wählen.
+- Sie ist nur für Elementare gedacht und im Spielermodus nie wählbar. Nur der Meister vergibt sie. Ein Elementar ist eine Kreatur, keine Spezies. Der Meister baut ihn als Kreatur und gibt ihm die nötigen Vorteile, zum Beispiel die Immunität gegen sein Element.
+- Beim Bau eines Elementars im Meistermodus ist die Immunität gegen das eigene Element Pflicht. Ein Elementar erhält ausschließlich die Immunität, die zu seinem eigenen Element passt. Die übrigen vier kann er nicht wählen.
 - Die Immunität verhindert jeden Schaden durch das eigene Element. Der Schaden wird vor Schritt 4 vollständig negiert, es entstehen keine Trefferpunkte.
 - Sie ist ein dauerhaftes Merkmal.
 

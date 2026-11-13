@@ -75,7 +75,7 @@ Die im Schlaf getragene Rüstung mindert die Registufe des Helden je nach ihrer 
 | 2 | −1 |
 | 3 | −2 |
 | 4 | −3 |
-| 5 | −2, außer das Material ist Stoff oder Spinnwebe (dort keiner) |
+| 5 | −2, außer das Material ist Stoff oder Spinnenwebe (dort keiner) |
 
 Trägt der Held mehrere Lagen, zählt nur der höchste Malus. Mali mehrerer Lagen addieren sich nicht.
 
@@ -83,7 +83,7 @@ Der Malus wirkt auf den Schlafwurf für Gesundheit und auf den Schlafwurf für M
 
 ## Der Schlafwurf für Mana
 
-Eine abgeschlossene Schlafphase gibt dem Helden einen einmaligen Wurf auf die Würfelstufe seiner Registufe. Das Ergebnis kommt zur Stundenrate dazu. Die gesamte Regeneration (Stundenrate plus Schlafwurf) bleibt durch das Mana-Maximum gedeckelt.
+Eine abgeschlossene Schlafphase gibt dem Helden einen einmaligen Wurf auf die Würfelstufe seiner Registufe. Das Ergebnis kommt zur Stundenrate dazu. Die gesamte Regeneration (Stundenrate plus Schlafwurf) bleibt durch das Mana-Maximum gedeckelt. Fällt die Registufe auf 0 oder darunter, entfällt der Mana-Würfel. Die Stundenrate läuft trotzdem weiter.
 
 ## Der Schlafwurf für Gesundheit und LE
 
@@ -94,6 +94,8 @@ Der Held würfelt auf die Würfelstufe seiner Registufe. Zum Ergebnis kommt sein
 ```text
 Punkte = Wurf auf die Würfelstufe + Vitalität
 ```
+
+Fällt die Registufe des Helden auf 0 oder darunter (zum Beispiel durch Schlafen in Rüstung), erholt er sich in dieser Schlafphase gar nicht: kein Würfel, auch keine Vitalität. Beispiel: Registufe 2, Rüstung der Lage 4 (Malus −3) und Vitalität 4 ergeben 0 Punkte.
 
 Wurf und Verteilung gelten pro Held. Jeder Held würfelt und verteilt seine Punkte mit seiner eigenen Vitalität.
 
@@ -140,7 +142,7 @@ Punkte 4 bis 14 → wieder auf Gesundheit, bis sie ihr Maximum erreicht;
                   danach einzeln auf die jeweils niedrigste Zonen-LE
 ```
 
-**Rüstung im Schlaf.** Ein Held schläft in einer Lage-5-Rüstung aus Drachenschuppe. Das Material ist weder Stoff noch Spinnwebe, also gilt der Malus von −2 auf die Registufe. Er wirkt auf den Schlafwurf für Gesundheit und für Mana. Eine Lage-5-Rüstung aus Stoff erhält diesen Malus nicht.
+**Rüstung im Schlaf.** Ein Held schläft in einer Lage-5-Rüstung aus Drachenschuppe. Das Material ist weder Stoff noch Spinnenwebe, also gilt der Malus von −2 auf die Registufe. Er wirkt auf den Schlafwurf für Gesundheit und für Mana. Eine Lage-5-Rüstung aus Stoff erhält diesen Malus nicht.
 
 **Ruhiger Schlaf.** Der Zauber ist gewirkt. Der Schläfer hat Vitalität 6 und Registufe 5 ohne Rüstungsmalus. Die Würfelstufe steigt um 1, die Tabellenzeile springt von Registufe 5 (W12) auf Registufe 6 (W20). Der Wurf ergibt 8, die Punkte sind 8 + 6 = 14. Es wird mit W20 statt W12 gewürfelt.
 

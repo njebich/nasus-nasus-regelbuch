@@ -60,7 +60,7 @@ Welche der drei folgenden Leitern gilt, entscheidet der fertige n-Wert, also nac
 | guter Erfolg | 1 bis g-Wert |
 | Erfolg | g-Wert + 1 bis n-Wert |
 | meisterlicher Erfolg | 21 bis m-Wert, nur wenn der m-Wert mindestens 21 ist |
-| fröhlicher Erfolg | 29, nur mit dem Talent „[[Gaben-und-Schwaechen|Kind der Fröhlichkeit]]“ |
+| fröhlicher Erfolg | 29, nur mit dem Vorteil „[[Gaben-und-Schwaechen|Kind der Fröhlichkeit]]“ |
 
 **Der fertige n-Wert ist genau 1:**
 
@@ -113,7 +113,7 @@ Das gilt auf allen drei Leitern. Der Patzer bei Wurf 0 bleibt ein Patzer.
 
 ### Beispiele
 
-**Ein benommener Kämpfer.** Der Held hat für seine Attacke den n-Wert 20, den g-Wert 10 und den m-Wert 26. Er hat das Talent „Kind der Fröhlichkeit“. Unverletzt gilt für ihn: guter Erfolg bei 1 bis 10, Erfolg bei 11 bis 20, meisterlicher Erfolg bei 21 bis 26, fröhlicher Erfolg bei 29.
+**Ein benommener Kämpfer.** Der Held hat für seine Attacke den n-Wert 20, den g-Wert 10 und den m-Wert 26. Er hat den Vorteil „Kind der Fröhlichkeit“. Unverletzt gilt für ihn: guter Erfolg bei 1 bis 10, Erfolg bei 11 bis 20, meisterlicher Erfolg bei 21 bis 26, fröhlicher Erfolg bei 29.
 
 Dann wird er benommen (KK−1). Jeder Bereich verliert einen Rang:
 

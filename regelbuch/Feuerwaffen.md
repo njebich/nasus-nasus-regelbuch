@@ -74,12 +74,12 @@ In jedem anderen Fall gilt die Munition, die der Katalog bei der Waffe nennt.
 ```text
 Materialpreis = (Stahlpreis je kg des Typs + Stahlpreis je kg der Verarbeitung)
                 × Gewicht Stahl in kg
-                + Gewicht Holz in kg
+                + Gewicht Holz in kg × 1 D je kg
 
 Preis = Lohn pro Tag der Verarbeitung × Herstellungszeit + Materialpreis
 ```
 
-Das Gewicht Stahl ist die Summe der Einträge von Volk, Typ, Bauart, Lademechanik und Lauf. Das Gewicht Holz ist die Summe der Einträge von Volk, Typ und Bauart. Der Preis steht in Dublonen.
+Das Gewicht Stahl ist die Summe der Einträge von Volk, Typ, Bauart, Lademechanik und Lauf. Das Gewicht Holz ist die Summe der Einträge von Volk, Typ und Bauart. Holz kostet 1 Dublone je Kilogramm. Der Preis steht in Dublonen.
 
 ## Die Verfügbarkeit
 

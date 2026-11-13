@@ -254,9 +254,9 @@ Die Wand der Element-Kampfmagie gibt es für alle fünf Elemente: Splitterwand, 
 
 Die Magische Wand der Antimagie, Grad 1, ist ein eigener Zauber. Sie ist undurchdringlich und ein Magiekorpus. Man überwindet sie nur, indem man ihre Lebensenergie auf 0 bringt.
 
-- **Schutz.** Ihr Magischer Schutz (MS) und ihre Lebensenergie betragen je Macht mal 4. Der Magische Schutz fängt je Kampfrunde Schaden bis zu seinem Wert ab, was darüber liegt, geht durch. Er zehrt eins zu eins an der Lebensenergie der Wand. Einen eigenen Rüstungsschutz hat die Wand nicht.
+- **Schutz.** Ihr Magischer Schutz (MS) und ihre Lebensenergie betragen je Macht des Zaubernden mal 4. Der Magische Schutz fängt je Kampfrunde Schaden bis zu seinem Wert ab, was darüber liegt, geht durch. Er zehrt eins zu eins an der Lebensenergie der Wand. Einen eigenen Rüstungsschutz hat die Wand nicht.
 - **Maße.** Länge höchstens W6 plus Magie plus Aura Meter, Breite höchstens Macht mal 2 Zentimeter. Eine Version mit Grad 4 gibt es nicht. Die großen Wände mit Grad 4 gehören ausschließlich den fünf Wänden der Element-Kampfmagie.
-- **Wachstum.** Die Lebensenergie wächst mit der Standzeit. Das Mana, das der Magus fortlaufend in die Wand steckt (bei Grad 1 5 plus 1 je Sekunde), wird eins zu eins zur Lebensenergie addiert. Macht mal 4 ist der Wert der Lebensenergie, den diese Rechnung gerade erreicht hat.
+- **Kein Wachstum.** Die Lebensenergie ist fest Macht des Zaubernden mal 4 und wächst nicht mit der Standzeit. Die Wand ist bei Lebensenergie 0 überwunden. Das Mana, das der Magus fortlaufend in die Wand steckt (bei Grad 1 5 plus 1 je Sekunde), sind Kosten für das Aufrechterhalten der Wand; es erhöht ihre Lebensenergie nicht. Beispiel: Bei Macht 20 haben Magischer Schutz und Lebensenergie je 80.
 - **Astralsicht.** Die Wand blockt auch den Sinn „Astrales Auge“ ([[Aussehen-Schlaf-Sinne-und-Koerper]]). Ihr Antimagie-Korpus blockt die Astralebene wie die physische Wahrnehmung. Die Wand der Element-Kampfmagie bleibt dagegen durchlässig für eine Aura.
 
 ## Kein Gegenzauber

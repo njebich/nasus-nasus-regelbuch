@@ -1,6 +1,6 @@
 ---
 title: Bewegung
-aliases: [Bewegung, Hexraster, Hexfeld, Gehen, Schnell Gehen, Dauerlauf, Sprint, Sprinten, Laufen, Marschieren, Hochsprung, Weitsprung, Springen, Sprung, Kampf-Sprung-Probe, Kriechen, Bewegungsgeschwindigkeit, Felder pro Kampfrunde, Ausdauerkosten Bewegung]
+aliases: [Bewegung, Hexraster, Hexfeld, Gehen, Schnell Gehen, Dauerlauf, Sprint, Sprinten, Laufen, Hochsprung, Weitsprung, Springen, Sprung, Kampf-Sprung-Probe, Kriechen, Bewegungsgeschwindigkeit, Felder pro Kampfrunde, Ausdauerkosten Bewegung]
 status: entwurf
 ---
 
@@ -101,6 +101,8 @@ Die Faktoren 0,5 und 0,75 wirken auf die Geschwindigkeit in Metern pro Sekunde, 
 1. Formel berechnen und auf das nächste Viertel aufrunden (offizieller Wert). Bei einem Fixwert entfällt dieser Schritt.
 2. Mit dem Faktor malnehmen und das Produkt sofort auf das nächste Viertel aufrunden.
 3. Auf ganze Felder aufrunden.
+
+Die Faktoren gelten auch für Sprungweite und Sprunghöhe. Beispiel: Ein Weitsprung aus dem Stand von 3,50 m wird mit Holzbein 3,50 × 0,5 = 1,75 m.
 
 Die Zustände schließen sich je Gliedmaßenklasse gegenseitig aus.
 

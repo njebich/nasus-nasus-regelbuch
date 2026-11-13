@@ -14,7 +14,7 @@ Teilungen und Malnahmen in den Formeln dieses Kapitels werden sofort aufgerundet
 
 ### Hauptfertigkeit
 
-Der Held kauft für jede Waffenkategorie eine eigene Hauptfertigkeit mit Entwicklungspunkten ([[Erfahrung-und-Steigerung]]). Die Kaufkurve lautet „Wert × 25“. Es gibt fünf Hauptfertigkeiten:
+Der Held kauft für jede Waffenkategorie eine eigene Hauptfertigkeit mit Entwicklungspunkten ([[Abenteuer-Entwicklungs-und-Talentpunkte]]). Jeder Punkt kostet 25 Entwicklungspunkte, die Gesamtkosten sind also Wert × 25. Beispiel: Von 0 auf 4 kostet zusammen 100. Es gibt fünf Hauptfertigkeiten:
 
 - Hiebwaffen
 - Klingenwaffen
@@ -77,11 +77,15 @@ Obergrenze m = 21 + (Obergrenze g − 1) / 2
 
 Beispiel: nAT 20 erlaubt gAT bis 10 und mAT bis 21 + (10 − 1) / 2 = 21 + 5 = 26. Der Held hat dann nAT, gAT und mAT von 20, 10 und 26.
 
+Jeder Pool-Punkt hebt den gewählten Wert (normal, gut oder meisterlich, bei Attacke oder Parade) um genau 1, bis zur Obergrenze. Beispiel: Bei nAT, gAT und mAT von 20, 1 und 21 heben 9 Punkte auf gut und 5 Punkte auf meisterlich die Werte auf 20, 10 und 26.
+
 Diese Obergrenzen wirken beim Verteilen der Punkte, gegen den Normalwert ohne Behinderung und Erschwerung. Die drei Werte je Waffe sind die Klassen von Attacke und Parade, mit denen das Meisterscreen-Gitter arbeitet ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]).
 
 ### Verteilung auf Attacke und Parade
 
-Die verteilten Pool-Punkte der Attacke-Seite dürfen sich von denen der Parade-Seite um höchstens 1 unterscheiden. Das gilt in beide Richtungen. Steht eine Seite schon an ihrem eigenen Maximum (nAT, gAT und mAT bzw. nPA, gPA und mPA voll ausgebaut) und kann deshalb nicht mehr aufholen, darf die Differenz größer sein.
+Die verteilten Pool-Punkte der Attacke-Seite dürfen sich von denen der Parade-Seite um höchstens 1 unterscheiden. Das gilt in beide Richtungen. Steht eine Seite schon an ihrem eigenen Maximum (nAT, gAT und mAT bzw. nPA, gPA und mPA voll ausgebaut) und kann deshalb nicht mehr aufholen, darf die Differenz größer sein. Eine Verteilung gegen diese Regel ist nicht erlaubt.
+
+Beispiel: Der Held hat 10 Pool-Punkte. Er darf 5 auf die Attacke und 5 auf die Parade verteilen oder 6 und 4. Eine Verteilung 8 und 2 ist nicht erlaubt. Ausnahme: Steht die Parade schon an ihrem Maximum, darf die Attacke mehr Punkte tragen.
 
 ### Waffen unter zwei Hauptfertigkeiten
 

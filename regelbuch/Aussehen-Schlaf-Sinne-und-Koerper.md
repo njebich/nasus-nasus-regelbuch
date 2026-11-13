@@ -108,11 +108,11 @@ Die Verschiebung rechnet sich additiv mit dem Malus der getragenen Rüstung auf 
 
 ### Wahrnehmung im Schlaf
 
-Die Erschwerung oder Erleichterung der Sinnesschärfe-Proben gilt nur, solange der Held im Zustand Schlaf ist. Das Profil selbst ist dauerhaft. Sie trifft alle Sinnesschärfe-Proben, die der schlafende Held selbst ablegt, auch einen Gefahrensinn, den der Meister für ihn würfelt. Bei Leichter Schlaf, Normal und Tiefer Schlaf ist es eine Erschwerung, bei Insomnia eine Erleichterung.
+Die Erschwerung oder Erleichterung der Sinnesschärfe-Proben gilt nur, solange der Held im Zustand Schlaf ist. Das Profil selbst ist dauerhaft. Sie trifft alle Sinnesschärfe-Proben, die der schlafende Held selbst ablegt, auch einen Gefahreninstinkt, den der Meister für ihn würfelt. Bei Leichter Schlaf, Normal und Tiefer Schlaf ist es eine Erschwerung, bei Insomnia eine Erleichterung.
 
 ### Beispiele
 
-- **Tiefer Schlaf (Regenerationsklasse +1).** Der Meister legt für die Rast Registufe 3 fest. Die Rüstung des Helden hat Lage 0 und gibt keinen Malus. Die Registufe ist 3 + 1 = 4, der Held würfelt Mana und Gesundheit auf W10. Schleicht sich jemand an den Schlafenden heran, ist seine eigene Sinnesschärfe-Probe zum Aufwachen und zum Bemerken des Eindringlings um 15 erschwert. Dasselbe gilt für einen Gefahrensinn, den der Meister für ihn würfelt.
+- **Tiefer Schlaf (Regenerationsklasse +1).** Der Meister legt für die Rast Registufe 3 fest. Die Rüstung des Helden hat Lage 0 und gibt keinen Malus. Die Registufe ist 3 + 1 = 4, der Held würfelt Mana und Gesundheit auf W10. Schleicht sich jemand an den Schlafenden heran, ist seine eigene Sinnesschärfe-Probe zum Aufwachen und zum Bemerken des Eindringlings um 15 erschwert. Dasselbe gilt für einen Gefahreninstinkt, den der Meister für ihn würfelt.
 - **Insomnia (Regenerationsklasse −3).** Die Registufe 3 ergibt 3 − 3 = 0, also gibt es keinen Regenerationswurf. Seine eigenen Sinnesschärfe-Proben im Zustand Schlaf sind dafür um 5 erleichtert.
 
 ## Sinne
@@ -359,6 +359,8 @@ Dem Helden fehlt ein Bein.
   - einfache Krücke oder Holzbein: ×0,5
   - angepasste Gehhilfe oder tatkräftige fremde Hilfe: ×0,75
 
+Der Faktor gilt auch für Sprungweite und Sprunghöhe. Ein Weitsprung aus dem Stand von 3,50 m wird mit Holzbein 1,75 m.
+
 Aus Metern pro Sekunde werden Felder pro Kampfrunde, indem man durch die Feldgröße teilt.
 
 ### Keine Arme
@@ -397,6 +399,7 @@ Neben der körperlichen Behinderung gibt es die mentale (MBE).
 
 - **Angeboren** (bei der Erschaffung gewählt): Der Held trägt nur die KBE. Die MBE ist 0, denn es gibt kein Verlustereignis, das sie rechtfertigt.
 - **Verlust im Spiel** (Zustand, ohne EP): Die KBE beträgt 3 (Arm) oder 4 (Bein), dauerhaft wie beim angeborenen Fall. Zusätzlich trägt der Held eine MBE. Sie beginnt beim vollen Trefferzonen-Wert (3 oder 4) und sinkt um 1 je neuem magischem Tag nach dem Verlust ([[Zeit-und-Spielablauf|Zeit]]), bis sie 0 erreicht. Danach bleibt nur die KBE, wie beim angeborenen Fall. Der Zustand der Wunde spielt dafür keine Rolle, der Abbau läuft allein über die magischen Tage. Die Entfernung des Zustands kostet keine EP.
+- **Mehrere Gliedmaßen.** Jede frisch verlorene Gliedmaße bringt ihren einfachen Wert: 3 je Arm, 4 je Bein. Gehen beide Arme zugleich verloren, startet die MBE bei 6, bei beiden Beinen zugleich bei 8. Verliert der Held den zweiten Arm später, kommen 3 neu dazu.
 
 Das ist die einzige Stelle, an der das bei der Erschaffung gewählte Merkmal und der Zustand zeitweise auseinanderlaufen.
 
@@ -407,6 +410,7 @@ Das ist die einzige Stelle, an der das bei der Erschaffung gewählte Merkmal und
 - **Keine Arme (angeboren), Magier mit dem Talent für Zauberstufe 2.** Den Feuerball wirkt er nur auf Stufe 2: Die Geste entfällt, die Formel bleibt. Eine Waffe führt er nicht. Auf körperliche Proben trägt er KBE 6.
 - **Stumm und Keine Arme, Magier.** Er zaubert nur auf Stufe 3, ohne Geste und ohne Formel. Dafür braucht er das Talent für Zauberstufe 3 und dessen Voraussetzung, das Talent für Zauberstufe 2.
 - **Der Meister lässt einen Helden im Kampf einen Arm verlieren.** Er trägt den Zustand „einarmig“ ohne EP. KBE 3 bleibt dauerhaft. Die MBE ist am Verlusttag 3 und sinkt um 1 je neuem magischem Tag, nach 3 magischen Tagen ist sie 0. Die KBE lässt sich nur mit Heilung G5, KI-Regeneration oder Ruf des Tepod entfernen.
+- **Der Held verliert beide Arme in derselben Kampfrunde.** Die MBE startet bei 6 und sinkt um 1 je neuem magischem Tag. Hätte er den ersten Arm vor drei Tagen verloren und verlöre jetzt den zweiten, kämen 3 zur laufenden MBE dazu.
 - **Ein Held wird im Spiel durch einen Fluch stumm.** Er trägt den Zustand „stumm“, ohne EP und ohne Behinderung. Entfernt wird er durch Heilung G5, KI-Regeneration oder Ruf des Tepod.
 - **Einarmigkeit und Einbeinigkeit (beides angeboren).** KBE 7, MBE 0. Der Held kann kriechen, denn 1 Arm plus 1 Bein sind 2 Gliedmaßen.
 - **Keine Arme und Keine Beine (angeboren).** KBE 14, MBE 0. Der Held kann sich nicht selbst fortbewegen, man trägt oder schiebt ihn. Spruchmagie ist nur auf Stufe 3 möglich.

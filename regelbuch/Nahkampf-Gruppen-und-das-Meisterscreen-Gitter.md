@@ -18,7 +18,9 @@ Die Reichweite für Bildung und Auflösung ist fest: das angrenzende Feld des He
 
 ### Der Platz der Gruppe in der Runde
 
-Die Gruppe belegt in der Rangfolge der Runde genau einen Platz. Er hängt am Mitglied mit dem besten Runden-Ini-Wert (Sammelplatz). Erreicht die Gruppe in der Ausführungs-Phase diesen Platz, wird sie in sich vollständig aufgelöst, bevor die Reihenfolge der Runde fortfährt.
+Die Gruppe belegt in der Rangfolge der Runde genau einen Platz. Er hängt am Mitglied mit dem besten Runden-Ini-Wert (Sammelplatz). Geht dieses Mitglied und besteht die Gruppe weiter, rückt sie auf den Platz des besten verbliebenen Mitglieds. Bleiben nur Figuren derselben Seite übrig, löst sich die Gruppe ganz auf.
+
+Beispiel: Anna und Peter kämpfen gegen zwei Banditen. Anna hat die beste Initiative, Peter die schlechteste. Anna flieht. Die Gruppe bleibt bestehen und hängt nun am Platz des besten verbliebenen Mitglieds. Peter bleibt in der Gruppe und kämpft weiter. Flieht stattdessen einer der Gegner und bleiben nur noch Anna, Peter und ein Bandit übrig, besteht sie ebenso weiter. Blieben nur Anna und Peter, hätten sie keinen Gegner mehr, und die Gruppe löste sich auf. Erreicht die Gruppe in der Ausführungs-Phase diesen Platz, wird sie in sich vollständig aufgelöst, bevor die Reihenfolge der Runde fortfährt.
 
 ## Die Rangfolge in der Gruppe
 
@@ -56,7 +58,7 @@ Die Gruppe arbeitet Paar für Paar ab, geordnet nach dem Nahkampf-Ini-Wurf des A
 - **Keine vorgezogene Reaktion.** Jeder Angriff wird sofort aufgelöst. Ein Mitglied mit schlechterer Initiative kann auf den Angriff eines besseren nicht mit einem eigenen vorgezogenen Zug reagieren. Es hat nur die Antwort auf genau diesen Angriff oder das Verzichten. Das ist das Gegenstück zum Reaktionsfenster der Runde.
 - **Die Ansage ist öffentlich.** Jede Ansage samt Ziel ist den anderen Mitgliedern bekannt.
 - **Zielverlust.** Ist das angesagte Ziel bei der Ausführung weg, weil es in Deckung gegangen, außerhalb des Sichtfelds oder tot ist, muss die zielgebundene Handlung nicht ausgeführt werden. Die frei gewordenen AK dürfen nur für eine Drehung oder eine Defensivaktion verwendet werden (Nachsteuern, [[Kampfrunde-Aktionen-Initiative-und-Sicht]]).
-- **Sichtkegel.** Die Blickrichtung und der Sichtkegel von 120° gelten auch in der Gruppe. Die Pflicht zur Orientierung entfällt dort.
+- **Sichtkegel.** Die Blickrichtung und der Sichtkegel von 120° gelten auch in der Gruppe. Die Pflicht zur Orientierung entfällt dort. Ein Angriff von außerhalb des Sichtkegels ist ein Angriff von hinten. Beispiel: Peter steht in einer Gruppe und blickt nach Norden. Ein Bandit greift ihn aus dem Süden an. Er steht außerhalb von Peters Sichtkegel, es ist ein Angriff von hinten, auch wenn Peter in der Gruppe steht.
 
 ## Der Nahkampf-Austausch
 
@@ -324,7 +326,7 @@ Die Tabellen sind die ausgeschriebene Form dieses Modells. Weicht das Modell von
 Die neue Rangfolge gilt ab dem nächsten Austausch der Paarung, der laufende Austausch ist bereits aufgelöst. In einer Gruppe mit drei oder mehr Mitgliedern ändert ein Ausgang der Initiative nur die zwei beteiligten Parteien, und der Ablauf der Gruppe läuft mit der geänderten Reihenfolge weiter.
 #### Extra-Aktionen (EA)
 
-Eine Extra-Aktion ([[Glossar#EA|EA]]) ist eine Zusatzaktion, die der Stufenunterschied des Austauschs gewährt. Sie kostet 0 AK und liegt außerhalb des Budgets von 3 AK. Sie steht auch dann zur Verfügung, wenn das Budget schon verbraucht ist. Je Kampfrunde ist höchstens eine Extra-Aktion erlaubt ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]).
+Eine Extra-Aktion ([[Glossar#EA|EA]]) ist eine Extra-Aktion, die der Stufenunterschied des Austauschs gewährt. Sie kostet 0 AK und liegt außerhalb des Budgets von 3 AK. Sie steht auch dann zur Verfügung, wenn das Budget schon verbraucht ist. Je Kampfrunde ist höchstens eine Extra-Aktion erlaubt ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]).
 
 **Wer sie bekommt.** Der Gewinner des Stufenunterschieds. „Konter-EA“ und „unbewaffnete Konter-EA“ führt der Verteidiger aus. „EA“, „unbewaffnete EA“ und „bewaffnete EA“ führt der Angreifer aus.
 
@@ -409,8 +411,12 @@ Athletik ist eine [[Eigenschaften|Eigenschaft]], Fliehen eine [[Sonderfertigkeit
 ### Mehrere Gegner
 
 - Die Austausche werden in der Reihenfolge der Gruppe abgehandelt, der Beste nach Nahkampf-Ini zuerst.
-- Wer in seinem Austausch flieht, hat danach keine AK mehr, um die Attacke eines anderen Gegners der Gruppe abzuwehren. Er kassiert sie.
-- Wie viele Angriffe eine Verteidigung deckt, steht unter „Mehrere Angreifer in einer Kampfrunde“.
+- Der Fliehende würfelt sein defensives Ausweichen nur einmal, gegen die Attacke des Gegners mit der besten Initiative.
+- Steht dort „Flucht möglich“ und er flieht, treffen ihn die folgenden Attacken nicht mehr.
+- Steht dort nur ein gelungenes Ausweichen, ohne „Flucht möglich“, gibt es in dieser Kampfrunde keine Flucht. Dieselbe Ausweichklasse gilt gegen alle folgenden Attacken. Nur eine Attacke mit besserer Klasse und dem Ausgang „Treffer“ trifft ihn. „Flucht möglich“ bei einer späteren Attacke zählt nicht mehr.
+- Misslingt das Ausweichen, trifft ihn die Attacke wie üblich.
+
+Beispiel: Anna, Peter und Karl greifen Bertram an, der fliehen will. Annas Attacke hat die beste Initiative. Bertram weicht gegen Anna mit der Klasse nAW aus, im Gitter steht „Flucht möglich“. Er flieht, und Peter und Karl treffen ihn nicht mehr. Stünde bei Anna nur „ausgewichen“, bliebe Bertram in der Runde im Nahkampf. Peter und Karl treffen ihn dann nur, wenn ihre Attacke eine bessere Klasse als Annas hat und das Gitter „Treffer“ nennt.- Wie viele Angriffe eine Verteidigung deckt, steht unter „Mehrere Angreifer in einer Kampfrunde“.
 
 ### Flucht statt Drehung
 

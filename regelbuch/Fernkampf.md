@@ -19,9 +19,11 @@ Basiswert = (Sinnesschärfe + Geschicklichkeit + Wert der Waffenkategorie
              [+ Spezialisierung]) / 4
 ```
 
-Der Basiswert hat keine Obergrenze von 20. Sinnesschärfe und Geschicklichkeit sind [[Eigenschaften]]. Die Waffenkategorie (zum Beispiel Bögen oder Armbrüste) ist ein Fernkampfwert, den der Held mit Entwicklungspunkten kauft ([[Erfahrung-und-Steigerung]]). Eine Spezialisierung darunter kann hinzukommen.
+Der Basiswert hat keine Obergrenze von 20. Sinnesschärfe und Geschicklichkeit sind [[Eigenschaften]]. Die Waffenkategorie (zum Beispiel Bögen oder Armbrüste) ist ein Fernkampfwert, den der Held mit Entwicklungspunkten kauft ([[Abenteuer-Entwicklungs-und-Talentpunkte]]). Eine Spezialisierung darunter kann hinzukommen.
 
-Jeder Fertigkeitswert-Punkt einer Spezialisierung kostet nach demselben Rangprinzip wie im Nahkampf ([[Nahkampf]]) 10, 5 oder 3 Entwicklungspunkte: 10 für die höchstwertige Spezialisierung unter derselben Hauptfertigkeit, 5 für die zweithöchste, 3 für jede weitere.
+Jeder Fertigkeitswert-Punkt einer Spezialisierung kostet nach demselben Rangprinzip wie im Nahkampf ([[Nahkampf]]) 10, 5 oder 3 Entwicklungspunkte: 10 für die höchstwertige Spezialisierung unter derselben Hauptfertigkeit, 5 für die zweithöchste, 3 für jede weitere. Der Rang wird für jeden Punkt neu bestimmt.
+
+Beispiel: Ein Schütze hat unter derselben Hauptfertigkeit eine Spezialisierung auf Wert 4 (die höchste) und eine auf Wert 2 (die zweithöchste). Der nächste Punkt der höchsten kostet 10 Entwicklungspunkte, der nächste der zweithöchsten 5. Kauft er eine dritte Spezialisierung, kostet jeder ihrer Punkte 3.
 
 ## Reichweite und Reichweitenmodifikator
 
@@ -77,6 +79,111 @@ Die FK-Erschwerungen und FK-Erleichterungen sind der gemeinsame Begriff für all
 Wer joggt oder läuft, sprintet oder fällt, kann nicht zielen. Für ihn bleibt nur der direkte Schuss. Außer Atem darf der Schütze zielen, ebenso von einer Kutsche aus. Vom Pferd aus darf er nur zielen, wenn das Pferd im Schritt geht, nicht im Trab oder Galopp. Das Reitsystem folgt nach Version 1; bis dahin entscheidet der Meister.
 
 Für jede Kategorie gilt der Wert der Tabelle genau, ohne Schätzung und ohne Zwischenwerte. Erschwerung und Erleichterung sind zwei getrennte Werte ohne Vorzeichen. Die Erschwerungen aller zutreffenden Kategorien werden addiert und abgezogen, die Erleichterungen aller zutreffenden Kategorien werden addiert und hinzugezählt.
+
+### Die Werte der acht Kategorien
+
+Die Werte sind Erschwerung oder Erleichterung ohne Vorzeichen. „0“ heißt: weder noch.
+
+**Schütze: Lage**
+
+| Lage | Freihand | Aufgelegt |
+|---|---|---|
+| stehend | 0 | Erleichterung 1 |
+| kniend | Erleichterung 2 | Erleichterung 3 |
+| sitzend | Erleichterung 2 | Erleichterung 4 |
+| liegend | Erleichterung 1 | Erleichterung 5 |
+| schwimmend | Erschwerung 8 | Erschwerung 4 |
+| fliegend | Erschwerung 4 | Erschwerung 2 |
+
+**Schütze: Bewegung**
+
+| Bewegung | Erschwerung |
+|---|---:|
+| außer Atem | 3 |
+| joggend oder laufend | 8 |
+| sprintend | 21 |
+| fallend | 15 |
+| vom laufenden Pferd | 7 |
+| von Kutsche | 8 |
+
+**Schütze: Zieldauer**
+
+| Schussart | Erschwerung | Erleichterung |
+|---|---:|---:|
+| Hüftschuss | 12 | |
+| Sofortschuss | 6 | |
+| 1 Sekunde gezielt | 2 | |
+| 2 Sekunden gezielt | 0 | 0 |
+| 3 Sekunden gezielt | | 1 |
+| 4 Sekunden gezielt | | 2 |
+| 5 Sekunden gezielt | | 3 |
+| 6 Sekunden gezielt | | 4 |
+| 7 Sekunden gezielt | | 5 |
+| 8 Sekunden gezielt | | 6 |
+
+**Ziel: Größe**
+
+| Größe | Wert |
+|---|---|
+| riesig (Haus) | Erleichterung 20 |
+| sehr groß (Drache) | Erleichterung 10 |
+| groß (Kutsche) | Erleichterung 5 |
+| normal | 0 |
+| klein (Eimer) | Erschwerung 5 |
+| sehr klein (Flasche) | Erschwerung 10 |
+| winzig (1 Dublone) | Erschwerung 15 |
+| sehr winzig (1 Fuffzisch-Stück) | Erschwerung 25 |
+
+Dazu kommt die Spezies des Ziels:
+
+| Spezies | Wert |
+|---|---|
+| Troll | Erleichterung 2 |
+| Mensch, Elf | 0 |
+| Zwerg | Erschwerung 1 |
+| Gnom | Erschwerung 2 |
+
+**Ziel: Bewegung**
+
+| Bewegung | Erschwerung |
+|---|---:|
+| gehend (60°) | 1 |
+| laufend (60°) | 4 |
+| sprintend (60°) | 8 |
+| hakenschlagend | 10 |
+
+**Relative Bewegung im Fahrzeug, auch auf einem Reittier**
+
+| Relative Geschwindigkeit | Erschwerung |
+|---|---:|
+| über 1 km/h | 4 |
+| über 30 km/h | 12 |
+| über 50 km/h | 20 |
+| über 100 km/h | 28 |
+| unter 100 km/h | 36 |
+
+**Sicht**
+
+| Sichtmod | Erschwerung |
+|---|---:|
+| Ziel verdeckt | 1 |
+| Nebel | 3 |
+| Dämmerung | 1 |
+| Nacht | 6 |
+| absolute Dunkelheit | 18 |
+| geblendet | 4 |
+| gegen Fackel | 1 |
+| gegen Laterne | 3 |
+
+**Wetter**
+
+| Wetter | Erschwerung |
+|---|---:|
+| Regen oder Schnee | 3 |
+| starker Wind | 4 |
+| Sturm | 10 |
+| Hagel | 4 |
+| Blizzard | 16 |
 
 ### Sichthilfen ersetzen die Sicht-Erschwerung
 

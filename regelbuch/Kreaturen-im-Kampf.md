@@ -117,7 +117,7 @@ Jedes Körperteil mit eigener Zone hat eine maximale Lebensenergie und einen Beh
 
 ### Die Gesundheit
 
-Die Gesundheit gilt für den Helden und den NSC. Es gibt keinen LE-Faktor. Bei der Erschaffung ist der aktuelle Wert gleich dem Maximum.
+Die Gesundheitsformel gilt für jedes Wesen mit Gesundheit: für den Helden, den NSC und jede Kreatur. Es gilt ein Satz Regeln für alle; Ausnahmen stehen nur, wo sie ausdrücklich genannt sind (Magiekorpi haben keine Gesundheit). Unterschiede bei Kreaturen entstehen durch Vor- und Nachteile und durch Talente. Es gibt keinen LE-Faktor. Bei der Erschaffung ist der aktuelle Wert gleich dem Maximum.
 
 ```text
 Gesundheit = (Willenskraft + Konstitution + Kreis) / 3 + Vitalität
@@ -157,7 +157,7 @@ Mit Konstitution 12, Stärke 10 und Vitalität 5 ergeben sich diese Grundwerte:
 
 ### Der Faktor
 
-Die LE der Zone ist der Grundwert mal dem LE-Faktor, aufgerundet. Der Standardfaktor ist 1. Der Faktor gehört zur Bauform des Körperteils und gilt für jedes Exemplar einzeln. Bezahlt wird er je Körperteil in Entwicklungspunkten ([[Erfahrung-und-Steigerung]]):
+Die LE der Zone ist der Grundwert mal dem LE-Faktor, aufgerundet. Der Standardfaktor ist 1. Der Faktor gehört zur Bauform des Körperteils und gilt für jedes Exemplar einzeln. Bezahlt wird er je Körperteil in Entwicklungspunkten ([[Abenteuer-Entwicklungs-und-Talentpunkte]]):
 
 - Faktor 1 kostet 0 Entwicklungspunkte.
 - Ein Faktor unter 1 kostet 0 Entwicklungspunkte und gibt keine Gutschrift.
@@ -355,7 +355,7 @@ Ein niedergestreckter Untoter ist nicht tot. Er bleibt bis Sonnenuntergang liege
 Ein Gespenst hat keinen Körper. Es geht durch jede unmagische Materie, also auch durch Boden, Decken, verschlossene Türen, andere Körper und Gelände. Magische Wände und andere magische Hindernisse halten es auf. Es hat keine UK, sondern einen gemeinsamen Pool an Lebensenergie. Die Trefferzone wird ausgewürfelt, der Schaden aber vom Pool abgezogen.
 
 - **Profane Waffe:** Die Angriffsprobe findet normal statt, der Schaden ist aber immer 0.
-- **Magischer Schaden:** wirkt normal. Sinkt der Pool auf 0, verschwindet das Gespenst, bleibt aber untot. Bei Sonnenuntergang erscheint es am Ort des früheren Körpers wieder, mit vollem Pool und ohne Zustände.
+- **Magischer Schaden:** wirkt normal. Sinkt der Pool auf 0, ist das Gespenst besiegt, aber nicht getötet: Es verschwindet und bleibt untot. Bei Sonnenuntergang erscheint es am Ort des früheren Körpers wieder, mit vollem Pool und ohne Zustände.
 - **Geweihter, heiliger oder reiner Schaden:** wirkt normal. Sinkt der Pool auf 0, ist der Untod beendet ([[Tod-und-Wiederbelebung]]).
 
 Der Untod eines Gespensts endet außerdem, wenn der Kopf des früheren Körpers abgetrennt oder der Leichnam vollständig zerstört wird. Die Angriffe eines Gespensts zählen als magisch. Ob und wie man ein Gespenst ohne Anzeichen bemerkt, entscheidet der Meister.

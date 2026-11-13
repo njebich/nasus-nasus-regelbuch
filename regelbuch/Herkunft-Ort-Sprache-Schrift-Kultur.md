@@ -81,7 +81,7 @@ Für jedes der elf Völker (siehe [[Spezies]]) ist festgelegt, welche Schrift es
 | Gnome | Knotenschrift |
 | Goblins | Zwergische Schrift (geteilt mit den Zwergen) |
 | Indianer (alle vier Sprachgruppen) | keine Schrift |
-| Katzen | Felinische Hieroglyphen |
+| Katzenmenschen | Felinische Hieroglyphen |
 | Orks | Orkische Runen |
 | Trolle | Trollische Keilschrift |
 | Zentauren | Zwergische Schrift (geteilt mit den Zwergen) |
@@ -93,9 +93,21 @@ Eine Sprache ist an Gegenden gebunden und kann an mehrere Gegenden gebunden sein
 
 ## Kauf und Preis
 
-Sprachen, Kulturen und Schriften kosten jeweils nach ihrer Kostentabelle. Auch Muttersprache und Heimatkultur steigert der Held bei der Erschaffung aus seinen Start-EP wie jeden anderen Erwerb (siehe [[Erfahrung-und-Steigerung]]).
+Sprachen, Kulturen und Schriften kosten jeweils nach ihrer Kostentabelle. Auch Muttersprache und Heimatkultur steigert der Held bei der Erschaffung aus seinen Start-EP wie jeden anderen Erwerb (siehe [[Abenteuer-Entwicklungs-und-Talentpunkte]]).
 
 **Sprachen und Kulturen.** Die Kenntnis hat fünf Stufen (siehe unten). Sprachen kosten nach einer fünfstufigen Kostentabelle, Kulturen nach einer eigenen fünfstufigen Kostentabelle.
+
+Kosten in Entwicklungspunkten, je Stufe des Werts und insgesamt:
+
+| Wert | Kenntnisstufe | Sprache: Schritt | Sprache: gesamt | Kultur: Schritt | Kultur: gesamt |
+|---:|---|---:|---:|---:|---:|
+| 0 | keine Kenntnis | 0 | 0 | 0 | 0 |
+| 1 | Grundkenntnis | 15 | 15 | 10 | 10 |
+| 2 | gute Kenntnis | 15 | 30 | 15 | 25 |
+| 3 | Muttersprache oder Heimatkultur | 20 | 50 | 15 | 40 |
+| 4 | akademisches Niveau | 25 | 75 | 15 | 55 |
+
+Eine Schrift kostet unabhängig davon 50 EP.
 
 **Schriften.** Jede Schrift kostet 50 EP, gleich welche Schrift. Schriftkenntnis hat keine Stufen: Der Held kann eine Schrift oder kann sie nicht.
 
@@ -138,7 +150,7 @@ Die Handelssprache ist eine Sprache, die der Held nicht steigern kann. Er hat si
 - mindestens zwei verschiedene auf gute Kenntnis oder höher beherrscht und
 - eine dritte, andere Sprache davon auf Grundkenntnis oder höher.
 
-Die Handelssprache hat eine feste Kompetenz von 75 %. Sie hat keine Stufen. Verfehlt der Held die Bedingungen später wieder, verliert er die Handelssprache sofort.
+Die Handelssprache wirkt bei Proben mit −5, wie „gute Kenntnis“. Sie hat keine Stufen. Verfehlt der Held die Bedingungen später wieder, verliert er die Handelssprache sofort.
 
 ### Gemeinsame Sprache hat Vorrang
 
@@ -165,6 +177,6 @@ Jedes geschriebene Dokument, das für Spieler bestimmt ist, nennt seine Sprache 
 ## Beispiele
 
 - Der Held kennt Zwergisch als Muttersprache und die Zwergische Kultur auf guter Kenntnis. Er führt eine soziale Probe, bei der beides zählt. Es gilt die niedrigere Stufe, gute Kenntnis, also −5 statt 0.
-- Eine Gruppe beherrscht die Handelssprache, und alle sind Elfisch-Muttersprachler. Die Spieler wählen Elfisch (Modifikator 0) statt der Handelssprache (Kompetenz 75 %).
+- Eine Gruppe beherrscht die Handelssprache, und alle sind Elfisch-Muttersprachler. Die Spieler wählen Elfisch (Modifikator 0) statt der Handelssprache (Modifikator −5).
 - Der Held steigert eine Schrift für 50 EP und eine Sprache ebenfalls für 50 EP. Nur die Sprache zählt zu den 90 EP Mindestausgabe.
 - Der Held erschafft bei der Erschaffung eine neue Sprache für seine Heimatregion. Die Sprache gehört dann zu dieser Region und steht allen Helden zur Verfügung. Der Meister muss nichts freigeben.

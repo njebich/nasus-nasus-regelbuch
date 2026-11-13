@@ -6,14 +6,15 @@ status: entwurf
 
 # Vor- und Nachteile: Kauf und Verkauf
 
-Der Held kauft Vorteile mit [[Erfahrung-und-Steigerung|Entwicklungspunkten (EP)]] und wählt Nachteile, die ihm EP gutschreiben. Ein Vorteil kostet seinen Katalogpreis. Ein Nachteil hat einen negativen Katalogpreis und bringt genau so viele EP ein. Im Katalog stehen Einträge mit positiven, negativen und mit Null-Kosten. Bezahlt wird nur mit EP, nicht mit Abenteuerpunkten und nicht mit Talentpunkten.
+Der Held kauft Vorteile mit [[Abenteuer-Entwicklungs-und-Talentpunkte|Entwicklungspunkten (EP)]] und wählt Nachteile, die ihm EP gutschreiben. Ein Vorteil kostet seinen Katalogpreis. Ein Nachteil hat einen negativen Katalogpreis und bringt genau so viele EP ein. Im Katalog stehen Einträge mit positiven, negativen und mit Null-Kosten. Bezahlt wird nur mit EP, nicht mit Abenteuerpunkten und nicht mit Talentpunkten.
 
 Wie ein Eintrag wirkt, steht in den Kapiteln zu den einzelnen Einträgen:
 
-- Angst-Themen
+- Angst-Themen: Das Angst-System folgt nach Version 1, bis dahin stehen dazu keine Regeln im Regelbuch.
 - [[Anfaelligkeit-und-Resistenz|Anfälligkeit, Resistenz, Unempfindlichkeit, Immunität und Astrale Abschottung]]
 - [[Aussehen-Schlaf-Sinne-und-Koerper|Aussehen- und Schlaf-Profil, Sicht-Merkmale (Blindheit, Einäugig, Nacht- und Dämmerungssicht, Astrales Auge, Blinder Kampf) und Körper- und Sprech-Merkmale (Einarmigkeit, Einbeinigkeit, Keine Arme, Keine Beine, Stumm)]]
 - [[Gaben-und-Schwaechen|Besondere Fähigkeiten, Schlechte Eigenschaft, Migräne, Kind der Fröhlichkeit]], dazu Fettleibig, Träge Reflexe, Sprachtalent und Weltgewandt
+- Der Vorteil „SF: Alchemieresistenz“ kostet 120 Entwicklungspunkte und öffnet den Kauf der [[Sonderfertigkeiten|Sonderfertigkeit]] Alchemieresistenz. Das Maximum der Sonderfertigkeit bleibt 12.
 
 ## Kaufen und verkaufen
 
@@ -29,7 +30,7 @@ Wer einen Vorteil oder Nachteil gewöhnlich verkauft, bucht genau die Umkehrung 
 
 Jede Gutschrift und jede Ausgabe von EP wird in einem Protokoll geführt. So bleibt nachvollziehbar, wie sich die EP jedes Helden entwickelt haben, und ein späterer Zustandswechsel lässt keine EP stillschweigend verschwinden. Jede Rückgabe und jeder Verkauf wird außerdem am Tisch angesagt.
 
-Einmal gewährte oder ausgegebene EP gehen durch gewöhnliches Spielgeschehen nicht verloren. Die einzige Ausnahme ist die Wiederbelebung (siehe [[Erfahrung-und-Steigerung|Erfahrung und Steigerung]]).
+Einmal gewährte oder ausgegebene EP gehen durch gewöhnliches Spielgeschehen nicht verloren. Die einzige Ausnahme ist die Wiederbelebung (siehe [[Abenteuer-Entwicklungs-und-Talentpunkte|Abenteuer-, Entwicklungs- und Talentpunkte]]).
 
 ## Die Erschaffung
 
@@ -95,7 +96,9 @@ Natürliche Regeneration IV bis VII ist ein reiner Wert für NSC und Kreaturen. 
 
 ### Sonderfall Untotenkrankheit
 
-Die Untotenkrankheit gehört zu keiner der drei Klassen. Ihr Eintrag kostet 0 EP, und der Held kann ihn nicht bei der Erschaffung wählen. Er bekommt sie ausschließlich durch ein Ereignis der Spielwelt: den Angriff eines Untoten. Entfernen lässt sie sich nur über die Voraussetzung „magische Krankheit“ (Heilung G6, „Heiliges Land“ oder „Starke Allheilmittel“). Es gibt keinen Kauf und keinen Verkauf für EP, keine Meister-Freigabe und keinen gewöhnlichen Heiler. Bei Kosten von 0 EP ist sie in beide Richtungen EP-neutral.
+Die Untotenkrankheit gehört zu keiner der drei Klassen. Ihr Eintrag kostet 0 EP, und der Held kann ihn nicht bei der Erschaffung wählen. Er bekommt sie ausschließlich durch ein Ereignis der Spielwelt: den Angriff eines Untoten. Entfernen lässt sie sich nur über die Voraussetzung „magische Krankheit“ (Heilung G6, „Heiliges Land“ oder „Starkes Allheilmittel“). Es gibt keinen Kauf und keinen Verkauf für EP, keine Meister-Freigabe und keinen gewöhnlichen Heiler. Bei Kosten von 0 EP ist sie in beide Richtungen EP-neutral.
+
+Die Untotenkrankheit hat keine spürbaren Folgen, man bemerkt nichts von ihr. Stirbt ein Infizierter (die Gesundheit fällt unter die Todesschwelle), würfelt er sofort einen W30. Das Ergebnis ist die Zahl der Tage, nach denen er als Untoter aufsteht ([[Tod-und-Wiederbelebung]]).
 
 Der Nachteil und der entfernbare Zustand der Untotenkrankheit sind getrennte Einträge (siehe unten).
 
@@ -115,10 +118,10 @@ Wer einen Nachteil außerhalb einer laufenden Session entfernen will (EP-Rückka
 
 - **Gliedmaß, Auge, Hand, Fuß:** Heilung G5 „Gliedmaßen nachwachsen lassen“, [[KI|KI-Regeneration]] oder „Ruf des Tepod“. Als Gliedmaß gilt jeder Körperteil mit eigener Trefferzone.
 - **Unmagische Krankheit:** Heilung G3.
-- **Magische Krankheit und Untotenkrankheit:** Heilung G6, „Heiliges Land“ oder „Starke Allheilmittel“.
+- **Magische Krankheit und Untotenkrankheit:** Heilung G6, „Heiliges Land“ oder „Starkes Allheilmittel“.
 - **Gift:** Heilung G4 oder G6.
 - **Narben:** „Ruf des Tepod“.
-- **Ängste:** eine Stufe je Kreis, mit Freigabe des Meisters, kein Heiler.
+- **Ängste:** eine Stufe je Kreis, mit Freigabe des Meisters, kein Heiler. Das Angst-System folgt.
 - **Süchte:** nur der Meister.
 - **Dauerhafte Merkmale:** nicht entfernbar.
 
@@ -154,5 +157,5 @@ Merkmal und zugehöriger Zustand folgen derselben Wirkung. Herkunft, EP-Regeln, 
 - **Einäugig bei der Erschaffung (−400):** Der Held bekommt 400 EP gutgeschrieben. Der Eintrag ist dauerhaft, steht in der Warnung und lässt sich nach der Erschaffung nicht entfernen.
 - **Der Held verliert später im Spiel ein Auge:** Der Meister wendet den entfernbaren Zustand „einäugig“ an, der wie der Nachteil wirkt. Der Held bekommt keine EP. Zur Entfernung muss die Voraussetzung für Gliedmaß und Auge erfüllt sein: Heilung G5 „Gliedmaßen nachwachsen lassen“, KI-Regeneration oder „Ruf des Tepod“. Danach folgt ein EP-neutraler Rückbau.
 - **Ein Angst-Thema kaufen oder verkaufen:** Der Eintrag verlangt die Freigabe des Meisters. Ohne Freigabe geschieht nichts.
-- **Untotenkrankheit:** Ein Untoter greift den Helden an, im Nahkampf mit einem Biss oder mit einer Attacke, deren Wirkung „Überträgt Untotenkrankheit“ lautet, und verursacht dabei mindestens 1 TP. Damit hat sich der Held infiziert. Der Eintrag kostet 0 EP, also ändern sich die EP in keine Richtung. Der Nachteil und der Zustand sind getrennte Einträge. Entfernt wird die Krankheit nur über die Voraussetzung „magische Krankheit“: Heilung G6, „Heiliges Land“ oder „Starke Allheilmittel“.
+- **Untotenkrankheit:** Ein Untoter greift den Helden an, im Nahkampf mit einem Biss oder mit einer Attacke, deren Wirkung „Überträgt Untotenkrankheit“ lautet, und verursacht dabei mindestens 1 TP. Damit hat sich der Held infiziert. Der Eintrag kostet 0 EP, also ändern sich die EP in keine Richtung. Der Nachteil und der Zustand sind getrennte Einträge. Entfernt wird die Krankheit nur über die Voraussetzung „magische Krankheit“: Heilung G6, „Heiliges Land“ oder „Starkes Allheilmittel“.
 - **Erschaffung mit dem Nachteil Blindheit (Gutschrift 500):** Der Saldo von +500 überschreitet die Grenze 300. Wählt der Spieler Vorteile von zusammen mindestens 200 EP, zum Beispiel Blinder Kampf I bis III (150 + 25 + 25), liegt der Saldo bei +300.

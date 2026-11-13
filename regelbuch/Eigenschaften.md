@@ -116,7 +116,7 @@ Dieselben Regeln gelten für die Attribute.
 
 ## Rückgabe
 
-Außerhalb einer laufenden Session kann der Held gekaufte Eigenschaftspunkte jederzeit zurückgeben. Er bekommt die aufsummierten EP voll erstattet. Während einer Session ist die Rückgabe gesperrt. Dieselbe Regel gilt für Attribute, Talentpunkte und Entwicklungspunkte (siehe [[Erfahrung-und-Steigerung]]).
+Außerhalb einer laufenden Session kann der Held gekaufte Eigenschaftspunkte jederzeit zurückgeben. Er bekommt die aufsummierten EP voll erstattet. Während einer Session ist die Rückgabe gesperrt. Dieselbe Regel gilt für Attribute, Talentpunkte und Entwicklungspunkte (siehe [[Abenteuer-Entwicklungs-und-Talentpunkte]]).
 
 Jede Rückgabe wird protokolliert und am Tisch angesagt.
 

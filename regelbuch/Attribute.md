@@ -38,7 +38,7 @@ Preis für den nächsten Schritt (Wert → Wert + 1) = 80 + 20 × Wert
 
 Beispiele: Ein Held, der sein Attribut auf 1 kauft, zahlt 80 EP. Auf 4 kostet es insgesamt 440 EP, auf 7 insgesamt 980 EP. Der Schritt von 6 auf 7 kostet 80 + 20 × 6 = 200 EP.
 
-Die gekauften Attribute zählen zu den ausgegebenen EP des Helden ([[Erfahrung-und-Steigerung]]). Boni aus Artefakten verändern die Kosten nicht.
+Die gekauften Attribute zählen zu den ausgegebenen EP des Helden ([[Abenteuer-Entwicklungs-und-Talentpunkte]]). Boni aus Artefakten verändern die Kosten nicht.
 
 ### Der Höchstwert
 
@@ -73,7 +73,7 @@ Die Kauf- und Obergrenzregeln gelten für Spielercharaktere und für NSC einer s
 
 ### Karma
 
-Karma ist bei der Erschaffung verborgen und bleibt auf 0, bis der Held Geweihter oder Paladin ist. Dafür braucht er die erste Stufe der Geweihten-Kette seiner Religion (siehe [[Religion]]). Diese Stufe hebt die Sperre. Sie setzt nicht voraus, dass der Held schon Karma über 0 hat.
+Karma ist bei der Erschaffung verborgen und bleibt auf 0, bis der Held Geweihter (auch Paladin genannt) ist. Dafür braucht er die erste Stufe der Geweihten-Kette seiner Religion (siehe [[Religion]]). Diese Stufe hebt die Sperre. Sie setzt nicht voraus, dass der Held schon Karma über 0 hat.
 
 Verliert der Held die letzte Stufe der Kette, ist Karma wieder gesperrt. Das geschieht, wenn er im Charakterbogen die Religion wechselt oder wenn der Meister ihm die Stufe entzieht. Beides ist nur außerhalb einer Session möglich. Der gekaufte Wert von Karma wird dann auf 0 gesetzt, und der Held bekommt die dafür ausgegebenen EP zurück.
 

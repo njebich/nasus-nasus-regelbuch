@@ -206,7 +206,7 @@ Die folgenden Regeln gelten für Spruchmagie und Psi.
 
 **Zustimmung.** Sie gilt nur für (Aurabann)-Effekte gegen einen Gegenstand in fremder Aura. Sie hebt die Einschränkung vollständig auf, nicht nur teilweise. Sie muss eine aktive Handlung sein. Eine bloß erklärte Zustimmung oder eine Entscheidung des Meisters genügt nicht.
 
-**Jeder Spruchmagie-Effekt mit dem Ziel „Gegenstand“ trägt einen der beiden Werte.** Das sind 49 Effekte.
+**Jeder Spruchmagie-Effekt mit dem Ziel „Gegenstand“ trägt einen der beiden Werte.**
 
 **Wann geprüft wird.** Der Aurabann wird bei der Zielwahl geprüft, also wenn der Held das Ziel des Effekts ansagt. Danach wird er nicht noch einmal geprüft.
 

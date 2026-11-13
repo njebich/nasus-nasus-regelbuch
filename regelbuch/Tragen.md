@@ -48,7 +48,7 @@ Der Faktor wirkt auf die Summe der beiden aufgerundeten Teile. Das Produkt wird 
 
 **KI-Fähigkeit Kraftakt.** Jeder Punkt, den der Held in Kraftakt investiert hat ([[KI]]), erhöht das Gewicht um 8 kg. Der Bonus gilt für alle sieben Stufen zugleich und wird nach der Rundung addiert.
 
-**Zauber „Körperliche Eigenschaft erhöhen“ und „Körperliche Eigenschaft senken“.** Wird bei diesen Zaubern die Stärke gewählt ([[Spruchmagie]]), erhöht oder senkt der Zauber die Stärke um das Doppelte des Attributs Magie. Beim Senken sinkt die Stärke nie unter 1. Alle sieben Gewichte werden mit der so veränderten Stärke neu berechnet.
+**Zauber „Körperliche Eigenschaft erhöhen“ und „Körperliche Eigenschaft senken“.** Wird bei diesen Zaubern die Stärke gewählt ([[Spruchmagie]]), erhöht oder senkt der Zauber die Stärke um das Doppelte des Attributs Magie des Zaubernden. Beim Senken sinkt die Stärke nie unter 1. Alle sieben Gewichte werden mit der so veränderten Stärke neu berechnet.
 
 ## Reihenfolge
 

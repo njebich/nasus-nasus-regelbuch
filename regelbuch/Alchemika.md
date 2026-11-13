@@ -131,7 +131,7 @@ Ein Antidot gibt dem Helden eine neue Probe mit einem Bonus:
 |---|---|
 | Leichtes Antidot | +25 |
 | Antidot | +35 |
-| Starke Antidot | +45 |
+| Starkes Antidot | +45 |
 
 Das Antidot wirkt selbst erst nach seiner Zeit bis Symptom und seiner Zeit bis Wirkung. 3 Kampfrunden danach würfelt der Held einmal. Der Wurf gilt für alle Alchemika, die gerade auf ihn wirken: Er wird mit dem Probenwert jedes dieser Alchemika verglichen, den Bonus eingerechnet. Jedes Alchemikum, dessen Probenwert der Wurf erreicht, endet. Das gilt auch für eine permanente Wirkung.
 

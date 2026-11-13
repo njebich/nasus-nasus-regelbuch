@@ -6,7 +6,7 @@ status: entwurf
 
 # Stufe, Kreis, Macht und Rerolls
 
-Aus den gesammelten [[Erfahrung-und-Steigerung|Abenteuerpunkten]] ergeben sich zwei Kennzahlen des Helden: seine Stufe und sein Kreis. Der Kreis bestimmt, wie viele Rerolls der Held pro Session hat. Die Macht des Helden hängt ebenfalls vom Kreis ab.
+Aus den gesammelten [[Abenteuer-Entwicklungs-und-Talentpunkte|Abenteuerpunkten]] ergeben sich zwei Kennzahlen des Helden: seine Stufe und sein Kreis. Der Kreis bestimmt, wie viele Rerolls der Held pro Session hat. Die Macht des Helden hängt ebenfalls vom Kreis ab.
 
 ## Stufe und Kreis
 
@@ -70,7 +70,89 @@ Wo ein Kreis beginnt:
 | 12 | 144 | 53950 |
 | 13 | 169 | 68950 |
 
-Die Stufentabelle führt jede Stufe bis Stufe 195 (Kreis 13) auf. Jede höhere Stufe lässt sich mit derselben Regel berechnen.
+Jede Stufe lässt sich mit dieser Regel berechnen.
+
+### Die Stufentabelle bis Kreis 7
+
+| Kreis | Stufe | AP ab |
+|---:|---:|---:|
+| 0 | 0 | 0 |
+| 1 | 1 | 20 |
+| 1 | 2 | 60 |
+| 1 | 3 | 120 |
+| 2 | 4 | 200 |
+| 2 | 5 | 300 |
+| 2 | 6 | 400 |
+| 2 | 7 | 500 |
+| 2 | 8 | 600 |
+| 3 | 9 | 700 |
+| 3 | 10 | 850 |
+| 3 | 11 | 1000 |
+| 3 | 12 | 1150 |
+| 3 | 13 | 1300 |
+| 3 | 14 | 1450 |
+| 3 | 15 | 1600 |
+| 4 | 16 | 1750 |
+| 4 | 17 | 1950 |
+| 4 | 18 | 2150 |
+| 4 | 19 | 2350 |
+| 4 | 20 | 2550 |
+| 4 | 21 | 2750 |
+| 4 | 22 | 2950 |
+| 4 | 23 | 3150 |
+| 4 | 24 | 3350 |
+| 5 | 25 | 3550 |
+| 5 | 26 | 3800 |
+| 5 | 27 | 4050 |
+| 5 | 28 | 4300 |
+| 5 | 29 | 4550 |
+| 5 | 30 | 4800 |
+| 5 | 31 | 5050 |
+| 5 | 32 | 5300 |
+| 5 | 33 | 5550 |
+| 5 | 34 | 5800 |
+| 5 | 35 | 6050 |
+| 6 | 36 | 6300 |
+| 6 | 37 | 6600 |
+| 6 | 38 | 6900 |
+| 6 | 39 | 7200 |
+| 6 | 40 | 7500 |
+| 6 | 41 | 7800 |
+| 6 | 42 | 8100 |
+| 6 | 43 | 8400 |
+| 6 | 44 | 8700 |
+| 6 | 45 | 9000 |
+| 6 | 46 | 9300 |
+| 6 | 47 | 9600 |
+| 6 | 48 | 9900 |
+| 7 | 49 | 10200 |
+| 7 | 50 | 10550 |
+| 7 | 51 | 10900 |
+| 7 | 52 | 11250 |
+| 7 | 53 | 11600 |
+| 7 | 54 | 11950 |
+| 7 | 55 | 12300 |
+| 7 | 56 | 12650 |
+| 7 | 57 | 13000 |
+| 7 | 58 | 13350 |
+| 7 | 59 | 13700 |
+| 7 | 60 | 14050 |
+| 7 | 61 | 14400 |
+| 7 | 62 | 14750 |
+| 7 | 63 | 15100 |
+
+### Kreis 8 bis 11 in Kurzform
+
+Ab Kreis 8 gilt dieselbe Regel; die Kreise im Überblick:
+
+| Kreis | Stufen | Zahl der Stufen | AP je Stufe | erste Stufe ab |
+|---:|---|---:|---:|---:|
+| 8 | 64 bis 80 | 17 | 400 | 15450 AP |
+| 9 | 81 bis 99 | 19 | 450 | 22250 AP |
+| 10 | 100 bis 120 | 21 | 500 | 30800 AP |
+| 11 | 121 bis 143 | 23 | 550 | 41300 AP |
+
+Die erste Stufe jedes Kreises kostet noch die Rate des vorigen Kreises (zum Beispiel Stufe 64: 350 AP, Stufe 65: 400 AP).
 
 ### Gilt für jeden
 
@@ -82,7 +164,7 @@ Stufe und Kreis werden für jede Spielfigur gleich bestimmt, auch für Kreaturen
 0 AP     → Stufe 0,   Kreis 0
 1600 AP  → Stufe 15,  Kreis 3
 10200 AP → Stufe 49,  Kreis 7
-85850 AP → Stufe 195, Kreis 13   (letzte Zeile der Tabelle)
+85850 AP → Stufe 195, Kreis 13
 86500 AP → Stufe 196, Kreis 14
 ```
 

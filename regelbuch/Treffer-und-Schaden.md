@@ -164,7 +164,7 @@ Jede Schadensquelle hat genau eine von drei Schadensarten: Scharf, Durchbohrend 
 
 - **Nahkampfwaffen.** Jede Nahkampfwaffe hat genau eine Schadensart, gleich unter wie vielen Spezialisierungen sie trainierbar ist. Mehrere Spezialisierungen betreffen nur das Training und die Werte für Attacke und Parade, nicht die Schadensart. Das gilt auch für das orkische Bat’leth, die Doppelsense und die Armklingen ([[Nahkampfwaffen]]).
 - **Armklingen und Kampfstile.** Die vier Klauen-Zeilen der Armklingen (Drei Langklauen, Klaue, Pranke, Zwei Klauen) sind Scharf. Die übrigen fünf Armklingen-Zeilen behalten ihre Schadensart aus dem Waffenkatalog. Die sieben exotischen Kampfstile (Boxen, Elfische Kunst der Selbstverteidigung, Goblinische Kampfkunst, Katzenmenschen Kampfkunst, Orkisch’ Raufen, Ringen, Schattenkampf) sind Stumpf.
-- **Schusswaffen.** Jede reine Schusswaffe (Bogen, Armbrust, Feuerwaffe) ist Durchbohrend. Einzige Ausnahme ist die Balläster, eine Armbrust, die eine murmelgroße Stahlkugel statt eines Bolzens schießt: Sie ist Stumpf.
+- **Schusswaffen.** Jede reine Schusswaffe (Bogen, Armbrust, Feuerwaffe, Blasrohr) ist Durchbohrend. Das Blasrohr richtet also wie alle Fernkampfwaffen durchbohrenden Schaden an. Einzige Ausnahme ist die Balläster, eine Armbrust, die eine murmelgroße Stahlkugel statt eines Bolzens schießt: Sie ist Stumpf.
 - **Wurfwaffen.** Eine geworfene Waffe behält auf Distanz ihre Schadensart als Nahkampfwaffe. Ein Wurfmesser ist Scharf, im Nahkampf wie im Wurf.
 - **Sturz.** Sturzschaden ist immer Stumpf.
 
@@ -338,11 +338,13 @@ Nur eine negative Probendifferenz, also ein Wurf über dem Probenwert, hat eine 
 | 10–11 | KBE +3 und MBE +3 | Sturz: Kampfklasse −2, keine feste Dauer. Mit einer erfolgreichen Athletik-Probe oder Körperbeherrschungs-Probe, in jeder Kampfrunde versuchbar, wechselt der Zustand zu Straucheln |
 | 12 | KBE +4 und MBE +4 | Waffe verloren (entwaffnet): Paradeklasse −1 für den Rest der laufenden Kampfrunde, danach der Zustand „Verlorenen Gegenstand aufheben“ (siehe unten) |
 | 13–16 | KBE +5 und MBE +5 | Kampfunfähig: Kampfklasse −2 für W15 + W6 Kampfrunden. Danach wechselt der Zustand automatisch zu Sturz |
-| 17 und mehr | KBE +7 und MBE +7 | Bewusstlos: Sofort wird ein W30 gewürfelt, danach folgt alle W30 Kampfrunden eine Konstitutions-Probe. Gelingt sie, wechselt der Zustand zu Kampfunfähig |
+| 17 und mehr | KBE +7 und MBE +7 | Bewusstlos: Sofort wird ein W30 gewürfelt. Er gibt die Kampfrunden bis zur ersten Konstitutions-Probe an; nach jeder Probe wird für den Abstand zur nächsten ein neuer W30 gewürfelt. Gelingt eine Probe, wechselt der Zustand zu Kampfunfähig |
 
 Die Kampfklasse umfasst Attacke-, Parade-, Ausweich- und Fernkampf-Klasse. Alle vier sinken um den genannten Wert, außer in Zeile 12, die ausdrücklich nur die Paradeklasse nennt und sie bewusst nicht auf die Kampfklasse erweitert, solange die Kampfrunde dauert. Eine Dauer von X Kampfrunden zählt vom Eintritt bis zum Ende der X-ten Kampfrunde.
 
 Die Zustände folgen einander in dieser Reihe: Bewusstlos, Kampfunfähig, Sturz, Straucheln, Benommenheit, erholt. Kampfunfähig und Bewusstlos enden nicht in voller Genesung, sondern in der nächstmilderen Stufe. Wie die Zustände im Einzelnen wirken, steht in [[Zustaende-Katalog]].
+
+**Bewusstlos im Band 17 und mehr.** Beispiel: Der sofort gewürfelte W30 ergibt 12. Nach 12 Kampfrunden folgt die erste Konstitutions-Probe. Misslingt sie, wird ein neuer W30 gewürfelt, zum Beispiel 20; die nächste Probe folgt dann 20 Kampfrunden später.
 
 **Die Behinderung.** Der Wert der Tabelle wird in voller Höhe sowohl zur Körperlichen als auch zur Mentalen Behinderung addiert. Er stapelt mit jeder anderen Behinderung und wirkt ab seinem Entstehen auf jede folgende Probe jeder Art ([[Behinderung-und-Erschwerung]]). Er fließt nicht in die Behinderung der Gruppe zurück, die oben für die Probe gilt. Die Behinderung gehört zur Tabellenzeile und nicht zum Zustand: Straucheln und Sturz aus einer anderen Quelle, etwa dem Umwerfen ([[Nahkampf-im-Kampf]]) oder einem Sturz durch den Meister, geben keine Behinderung. Bewusstlos ist die Ausnahme: Der Zustand trägt die Behinderung 7 aus jeder Quelle, beim Band 17 und höher einmal und nicht zusätzlich zur Tabellenzeile ([[Zustaende-Katalog]]).
 
@@ -361,11 +363,11 @@ Der Zustand folgt auf einen Waffenverlust. Quellen sind die Zeile 12 der Selbstb
 - **Sinnesschärfe-Probe.** In einer Such-Kampfrunde darf der Held eine Sinnesschärfe-Probe würfeln, erschwert um 10 × (s − bisherige Such-Kampfrunden einschließlich der aktuellen). Gelingt sie, ist der Gegenstand in derselben Kampfrunde gefunden. In der letzten, der s-ten Such-Kampfrunde, ist er ohnehin gefunden, die Probe entfällt.
 - **Erschwerung nach s.** Bei s = 1 ist der Gegenstand in der ersten Such-Kampfrunde automatisch gefunden. Bei s = 2 ist die Probe in der ersten Such-Kampfrunde um 10 erschwert, in der zweiten ist er automatisch gefunden. Bei s = 3 sind es 20 und 10, danach automatisch. Bei s = 4 sind es 30, 20 und 10, danach automatisch.
 - **Gefunden.** Der Meister nennt den Landeort. Der Held geht mit einer normalen Bewegung dorthin und nimmt den Gegenstand mit „Gegenstand: Aufnehmen“ auf (2 Aktionskosten, [[Kampfrunde-Aktionen-Initiative-und-Sicht]]). Kampfklasse −1 gilt dafür nicht.
-- **Abbruch.** Der Held kann das Suchen in jeder Kampfrunde lassen. Der Gegenstand bleibt dann liegen, und der Held kämpft unbewaffnet oder zieht eine Zweitwaffe.
+- **Abbruch.** Der Held kann das Suchen in jeder Kampfrunde lassen. Der Gegenstand bleibt dann liegen, und der Held kämpft unbewaffnet oder zieht eine Zweitwaffe. Sucht er später weiter, zählen die schon gesuchten Kampfrunden mit, solange der Kampf am selben Ort weiterläuft.
 - **Mehrere Gegenstände.** Jeder verlorene Gegenstand hat sein eigenes s. Die Gegenstände werden nacheinander gesucht, nie gleichzeitig.
 - **Ende.** Der Zustand endet mit der Aufnahme.
 
-**Beispiel Entwaffnen.** Der Held wurde mit einer Entwaffnen-Probe der Klasse g entwaffnet. Der Meister würfelt W4 = 3, die Richtung 3 (Nordost) und die Entfernung 2 Felder. In Kampfrunde 1 sucht der Held (Kampfklasse −1), seine Sinnesschärfe-Probe, erschwert um 20, misslingt. In Kampfrunde 2 kämpft er, ohne zu suchen, kein Malus. In Kampfrunde 3 sucht er wieder (Kampfklasse −1), die Probe, erschwert um 10, gelingt, und der Gegenstand ist gefunden. Der Meister nennt „zwei Felder nach Nordost“. In Kampfrunde 4 geht der Held dorthin und nimmt den Gegenstand auf.
+**Beispiel Entwaffnen.** Der Held wurde mit einer Entwaffnen-Probe der Klasse g entwaffnet. Der Meister würfelt W4 = 3, die Richtung 3 (Nordost) und die Entfernung 2 Felder. In Kampfrunde 1 sucht der Held (Kampfklasse −1), seine Sinnesschärfe-Probe, erschwert um 20, misslingt. In Kampfrunde 2 kämpft er, ohne zu suchen, kein Malus. In Kampfrunde 3 sucht er wieder (Kampfklasse −1). Die Kampfrunde 1 zählt mit, es ist also seine zweite Such-Kampfrunde, die Probe ist um 10 erschwert und gelingt, und der Gegenstand ist gefunden. Der Meister nennt „zwei Felder nach Nordost“. In Kampfrunde 4 geht der Held dorthin und nimmt den Gegenstand auf.
 
 **Beispiel Zeile 12.** Der Wurf ergibt den Betrag 12. Die Paradeklasse sinkt für den Rest der laufenden Kampfrunde um 1, dazu kommen KBE +4 und MBE +4. Danach beginnt der Zustand mit W4 = 1 und der Entfernung 1 Feld. In Such-Kampfrunde 1 (Kampfklasse −1) ist der Gegenstand gefunden.
 

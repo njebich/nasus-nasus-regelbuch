@@ -22,14 +22,14 @@ Außerdem braucht der Held während der Vorbereitungszeit mindestens 1 freie Aur
 
 Es gibt 30 KI-Fähigkeiten. Jede hat einen festen Eigenschaftsbonus, der in ihre Probe eingeht, und eigene Basiswerte für Vorbereitungsdauer (VD) und Wirkungsdauer (WD). Alles andere gilt für alle Fähigkeiten gleich und steht in diesem Kapitel.
 
-Der Held kauft jede Fähigkeit einzeln. Der Fertigkeitswert ([[Glossar#FW|FW]]) ist die Zahl der Punkte, die er in diese Fähigkeit investiert hat. Die Kosten folgen dieser Kurve:
+Der Held kauft jede Fähigkeit einzeln. Der Fertigkeitswert ([[Glossar#FW|FW]]) ist die Zahl der Punkte, die er in diese Fähigkeit investiert hat. Er bezahlt sie mit Entwicklungspunkten. Die Kurve ist der Gesamtpreis für den ganzen Fertigkeitswert:
 
 ```text
 Kosten(FW) = 0                          bei FW = 0
 Kosten(FW) = 10 + (FW − 1) × FW ÷ 2   sonst
 ```
 
-Die Division ergibt immer eine ganze Zahl, denn (FW − 1) × FW ist immer gerade.
+Die Division ergibt immer eine ganze Zahl, denn (FW − 1) × FW ist immer gerade. Beispiel: Wert 1 kostet 10, Wert 2 zusammen 11, Wert 3 zusammen 13.
 
 ## Die KI-Probe
 
@@ -45,8 +45,10 @@ Die Probe gelingt nach dieser Bedingung:
 
 ```text
 Wurfziel = Probenwert − Erschwerung − (ME vorher ÷ 2)
-Wurf < Wurfziel
+Wurf ≤ Wurfziel
 ```
+
+Ein Wurf, der genau so hoch ist wie das Wurfziel, gelingt. Beispiel: Wurfziel 14, Wurf 14: Die Probe gelingt.
 
 ME vorher ist die Mentale Erschöpfung des Helden vor diesem Wirken (siehe unten).
 

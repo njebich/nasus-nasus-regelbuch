@@ -1,6 +1,6 @@
 ---
 title: Kampf-Talente
-aliases: [Kampf-Talente, Kampfmodul, Kampfmanöver, Kampfmanöver-Talente, Kampfmodul-Talent, Entwaffnen, Finte, Mit Schild umwerfen, Zerschmettern, Wuchtschlag, Gezielter Schlag, Gezielter Schuss, Schnellziehen, Schnell Ziehen, Berittenes Schießen, Kampf mit zwei Waffen, Zwei-Waffen-Kampf, Offensiver Kampfstil, Verteidiger, Kampfstil, Schildkampf, Sekundärhand, Linkshändig Pistolenschießen, Beidhändig Pistolenschießen, Mehrfachschuss, Sorgfältiges Zielen, Meuchler]
+aliases: [Kampf-Talente, Kampfmodul, Kampfmanöver, Kampfmanöver-Talente, Kampfmodul-Talent, Entwaffnen, Finte, Mit Schild umwerfen, Zerschmettern, Gezielter Schlag, Gezielter Schuss, Schnellziehen, Schnell Ziehen, Berittenes Schießen, Kampf mit zwei Waffen, Zwei-Waffen-Kampf, Offensiver Kampfstil, Verteidiger, Kampfstil, Schildkampf, Sekundärhand, Linkshändig Pistolenschießen, Beidhändig Pistolenschießen, Mehrfachschuss, Sorgfältiges Zielen, Meuchler]
 status: entwurf
 ---
 
@@ -57,6 +57,10 @@ Beispiel: Der Held hat X = 6 gewählt, der Fintierte hat nPA 20. Je nach Erfolgs
 - mAT: 3 × 6 = 18, nPA 2
 - fAT: 4 × 6 = 24, nPA −4
 
+**Ausgang im Gitter.** Der Fintierende bekommt aus dem Gitter nie eine Extra-Aktion und nie einen Bruchtest zu seinen Gunsten. Verliert er durch den Ausgang die Initiative, bekommt der Fintierte seine Extra-Aktion und seinen Bruchtest ganz normal. Die Stärke-Vergleichsprobe entfällt.
+
+Beispiel: Peter fintiert einen Banditen, und im Gitter steht ein Ausgang mit Extra-Aktion für den Verteidiger. Peter bekommt keine Extra-Aktion. Wechselt durch den Ausgang die Initiative zum Banditen, hat der Bandit seine Extra-Aktion und seinen Bruchtest wie bei jedem anderen Austausch.
+
 ### Mit Schild umwerfen (34 TaP)
 
 Umwerfen kann jeder Held ansagen, ohne Talent und ohne Schild. Ablauf, Umwerfen-Vergleichsprobe und die Folgen Straucheln und Sturz stehen im Kapitel [[Nahkampf-im-Kampf]]. Das Talent erlaubt dem Helden, dabei einen getragenen Schild einzusetzen. Der Angriff verursacht auch dann keinen Schaden. Das Talent ändert diese Werte der Grundaktion:
@@ -70,7 +74,7 @@ Beispiel: Der Held wählt X = 8. Seine gAT gegen die nPA des Gegners ist um 8 er
 
 ### Zerschmettern (20 TaP)
 
-Der Held verdreifacht den Schaden einer angesagten Nahkampfattacke. Das Talent hieß früher Wuchtschlag.
+Der Held verdreifacht den Schaden einer angesagten Nahkampfattacke.
 
 **Ansage.** Der Held sagt Zerschmettern an, wenn er in der Reihenfolge der Initiative an der Reihe ist. Die Ansage ist öffentlich. Sie gilt für genau eine angesagte Attacke, nicht für eine Extra-Aktion und nicht für einen Doppelschlag. Der Held wählt genau eine von zwei Varianten. Keine der Varianten lässt sich mit dem Positionsbonus Flanke oder Rücken (Attacke-Klasse +1) verbinden.
 
@@ -122,7 +126,7 @@ Der Held führt in jeder Hand eine Waffe. Das Talent erlaubt das, solange die Wa
 - Stufe 3: 5,5
 - Stufe 4: 6,5
 
-Es zählt die Obergrenze der höchsten Stufe, die der Held besitzt, nicht die Summe der Stufen. Mit Stufe 3 gilt für beide Waffen die Obergrenze 5,5, nicht 3,5 + 4,5 + 5,5. Geprüft wird die aktuelle Waffenklasse jeder Waffe, also Basis und Material zusammen.
+Es zählt die Obergrenze der höchsten Stufe, die der Held besitzt, nicht die Summe der Stufen. Mit Stufe 3 gilt für beide Waffen die Obergrenze 5,5, nicht 3,5 + 4,5 + 5,5. Geprüft wird die unmodifizierte Waffenklasse aus der Waffentabelle, ohne Material. Beispiel: Bei Stufe 2 (Obergrenze 4,5) ist eine Waffe mit dem Listenwert 4 und Material +1 erlaubt. In den anderen Formeln gilt weiter die tatsächliche Waffenklasse.
 
 **Sonderregeln.** Sie gelten bei jeder besessenen Stufe von 1 bis 4. Nur die Obergrenze ändert sich mit der Stufe.
 
@@ -261,7 +265,7 @@ Der Zauberer opfert freiwillig Gesundheit und hebt damit die Schwelle des guten 
 
 Der Held greift mit Messer, Dolch oder Fechtwaffe aus dem Hinterhalt an und umgeht die Rüstung. Das Talent schaltet zwei Fähigkeiten frei, die unbemerkte Attacke und die Attacke im normalen Nahkampf. Beide gelten nur mit den Spezialisierungen Messer, Dolche und Fechtwaffen. Beide wirken über das Bonusmenü der Attacke ([[Wuerfeln-und-Proben]]).
 
-**Unbemerkte Attacke.** Hat das Ziel die Probe auf Gefahrensinn nicht geschafft, richtet die Attacke doppelten Schaden an: Die Schadenspunkte werden mit 2 malgenommen. Bei einem guten oder besseren Erfolg ignoriert sie zusätzlich die Rüstung. Das Bonusbudget der Erfolgsstufe gilt zusätzlich, einschließlich der Zeilen für Schadensfaktoren. Der Ausschluss aus dem normalen Nahkampf (siehe unten) gilt hier nicht.
+**Unbemerkte Attacke.** Hat das Ziel die Probe auf Gefahreninstinkt nicht geschafft, richtet die Attacke doppelten Schaden an: Die Schadenspunkte werden mit 2 malgenommen. Bei einem guten oder besseren Erfolg ignoriert sie zusätzlich die Rüstung. Das Bonusbudget der Erfolgsstufe gilt zusätzlich, einschließlich der Zeilen für Schadensfaktoren. Der Ausschluss aus dem normalen Nahkampf (siehe unten) gilt hier nicht.
 
 **Normaler Nahkampf.** Bei einem guten oder besseren Erfolg kann der Held für einen Bonuspunkt die Zusatzzeile „Rüstungsignorierend“ wählen. Bei einem meisterlichen oder besseren Erfolg schließt diese Wahl drei Zeilen aus: „Schadenspunkte + höchster Würfel“, „Schadenspunkte × 2“ und „Schadenspunkte × 3“.
 

@@ -36,7 +36,7 @@ Mit dem Ende des Untodes ist der Untote tot und kann wiederbelebt werden.
 
 Im Herzstillstand gibt es zwei Wege, das Herz wieder zu starten:
 
-1. Der Zauber Defibrillator (Heilung, Grad 4) startet ein gestopptes Herz neu, sofern es nicht zerstört ist. Er garantiert dem Ziel mindestens Magie weitere Minuten Leben. Bei Wiederholung am selben Tag verdoppelt sich die Erschwerung.
+1. Der Zauber Defibrillator (Heilung, Grad 4) startet ein gestopptes Herz neu, sofern es nicht zerstört ist. Er garantiert dem Ziel mindestens die Magie des Zaubernden an weiteren Minuten Leben. Bei Wiederholung am selben Tag verdoppelt sich die Erschwerung.
 2. Eine Herz-Lungen-Massage mit einer Medizin-Probe, Erschwerung 16.
 
 ## Wege zurück ins Leben
@@ -47,7 +47,7 @@ Es gibt drei Wege zurück ins Leben: den Zauber Wiederbelebung, das Wunder Duell
 
 - **Trefferzonen.** Mindestens 51 % der Trefferzonen des Toten müssen anwesend sein. Ein Held hat sieben Trefferzonen und braucht mindestens 4. Eine Kreatur zählt ihre eigene Zahl der Trefferzonen. Sind von sieben Trefferzonen nur 3 vorhanden, ist der Tote nicht wiederbelebbar.
 - **Wer zurückgeholt werden kann.** Helden, Nichtspielercharaktere und Kreaturen. Ein Untoter kann erst nach dem Ende des Untodes wiederbelebt werden.
-- **Untotenkrankheit.** Ein Infizierter, der noch nicht als Untoter aufgestanden ist, steht nach der Wiederbelebung nicht mehr als Untoter auf, und seine Untotenkrankheit ist geheilt. Die Heilung schützt ihn nicht vor einer neuen Ansteckung.
+- **Untotenkrankheit.** Stirbt ein Infizierter, würfelt er sofort einen W30; das Ergebnis ist die Zahl der Tage bis zum Aufstehen als Untoter. Ein Infizierter, der noch nicht als Untoter aufgestanden ist, steht nach der Wiederbelebung nicht mehr als Untoter auf, und seine Untotenkrankheit ist geheilt. Die Heilung schützt ihn nicht vor einer neuen Ansteckung.
 - **Ein früherer Untoter.** Für das Zeitfenster und die Schonfrist zählt der Zeitpunkt seines ursprünglichen Todes, nicht der Übergang vom Untoten zum Toten.
 
 ### Das Zeitfenster
@@ -86,7 +86,7 @@ Der Göttliche Kuss ist ein allgemeines Wunder zur Wiederbelebung und steht alle
 
 ## Verlust von Abenteuerpunkten
 
-Wird der Held wiederbelebt, verliert er 10 % seiner gesamten Abenteuerpunkte (AP) zum Zeitpunkt des Todes. Die gesamten AP sinken dabei nicht. Der Verlust erscheint als Eintrag bei den Entwicklungspunkten und mindert die verfügbaren Entwicklungspunkte ([[Erfahrung-und-Steigerung]]).
+Wird der Held wiederbelebt, verliert er 10 % seiner gesamten Abenteuerpunkte (AP) zum Zeitpunkt des Todes. Die gesamten AP sinken dabei nicht. Der Verlust erscheint als Eintrag bei den Entwicklungspunkten und mindert die verfügbaren Entwicklungspunkte ([[Abenteuer-Entwicklungs-und-Talentpunkte]]).
 
 **Schonfrist.** Liegt der Todeszeitpunkt weniger als 24 Stunden zurück, entsteht kein Verlust. Das gilt für jeden Weg. Erst ab 24 Stunden entsteht der Verlust. Die 24 Stunden zählen ab dem Todeszeitpunkt, nicht ab dem magischen Tag.
 
@@ -108,7 +108,7 @@ Ein wiederbelebter Held darf erst wieder gespielt werden, wenn er lebt und minde
 
 **Zeitfenster abgelaufen.** Bei einem Helden mit Macht 12 ist das Zeitfenster seit 31 Tagen vorbei. Das Zeitfenster beträgt 30 Tage und ist abgelaufen. Der Held bleibt tot, scheidet aus dem Spiel, und seine AP verfallen.
 
-**Untotenkrankheit.** Ein Infizierter sollte in 5 Tagen als Zombie aufstehen. Am dritten Tag geschieht der Göttliche Kuss. Die anstehende Rückkehr als Untoter ist aufgehoben, die Untotenkrankheit geheilt, er lebt.
+**Untotenkrankheit.** Ein Infizierter stirbt, der W30 ergibt 5: Er sollte in 5 Tagen als Untoter aufstehen. Am dritten Tag geschieht der Göttliche Kuss. Die anstehende Rückkehr als Untoter ist aufgehoben, die Untotenkrankheit geheilt, er lebt.
 
 **Ein früherer Untoter, zu spät.** Ein Held stirbt an Tag 0 und ist bis Tag 40 untot. Das Ende des Untodes tritt an Tag 40 ein, die Macht ist 12, die Wiederbelebung soll an Tag 41 geschehen. Das Zeitfenster beginnt an Tag 1 (nächster magischer Tag nach Tag 0) und dauert 30 Tage, es endet mit Tag 31. Er bleibt tot.
 

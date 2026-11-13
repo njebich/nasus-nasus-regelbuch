@@ -48,7 +48,7 @@ Keine Regel setzt Kampfrunde und Sekunde oder Minute stillschweigend gleich.
 
 ## Kampagne, Abenteuer, Session
 
-Sessions gehören zu einem Abenteuer, Abenteuer gehören zu einer Kampagne. Abenteuerpunkte vergibt der Meister in jeder Session, nicht erst am Ende des Abenteuers ([[Erfahrung-und-Steigerung|Erfahrung und Steigerung]]).
+Sessions gehören zu einem Abenteuer, Abenteuer gehören zu einer Kampagne. Abenteuerpunkte vergibt der Meister in jeder Session, nicht erst am Ende des Abenteuers ([[Abenteuer-Entwicklungs-und-Talentpunkte|Abenteuer-, Entwicklungs- und Talentpunkte]]).
 
 ### Neue Session
 
