@@ -44,7 +44,7 @@ Diese Liste ist ein unverbindlicher Vorschlag, keine Regel. Sie führt alle 20 G
 
 ## Die Behinderung
 
-Welche Behinderung gilt, richtet sich nach der Eigenschaft, die der Meister für diese Probe gewählt hat. Bei einer geistigen Eigenschaft zählt die mentale Behinderung (MBE), bei einer körperlichen die körperliche Behinderung (KBE). Das Kapitel [[Behinderung-und-Erschwernis]] erklärt beides. Körperlich sind Athletik, Geschicklichkeit, Konstitution, Schnelligkeit und Stärke. Geistig sind Intelligenz, Mut, Sinnesschärfe, Willenskraft und Ausstrahlung.
+Welche Behinderung gilt, richtet sich nach der Eigenschaft, die der Meister für diese Probe gewählt hat. Bei einer geistigen Eigenschaft zählt die mentale Behinderung (MBE), bei einer körperlichen die körperliche Behinderung (KBE). Das Kapitel [[Behinderung-und-Erschwerung]] erklärt beides. Körperlich sind Athletik, Geschicklichkeit, Konstitution, Schnelligkeit und Stärke. Geistig sind Intelligenz, Mut, Sinnesschärfe, Willenskraft und Ausstrahlung.
 
 Es zählt also die gewählte Eigenschaft, nicht die Grundfertigkeit. Dass eine Grundfertigkeit üblicherweise eher körperlich oder eher geistig ist, ändert daran nichts. Das gilt auch, wenn der Meister eine andere Eigenschaft wählt als die empfohlene.
 

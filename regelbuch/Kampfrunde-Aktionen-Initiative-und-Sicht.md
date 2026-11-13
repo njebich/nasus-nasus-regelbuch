@@ -140,7 +140,7 @@ Die Parade ist die letzte wählbare Aktion in der Kampfrunde.
 - Ein abgelegter Gegenstand ist ohne Probe wieder aufnehmbar.
 - Der Rucksack wird mit Ablegen abgesetzt und mit Einstecken aufgesetzt. Eine Waffe aus dem Rucksack zu holen heißt also: Rucksack absetzen (Ablegen), Waffe herausnehmen (Aufnehmen), Rucksack aufsetzen (Einstecken).
 - Einen fallen gelassenen Gegenstand muss der Held erst lokalisieren, bevor er ihn aufheben kann.
-- Finden entscheidet der Meister. Ist der Gegenstand durch Entwaffnen oder durch die Selbstbeherrschungstabelle verloren gegangen, entfällt der Meisterentscheid. Dann ist das Suchen eine Ansage ohne AK. In der Such-Kampfrunde gilt die Herabstufung KK −1 ([[Behinderung-und-Erschwernis]]). Suchzeit und Sinnesschärfe-Probe richten sich nach dem Zustand „Verlorenen Gegenstand aufheben“ ([[Treffer-und-Schaden]]). Der gefundene Gegenstand wird am Landeort aufgenommen. Die Herabstufung KK −1 gilt dafür nicht.
+- Finden entscheidet der Meister. Ist der Gegenstand durch Entwaffnen oder durch die Selbstbeherrschungstabelle verloren gegangen, entfällt der Meisterentscheid. Dann ist das Suchen eine Ansage ohne AK. In der Such-Kampfrunde gilt die Herabstufung KK −1 ([[Behinderung-und-Erschwerung]]). Suchzeit und Sinnesschärfe-Probe richten sich nach dem Zustand „Verlorenen Gegenstand aufheben“ ([[Treffer-und-Schaden]]). Der gefundene Gegenstand wird am Landeort aufgenommen. Die Herabstufung KK −1 gilt dafür nicht.
 
 ### Laufen und die Kampf-Laufen-Probe
 
@@ -305,7 +305,7 @@ Hätte B die bessere Ini-Differenz geworfen, hätte A auf den später angesagten
 Jede Kampfrunde läuft in dieser Reihenfolge ab:
 
 1. **Initiative bestimmen.** Siehe „Die Initiative“.
-2. **Umgebung bestimmen (Meister).** Der Meister legt fest: a) die Bedingungen und die generellen Erschwerungen ([[Behinderung-und-Erschwernis]], [[Fernkampf]]), b) den Kampfplatz und die Deckungsmöglichkeiten ([[Deckung]]), c) die Entfernungen. Er platziert und beschreibt jedes Ziel, das gesehen werden kann.
+2. **Umgebung bestimmen (Meister).** Der Meister legt fest: a) die Bedingungen und die generellen Erschwerungen ([[Behinderung-und-Erschwerung]], [[Fernkampf]]), b) den Kampfplatz und die Deckungsmöglichkeiten ([[Deckung]]), c) die Entfernungen. Er platziert und beschreibt jedes Ziel, das gesehen werden kann.
 3. **Ansage der Aktionen.** Siehe „Ansage und Ausführung“.
 4. **Aktionen ausführen.** Siehe „Ansage und Ausführung“. Die Aktionen sind a) Warten, b) Rufen, c) Orientierung, d) Bewegung, e) Waffe ziehen, f) Waffe laden, g) Nahkampf ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]; das Umwerfen wird als Nahkampf-Attacke gewürfelt, [[Nahkampf-im-Kampf]]), h) Fernkampf ([[Fernkampf-im-Kampf]]), i) Magie ([[Magie-im-Kampf]]).
 5. **Bruchtest.** Siehe die Klingenbruch-Probe in [[Nahkampf-im-Kampf]]. Beim Umwerfen entfällt der Bruchtest.
@@ -405,7 +405,7 @@ Wer im Nahkampf aus dem toten Winkel angreift, hat einen Vorteil, und der Vertei
 
 ### Der Positions-Modifikator
 
-Entscheidend ist das Feld, in dem der Angreifer im Moment seiner Attacke steht, bezogen auf die Blickrichtung, die das Ziel dann hat. Hat sich das Ziel in derselben Kampfrunde gedreht, zählt die neue Blickrichtung. Der Modifikator besteht aus zwei getrennten Verschiebungen der Erfolgsstufe ([[Behinderung-und-Erschwernis]]): Die Attacke-Klasse des Angreifers steigt um N Stufen, und die Parade-Klasse des Verteidigers sinkt um N Stufen. Die Erfolgsstufe der jeweiligen Probe rutscht also um N Stufen.
+Entscheidend ist das Feld, in dem der Angreifer im Moment seiner Attacke steht, bezogen auf die Blickrichtung, die das Ziel dann hat. Hat sich das Ziel in derselben Kampfrunde gedreht, zählt die neue Blickrichtung. Der Modifikator besteht aus zwei getrennten Verschiebungen der Erfolgsstufe ([[Behinderung-und-Erschwerung]]): Die Attacke-Klasse des Angreifers steigt um N Stufen, und die Parade-Klasse des Verteidigers sinkt um N Stufen. Die Erfolgsstufe der jeweiligen Probe rutscht also um N Stufen.
 
 | Feld des Angreifers | Attacke-Klasse des Angreifers | Parade-Klasse des Verteidigers |
 |---|:---:|:---:|

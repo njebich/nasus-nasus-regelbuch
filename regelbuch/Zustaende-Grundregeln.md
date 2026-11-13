@@ -81,7 +81,7 @@ Zwei Bausteine kommen bei mehreren Zuständen vor. Wo sie gelten, steht es beim 
 
 ## Zustände und Behinderung
 
-Ein Zustand, der eine Behinderung verursacht, speist sie in die zwei vorhandenen Behinderungen ein ([[Behinderung-und-Erschwernis]]). Eine dritte Art gibt es nicht. Nennt der Zustand seine Behinderung „generell“, trägt der Held sie als körperliche und als mentale Behinderung zugleich.
+Ein Zustand, der eine Behinderung verursacht, speist sie in die zwei vorhandenen Behinderungen ein ([[Behinderung-und-Erschwerung]]). Eine dritte Art gibt es nicht. Nennt der Zustand seine Behinderung „generell“, trägt der Held sie als körperliche und als mentale Behinderung zugleich.
 
 Spricht ein Zustand nur einen Teil der vorhandenen Behinderung an, etwa nur die vom Schaden verursachte und nicht die vom Gewicht oder vom Frost, wirkt er nur auf diesen Teil.
 

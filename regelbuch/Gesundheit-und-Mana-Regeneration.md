@@ -43,7 +43,7 @@ Aneinandergereihte Schlafphasen von je mindestens 6 Stunden geben je einen eigen
 
 Beispiele: 12 Stunden Schlaf am Stück sind 2 Phasen und geben 2 Würfe. Der Abenteuerbeginn ist um 08:00. Schlaf von 22:00 bis 10:00 gibt Würfe um 04:00 und um 10:00. Schlaf von 10:00 bis 22:00 gibt um 16:00 keinen Wurf mehr.
 
-Gewürfelt wird, sobald die Schlafphase abgeschlossen ist. Hunger, Durst und Schlafmangel ändern diese Regeneration nicht. Sie wirken nur über die Behinderung ([[Behinderung-und-Erschwernis|Behinderung und Erschwernis]]).
+Gewürfelt wird, sobald die Schlafphase abgeschlossen ist. Hunger, Durst und Schlafmangel ändern diese Regeneration nicht. Sie wirken nur über die Behinderung ([[Behinderung-und-Erschwerung|Behinderung und Erschwerung]]).
 
 ### Die Registufe
 

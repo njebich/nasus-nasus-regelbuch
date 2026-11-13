@@ -1,6 +1,6 @@
 ---
 title: Fernkampf (FK)
-aliases: [Fernkampf, FK, FK-Probe, Fernkampfprobe, FK-Erschwerungen, FK-Erschwerung, Fernkampf-Erschwernisse, Reichweitenband, Reichweitenmodifikator, Waffen-RW-Mod, Fernkampf-Patzer, FK-Patzertabelle, Ausdauerkosten Fernkampf, Ausdauerkosten Bögen, Ausdauerkosten Armbrüste, Ausdauerkosten Wurfwaffen, Ausdauerkosten Feuerwaffen, Spannen, Zielen, Nachladen]
+aliases: [Fernkampf, FK, FK-Probe, Fernkampfprobe, FK-Erschwerungen, FK-Erschwerung, Fernkampf-Erschwerungen, Reichweitenband, Reichweitenmodifikator, Waffen-RW-Mod, Fernkampf-Patzer, FK-Patzertabelle, Ausdauerkosten Fernkampf, Ausdauerkosten Bögen, Ausdauerkosten Armbrüste, Ausdauerkosten Wurfwaffen, Ausdauerkosten Feuerwaffen, Spannen, Zielen, Nachladen]
 status: entwurf
 ---
 
@@ -104,7 +104,7 @@ Die Fernkampfprobe wird mit W30 − W12 gewürfelt. Das Ergebnis liegt zwischen 
 
 ### Der Wert der Probe
 
-Von den beiden Behinderungen zählt nur die Körperliche Behinderung ([[Glossar#KBE|KBE]]). Die Mentale Behinderung zählt bei Angriffsproben im Nahkampf wie im Fernkampf nicht ([[Behinderung-und-Erschwernis]]).
+Von den beiden Behinderungen zählt nur die Körperliche Behinderung ([[Glossar#KBE|KBE]]). Die Mentale Behinderung zählt bei Angriffsproben im Nahkampf wie im Fernkampf nicht ([[Behinderung-und-Erschwerung]]).
 
 Die KBE zieht direkt vom Wert ab, auch von den Schwellen für gut und meisterlich. Erschwerungen und Erleichterungen ändern nur den Normalwert. Die Schwellen für gut und meisterlich werden dadurch nicht neu berechnet, sondern nur nach oben begrenzt, und zwar gegen den gesenkten Normalwert.
 

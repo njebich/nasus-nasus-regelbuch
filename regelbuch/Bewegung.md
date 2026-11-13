@@ -81,7 +81,7 @@ Probenwert = Springen + Athletik − Behinderung (BE)
 Wurf: W30 − W12, erschwert um 13 (fest, wie beim vollen Sprint)
 ```
 
-Die Probe gilt für alle vier Sprungarten gleich, gleich wie lang der Anlauf ist. Die Behinderung ([[Glossar#BE|BE]]) ist in [[Behinderung-und-Erschwernis|Behinderung und Erschwernis]] erklärt.
+Die Probe gilt für alle vier Sprungarten gleich, gleich wie lang der Anlauf ist. Die Behinderung ([[Glossar#BE|BE]]) ist in [[Behinderung-und-Erschwerung|Behinderung und Erschwerung]] erklärt.
 
 ## Fehlende Gliedmaßen
 

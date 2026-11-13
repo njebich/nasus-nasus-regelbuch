@@ -38,7 +38,7 @@ Probe = Ausstrahlungsbonus + FW des Gebets-Talents − Malus
 
 - **Ausstrahlungsbonus** ist der Eigenschaftsbonus der Ausstrahlung ([[Eigenschaften]]). Er ist für alle Wunder dieselbe Eigenschaft. Wunder haben keine eigene Eigenschaft.
 - **FW des Gebets-Talents** ist der Fertigkeitswert des Talents, das das Gebet des Wunders bestimmt.
-- **Malus** ist ein fester Erschwerniswert des einzelnen Wunders. Es gibt weder Stufen noch Grade.
+- **Malus** ist ein fester Erschwerungswert des einzelnen Wunders. Es gibt weder Stufen noch Grade.
 
 Die Formel enthält keine Division. Die Probe kann negativ werden, wenn der Malus den Ausstrahlungsbonus plus FW übersteigt. Dafür gilt die allgemeine Regel für verringerte Probenwerte ([[Wuerfeln-und-Proben]]).
 

@@ -118,7 +118,7 @@ Der Probenwert ist der Rohwert des Attributs:
 Probenwert = Attribut
 ```
 
-Weder eine Eigenschaft noch ein Eigenschaftsbonus, eine Fertigkeit oder eine Spezialisierung gehen ein. Auch eine Behinderung wird nicht abgezogen: Attributsproben sind gegen Behinderung immun. Eine weitere Sonderregel zur Erschwernis gibt es nicht. Eine äußere Erschwernis oder Erleichterung wird wie bei jeder Einfachen Probe verrechnet (siehe [[Behinderung-und-Erschwernis]]).
+Weder eine Eigenschaft noch ein Eigenschaftsbonus, eine Fertigkeit oder eine Spezialisierung gehen ein. Auch eine Behinderung wird nicht abgezogen: Attributsproben sind gegen Behinderung immun. Eine weitere Sonderregel zur Erschwerung gibt es nicht. Eine äußere Erschwerung oder Erleichterung wird wie bei jeder Einfachen Probe verrechnet (siehe [[Behinderung-und-Erschwerung]]).
 
 Gewürfelt wird W30 − W12. Der Würfelwurf und die Auswertung folgen der allgemeinen Probe (siehe [[Wuerfeln-und-Proben]]):
 
@@ -147,4 +147,4 @@ Ein Schütze zielt auf den Helden. Der Spieler würfelt eine Glücksprobe gegen 
 
 Die Spruchmagie verwendet Proben auf die Aura. Beim Zauber Subjektives Manaloch (Antimagie, Grad 6) verliert das Ziel sein gesamtes Mana, außer es besteht die Aura-Probe. Dann verliert es nur die Hälfte seines aktuellen Manas, aufgerundet. Beispiel: Bei 41 Mana sind es 21 Verlust, es bleiben 20. Diese Probe läuft als gewöhnliche Attributsprobe auf den Rohwert der Aura, ohne die Sonderregeln der Glücksprobe.
 
-Karma, Magie, Vitalität und Weisheit stehen ebenso als eigene Attributsprobe zur Verfügung. Ein Meister kann eine Erschwernis ansagen, etwa für eine erschwerte Glücksprobe. Das ist eine Entscheidung des Meisters im Einzelfall, keine feste Regel.
+Karma, Magie, Vitalität und Weisheit stehen ebenso als eigene Attributsprobe zur Verfügung. Ein Meister kann eine Erschwerung ansagen, etwa für eine erschwerte Glücksprobe. Das ist eine Entscheidung des Meisters im Einzelfall, keine feste Regel.

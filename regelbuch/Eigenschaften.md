@@ -162,7 +162,7 @@ Probenwert = Eigenschaft − Behinderung
 
 Es zählt der Rohwert der Eigenschaft, nicht der Eigenschaftsbonus.
 
-Welche Behinderung (BE) abgezogen wird, ergibt sich von selbst aus der gewählten Eigenschaft. Bei einer geistigen Eigenschaft zählt die mentale Behinderung (MBE), bei einer körperlichen die körperliche Behinderung (KBE). Das Kapitel [[Behinderung-und-Erschwernis]] erklärt beides.
+Welche Behinderung (BE) abgezogen wird, ergibt sich von selbst aus der gewählten Eigenschaft. Bei einer geistigen Eigenschaft zählt die mentale Behinderung (MBE), bei einer körperlichen die körperliche Behinderung (KBE). Das Kapitel [[Behinderung-und-Erschwerung]] erklärt beides.
 
 Gewürfelt wird W30 − W12. Der Würfelwurf und die Auswertung folgen der allgemeinen Probe (siehe [[Wuerfeln-und-Proben]]):
 

@@ -169,7 +169,7 @@ Beispiele mit dem Grundwert 13 für einen Arm: Faktor 1,5 ergibt 13 × 1,5 = 19,
 
 ### Die Behinderung der Zonen
 
-Fällt die LE einer Zone auf 0, entsteht eine Behinderung ([[Behinderung-und-Erschwernis]]). Ihr Wert hängt vom Körperteiltyp ab:
+Fällt die LE einer Zone auf 0, entsteht eine Behinderung ([[Behinderung-und-Erschwerung]]). Ihr Wert hängt vom Körperteiltyp ab:
 
 - Kopf: 5
 - Oberleib, Unterleib und einteiliger Rumpf: 2

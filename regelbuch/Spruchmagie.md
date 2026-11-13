@@ -63,7 +63,7 @@ Zauberwert = Magie + Eigenschaftsbonus + Fertigkeit
 - **Magie** ist das Attribut des Helden ([[Attribute]]).
 - **Eigenschaftsbonus** ist der Eigenschaftsbonus der Eigenschaft, die im Zauberbuch beim Zauber steht ([[Eigenschaften]]). Bei den fünf Schulen Elementarbeschwörung und Kampfmagie gilt eine feste Eigenschaft je Schule: Feuer Mut, Wasser Athletik, Luft Schnelligkeit, Erde Stärke, Magie Ausstrahlung.
 - **Fertigkeit** ist der Fertigkeitswert ([[Glossar#FW|FW]]) im gelernten Zauber.
-- **MBE** ist die Mentale Behinderung ([[Glossar#MBE|MBE]], [[Behinderung-und-Erschwernis]]). Die Zauberprobe ist eine geistige Probe. Es zählt nur die Mentale Behinderung, die Körperliche Behinderung nie.
+- **MBE** ist die Mentale Behinderung ([[Glossar#MBE|MBE]], [[Behinderung-und-Erschwerung]]). Die Zauberprobe ist eine geistige Probe. Es zählt nur die Mentale Behinderung, die Körperliche Behinderung nie.
 - **Stufen-Erschwerung** steht für jeden Zauber und jede Zauberstufe im Zauberbuch.
 - **Weitere Erschwerung** ist ein Wert, den der Meister im Einzelfall vor dem Wurf ansagt.
 

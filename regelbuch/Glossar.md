@@ -14,7 +14,7 @@ Die Abkürzungen des Regelbuchs, alphabetisch. Jeder Eintrag sagt in einem Satz,
 
 **AT (Attacke).** Die Probe für eine Attacke. Siehe AT-Probe.
 
-**Aus (Ausstrahlung).** Eine Eigenschaft des Helden. Siehe [[Eigenschaften]].
+**Aus (Ausstrahlung).** Eine geistige Eigenschaft. Siehe [[Eigenschaften]].
 
 **AW (Ausweichen).** Die Probe, mit der sich der Held einem Angriff entzieht, defensiv oder offensiv. Siehe AW-Probe.
 
@@ -28,17 +28,17 @@ Die Abkürzungen des Regelbuchs, alphabetisch. Jeder Eintrag sagt in einem Satz,
 
 **FK (Fernkampf).** Die Probe für einen Fernkampfangriff. Siehe FK-Probe.
 
-**FW (Fertigkeitswert).** Der Wert, mit dem der Held eine Fertigkeit beherrscht. Siehe [[Talente]].
+**FW (Fertigkeitswert).** Der Wert, mit dem der Held eine Fertigkeit beherrscht. Siehe [[Fertigkeiten]].
 
 **Ini (Initiative).** Die Rangfolge der Teilnehmer in einer Kampfrunde. Gewürfelt wird W30 − W12. Siehe Runden und Initiative.
 
-**Int (Intelligenz).** Eine Eigenschaft des Helden. Siehe [[Eigenschaften]].
+**Int (Intelligenz).** Eine geistige Eigenschaft. Siehe [[Eigenschaften]].
 
 **K-Mod (Komplementärsinn-Mod).** Der Malus der Komplementärsinne auf Proben mit dem Zielsinn. Siehe [[Aussehen-Schlaf-Sinne-und-Koerper]].
 
 **KBE (Körperliche Behinderung).** Die Behinderung, die bei körperlichen Proben abgezogen wird. Siehe Behinderung.
 
-**Kon (Konstitution).** Eine Eigenschaft des Helden. Siehe [[Eigenschaften]].
+**Kon (Konstitution).** Eine körperliche Eigenschaft. Siehe [[Eigenschaften]].
 
 **KPP (Karma-Pool-Punkte).** Der Vorrat an Karma, aus dem Wunder gewirkt werden. Siehe [[Religion]].
 
@@ -60,9 +60,9 @@ Die Abkürzungen des Regelbuchs, alphabetisch. Jeder Eintrag sagt in einem Satz,
 
 **SB (Selbstbeherrschung).** Die Probe, mit der der Held auf erheblichen Trefferschaden reagiert. Siehe SB-Probe.
 
-**SP (Schadenspunkte).** Der Rohschaden vor der Minderung durch Rüstung oder Schild. Siehe NK-Ini-Bubble.
+**SP (Schadenspunkte).** Der Rohschaden vor der Minderung durch Rüstung oder Schild. Siehe [[Treffer-und-Schaden|Treffer und Schaden]].
 
-**SSK (Sprach- und Kultur-Fertigkeiten).** Die Fertigkeitsfamilie für Sprachen und Kulturen, neben Grundfertigkeiten und WHK. Siehe [[Herkunft-Ort-Sprache-Schrift-Kultur|Herkunft]].
+**SSK (Sprach- und Kultur-Fertigkeiten).** Die Fertigkeitsfamilie für Sprachen und Kulturen. Siehe [[Herkunft-Ort-Sprache-Schrift-Kultur|Herkunft]].
 
 **TaP (Talentpunkte).** Die Währung für Talente. Siehe Talentpunkte-Budget.
 
@@ -76,13 +76,13 @@ Die Abkürzungen des Regelbuchs, alphabetisch. Jeder Eintrag sagt in einem Satz,
 
 **VD (Vorbereitungsdauer).** Die Zeitspanne vor der entscheidenden Probe. Sie verlangt durchgehende Konzentration. Siehe Vorbereitungs-, Effekt- und Wirkungsdauer.
 
-**W8.** Ein Würfel mit acht Seiten. Ebenso stehen W4, W6, W10, W12, W20 und W30 für Würfel mit 4, 6, 10, 12, 20 und 30 Seiten. Siehe [[Wuerfeln-und-Proben|Würfeln und Proben]].
-
 **WD (Wirkungsdauer).** Die Zeitspanne, für die die volle Wirkung anhält. Siehe Vorbereitungs-, Effekt- und Wirkungsdauer.
 
 **WHK (Wissens-, Handwerks- und Kulturfertigkeiten).** Die Fertigkeiten für Wissen, Handwerk und Kultur. Siehe WHK-Probe.
 
 **WK (Waffenklasse).** Eine Zahl, die jeder Nahkampfwaffe und jedem Schild zugeordnet ist und ihr Gewicht vergleichbar macht. Siehe Waffenklasse.
+
+**WX.** Ein Würfel mit X Seiten. Es gibt W4, W6, W8, W10, W12, W20, W30 und W100 für Würfel mit 4, 6, 8, 10, 12, 20, 30 und 100 Seiten. Siehe [[Wuerfeln-und-Proben|Würfeln und Proben]].
 
 ## Erfolgsstufen
 
@@ -110,6 +110,6 @@ Jede Probenart hat ein Kürzel mit höchstens drei Zeichen:
 
 Setzt man die Erfolgsstufe davor, bezeichnet das Kürzel das Ergebnis einer bestimmten Probenart. gAT ist ein guter Erfolg bei einer Attacke, nPA ein normaler Erfolg bei einer Parade, mAW ein meisterlicher Erfolg beim Ausweichen, fFK ein fröhlicher Erfolg beim Fernkampf. Ebenso gelten gKI, gPSI und gSM für die Magie.
 
-Für GF, SF, Eig und Att gelten dieselben Kürzel (gGF, gSF, gEig, gAtt), auch wenn sie bisher in keinem Kapitel vorkommen.
+Für GF, SF, Eig und Att gelten dieselben Kürzel (gGF, gSF, gEig, gAtt).
 
 **Z-Mod (Zielsinn-Mod).** Der Malus eines beeinträchtigten Zielsinns. Siehe [[Aussehen-Schlaf-Sinne-und-Koerper]].

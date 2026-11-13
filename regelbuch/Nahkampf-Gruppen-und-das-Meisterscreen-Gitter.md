@@ -401,7 +401,7 @@ Probenwert = Athletik + Fliehen − Körperliche Behinderung (KBE)
 Wurf: W30 − W12
 ```
 
-Athletik ist eine [[Eigenschaften|Eigenschaft]], Fliehen eine [[Sonderfertigkeiten|Sonderfertigkeit]]. Die Behinderung ist in [[Behinderung-und-Erschwernis]] erklärt.
+Athletik ist eine [[Eigenschaften|Eigenschaft]], Fliehen eine [[Sonderfertigkeiten|Sonderfertigkeit]]. Die Behinderung ist in [[Behinderung-und-Erschwerung]] erklärt.
 
 - **Gelingt die Probe,** ist der Teilnehmer weg, um die Distanz des Dauerlaufs. Die Gruppe löst sich sofort für den Fliehenden auf, er fällt zurück auf seinen Platz in der Rangfolge der Runde.
 - **Misslingt die Probe,** endet die Kampfrunde ohne Flucht. In der nächsten Kampfrunde sinkt die Paradeklasse um 1 (PA-Kl.-1). Das ist dieselbe Herabstufung wie beim Band 12 der Selbstbeherrschungstabelle ([[Treffer-und-Schaden]]) und beim Zustand „entwaffnet“ ([[Zustaende-Katalog]]).

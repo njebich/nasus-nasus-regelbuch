@@ -28,7 +28,7 @@ Vier Zustände betreffen, ob der Held bei Bewusstsein ist und ob sein Körper le
 
 ### Wehrlos
 
-**Wirkung.** Der Held ist geistig anwesend, aber körperlich vollständig handlungsunfähig. Er kann nicht aktiv verteidigen: keine Attacke, keine Parade, kein Ausweichen. Die Kampfklasse sinkt um 2, wie bei Sturz und Kampfunfähig ([[Behinderung-und-Erschwernis]]). Die Glücksprobe bleibt überall verfügbar, wo sie sonst anwendbar ist. Sie ist Zufall und keine Handlung, Wehrlos sperrt sie nicht.
+**Wirkung.** Der Held ist geistig anwesend, aber körperlich vollständig handlungsunfähig. Er kann nicht aktiv verteidigen: keine Attacke, keine Parade, kein Ausweichen. Die Kampfklasse sinkt um 2, wie bei Sturz und Kampfunfähig ([[Behinderung-und-Erschwerung]]). Die Glücksprobe bleibt überall verfügbar, wo sie sonst anwendbar ist. Sie ist Zufall und keine Handlung, Wehrlos sperrt sie nicht.
 
 **Besonderheiten.** Wehrlos ist ein Baustein. Bewusstlos und Schlaf enthalten ihn und fügen eigene Wirkungen hinzu (Bewusstlos: keine Proben, Behinderung 7; Schlaf: die Aufwach-Probe als Chance zu entkommen). Auch Versteinert und Lachanfall/Traurigkeit enthalten ihn. Der Zauber Paralyse (Beherrschung, Grad 5) verleiht ausschließlich Wehrlos und hat keinen eigenen Eintrag.
 
@@ -306,7 +306,7 @@ Die Wunde hat keine eigene Wirkung und keinen Malus. Sie löst genau eine Blutun
 
 Die Trefferzonengruppe, die ein einzelner Treffer mit TP ≥ volle LE der Zone trifft, gilt als gebrochen. Die Schwelle ist ein fester Betrag, nämlich die maximale Lebensenergie ([[Glossar#LE|LE]]) der Zone. Der aktuelle Stand vor dem Treffer ändert sie nicht. Eine Zone, die durch frühere Treffer auf 3 von 10 LE gesunken ist, braucht für einen neuen Bruch weiterhin TP ≥ 10, nicht TP ≥ 3.
 
-Ein Bruch ist deshalb mehr als LE 0. Bringen mehrere kleinere Treffer eine Zone zusammen auf LE 0, entsteht nur die einfache Behinderung der Zone. Der Bruch bringt die verdoppelte Behinderung (Wert mal 2), und zwar auch dann, wenn die Zone vor dem Treffer nicht bei voller LE stand ([[Treffer-und-Schaden]], [[Behinderung-und-Erschwernis]]). Der Bruch bleibt als eigener Zustand der Zonengruppe bestehen, auch wenn die LE später wieder steigt.
+Ein Bruch ist deshalb mehr als LE 0. Bringen mehrere kleinere Treffer eine Zone zusammen auf LE 0, entsteht nur die einfache Behinderung der Zone. Der Bruch bringt die verdoppelte Behinderung (Wert mal 2), und zwar auch dann, wenn die Zone vor dem Treffer nicht bei voller LE stand ([[Treffer-und-Schaden]], [[Behinderung-und-Erschwerung]]). Der Bruch bleibt als eigener Zustand der Zonengruppe bestehen, auch wenn die LE später wieder steigt.
 
 **Hände und Füße.** Hand und Fuß haben keine eigene LE, sie teilen die LE der ganzen Arm- oder Beinzonengruppe. Ein Treffer auf die Hand (Würfe 53–54 und 66–67) oder den Fuß (Würfe 80 und 90) bricht die Gruppe schon ab der Hälfte der maximalen LE der Gruppe, aufgerundet. Bei einem Treffer auf die reguläre Arm- oder Beinzeile gilt die volle maximale LE der Gruppe.
 
@@ -381,7 +381,7 @@ Es gibt keinen gemeinsamen Zustand „Vergiftet“. Jedes Gift wirkt auf eine vo
 - **Managift** (drei Stufen): ein einmaliger, unmittelbarer Verlust von Mana.
 - **Schmerzgift** (drei Stufen): eine einzelne erschwerte Selbstbeherrschungsprobe, ohne Folgewirkung.
 
-Die Körperliche Behinderung aus Giften zählt wie jede andere ([[Behinderung-und-Erschwernis]]).
+Die Körperliche Behinderung aus Giften zählt wie jede andere ([[Behinderung-und-Erschwerung]]).
 
 **Beispiel.** Der Held wird von starkem Schlafgift getroffen. Er fällt in den Tiefen Schlaf, dieselbe Stufe wie bei einem Helden mit dem Schlaf-Profil Tiefer Schlaf. Er wacht nach dem natürlichen Rhythmus auf.
 
@@ -417,7 +417,7 @@ Zwei Zustände, die der Held gleichzeitig tragen kann: Psychische Abhängigkeit 
 
 ## Schmerzsteuerung
 
-Zwei Zustände, die den Teil der Behinderung verändern, der aus Kampfschaden stammt: Schmerz unterdrückt und Adrenalinschub. Es sind zwei getrennte Zustände. Beide wirken gleichermaßen auf die Körperliche und die Mentale Behinderung ([[Behinderung-und-Erschwernis]]). Behinderung aus anderen Quellen, etwa aus Gewicht oder Frost, berühren sie nicht.
+Zwei Zustände, die den Teil der Behinderung verändern, der aus Kampfschaden stammt: Schmerz unterdrückt und Adrenalinschub. Es sind zwei getrennte Zustände. Beide wirken gleichermaßen auf die Körperliche und die Mentale Behinderung ([[Behinderung-und-Erschwerung]]). Behinderung aus anderen Quellen, etwa aus Gewicht oder Frost, berühren sie nicht.
 
 ### Schmerz unterdrückt
 

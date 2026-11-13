@@ -66,7 +66,7 @@ RBE = (RHg − ((Konstitution / 5 + Stärke) / 2 + Rüstungsmanöver)) / 6
       mindestens 0
 ```
 
-Konstitution und Stärke sind [[Eigenschaften]]. Jede Teilung wird sofort aufgerundet, bevor der nächste Schritt folgt ([[Wuerfeln-und-Proben]]). Die RBE geht in die Gewichtsbehinderung ein ([[Behinderung-und-Erschwernis]]).
+Konstitution und Stärke sind [[Eigenschaften]]. Jede Teilung wird sofort aufgerundet, bevor der nächste Schritt folgt ([[Wuerfeln-und-Proben]]). Die RBE geht in die Gewichtsbehinderung ein ([[Behinderung-und-Erschwerung]]).
 
 ## Gepanzerte Arme und Beine im unbewaffneten Kampf
 

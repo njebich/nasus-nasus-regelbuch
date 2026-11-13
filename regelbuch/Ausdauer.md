@@ -27,7 +27,7 @@ Sie kann unter 0 fallen.
 
 ## Erschöpfung
 
-Erreicht die aktuelle Ausdauer den Wert 0, bekommt der Held eine Körperliche Behinderung ([[Glossar#KBE|KBE]]) von +3 und zugleich eine Mentale Behinderung ([[Glossar#MBE|MBE]]) von +3. Beide Behinderungen sind in [[Behinderung-und-Erschwernis|Behinderung und Erschwernis]] erklärt.
+Erreicht die aktuelle Ausdauer den Wert 0, bekommt der Held eine Körperliche Behinderung ([[Glossar#KBE|KBE]]) von +3 und zugleich eine Mentale Behinderung ([[Glossar#MBE|MBE]]) von +3. Beide Behinderungen sind in [[Behinderung-und-Erschwerung|Behinderung und Erschwerung]] erklärt.
 
 Für jeden weiteren vollen Schritt von −5 Ausdauer steigen KBE und MBE um weitere +3. Gezählt werden volle Schritte, nicht einzelne Punkte.
 

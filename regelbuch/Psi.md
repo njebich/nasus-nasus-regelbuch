@@ -26,7 +26,7 @@ Psi-Wert = Fertigkeit + Eigenschaftsbonus + Aura + Magie
 - **Fertigkeit** ist der Fertigkeitswert ([[Glossar#FW|FW]]), den der Held in die einzelne Psi-Fähigkeit investiert hat.
 - **Eigenschaftsbonus** ist der Eigenschaftsbonus der Eigenschaft, die der Fähigkeit fest zugeordnet ist ([[Eigenschaften]]).
 - **Aura** und **Magie** sind die beiden Attribute des Helden.
-- **MBE** ist die Mentale Behinderung ([[Glossar#MBE|MBE]], [[Behinderung-und-Erschwernis]]). Psi ist eine geistige Probe. Es zählt nur die Mentale Behinderung, die Körperliche Behinderung nie.
+- **MBE** ist die Mentale Behinderung ([[Glossar#MBE|MBE]], [[Behinderung-und-Erschwerung]]). Psi ist eine geistige Probe. Es zählt nur die Mentale Behinderung, die Körperliche Behinderung nie.
 - **Stufen-Erschwerung** ist für jede Fähigkeit und jede Psi-Stufe ein eigener Wert.
 
 Der Psi-Wert enthält keine Division. Er kann negativ werden, wenn die Stufen-Erschwerung hoch und die Fertigkeit niedrig ist. Für verringerte Probenwerte gilt die allgemeine Regel ([[Wuerfeln-und-Proben]]).

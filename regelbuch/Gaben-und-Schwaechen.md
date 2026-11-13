@@ -48,7 +48,7 @@ Das Kind der Fröhlichkeit bekommt jeder Spielercharakter automatisch.
 
 Der Held kann mit bis zu 20 m/s fliegen.
 
-Erschöpfung, Konzentrationserschwernisse und Fernkampfmodifikatoren richten sich nach der tatsächlichen Fluggeschwindigkeit im Verhältnis zu den eigenen Bewegungswerten des Helden:
+Erschöpfung, Konzentrationserschwerungen und Fernkampfmodifikatoren richten sich nach der tatsächlichen Fluggeschwindigkeit im Verhältnis zu den eigenen Bewegungswerten des Helden:
 
 - bis zur Gehgeschwindigkeit wie beim Gehen,
 - bis zur Laufgeschwindigkeit wie beim Laufen,
@@ -62,7 +62,7 @@ Der Held kann das Fliegen jederzeit an- und abschalten, ohne Probe, Aktion, Konz
 
 Der Held kann sich ohne feste Höhenbegrenzung mit bis zu 1 m/s frei in alle Richtungen bewegen.
 
-Erschöpfung, Konzentrationserschwernisse und Fernkampfmodifikatoren (für Schützen und Ziel) entsprechen durchgehend dem Gehen. Er kann das Schweben jederzeit an- und abschalten, ohne Probe, Aktion, Konzentration oder Ressourcenkosten. Erschöpfung entsteht nur, solange er schwebt.
+Erschöpfung, Konzentrationserschwerungen und Fernkampfmodifikatoren (für Schützen und Ziel) entsprechen durchgehend dem Gehen. Er kann das Schweben jederzeit an- und abschalten, ohne Probe, Aktion, Konzentration oder Ressourcenkosten. Erschöpfung entsteht nur, solange er schwebt.
 
 ### Wasserwandeln
 
@@ -132,7 +132,7 @@ Jede Grundfertigkeits- und WHK-Probe, deren gewählte Eigenschaft körperlich is
 
 ### Träge Reflexe
 
-Der Held hat eine Erschwernis von 1 auf die Ausweichen-Probe ([[Glossar#AW|AW]]) und auf die Glück-Probe bei Fernkampf-Gegenproben.
+Der Held hat eine Erschwerung von 1 auf die Ausweichen-Probe ([[Glossar#AW|AW]]) und auf die Glück-Probe bei Fernkampf-Gegenproben.
 
 ## Beispiele zu den besonderen Fähigkeiten
 
@@ -194,11 +194,11 @@ Vergibt er sie dauerhaft außerhalb der Erschaffung, muss er dem Helden die 200 
 
 ## Migräne
 
-Der Held hat in unregelmäßigen Abständen mehrtägige Migräne-Anfälle. Während eines Anfalls sammelt er Tag für Tag eine ausgewürfelte Behinderung an. Sie wirkt als körperliche und als mentale Behinderung zugleich (siehe [[Behinderung-und-Erschwernis]]). Ein anfallsfreier Tag beendet die Serie, und die Behinderung fällt sofort auf 0.
+Der Held hat in unregelmäßigen Abständen mehrtägige Migräne-Anfälle. Während eines Anfalls sammelt er Tag für Tag eine ausgewürfelte Behinderung an. Sie wirkt als körperliche und als mentale Behinderung zugleich (siehe [[Behinderung-und-Erschwerung]]). Ein anfallsfreier Tag beendet die Serie, und die Behinderung fällt sofort auf 0.
 
 ### Die fünf Stufen
 
-| Stufe | EP | Erschwernis der Konstitution-Probe |
+| Stufe | EP | Erschwerung der Konstitution-Probe |
 |---|---:|---:|
 | Leichte Migräne | −25 | 5 |
 | Mittlere Migräne | −50 | 10 |
@@ -206,7 +206,7 @@ Der Held hat in unregelmäßigen Abständen mehrtägige Migräne-Anfälle. Währ
 | Sehr schwere Migräne | −100 | 20 |
 | Extreme Migräne | −150 | 25 |
 
-Der Held kann nur eine Stufe haben. Die Stufen unterscheiden sich nur in der Erschwernis der täglichen Konstitution-Probe. Alles andere gilt für alle Stufen gleich.
+Der Held kann nur eine Stufe haben. Die Stufen unterscheiden sich nur in der Erschwerung der täglichen Konstitution-Probe. Alles andere gilt für alle Stufen gleich.
 
 Der Spieler wählt die Migräne bei der Erschaffung, der Meister muss sie nicht freigeben. Der Held bekommt 25, 50, 75, 100 oder 150 EP gutgeschrieben. Danach lässt sich die Migräne nicht entfernen, nicht verkaufen und nicht heilen, auch nicht magisch. Der Meister verhängt im Spiel keine Migräne.
 
@@ -223,7 +223,7 @@ Der Held legt eine Konstitution-Probe ab, erschwert um den Wert seiner Stufe (5,
 
 ### Anfall
 
-Ab dem ersten Fehlschlag legt der Held an jedem unmittelbar folgenden Spieltag erneut die Konstitution-Probe ab. Es gilt nur die feste Erschwernis seiner Stufe. Die bereits angesammelte Behinderung erschwert die Probe nicht.
+Ab dem ersten Fehlschlag legt der Held an jedem unmittelbar folgenden Spieltag erneut die Konstitution-Probe ab. Es gilt nur die feste Erschwerung seiner Stufe. Die bereits angesammelte Behinderung erschwert die Probe nicht.
 
 - **Misslingt die Probe wieder,** würfelt der Spieler einen neuen W8 und addiert ihn auf die bestehende Behinderung. Die Behinderung ist bei 9 gedeckelt.
 - **Gelingt die Probe,** endet die Serie sofort. Die Behinderung fällt an diesem Tag auf 0. Am Folgetag beginnt eine neue Ruhephase mit einem neuen W8.
@@ -241,7 +241,7 @@ Die üblichen Ausnahmen der MBE bleiben: Sie gilt nicht für AT-Proben und nicht
 - Extreme Migräne, Prüftag: Die Konstitution-Probe ist um 25 erschwert.
 - Der Migräne-Wert ist 4, und der Held schießt (AT-Probe im Fernkampf). Die KBE 4 zieht, die MBE nicht. Netto sind das −4 auf die AT-Probe.
 - Der Migräne-Wert ist 6, und der Held wirkt einen Zauber. Die Zauberprobe ist eine geistige Probe, also zieht die MBE 6, zusätzlich die KBE, soweit die Zauberprobe körperliche Anteile hat.
-- Der Migräne-Wert ist 6, und der Held würfelt auf Glück. Das ist eine Attributsprobe und gegen Behinderung immun, es gibt keine Erschwernis.
+- Der Migräne-Wert ist 6, und der Held würfelt auf Glück. Das ist eine Attributsprobe und gegen Behinderung immun, es gibt keine Erschwerung.
 
 ## Kind der Fröhlichkeit
 
@@ -263,7 +263,7 @@ Selbstbeherrschungs- und Statusproben lösen nicht aus. Auch Sprache und Kultur 
 
 ### Die Zusatzprobe
 
-Die Zusatzprobe läuft unter exakt denselben Bedingungen wie die Probe, die sie ausgelöst hat: gleicher Probenwert, gleiche Erschwernisse. Sie kostet keine Aktion, keine [[Glossar#AK|AK]] und kein Mana und hat keine Handlungswirkung. Nur ihre Erfolgsstufe zählt.
+Die Zusatzprobe läuft unter exakt denselben Bedingungen wie die Probe, die sie ausgelöst hat: gleicher Probenwert, gleiche Erschwerungen. Sie kostet keine Aktion, keine [[Glossar#AK|AK]] und kein Mana und hat keine Handlungswirkung. Nur ihre Erfolgsstufe zählt.
 
 ### Was die Erfolgsstufe anhebt
 

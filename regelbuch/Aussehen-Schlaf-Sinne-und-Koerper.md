@@ -60,7 +60,7 @@ Das Aussehen bestimmt, wie leicht der Held mit seiner Ausstrahlung Eindruck mach
 
 ### Wirkung auf Proben
 
-Die Modifikatoren der dritten Spalte gelten für alle Proben auf [[Grundfertigkeiten]], auf Wissens-, Handwerks- und Kulturfertigkeiten ([[Glossar#WHK|WHK]], Kapitel [[Wissens-Handwerks-und-Kulturfertigkeiten]]) und auf Sprach- und Kultur-Fertigkeiten ([[Glossar#SSK|SSK]]), in die die Ausstrahlung oder ihr Eigenschaftsbonus eingeht. Ein negatives Aussehen erschwert diese Proben, ein positives erleichtert sie ([[Behinderung-und-Erschwernis|Erschwernis]]).
+Die Modifikatoren der dritten Spalte gelten für alle Proben auf [[Grundfertigkeiten]], auf Wissens-, Handwerks- und Kulturfertigkeiten ([[Glossar#WHK|WHK]], Kapitel [[Wissens-Handwerks-und-Kulturfertigkeiten]]) und auf Sprach- und Kultur-Fertigkeiten ([[Glossar#SSK|SSK]]), in die die Ausstrahlung oder ihr Eigenschaftsbonus eingeht. Ein negatives Aussehen erschwert diese Proben, ein positives erleichtert sie ([[Behinderung-und-Erschwerung|Erschwerung]]).
 
 Nicht betroffen sind Proben ohne Ausstrahlung oder Eigenschaftsbonus Ausstrahlung, außerdem Kampfproben, Zauberproben und reine Eigenschaftsproben, auch die Probe auf die blanke Ausstrahlung.
 
@@ -178,7 +178,7 @@ Der Meister kann alle Sinne einzeln oder gemeinsam erschweren. Beispiele sind ma
 
 Die Merkmale zum Sehen verändern die Optik dauerhaft. Nachteile bringen EP und erlegen eine Erschwerung auf. Vorteile kosten EP und senken oder ersetzen die Sichtmodifikatoren, die im Kampf je nach Licht und Umgebung gelten ([[Fernkampf]]). Es gibt sieben Merkmale und dazu die Kette Blinder Kampf: Blindheit, Einäugig, Kurzsichtigkeit, Weitsichtigkeit, Dämmerungssicht, Nachtsicht und Astrales Auge.
 
-Wenn dieses Kapitel eine Erschwerung nennt, ist es eine Erschwerung der Probe ([[Behinderung-und-Erschwernis|Behinderung und Erschwernis]]).
+Wenn dieses Kapitel eine Erschwerung nennt, ist es eine Erschwerung der Probe ([[Behinderung-und-Erschwerung|Behinderung und Erschwerung]]).
 
 ### Blind als Zustand
 
@@ -338,7 +338,7 @@ Dem Helden kann ein Arm oder ein Bein fehlen, beide Arme oder beide Beine, oder 
 - Keine Beine: 800 EP
 - Stumm: 300 EP
 
-Die Gliedmaßen wirken auf die körperliche Behinderung (KBE, [[Behinderung-und-Erschwernis|Behinderung und Erschwernis]]), auf die Fortbewegung ([[Bewegung]]), auf die Waffenführung und auf die Zauberstufe ([[Spruchmagie]]). Bei den Zauberstufen gilt: Auf Stufe 1 braucht der Zauberer Geste und Formel, auf Stufe 2 darf er eine von beiden weglassen, auf Stufe 3 beide. Die Stufen 2 und 3 braucht ein Talent ([[Talente]]).
+Die Gliedmaßen wirken auf die körperliche Behinderung (KBE, [[Behinderung-und-Erschwerung|Behinderung und Erschwerung]]), auf die Fortbewegung ([[Bewegung]]), auf die Waffenführung und auf die Zauberstufe ([[Spruchmagie]]). Bei den Zauberstufen gilt: Auf Stufe 1 braucht der Zauberer Geste und Formel, auf Stufe 2 darf er eine von beiden weglassen, auf Stufe 3 beide. Die Stufen 2 und 3 braucht ein Talent ([[Talente]]).
 
 ### Einarmigkeit
 

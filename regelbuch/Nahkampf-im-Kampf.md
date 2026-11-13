@@ -85,7 +85,7 @@ Umwerfen-Probenwert = (Athletik + Stärke + Konstitution) / 2
                       − Körperliche Behinderung
 ```
 
-Athletik, Stärke und Konstitution sind [[Eigenschaften]]. Körperbeherrschung ist eine [[Grundfertigkeiten|Grundfertigkeit]]. Die Behinderung ist in [[Behinderung-und-Erschwernis]] erklärt.
+Athletik, Stärke und Konstitution sind [[Eigenschaften]]. Körperbeherrschung ist eine [[Grundfertigkeiten|Grundfertigkeit]]. Die Behinderung ist in [[Behinderung-und-Erschwerung]] erklärt.
 
 Der Verteidiger ist um 6 mal d erschwert. Die Erschwerung wird vor dem Würfelergebnis vom Probenwert des Verteidigers abgezogen. Der Angreifer erhält keinen Bonus. Ein guter, meisterlicher und fröhlicher Wurf vervielfacht den Probenwert mit 2, 3 und 4. Ein Wurf von 0 ergibt immer das Ergebnis 0. Die Rechenregeln der Vergleichsprobe stehen in [[Wuerfeln-und-Proben]].
 
@@ -226,7 +226,7 @@ Der Angreifer kann festlegen, dass ein einzelner Treffer nicht töten darf. Der 
 - Die Ansage gilt unabhängig vom Angriffsweg.
 - Sie gilt für einen einzelnen Treffer auf ein einzelnes Ziel. Attacken, die mehrere Ziele gleichzeitig treffen (Fläche, Mehrfachtreffer), können nicht nicht-tödlich angesagt werden.
 - Beginnt ein Ziel die Kampfrunde mit Gesundheit 0 oder darunter, kann gegen dieses Ziel in dieser Kampfrunde nicht mehr nicht-tödlich angesagt werden.
-- Die Ansage kostet nichts: keine Aktion, keine Aktionskosten, keine Ausdauer und keine Erschwernis.
+- Die Ansage kostet nichts: keine Aktion, keine Aktionskosten, keine Ausdauer und keine Erschwerung.
 
 ### Wirkung
 

@@ -6,7 +6,7 @@ status: entwurf
 
 # Würfeln und Proben
 
-Der Held würfelt eine Probe, und ihr Ergebnis fällt auf eine von sechs Erfolgsstufen. Dieses Kapitel erklärt die Stufen, den Vergleich zweier Proben, die Bonuspunkte besonders guter Erfolge und die Rundung aller Rechnungen im Spiel.
+Um zu bestimmen, ob eine vom Helden angesagte Aktion erfolgreich ist, wird eine vom Meister festgelegte Probe geworfen. Jede dieser Proben kann eine Erfolgsstufe haben. Der Held würfelt eine Probe, und ihr Ergebnis fällt auf eine von sechs Erfolgsstufen. Dieses Kapitel erklärt die Stufen, den Vergleich zweier Proben, die Bonuspunkte besonders guter Erfolge und die Rundung aller Rechnungen im Spiel.
 
 ## Die sechs Erfolgsstufen
 
@@ -21,8 +21,6 @@ Jede Probe endet auf derselben Leiter. Von schlecht nach gut:
 
 Alle sechs Stufen liegen auf einer einzigen Leiter. Steht das Kürzel einer Probenart dahinter, ist das Ergebnis dieser Probenart gemeint: gAT ist ein guter Erfolg bei der Attacke ([[Glossar#AT|AT]]). Die Kürzel aller Probenarten stehen im [[Glossar]].
 
-Welcher Wurf bei Attacke, Parade, Ausweichen und Fernkampf welche Stufe ergibt, steht im Kapitel [[Behinderung-und-Erschwernis|Behinderung und Erschwernis]].
-
 ## Die einfache Probe
 
 Der Held würfelt W30 − W12, also den höheren Würfel minus den niedrigeren. Der Wurf liegt zwischen 0 und 29. Ist er höchstens so hoch wie der Probenwert, gelingt die Probe.
@@ -30,9 +28,9 @@ Der Held würfelt W30 − W12, also den höheren Würfel minus den niedrigeren. 
 Vier Würfe haben immer eine feste Bedeutung. Der Meister muss sie nicht ansagen:
 
 - Wurf 0, der Pasch: Patzer.
-- Wurf 1: guter Erfolg, auch wenn der Probenwert darunter liegt.
-- Wurf 21: meisterlicher Erfolg, auch wenn der Probenwert darunter liegt.
-- Wurf 29: fröhlicher Erfolg, nur mit dem Vorteil „[[Gaben-und-Schwaechen|Kind der Fröhlichkeit]]“.
+- Wurf 1: guter Erfolg, bei einem Probenwert von 2 oder höher.
+- Wurf 21: meisterlicher Erfolg, bei einem Probenwert von 2 oder höher, auch wenn der Probenwert darunter liegt.
+- Wurf 29: fröhlicher Erfolg, bei einem Probenwert von 2 oder höher, nur mit dem Vorteil „[[Gaben-und-Schwaechen|Kind der Fröhlichkeit]]“.
 
 Beispiel: Ein Held hat beim Klettern den Probenwert 15 und würfelt 21. Das ist ein meisterlicher Erfolg. Würfelt er 18, ist es ein Fehlschlag.
 
@@ -51,8 +49,6 @@ Sinkt der Probenwert nach Abzug von Behinderung und Erschwerung auf 1 oder darun
 
 Beispiel: Probenwert 5, Erschwerung 15. Der Probenwert ist −10. Ein Wurf 1 misslingt, erst Wurf 21 ist ein Erfolg.
 
-Für Attacke, Parade, Ausweichen und Fernkampf steht die Verschiebung im Kapitel [[Behinderung-und-Erschwernis|Behinderung und Erschwernis]].
-
 ## Zwei Arten, Proben zu vergleichen
 
 ### Der Klassenvergleich
@@ -63,7 +59,7 @@ So vergleichen das [[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter|Meisterscreen
 
 ### Die Vergleichsprobe
 
-Sagt der Meister eine Vergleichsprobe an, würfelt jeder Beteiligte eine Differenzprobe: W30 − W12 (zu den Würfeln siehe [[Glossar#W8|Glossar]]). Verglichen werden die Probenergebnisse, also die Differenzen. Die Erfolgsstufe entscheidet in der Vergleichsprobe nichts. Eine Erschwerung wird vorher vom eigenen Ergebnis abgezogen.
+Sagt der Meister eine Vergleichsprobe an, würfelt jeder Beteiligte eine Differenzprobe: W30 − W12 (zu den Würfeln siehe [[Glossar#WX|Glossar]]). Verglichen werden die Probenergebnisse, also die Differenzen. Die Erfolgsstufe entscheidet in der Vergleichsprobe nichts. Eine Erschwerung wird vorher vom eigenen Ergebnis abgezogen.
 
 Das Probenergebnis hängt vom Wurf und vom Probenwert ab:
 
@@ -89,7 +85,7 @@ Ein namenloser Räuber ohne das Kind der Fröhlichkeit hat den Probenwert 10 und
 
 *Dieser Abschnitt ist ein Entwurf.*
 
-Ein guter, meisterlicher oder fröhlicher Erfolg gibt dem Helden bei mehreren Probenarten Punkte, die er im Bonusmenü seiner Probenart ausgibt.
+Ein guter, meisterlicher oder fröhlicher Erfolg gibt dem Helden bei mehreren Probenarten Punkte, mit denen er den Erfolg beeinflussen kann.
 
 ### Wie viele Punkte es gibt
 
@@ -109,11 +105,11 @@ Ein fröhlicher Erfolg entsteht auf zwei Wegen. Der erste ist der Wurf 29 mit de
 
 ### Attacke im Nahkampf
 
-Die Attacke gibt bei gAT 1 Punkt, bei mAT 2 und bei fAT 3 Punkte. Der Held verteilt sie frei auf mehrere Zeilen, solange die Summe die Punkte nicht übersteigt. Jede Zeile wählt er höchstens einmal. Nur die Wiederholungswürfe darf er beliebig oft wählen.
+Die Attacke gibt bei gAT 1 Punkt, bei mAT 2 und bei fAT 3 Punkte. Der Held verteilt sie frei auf mehrere Zeilen, solange die Summe die Punkte nicht übersteigt. Jede Zeile wählt er höchstens einmal. Nur die Trefferzonen-Rerolls darf er beliebig oft wählen.
 
 | Wahl | Punkte | Wirkung |
 |---|---:|---|
-| 3 Wiederholungswürfe auf die Trefferzone | 1 | 3 zusätzliche Wiederholungswürfe für den W100-Wurf auf die Trefferzone ([[Treffer-und-Schaden|Treffer und Schaden]]) |
+| 3 Trefferzonen-Rerolls | 1 | 3 zusätzliche Trefferzonen-Rerolls für den W100-Wurf auf die Trefferzone ([[Treffer-und-Schaden|Treffer und Schaden]]) |
 | Schadenspunkte + höchster Würfel | 1 | Der größte Würfel der Schadensformel kommt einmal dazu |
 | Schadenspunkte × 2 | 2 | Die Schadenspunkte ([[Glossar#SP|SP]]) werden verdoppelt |
 | Schadenspunkte × 3 | 3 | Die Schadenspunkte werden verdreifacht |
@@ -147,12 +143,12 @@ Der Fernkampf ([[Glossar#FK|FK]]) gibt bei gFK 1 Punkt, bei mFK 2 und bei fFK 3 
 
 | Wahl | Punkte | Wirkung |
 |---|---:|---|
-| 3 Wiederholungswürfe auf die Trefferzone | 1 | 3 zusätzliche Wiederholungswürfe für den W100-Wurf auf die Trefferzone; beliebig oft wählbar |
+| 3 Trefferzonen-Rerolls | 1 | 3 zusätzliche Trefferzonen-Rerolls für den W100-Wurf auf die Trefferzone; beliebig oft wählbar |
 | Schadenspunkte + höchster Würfel | 1 | Der größte Würfel der Schadensformel kommt einmal dazu; mit keinem Faktor zu verbinden |
 | Schadenspunkte × 2 | 2 | Die Schadenspunkte werden verdoppelt |
 | Schadenspunkte × 3 | 3 | Die Schadenspunkte werden verdreifacht |
 
-Der [[Kampf-Talente|Mehrfachschuss]] ersetzt den normalen Fernkampfangriff. Die Erfolgsstufe seiner Probe gibt die Punkte nur einmal. Die gewählten Zeilen gelten dann für jeden Pfeil, zum Beispiel 3 Wiederholungswürfe auf die Trefferzone je Pfeil.
+Der [[Kampf-Talente|Mehrfachschuss]] ersetzt den normalen Fernkampfangriff. Die Erfolgsstufe seiner Probe gibt die Punkte nur einmal. Die gewählten Zeilen gelten dann für jeden Pfeil, zum Beispiel 3 Trefferzonen-Rerolls je Pfeil.
 
 ### Spruchmagie und Wunder
 
@@ -205,10 +201,10 @@ Parade und Ausweichen ([[Glossar#AW|AW]]) haben kein Bonusmenü. Ihre Erfolgsstu
 In allen Beispielen würfelt der Held 10 Schadenspunkte.
 
 - **Meisterliche Attacke.** Der Held nimmt „Schadenspunkte + höchster Würfel“ (1) und „gegnerische nPA : 2“ (1). Das sind 2 Punkte, die Wahl ist möglich.
-- **Fröhliche Attacke.** „Schadenspunkte × 2“ (2) und 3 Wiederholungswürfe (1) ergeben 3 Punkte und sind möglich. Dreimal 3 Wiederholungswürfe (3) sind ebenfalls möglich. „Schadenspunkte × 2“ und Doppelschlag kosten 4 Punkte und sind nicht möglich. „Schadenspunkte × 2“ zusammen mit „Schadenspunkte + höchster Würfel“ ist nicht möglich, weil der Zuschlag sich mit keinem Faktor verbindet.
+- **Fröhliche Attacke.** „Schadenspunkte × 2“ (2) und 3 Trefferzonen-Rerolls (1) ergeben 3 Punkte und sind möglich. Dreimal 3 Trefferzonen-Rerolls (3) sind ebenfalls möglich. „Schadenspunkte × 2“ und Doppelschlag kosten 4 Punkte und sind nicht möglich. „Schadenspunkte × 2“ zusammen mit „Schadenspunkte + höchster Würfel“ ist nicht möglich, weil der Zuschlag sich mit keinem Faktor verbindet.
 - **Zerschmettern bei meisterlicher Attacke mit „Schadenspunkte × 2“.** 10 × 3 × 2 = 60 Schadenspunkte.
 - **Meuchler, unbemerkt, meisterliche Attacke mit „Schadenspunkte × 2“.** 10 × 2 × 2 = 40 Schadenspunkte, und die Rüstung wird ignoriert.
-- **Meuchler im normalen Nahkampf, meisterliche Attacke.** „Rüstungsignorierend“ (1) und 3 Wiederholungswürfe (1) ergeben 2 Punkte und sind möglich. Mit „Schadenspunkte × 2“ geht „Rüstungsignorierend“ nicht zusammen.
+- **Meuchler im normalen Nahkampf, meisterliche Attacke.** „Rüstungsignorierend“ (1) und 3 Trefferzonen-Rerolls (1) ergeben 2 Punkte und sind möglich. Mit „Schadenspunkte × 2“ geht „Rüstungsignorierend“ nicht zusammen.
 - **Zauber, meisterlicher Erfolg.** „Zauber kopieren“ (1) und doppelte Wirkung für eine der beiden Wirkungen (1) ergeben 2 Punkte.
 - **Zauber, fröhlicher Erfolg.** Doppelte Wirkung, doppelte Reichweite und doppelte Wirkungsdauer kosten je 1 Punkt, zusammen 3.
 - **Psi, Stufe 5, fröhlicher Erfolg.** Der Held hebt die Stufe auf 6 und auf 7, der dritte Punkt verfällt. Oder er hebt die Stufe um 1 und halbiert MpZ, und der dritte Punkt verfällt.
@@ -242,9 +238,6 @@ Rechenbeispiele: 15 / 2 = 7,5, also 8. 9 × 0,25 = 2,25, also 3. −23 / 10 = �
 - Jede Division wird einzeln gerundet. Hat eine Formel mehrere Divisionen, wird jede für sich gerundet, danach werden die Ergebnisse zusammengezählt.
 - Jede Multiplikation wird einzeln gerundet, bevor der nächste Faktor folgt.
 - Mit dem gerundeten Wert wird weitergerechnet.
-- Addition und Subtraktion runden nicht. Kommt zu einem geteilten, nicht negativen Wert eine ganze Zahl von 0 oder mehr dazu, ist es gleich, ob vor oder nach dem Zusammenzählen gerundet wird.
-- Werden nur ganze Zahlen malgenommen, entsteht kein Bruch, und es wird nichts gerundet.
-- Zwei Halbierungen hintereinander, jede für sich gerundet, ergeben dasselbe wie eine Multiplikation mit 0,25, die einmal gerundet wird.
 - Ein fester Bruch als Faktor, etwa 2/3 oder 1/3, ist eine einzige Multiplikation. Das genaue Produkt wird einmal gerundet.
 
 Jede Halbierung, Drittelung und jedes andere Teilen folgt der Grundregel. Das gilt zum Beispiel für den halben Verbrauch bei einer misslungenen Wunder-Probe, für einen halbierten Deckel, für den Schadens-Abzug jenseits der Höchstreichweite ((Distanz − Reichweite) / Reichweite), für den Eigenschaftsbonus (Eigenschaft / 2, dann − 5) und für den Beitrag eines Assistenten beim Herstellen.
@@ -275,8 +268,6 @@ Ein Behinderungsfaktor (× 0,25, × 0,5 oder × 0,75) wirkt auf den Viertel-Wert
 - unter 1000 D: Schritte von 5
 - ab 1000 D: Schritte von 50
 
-**Preise und Gutschriften der Komplementärsinne.** Sie betragen ein Drittel des Zielsinn-Werts. Das Ergebnis der Drittelung wird einmal auf volle Zehner gerundet ([[Aussehen-Schlaf-Sinne-und-Koerper|Aussehen, Schlaf, Sinne und Körper]]).
-
 ### Werte, die abrunden
 
 Diese Werte runden zur Null hin, auf ganze Zahlen:
@@ -286,8 +277,6 @@ Diese Werte runden zur Null hin, auf ganze Zahlen:
 - **KI Meister der Grundfertigkeiten:** Die Zahl der wählbaren Grundfertigkeiten ist 1 + Wert / 5, die Division abgerundet.
 - **KI Regeneration und Selbstheilung:** E_w : 3 LE je Sekunde und E_w : 5 LE je weiterer Zone, jeweils abgerundet.
 - **Kreis:** Der Kreis ist die Wurzel aus der Stufe, abgerundet ([[Stufe-Kreis-Macht-und-Rerolls|Stufe, Kreis, Macht und Rerolls]]).
-- **Wirkungsstufen-Tabelle (Klinge und Pfeil):** In jeder Zeile ist RB der abgerundete Durchschnittsschaden. SB ist der Durchschnittsschaden nach der Grundregel.
-- **W100-Tabelle der Trefferzonen von Kreaturen:** Die Breiten der Zeilen werden abgerundet. Der Rest wird nach dem größten Rest verteilt, einmal je Tabelle, sodass die Summe 100 ist ([[Kreaturen-im-Kampf|Kreaturen im Kampf]]).
 
 ### Ein Wert ohne Rundung
 
@@ -306,7 +295,6 @@ Für diese Werte gilt die Grundregel ohne Abweichung:
 - **Natürliche Regeneration der KPP:** Geweihtengrad / 2 und Karma / 2 werden einzeln gerundet.
 - **Wunde-Schwelle bei Stumpf:** Trefferschwelle × 1,5 wird gerundet.
 - **Artefakt „Material verstärken“:** (M) : 3 wird gerundet.
-- **Entwicklungsstufen von Kreaturen:** Jedes Produkt aus einem Wert und dem Multiplikator der Stufe (× 0,5 bis × 2,0) wird sofort gerundet, auch die Stufe einer Sprach- und Kultur-Fertigkeit ([[Glossar#SSK|SSK]]). Ein Wert 0, also keine Kenntnisse, bleibt 0.
 
 ### Rundung beim Schaden
 
@@ -363,8 +351,6 @@ Stärke 12, Schnelligkeit 12, Grundfertigkeit Springen 8: Hochsprung = 32 / 40 =
 **Verfügbare Weisheit.** Ein Held hat Weisheit 7. Ein anhaltender Zauber vom Grad 3 kostet 1,5, verfügbar bleiben 5,5. Er kann einen weiteren Zauber bis Grad 5 wählen, denn 5,5 ist mindestens 5. Grad 6 geht nicht.
 
 **Artefakt „Material verstärken“.** (M) 25: 25 / 3 = 8,33, also 9. (M) von 22 bis 24 ergibt 8, (M) von 25 bis 27 ergibt 9.
-
-**Entwicklungsstufen von Kreaturen.** Eigenschaft 7 auf der Stufe Stark (× 1,25): 8,75, also 9. Auf der Stufe Jungtier (× 0,5): 3,5, also 4. Eine SSK-Stufe 3 auf der Stufe Schwach (× 0,75): 2,25, also 3. Eine SSK 0 auf der Stufe Schwach: 0 × 0,75 = 0.
 
 **Abrunden.**
 

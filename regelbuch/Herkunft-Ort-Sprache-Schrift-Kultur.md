@@ -156,7 +156,7 @@ Spieler dürfen bei der Erschaffung ihres Helden eine neue Sprache anlegen. Der 
 
 ## Dialekte
 
-Dialekte brauchen keine eigene Regel. Der Meister kann einen Dialektunterschied nach eigenem Ermessen mit einer Erschwernis abbilden.
+Dialekte brauchen keine eigene Regel. Der Meister kann einen Dialektunterschied nach eigenem Ermessen mit einer Erschwerung abbilden.
 
 ## Geschriebene Spieldokumente
 

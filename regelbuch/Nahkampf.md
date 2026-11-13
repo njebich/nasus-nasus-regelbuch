@@ -119,7 +119,7 @@ Zwei Dinge senken die Werte, und sie wirken verschieden:
 - Die Körperliche Behinderung ([[Glossar#KBE|KBE]]) zieht von allen drei Werten direkt ab.
 - Eine Erschwerung zieht nur vom Normalwert ab. Der Wert für den guten und der für den meisterlichen Erfolg werden nicht neu berechnet, sondern nur nach oben begrenzt, und zwar gegen den gesenkten Normalwert.
 
-Beide sind erklärt in [[Behinderung-und-Erschwernis]]. Bei der Attacke zählt von den beiden Behinderungen nur die KBE. Die Mentale Behinderung ([[Glossar#MBE|MBE]]) wird bei Attacke-Proben nicht abgezogen. Bei Parade und Ausweichen zählt ebenfalls nur die KBE.
+Beide sind erklärt in [[Behinderung-und-Erschwerung]]. Bei der Attacke zählt von den beiden Behinderungen nur die KBE. Die Mentale Behinderung ([[Glossar#MBE|MBE]]) wird bei Attacke-Proben nicht abgezogen. Bei Parade und Ausweichen zählt ebenfalls nur die KBE.
 
 Bestätigte Erschwerungen im Nahkampf gibt es zwei: die freiwillige Erschwerung der Attacke und die Erschwerung durch Blindheit. Ist der Held blind, beträgt sie 18; dazu kommt der Malus aus den Komplementärsinnen ([[Aussehen-Schlaf-Sinne-und-Koerper]]). Eine Liste regulärer Erschwerungen wie im Fernkampf gibt es im Nahkampf nicht.
 

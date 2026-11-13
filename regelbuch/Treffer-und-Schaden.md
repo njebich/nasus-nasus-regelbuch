@@ -70,7 +70,7 @@ Die Trefferpunkte (TP, [[Glossar#TP|TP]]) sind der Schaden nach der Rüstung, di
 
 ### Behinderung bei Lebensenergie 0
 
-Fällt die Lebensenergie einer Zonengruppe auf 0, entsteht eine Behinderung in Höhe des Werts der letzten Spalte. Geschieht das durch einen einzigen Treffer, der die volle Lebensenergie der Gruppe auf 0 bringt, verdoppelt sich der Wert. Alle Zeilen einer Gruppe haben denselben Wert. Der Wert wirkt als Körperliche (KBE) und als Mentale Behinderung (MBE) ([[Behinderung-und-Erschwernis]]).
+Fällt die Lebensenergie einer Zonengruppe auf 0, entsteht eine Behinderung in Höhe des Werts der letzten Spalte. Geschieht das durch einen einzigen Treffer, der die volle Lebensenergie der Gruppe auf 0 bringt, verdoppelt sich der Wert. Alle Zeilen einer Gruppe haben denselben Wert. Der Wert wirkt als Körperliche (KBE) und als Mentale Behinderung (MBE) ([[Behinderung-und-Erschwerung]]).
 
 ### Streiftreffer
 
@@ -323,7 +323,7 @@ Im Zähler stehen fünf Werte, der Teiler ist 7. Die Division wird sofort aufger
 Zusätzlich erschwert:
 
 - **Kopf.** Trifft der auslösende Treffer die Zone Kopf, ist die Probe zusätzlich um TP × 2 erschwert. Für Kreaturen mit mehreren Köpfen gilt das für die Kopf-Zeile jedes Kopfes ([[Kreaturen-im-Kampf]]).
-- **Behinderung der Gruppe.** Ist in derselben Zonengruppe die Lebensenergie auf 0 gefallen und hat dabei eine Behinderung erzeugt, zählt für diese eine Probe nur der höhere der beiden Werte von Körperlicher und Mentaler Behinderung (KBE, MBE), nicht ihre Summe. Jede andere Behinderung des Helden zählt wie bei jeder Probe zusätzlich ([[Behinderung-und-Erschwernis]]).
+- **Behinderung der Gruppe.** Ist in derselben Zonengruppe die Lebensenergie auf 0 gefallen und hat dabei eine Behinderung erzeugt, zählt für diese eine Probe nur der höhere der beiden Werte von Körperlicher und Mentaler Behinderung (KBE, MBE), nicht ihre Summe. Jede andere Behinderung des Helden zählt wie bei jeder Probe zusätzlich ([[Behinderung-und-Erschwerung]]).
 
 Gewürfelt wird W30 − W12. Die Probendifferenz ist der Probenwert minus der Wurf.
 
@@ -344,7 +344,7 @@ Die Kampfklasse umfasst Attacke-, Parade-, Ausweich- und Fernkampf-Klasse. Alle 
 
 Die Zustände folgen einander in dieser Reihe: Bewusstlos, Kampfunfähig, Sturz, Straucheln, Benommenheit, erholt. Kampfunfähig und Bewusstlos enden nicht in voller Genesung, sondern in der nächstmilderen Stufe. Wie die Zustände im Einzelnen wirken, steht in [[Zustaende-Katalog]].
 
-**Die Behinderung.** Der Wert der Tabelle wird in voller Höhe sowohl zur Körperlichen als auch zur Mentalen Behinderung addiert. Er stapelt mit jeder anderen Behinderung und wirkt ab seinem Entstehen auf jede folgende Probe jeder Art ([[Behinderung-und-Erschwernis]]). Er fließt nicht in die Behinderung der Gruppe zurück, die oben für die Probe gilt. Die Behinderung gehört zur Tabellenzeile und nicht zum Zustand: Straucheln und Sturz aus einer anderen Quelle, etwa dem Umwerfen ([[Nahkampf-im-Kampf]]) oder einem Sturz durch den Meister, geben keine Behinderung. Bewusstlos ist die Ausnahme: Der Zustand trägt die Behinderung 7 aus jeder Quelle, beim Band 17 und höher einmal und nicht zusätzlich zur Tabellenzeile ([[Zustaende-Katalog]]).
+**Die Behinderung.** Der Wert der Tabelle wird in voller Höhe sowohl zur Körperlichen als auch zur Mentalen Behinderung addiert. Er stapelt mit jeder anderen Behinderung und wirkt ab seinem Entstehen auf jede folgende Probe jeder Art ([[Behinderung-und-Erschwerung]]). Er fließt nicht in die Behinderung der Gruppe zurück, die oben für die Probe gilt. Die Behinderung gehört zur Tabellenzeile und nicht zum Zustand: Straucheln und Sturz aus einer anderen Quelle, etwa dem Umwerfen ([[Nahkampf-im-Kampf]]) oder einem Sturz durch den Meister, geben keine Behinderung. Bewusstlos ist die Ausnahme: Der Zustand trägt die Behinderung 7 aus jeder Quelle, beim Band 17 und höher einmal und nicht zusätzlich zur Tabellenzeile ([[Zustaende-Katalog]]).
 
 **Die Reihenfolge.** Die Probe wird gleich nach dem Treffer gewürfelt: Treffer, Zonenwurf, Prüfung, ob die Lebensenergie der Gruppe auf 0 fällt, Behinderung der Gruppe eintragen, Selbstbeherrschungsprobe, bei negativer Differenz die Tabelle. Die Trefferschwelle, die Eigenschaften und die Sonderfertigkeit zählen so, wie sie zum Zeitpunkt der Probe sind.
 
@@ -359,7 +359,7 @@ Der Zustand folgt auf einen Waffenverlust. Quellen sind die Zeile 12 der Selbstb
 - **Suchen.** Suchen ist eine Ansage. In jeder Kampfrunde entscheidet der Held, ob er sucht. In dieser Kampfrunde gilt Kampfklasse −1. Das Suchen kostet keine AK und gibt keine Behinderung.
 - **Suchzeit.** Sie zählt nur in Kampfrunden, in denen der Held sucht. Nach s Such-Kampfrunden ist der Gegenstand gefunden.
 - **Sinnesschärfe-Probe.** In einer Such-Kampfrunde darf der Held eine Sinnesschärfe-Probe würfeln, erschwert um 10 × (s − bisherige Such-Kampfrunden einschließlich der aktuellen). Gelingt sie, ist der Gegenstand in derselben Kampfrunde gefunden. In der letzten, der s-ten Such-Kampfrunde, ist er ohnehin gefunden, die Probe entfällt.
-- **Erschwernis nach s.** Bei s = 1 ist der Gegenstand in der ersten Such-Kampfrunde automatisch gefunden. Bei s = 2 ist die Probe in der ersten Such-Kampfrunde um 10 erschwert, in der zweiten ist er automatisch gefunden. Bei s = 3 sind es 20 und 10, danach automatisch. Bei s = 4 sind es 30, 20 und 10, danach automatisch.
+- **Erschwerung nach s.** Bei s = 1 ist der Gegenstand in der ersten Such-Kampfrunde automatisch gefunden. Bei s = 2 ist die Probe in der ersten Such-Kampfrunde um 10 erschwert, in der zweiten ist er automatisch gefunden. Bei s = 3 sind es 20 und 10, danach automatisch. Bei s = 4 sind es 30, 20 und 10, danach automatisch.
 - **Gefunden.** Der Meister nennt den Landeort. Der Held geht mit einer normalen Bewegung dorthin und nimmt den Gegenstand mit „Gegenstand: Aufnehmen“ auf (2 Aktionskosten, [[Kampfrunde-Aktionen-Initiative-und-Sicht]]). Kampfklasse −1 gilt dafür nicht.
 - **Abbruch.** Der Held kann das Suchen in jeder Kampfrunde lassen. Der Gegenstand bleibt dann liegen, und der Held kämpft unbewaffnet oder zieht eine Zweitwaffe.
 - **Mehrere Gegenstände.** Jeder verlorene Gegenstand hat sein eigenes s. Die Gegenstände werden nacheinander gesucht, nie gleichzeitig.
@@ -405,7 +405,7 @@ Im Blutrausch muss der Held keine Selbstbeherrschungsproben mehr würfeln, er ha
 ### Was er bewirkt
 
 - **Keine Selbstbeherrschungsproben.** Solange der Blutrausch anhält, muss der Held keine weiteren Selbstbeherrschungsproben ablegen, auch keine erzwungenen, gleich ob er über der Trefferschwelle getroffen wird, Gliedmaßen verliert oder aus einem anderen Grund eine Probe fällig würde. Die einzige Ausnahme steht unter „Gesundheit unter 0“.
-- **Halbierte Behinderung.** Die Behinderung, die aus Gliedmaßen mit Lebensenergie 0 und aus abgetrennten Gliedmaßen entsteht, wird für die Dauer des Blutrauschs halbiert und dabei abgerundet. Das ist eine der wenigen Ausnahmen von der allgemeinen Rundungsregel ([[Wuerfeln-und-Proben|Würfeln und Proben]]). Die Halbierung wirkt auf den Gesamtwert der Behinderung dieser Gliedmaßen, nicht auf einzelne Quellen vor der Summierung, und wird bei jeder Berechnung neu angewendet, solange der Blutrausch anhält. Eine Behinderung von 4 aus einer Beinzone mit Lebensenergie 0 wird zu 2, eine von 5 wird zu 2. Aus einer Behinderung von 1 wird 0. Jede andere Behinderung bleibt unverändert, zum Beispiel die Behinderung bei Ausdauer 0, die Frost-Behinderung und die Behinderung aus der Selbstbeherrschungstabelle ([[Behinderung-und-Erschwernis]]).
+- **Halbierte Behinderung.** Die Behinderung, die aus Gliedmaßen mit Lebensenergie 0 und aus abgetrennten Gliedmaßen entsteht, wird für die Dauer des Blutrauschs halbiert und dabei abgerundet. Das ist eine der wenigen Ausnahmen von der allgemeinen Rundungsregel ([[Wuerfeln-und-Proben|Würfeln und Proben]]). Die Halbierung wirkt auf den Gesamtwert der Behinderung dieser Gliedmaßen, nicht auf einzelne Quellen vor der Summierung, und wird bei jeder Berechnung neu angewendet, solange der Blutrausch anhält. Eine Behinderung von 4 aus einer Beinzone mit Lebensenergie 0 wird zu 2, eine von 5 wird zu 2. Aus einer Behinderung von 1 wird 0. Jede andere Behinderung bleibt unverändert, zum Beispiel die Behinderung bei Ausdauer 0, die Frost-Behinderung und die Behinderung aus der Selbstbeherrschungstabelle ([[Behinderung-und-Erschwerung]]).
 - **Unbegrenzte Ausdauer.** Kampfaktionen kosten keine Ausdauer, auf beiden Wegen und für die ganze Dauer des Blutrauschs ([[Ausdauer]]). Das Budget von 3 AK pro Kampfrunde bleibt.
 - **Andere Verletzungen bleiben möglich.** Der Blutrausch verhindert weder Blindheit noch den Verlust einer Gliedmaße. Nur die Behinderung aus der Halbierung ist verringert, nicht die Verletzung selbst.
 

@@ -96,7 +96,7 @@ Jedes Reichweitenband hat seinen eigenen Normalwert und damit seine eigenen Schw
 
 ### Der Deckel bei Erschwerung
 
-Die Schwellen werden nicht neu berechnet, wenn der Schütze eine Erschwerung ansagt. Sie bleiben, wie sie aus dem Normalwert folgen, und werden nur nach oben begrenzt. Der endgültige Erfolgswert (E) ist der Normalwert nach Abzug der Erschwerungen und der Körperlichen Behinderung ([[Behinderung-und-Erschwernis|Behinderung und Erschwernis]]). Dann gilt:
+Die Schwellen werden nicht neu berechnet, wenn der Schütze eine Erschwerung ansagt. Sie bleiben, wie sie aus dem Normalwert folgen, und werden nur nach oben begrenzt. Der endgültige Erfolgswert (E) ist der Normalwert nach Abzug der Erschwerungen und der Körperlichen Behinderung ([[Behinderung-und-Erschwerung|Behinderung und Erschwerung]]). Dann gilt:
 
 ```text
 gut final         = kleinerer Wert aus gut und (E ÷ 2)

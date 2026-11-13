@@ -20,7 +20,7 @@ Der Meister löst eine WHK-Probe bewusst aus. Er wählt Eigenschaft, Hauptfertig
 - Der Wert der gewählten Hauptfertigkeit.
 - Eine passende Spezialisierung, falls der Held eine hat. Sie zählt nur, wenn sie zur gewählten Hauptfertigkeit gehört. Ihr Wert kann höchstens so hoch sein wie der aktuelle Wert der Hauptfertigkeit.
 - Beim Herstellen und Reparieren zusätzlich das Werkzeug.
-- Die [[Behinderung-und-Erschwernis|Behinderung]] (BE), die vom Probenwert abgezogen wird.
+- Die [[Behinderung-und-Erschwerung|Behinderung]] (BE), die vom Probenwert abgezogen wird.
 
 Welche Behinderung zählt, hängt von der Eigenschaft ab, die der Meister für diese Probe gewählt hat. Bei einer geistigen Eigenschaft zieht die mentale Behinderung (MBE) ab, bei einer körperlichen die körperliche Behinderung (KBE). Geistig sind Intelligenz, Mut, Sinnesschärfe, Willenskraft und Ausstrahlung. Körperlich sind Athletik, Geschicklichkeit, Konstitution, Schnelligkeit und Stärke.
 

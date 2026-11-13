@@ -1,10 +1,10 @@
 ---
-title: Behinderung und Erschwernis
-aliases: [Behinderung und Erschwernis, Behinderung, BE, KBE, MBE, Körperliche Behinderung, Mentale Behinderung, Gewichtsbehinderung, GBE, Frost-Behinderung, Aktionsbehinderung, ABE, Sonstige Behinderung, SBE, Trefferzonen-BE, KK, KK-1, KK-2, Herabstufung, Erfolgsleiter]
+title: Behinderung und Erschwerung
+aliases: [Behinderung und Erschwerung, Behinderung, BE, KBE, MBE, Körperliche Behinderung, Mentale Behinderung, Gewichtsbehinderung, GBE, Frost-Behinderung, Aktionsbehinderung, ABE, Sonstige Behinderung, SBE, Trefferzonen-BE, KK, KK-1, KK-2, Herabstufung, Erfolgsleiter]
 status: entwurf
 ---
 
-# Behinderung und Erschwernis
+# Behinderung und Erschwerung
 
 Ein verletzter, erschöpfter oder durchgefrorener Held würfelt schlechter. Die Behinderung ([[Glossar#BE|BE]]) senkt den Probenwert, bevor gewürfelt wird. Ein Held, der benommen ist, strauchelt oder stürzt, behält seinen Probenwert, aber sein Wurf zählt eine oder zwei Erfolgsstufen weniger.
 

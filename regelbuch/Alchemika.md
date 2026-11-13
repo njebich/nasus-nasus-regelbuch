@@ -81,7 +81,7 @@ wirksame Potenz = Potenz × Dosis-Faktor
 
 Die wirksame Potenz wird gleich nach der Multiplikation gerundet ([[Wuerfeln-und-Proben|Würfeln und Proben]]).
 
-Körperliche und Mentale [[Behinderung-und-Erschwernis|Behinderung]] werden bei dieser Probe nicht abgezogen.
+Körperliche und Mentale [[Behinderung-und-Erschwerung|Behinderung]] werden bei dieser Probe nicht abgezogen.
 
 Der Probenwert hat keine Untergrenze und keine Obergrenze. Er kann 0 oder negativ sein. Dann gelingt die Probe nur noch mit einer gewürfelten 1.
 
@@ -147,7 +147,7 @@ Die Wirkung eines Alchemikums verändert bestimmte Werte des Ziels, zum Beispiel
 
 Während der Zeit bis Wirkung wirkt ein Alchemikum mit halber Wirkung:
 
-- **Die Wirkung hat einen Zahlenwert** (eine Erschwernis, eine Behinderung, einen Zuschlag auf die Trefferschwelle, Schaden, Heilung, einen Bonus auf einen Wert): Dieser Wert wird halbiert.
+- **Die Wirkung hat einen Zahlenwert** (eine Erschwerung, eine Behinderung, einen Zuschlag auf die Trefferschwelle, Schaden, Heilung, einen Bonus auf einen Wert): Dieser Wert wird halbiert.
 - **Die Wirkung hat keinen Zahlenwert** (zum Beispiel „artikuliertes Sprechen unmöglich“ oder „fällt in Schlaf“): Der Meister legt eine abgeschwächte Variante fest. Wer stumm werden wird, kann zum Beispiel zeitweise nicht sprechen.
 
 In beiden Fällen tritt die volle Wirkung am Ende der Zeit bis Wirkung ein.
@@ -160,7 +160,7 @@ Steht in der Wirkung oder in der Dauer ein Würfel, wird er einmal gewürfelt, w
 
 ### Blendgift
 
-Ein Blendgift macht das Opfer für die Wirkungsdauer blind. Blind heißt: eine Erschwernis von 18 + K-Mod auf Nahkampf, Fernkampf und Zauber, außer bei Zaubern mit dem Ziel „Selbst“ oder „Berührung“. Der [[Glossar#K-Mod|K-Mod]] ist der Malus aus den Komplementärsinnen des Opfers ([[Aussehen-Schlaf-Sinne-und-Koerper|Aussehen, Schlaf, Sinne und Körper]]). Fernangriffe sind nur als Deutschüsse mit dem Wert 18 + K-Mod möglich ([[Fernkampf-im-Kampf|Fernkampf im Kampf]]). „Blinder Kampf“ verringert die Erschwernis, aber nur gegen Ziele bis 10 m. Diese Erschwernis ist keine Behinderung.
+Ein Blendgift macht das Opfer für die Wirkungsdauer blind. Blind heißt: eine Erschwerung von 18 + K-Mod auf Nahkampf, Fernkampf und Zauber, außer bei Zaubern mit dem Ziel „Selbst“ oder „Berührung“. Der [[Glossar#K-Mod|K-Mod]] ist der Malus aus den Komplementärsinnen des Opfers ([[Aussehen-Schlaf-Sinne-und-Koerper|Aussehen, Schlaf, Sinne und Körper]]). Fernangriffe sind nur als Deutschüsse mit dem Wert 18 + K-Mod möglich ([[Fernkampf-im-Kampf|Fernkampf im Kampf]]). „Blinder Kampf“ verringert die Erschwerung, aber nur gegen Ziele bis 10 m. Diese Erschwerung ist keine Behinderung.
 
 Das Blendgift wirkt nur auf den Zielsinn. Während der Zeit bis Wirkung wird deshalb nur die 18 halbiert, der K-Mod kommt unverändert dazu: Es gilt 9 + K-Mod, danach 18 + K-Mod.
 
@@ -260,7 +260,7 @@ Ein Held hat Konstitution 12, Vitalität 5 und die Sonderfertigkeit Alchemieresi
 
 - **Leichtes Managift** (magisch, Potenz 5, Zufuhr Blut, Zeit bis Symptom und Zeit bis Wirkung „Sofort“, Wirkungsdauer permanent, Wirkung: Mana −4W6). Ein Treffer über der Trefferschwelle bringt das Gift ins Blut. Der Getroffene würfelt sofort. Misslingt die Probe, verliert er sofort und permanent 4W6 Mana. Hat er vorher einen Alchemieresistenz-Trank getrunken, verliert er die Hälfte: Bei einer gewürfelten 15 sind das 7,5, also 8.
 - **Leichtes Behinderungsgift** (profan, Potenz 5, Zufuhr Körper, Zeit bis Symptom 1 Kampfrunde, Zeit bis Wirkung 2 Kampfrunden, Wirkungsdauer 1 Stunde, Wirkung: Behinderung W4). Ein Treffer mit mindestens 1 TP bringt das Gift in den Körper. Eine Kampfrunde später würfelt der Getroffene. Misslingt die Probe, würfelt er den W4, zum Beispiel eine 3. Zwei Kampfrunden lang hat er die halbe Behinderung, also 2. Danach hat er eine Stunde lang die volle Behinderung 3.
-- **Leichtes Blendgift** (profan, Potenz 5, Zufuhr Körper, Zeit bis Symptom 1 Kampfrunde, Zeit bis Wirkung 3 Kampfrunden, Wirkungsdauer 1 Stunde). Misslingt die Probe, hat das Opfer 3 Kampfrunden lang eine Erschwernis von 9 + K-Mod, danach eine Stunde lang 18 + K-Mod. Ein Opfer mit K-Mod 6 hat erst 15, dann 24.
+- **Leichtes Blendgift** (profan, Potenz 5, Zufuhr Körper, Zeit bis Symptom 1 Kampfrunde, Zeit bis Wirkung 3 Kampfrunden, Wirkungsdauer 1 Stunde). Misslingt die Probe, hat das Opfer 3 Kampfrunden lang eine Erschwerung von 9 + K-Mod, danach eine Stunde lang 18 + K-Mod. Ein Opfer mit K-Mod 6 hat erst 15, dann 24.
 - **Zwei Behinderungsgifte.** Ein Held steht zugleich unter Leichtem Behinderungsgift (Behinderung W4) und Behinderungsgift (Behinderung W6). Für jedes Gift hat er eine eigene Probe gewürfelt. Der W4 zeigt 4, der W6 zeigt 2. Es gilt die Behinderung 4.
 - **Waffengift auf der Klinge** (profan, Zufuhr Kontakt, Wirkungsdauer permanent). Die Beschichtung hält bis zum Ende des nächsten Kampfes, in dem der Held die Klinge führt. Trifft die Klinge ein Ziel mit mehr als 0 TP und misslingt dessen Probe, erleidet die getroffene Zone W10 TP durch das Gift.
 

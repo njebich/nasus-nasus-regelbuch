@@ -39,7 +39,7 @@ Gewürfelt wird W30 − W12 (siehe [[Wuerfeln-und-Proben]]). Der Probenwert ist:
 Probenwert = FW + Eigenschaftsbonus + 2 × Magie − MBE
 ```
 
-Der Eigenschaftsbonus ist der, der zur Fähigkeit gehört (siehe [[Eigenschaften]]). KI ist eine geistige Probe. Die mentale Behinderung (MBE) wird deshalb vom Probenwert abgezogen, nicht als Erschwerung nach dem Wurf (siehe [[Behinderung-und-Erschwernis]]).
+Der Eigenschaftsbonus ist der, der zur Fähigkeit gehört (siehe [[Eigenschaften]]). KI ist eine geistige Probe. Die mentale Behinderung (MBE) wird deshalb vom Probenwert abgezogen, nicht als Erschwerung nach dem Wurf (siehe [[Behinderung-und-Erschwerung]]).
 
 Die Probe gelingt nach dieser Bedingung:
 
