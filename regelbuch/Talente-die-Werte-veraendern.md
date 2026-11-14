@@ -56,7 +56,7 @@ Der Eigenschaftsbonus ist der Bonus der Eigenschaft, die zur Fähigkeit oder zum
 
 Ohne eines dieser Talente hat jede Probenart eine feste Schwelle für den guten Erfolg. Sie steht im Kapitel der Probenart. Stufe 1 ersetzt diese Schwelle durch einen einzelnen Attributswert. Stufe 2 ersetzt sie durch die Summe aus demselben Attributswert und einem zweiten Term, je nach Probenart Aura oder Eigenschaftsbonus.
 
-Das Ergebnis ist nach oben begrenzt. Die Schwelle des guten Erfolgs überschreitet nie die Hälfte des normalen Erfolgswerts der Probe, also des Werts, bis zu dem die Probe gelingt. Die Halbierung wird nach der allgemeinen Rundungsregel gerundet ([[Wuerfeln-und-Proben|Würfeln und Proben]]).
+Das Ergebnis ist nach oben begrenzt. Die Schwelle des guten Erfolgs überschreitet nie die Hälfte des normalen Erfolgswerts der Probe, also des Werts, bis zu dem die Probe gelingt, nach Abzug von Behinderung und Erschwerung. Die Halbierung wird nach der allgemeinen Rundungsregel gerundet ([[Wuerfeln-und-Proben|Würfeln und Proben]]).
 
 Jedes Paar ist eine Stufenkette mit zwei Stufen. Stufe 2 setzt Stufe 1 voraus. Stufe 2 ersetzt den Wert von Stufe 1, beide werden nicht addiert.
 
@@ -70,6 +70,7 @@ Das Talent verändert nur die Schwelle des guten Erfolgs.
 - Der Held besitzt Gute Wunderprobe Stufe 1 (nicht Stufe 2). Die Schwelle des guten Erfolgs der Wunder ist Karma, höchstens die Hälfte des normalen Erfolgswerts.
 - Der Held besitzt Gute Spruchmagie-Probe Stufe 1, seine Weisheit ist 6, und sein Zauberwert ist 20. Die Hälfte des Zauberwerts ist 10. Die Schwelle ist 6, denn 6 liegt unter 10.
 - Hätte derselbe Held Weisheit 14, gälte nicht 14, sondern 10. Das ist die Hälfte des Zauberwerts.
+- Die Mentale Behinderung senkt bei Spruchmagie, KI und Psi die Schwelle selbst direkt, nicht nur den Probenwert. Der Held hat Gute Spruchmagie-Probe Stufe 1, Weisheit 10, Zauberwert 20 und Mentale Behinderung 2. Der Zauberwert sinkt auf 18, die Schwelle auf 10 − 2 = 8. Die Hälfte von 18 ist 9. Die Schwelle ist 8, denn der Deckel ist nur eine Obergrenze und zieht nichts ab. Die Schwelle sinkt nie unter 1.
 
 ## Fernkampfgeschick
 

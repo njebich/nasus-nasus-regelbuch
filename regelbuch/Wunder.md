@@ -6,7 +6,7 @@ status: entwurf
 
 # Wunder
 
-Der Geweihte wirkt ein Wunder, indem er auf seinen Ausstrahlungsbonus plus Gebets-Talent minus den Malus des Wunders würfelt. Bezahlt wird aus dem Karmapool, dem Vorrat an Karma-Pool-Punkten ([[Glossar#KPP|KPP]]). Gelingt die Probe, kostet das Wunder den vollen KPP-Wert. Misslingt sie, kostet es die Hälfte. Patzt der Geweihte, entscheidet eine Pechsprobe über die Kosten.
+Der Geweihte wirkt ein Wunder, indem er auf seinen Ausstrahlungsbonus plus Gebets-Talent minus seine Mentale Behinderung und den Malus des Wunders würfelt. Bezahlt wird aus dem Karmapool, dem Vorrat an Karma-Pool-Punkten ([[Glossar#KPP|KPP]]). Gelingt die Probe, kostet das Wunder den vollen KPP-Wert. Misslingt sie, kostet es die Hälfte. Patzt der Geweihte, entscheidet eine Pechsprobe über die Kosten.
 
 Teilungen in diesem Kapitel werden sofort aufgerundet ([[Wuerfeln-und-Proben]]). Wie der Held Geweihter wird und seine Grade kauft, steht im Kapitel [[Religion]].
 
@@ -33,14 +33,16 @@ Diese drei Talente zählen zu den Wissens-, Handwerks- und Kulturfertigkeiten ([
 ## Die Wunder-Probe
 
 ```text
-Probe = Ausstrahlungsbonus + FW des Gebets-Talents − Malus
+Probe = Ausstrahlungsbonus + FW des Gebets-Talents − Mentale Behinderung − Malus
 ```
+
+Die Wunderprobe ist eine geistige Probe. Die Mentale Behinderung ([[Behinderung-und-Erschwerung]]) wird direkt abgezogen. Sie senkt auch die Schwelle des guten Erfolgs, wenn ein Talent sie anhebt.
 
 - **Ausstrahlungsbonus** ist der Eigenschaftsbonus der Ausstrahlung ([[Eigenschaften]]). Er ist für alle Wunder dieselbe Eigenschaft. Wunder haben keine eigene Eigenschaft.
 - **FW des Gebets-Talents** ist der Fertigkeitswert des Talents, das das Gebet des Wunders bestimmt.
 - **Malus** ist ein fester Erschwerungswert des einzelnen Wunders. Es gibt weder Stufen noch Grade.
 
-Die Formel enthält keine Division. Die Probe kann negativ werden, wenn der Malus den Ausstrahlungsbonus plus FW übersteigt. Dafür gilt die allgemeine Regel für verringerte Probenwerte ([[Wuerfeln-und-Proben]]).
+Die Formel enthält keine Division. Die Probe muss mindestens 1 sein, sonst ist das Wunder nicht versuchbar und kostet keinen KPP. Eine Probe von genau 1 genügt. Dann gilt die Verschiebung für sehr niedrige Probenwerte ([[Wuerfeln-und-Proben]]).
 
 ### Wurf und Erfolg
 
@@ -50,7 +52,7 @@ Bei einem Patzer (Wurf 0) gilt immer die eigene Patzer-Regel unten, so wie bei S
 
 ### Gute Wunderprobe
 
-Das Talent Gute Wunderprobe ([[Talente-die-Werte-veraendern]]) verändert nur die Schwelle des guten Erfolgs. Statt des Wurfs 1 gilt bei Stufe 1 des Talents das Karma und bei Stufe 2 das Karma plus die Aura. Die Schwelle ist auf die Hälfte der Probe begrenzt.
+Das Talent Gute Wunderprobe ([[Talente-die-Werte-veraendern]]) verändert nur die Schwelle des guten Erfolgs. Statt des Wurfs 1 gilt bei Stufe 1 des Talents das Karma und bei Stufe 2 das Karma plus die Aura. Die Mentale Behinderung senkt die Schwelle direkt, sie sinkt aber nie unter 1. Die Schwelle ist außerdem auf die Hälfte der Probe begrenzt.
 
 Die Probe selbst bleibt unverändert. Beide Werte werden nebeneinander geschrieben, in der Form Probe/gSchwelle, sobald die Schwelle größer als 1 ist. Sie werden weder addiert noch ersetzt.
 
@@ -107,7 +109,7 @@ Für Wunder gibt es keinen Schaden bei zu wenig Karmapool. Stattdessen gilt die 
 
 ## Beispiele
 
-**Probe.** Das Gebet ist Stoß, der FW des Stoßgebets ist 8, der Ausstrahlungsbonus 3 und der Malus 4. Die Probe ist 3 + 8 − 4 = 7.
+**Probe.** Das Gebet ist Stoß, der FW des Stoßgebets ist 8, der Ausstrahlungsbonus 3, die Mentale Behinderung 0 und der Malus 4. Die Probe ist 3 + 8 − 0 − 4 = 7.
 
 **Karmapool.** Der Held hat Geweihtengrad 4 (Etablierter) und Karma 6. Das KPP-Maximum ist 175 + 6 × 10 = 235.
 

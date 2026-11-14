@@ -45,9 +45,24 @@ Mehrere Quellen zugleich werden zusammengezählt. Nur die Frost-Behinderung zäh
 - **Attacke:** Die Mentale Behinderung gilt nicht für die Attacke-Probe, weder im [[Nahkampf]] noch im [[Fernkampf]]. In der Nahkampfattacke-Formel steht Mut, in der Fernkampfattacke-Probe steht Sinnesschärfe. Dieselbe geistige Eigenschaft wird so nicht doppelt bestraft.
 - **Selbstbeherrschungsprobe:** Stammen KBE und MBE beim selben Treffer einer Kampfrunde aus derselben Trefferzone, erschwert nur der höhere der beiden Werte die Probe, nicht ihre Summe.
 
+## Erschwerung und der Deckel
+
+Eine Erschwerung senkt nur den n-Wert, gleich woher sie kommt: freiwillige Erschwerung, Umgebung, Ansage des Meisters, Blindheit oder zu wenig Stärke. Der g-Wert und der m-Wert werden nicht neu berechnet. Sie werden nur nach oben begrenzt, und zwar gegen den gesenkten n-Wert:
+
+```text
+g final = kleinerer Wert aus g und (n final : 2)
+m final = kleinerer Wert aus m und (21 + (g final − 1) : 2)
+```
+
+Beide Divisionen werden gerundet ([[Wuerfeln-und-Proben|Würfeln und Proben]]). Der g-Wert sinkt also nur, wenn die Hälfte des gesenkten n-Werts unter ihn fällt, und der m-Wert folgt dem g-Wert. Dasselbe gilt für die Schwelle des guten Erfolgs bei Spruchmagie, KI, Psi und Wundern ([[Talente-die-Werte-veraendern|Talente, die Werte verändern]]): Sie überschreitet nie die Hälfte des Werts, bis zu dem die Probe nach Behinderung und Erschwerung gelingt.
+
+Die Behinderung dagegen zieht von jedem der drei Werte direkt ab. Bei Spruchmagie, KI, Psi und Wundern gilt das auch für die Schwelle des guten Erfolgs, wenn ein Talent sie anhebt: Die Mentale Behinderung senkt sie direkt, die Schwelle bleibt dabei mindestens 1. Proben, deren guter Erfolg bei Wurf 1 und deren meisterlicher Erfolg bei Wurf 21 festliegen und nicht gesteigert werden können, haben nichts zu deckeln. Dort senkt eine Erschwerung nur den Probenwert.
+
+Beispiel: n-Wert 20, g-Wert 10, m-Wert 26. Bei Erschwerung 2 ist n 18, die Hälfte 9, also g 9 und m 25. Bei Erschwerung 4 ist n 16, g 8 und m 25. Bei Behinderung 4 wären es dagegen n 16, g 6 und m 22.
+
 ## Welcher Wurf welche Erfolgsstufe ergibt
 
-Attacke, Parade, Ausweichen und Fernkampf werden mit W30 − W12 gewürfelt. Der Wurf liegt zwischen 0 und 29. Jede dieser Proben hat drei fertige Schwellen: den n-Wert, den g-Wert und den m-Wert. Behinderung und Sicht-Erschwerung sind darin schon abgezogen. Die Erfolgsstufen selbst erklärt das Kapitel [[Wuerfeln-und-Proben|Würfeln und Proben]].
+Attacke, Parade, Ausweichen und Fernkampf werden mit W30 − W12 gewürfelt. Der Wurf liegt zwischen 0 und 29. Jede dieser Proben hat drei fertige Schwellen: den n-Wert, den g-Wert und den m-Wert. Die Behinderung ist von allen drei Werten abgezogen. Eine Erschwerung ist nur vom n-Wert abgezogen, der g-Wert und der m-Wert sind gegen den gesenkten n-Wert gedeckelt (siehe unten). Die Erfolgsstufen selbst erklärt das Kapitel [[Wuerfeln-und-Proben|Würfeln und Proben]].
 
 Ein Wurf von 0 ist immer ein Patzer. Jeder Wurf außerhalb der folgenden Bereiche ist ein Fehlschlag.
 

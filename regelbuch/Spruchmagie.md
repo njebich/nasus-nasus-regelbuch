@@ -99,7 +99,7 @@ Die Zauberprobe wird am Ende der Vorbereitungszeit einmal gewürfelt, mit W30 �
 - Ergebnis über dem Zauberwert, ohne Pasch: Fehlschlag.
 - Wurf 0 (Pasch): Patzer. Siehe unten.
 
-Das Talent für den guten Erfolg der Spruchmagie ([[Talente-die-Werte-veraendern]]) verändert nur die Schwelle des guten Erfolgs. Statt des Wurfs 1 gilt bei Stufe 1 des Talents die Weisheit und bei Stufe 2 die Weisheit plus der Eigenschaftsbonus des Zaubers. Die Schwelle ist auf die Hälfte des Zauberwerts begrenzt. Die Schwellen für meisterlich und fröhlich verändert kein Talent.
+Das Talent für den guten Erfolg der Spruchmagie ([[Talente-die-Werte-veraendern]]) verändert nur die Schwelle des guten Erfolgs. Statt des Wurfs 1 gilt bei Stufe 1 des Talents die Weisheit und bei Stufe 2 die Weisheit plus der Eigenschaftsbonus des Zaubers. Die Mentale Behinderung senkt die Schwelle direkt, sie sinkt aber nie unter 1. Die Schwelle ist außerdem auf die Hälfte des Zauberwerts begrenzt. Die Schwellen für meisterlich und fröhlich verändert kein Talent.
 
 ## Bonuspunkte
 

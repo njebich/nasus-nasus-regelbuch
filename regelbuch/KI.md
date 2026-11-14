@@ -50,7 +50,7 @@ Wurf ≤ Wurfziel
 
 Ein Wurf, der genau so hoch ist wie das Wurfziel, gelingt. Beispiel: Wurfziel 14, Wurf 14: Die Probe gelingt.
 
-ME vorher ist die Mentale Erschöpfung des Helden vor diesem Wirken (siehe unten).
+ME vorher ist die Mentale Erschöpfung des Helden vor diesem Wirken (siehe unten). Der Abzug (ME vorher ÷ 2) ist eine Erschwerung. Das Wurfziel ist deshalb der fertige Normalwert der KI-Probe. Es muss mindestens 1 sein, sonst ist die KI-Fähigkeit nicht wirkbar und kostet nichts. Ein Wurfziel von genau 1 genügt. Dann gilt die Verschiebung für sehr niedrige Probenwerte ([[Wuerfeln-und-Proben]]).
 
 ### Ergebnis und Bonuspunkte
 
@@ -68,6 +68,14 @@ Der Held verteilt die Bonuspunkte frei auf drei Verwendungen. Die Summe darf die
 | 1 | × 2 | × 2 | (Erschwerung − Aura) ÷ 4 |
 | 2 | × 3 | × 3 | (Erschwerung − Aura) ÷ 6 |
 | 3 | × 4 | × 4 | (Erschwerung − Aura) ÷ 8 |
+
+### Das Talent Gute KI-Probe
+
+Das Talent Gute KI-Probe ([[Talente-die-Werte-veraendern]]) verändert nur die Schwelle des guten Erfolgs. Ohne das Talent ist ein Wurf von 1 ein guter Erfolg. Mit dem Talent gilt statt des Wurfs 1 bei Stufe 1 die Magie und bei Stufe 2 die Magie plus die Aura. Die Schwellen für meisterlich und fröhlich verändert kein Talent.
+
+Die Mentale Behinderung senkt diese Schwelle direkt, sie sinkt aber nie unter 1. Die Schwelle ist außerdem auf die Hälfte des Werts begrenzt, bis zu dem die Probe gelingt, also auf die Hälfte des Wurfziels. Die Halbierung wird nach der allgemeinen Rundungsregel gerundet ([[Wuerfeln-und-Proben]]). Der Deckel ist nur eine Obergrenze und zieht nichts ab ([[Behinderung-und-Erschwerung]]).
+
+Beispiel: Der Held hat Gute KI-Probe Stufe 2, Magie 3, Aura 4, Mentale Behinderung 2 und das Wurfziel 12. Die Schwelle ist 3 + 4 − 2 = 5. Die Hälfte des Wurfziels ist 6. Die Schwelle bleibt 5. Würfelt er 1 bis 5, ist es ein guter Erfolg.
 
 ## Die Erschwerung
 

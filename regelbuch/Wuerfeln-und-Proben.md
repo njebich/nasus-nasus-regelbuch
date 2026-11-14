@@ -49,6 +49,8 @@ Sinkt der Probenwert nach Abzug von Behinderung und Erschwerung auf 1 oder darun
 
 Beispiel: Probenwert 5, Erschwerung 15. Der Probenwert ist −10. Ein Wurf 1 misslingt, erst Wurf 21 ist ein Erfolg.
 
+Die Verschiebung gilt bei jeder Probe außer der Vergleichsprobe, die ihre eigene Tabelle hat (siehe unten). Bei Spruchmagie, KI, Psi und Wundern entfällt die Stufe „unter 1“: Liegt der fertige Wert unter 1, ist der Zauber, die KI-Fähigkeit, die Psi-Stufe oder das Wunder nicht versuchbar und kostet nichts. Ein Wert von genau 1 genügt und gibt die Leiter „Probenwert genau 1“.
+
 ## Zwei Arten, Proben zu vergleichen
 
 ### Der Klassenvergleich

@@ -87,7 +87,7 @@ Umwerfen-Probenwert = (Athletik + Stärke + Konstitution) / 2
 
 Athletik, Stärke und Konstitution sind [[Eigenschaften]]. Körperbeherrschung ist eine [[Grundfertigkeiten|Grundfertigkeit]]. Die Behinderung ist in [[Behinderung-und-Erschwerung]] erklärt.
 
-Der Verteidiger ist um 6 mal d erschwert. Die Erschwerung wird vor dem Würfelergebnis vom Probenwert des Verteidigers abgezogen. Der Angreifer erhält keinen Bonus. Ein guter, meisterlicher und fröhlicher Wurf vervielfacht den Probenwert mit 2, 3 und 4. Ein Wurf von 0 ergibt immer das Ergebnis 0. Die Rechenregeln der Vergleichsprobe stehen in [[Wuerfeln-und-Proben]].
+Der Verteidiger ist um 6 mal d erschwert. Der Angreifer erhält keinen Bonus. Ein guter, meisterlicher und fröhlicher Wurf vervielfacht den Probenwert mit 2, 3 und 4. Die Erschwerung wird danach vom fertigen Probenergebnis des Verteidigers abgezogen. Ein Wurf von 0 ergibt immer das Ergebnis 0. Die Rechenregeln der Vergleichsprobe stehen in [[Wuerfeln-und-Proben]].
 
 Maßgeblich ist der Abstand der beiden Ergebnisse: Ergebnis des Gewinners minus Ergebnis des Verlierers.
 

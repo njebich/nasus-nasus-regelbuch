@@ -29,7 +29,7 @@ Psi-Wert = Fertigkeit + Eigenschaftsbonus + Aura + Magie
 - **MBE** ist die Mentale Behinderung ([[Glossar#MBE|MBE]], [[Behinderung-und-Erschwerung]]). Psi ist eine geistige Probe. Es zählt nur die Mentale Behinderung, die Körperliche Behinderung nie.
 - **Stufen-Erschwerung** ist für jede Fähigkeit und jede Psi-Stufe ein eigener Wert.
 
-Der Psi-Wert enthält keine Division. Er kann negativ werden, wenn die Stufen-Erschwerung hoch und die Fertigkeit niedrig ist. Für verringerte Probenwerte gilt die allgemeine Regel ([[Wuerfeln-und-Proben]]).
+Der Psi-Wert enthält keine Division. Er muss nach allen Abzügen mindestens 1 sein, sonst ist die gewählte Stufe nicht wirkbar und kostet nichts. Ein Psi-Wert von genau 1 genügt. Dann gilt die Verschiebung für sehr niedrige Probenwerte ([[Wuerfeln-und-Proben]]).
 
 ## Wurf und Erfolgsstufen
 
@@ -42,7 +42,7 @@ Der Held würfelt W30 − W12. Ist das Ergebnis höchstens so hoch wie der Psi-W
 - Ergebnis über dem Psi-Wert, ohne Pasch: Fehlschlag. Die Manakosten bei Misslingen sind fällig.
 - Wurf 0 (Pasch): Patzer. Die Manakosten bei Misslingen sind fällig, dazu gilt die Patzer-Regel unten.
 
-Das Talent für den guten Erfolg der Psi ([[Talente-die-Werte-veraendern]]) verändert nur die Schwelle des guten Erfolgs. Statt des Wurfs 1 gilt bei Stufe 1 des Talents die Magie und bei Stufe 2 die Magie plus der Eigenschaftsbonus der Fähigkeit. Die Schwelle ist auf die Hälfte des Psi-Werts begrenzt. Die Schwellen für meisterlich und fröhlich verändert kein Talent.
+Das Talent für den guten Erfolg der Psi ([[Talente-die-Werte-veraendern]]) verändert nur die Schwelle des guten Erfolgs. Statt des Wurfs 1 gilt bei Stufe 1 des Talents die Magie und bei Stufe 2 die Magie plus der Eigenschaftsbonus der Fähigkeit. Die Mentale Behinderung senkt die Schwelle direkt, sie sinkt aber nie unter 1. Die Schwelle ist außerdem auf die Hälfte des Psi-Werts begrenzt. Die Schwellen für meisterlich und fröhlich verändert kein Talent.
 
 ## Manakosten beim Wirken
 
