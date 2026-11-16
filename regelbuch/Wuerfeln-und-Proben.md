@@ -57,7 +57,7 @@ Die Verschiebung gilt bei jeder Probe außer der Vergleichsprobe, die ihre eigen
 
 Vergleicht eine Regel die Erfolgsstufen zweier Proben, entscheidet der Platz auf der Leiter. „Besser“ heißt weiter oben, „schlechter“ weiter unten, „gleiche Klasse“ heißt derselbe Platz. Das gilt auch zwischen dem Ergebnis des Angreifers und dem des Verteidigers.
 
-So vergleichen das [[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter|Meisterscreen-Gitter]] und Fähigkeiten wie [[Kampf-Talente|Entwaffnen]].
+So vergleichen das [[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter|Meisterscreen-Gitter]] und Fähigkeiten wie [[Kampf-Talente|Entwaffnen]].
 
 ### Die Vergleichsprobe
 
@@ -196,7 +196,7 @@ Parade und Ausweichen ([[Glossar#AW|AW]]) haben keine Bonusauswahl. Ihre Erfolgs
 
 - Bei jeder guten, meisterlichen oder fröhlichen Probe, nach der auf die Trefferzone gewürfelt wird, gilt „Auf kritisch weiterwürfeln“ ([[Treffer-und-Schaden|Treffer und Schaden]]).
 - Bei gAT, mAT und fAT wird der Überschuss an Arm und Bein weitergeleitet ([[Treffer-und-Schaden|Treffer und Schaden]]).
-- Eine fAT gegen eine nPA ergibt „pariert, meisterlicher Treffer“ ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter|Meisterscreen-Gitter]]).
+- Eine fAT gegen eine nPA ergibt „pariert, meisterlicher Treffer“ ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter|Meisterscreen-Gitter]]).
 
 ### Beispiele
 

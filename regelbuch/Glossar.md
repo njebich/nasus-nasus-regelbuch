@@ -90,7 +90,7 @@ Die Abkürzungen des Regelbuchs, alphabetisch. Jeder Eintrag sagt in einem Satz,
 
 **Mut.** Eine geistige Eigenschaft. Siehe [[Eigenschaften]].
 
-**NK (Nahkampf).** Der Kampf mit Gegnern in angrenzenden Hexfeldern. Siehe Nahkampf-Gruppe.
+**NK (Nahkampf).** Der Kampf mit Gegnern in angrenzenden Hexfeldern. Siehe [[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter|NK-Ini-Bubble]].
 
 **NSC (Nichtspielercharakter).** Eine Figur, die der Meister führt. Siehe [[Attribute]].
 

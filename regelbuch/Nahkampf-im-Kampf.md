@@ -6,7 +6,7 @@ status: entwurf
 
 # Nahkampf im Kampf
 
-Im Nahkampf kann der Held einen Gegner umwerfen, seine Waffe kann bei einer Parade Schaden nehmen und zerbrechen, und er kann ansagen, dass ein Treffer nicht töten darf. Dieses Kapitel beschreibt diese drei Regeln. Wie Attacke, Parade und Ausweichen als Werte und Proben funktionieren, steht in [[Nahkampf]]. Wie die Ergebnisse beider Seiten zusammen einen Ausgang ergeben, steht in [[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]].
+Im Nahkampf kann der Held einen Gegner umwerfen, seine Waffe kann bei einer Parade Schaden nehmen und zerbrechen, und er kann ansagen, dass ein Treffer nicht töten darf. Dieses Kapitel beschreibt diese drei Regeln. Wie Attacke, Parade und Ausweichen als Werte und Proben funktionieren, steht in [[Nahkampf]]. Wie die Ergebnisse beider Seiten zusammen einen Ausgang ergeben, steht in [[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]].
 
 Teilungen und Malnahmen werden sofort gerundet, bevor der nächste Schritt folgt ([[Wuerfeln-und-Proben]]).
 
@@ -98,7 +98,7 @@ Maßgeblich ist der Abstand der beiden Ergebnisse: Ergebnis des Gewinners minus 
 | ab 21 | Sturz |
 
 - Verlierer kann der Angreifer oder der Verteidiger sein.
-- Der Gewinner liegt in der Rangfolge der Initiative vor dem Verlierer. Falls nötig, wechselt die Rangfolge ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]). Bei Abstand 0 ändert sich die Initiative nicht.
+- Der Gewinner liegt in der Rangfolge der Initiative vor dem Verlierer. Falls nötig, wechselt die Rangfolge ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]). Bei Abstand 0 ändert sich die Initiative nicht.
 - Straucheln und Sturz geben aus dem Umwerfen keine Körperliche und keine Mentale Behinderung. Die Behinderung, die eine Zeile der Selbstbeherrschungstabelle mitbringt, gehört zu dieser Zeile und nicht zum Zustand.
 - Jeder Eintritt von Sturz löst einen Sturzschaden-Wurf aus ([[Treffer-und-Schaden]]). Straucheln löst keinen aus.
 - Straucheln und Sturz enden und folgen einander wie in [[Zustaende-Katalog]] beschrieben.

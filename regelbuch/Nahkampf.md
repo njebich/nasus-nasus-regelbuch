@@ -6,7 +6,7 @@ status: entwurf
 
 # Nahkampf (NK)
 
-Im Nahkampf greift der Held mit einer Waffe an, wehrt mit ihr einen Angriff ab oder weicht ihm aus. Jede dieser drei Handlungen hat einen eigenen Wert und eine eigene Probe, und jede kostet [[Ausdauer]]. Dieses Kapitel beschreibt, woraus die Werte bestehen, wie der Held sie kauft, wie die Proben laufen und was sie an Ausdauer kosten. Wie ein Nahkampf Runde für Runde abläuft, steht in [[Nahkampf-im-Kampf]] und in [[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]].
+Im Nahkampf greift der Held mit einer Waffe an, wehrt mit ihr einen Angriff ab oder weicht ihm aus. Jede dieser drei Handlungen hat einen eigenen Wert und eine eigene Probe, und jede kostet [[Ausdauer]]. Dieses Kapitel beschreibt, woraus die Werte bestehen, wie der Held sie kauft, wie die Proben laufen und was sie an Ausdauer kosten. Wie ein Nahkampf Runde für Runde abläuft, steht in [[Nahkampf-im-Kampf]] und in [[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]].
 
 Teilungen und Malnahmen in den Formeln dieses Kapitels werden sofort aufgerundet, bevor der nächste Schritt folgt ([[Wuerfeln-und-Proben]]). Die Waffenklasse rundet auf halbe Punkte (siehe unten).
 
@@ -79,7 +79,7 @@ Beispiel: nAT 20 erlaubt gAT bis 10 und mAT bis 21 + (10 − 1) / 2 = 21 + 5 = 2
 
 Jeder Pool-Punkt hebt den gewählten Wert (normal, gut oder meisterlich, bei Attacke oder Parade) um genau 1, bis zur Obergrenze. Beispiel: Bei nAT, gAT und mAT von 20, 1 und 21 heben 9 Punkte auf gut und 5 Punkte auf meisterlich die Werte auf 20, 10 und 26.
 
-Diese Obergrenzen wirken beim Verteilen der Punkte, gegen den Normalwert ohne Behinderung und Erschwerung. Die drei Werte je Waffe sind die Klassen von Attacke und Parade, mit denen das Meisterscreen-Gitter arbeitet ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]).
+Diese Obergrenzen wirken beim Verteilen der Punkte, gegen den Normalwert ohne Behinderung und Erschwerung. Die drei Werte je Waffe sind die Klassen von Attacke und Parade, mit denen das Meisterscreen-Gitter arbeitet ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]).
 
 ### Verteilung auf Attacke und Parade
 
@@ -234,7 +234,7 @@ Beispiel: nAT ausgebaut 20, KBE 19 und 6 überzählige Pool-Punkte ergeben 20 �
 
 ### Verteidigung und Treffer
 
-Jede Seite würfelt ihre eigene Probe. Der Verteidiger wählt je Probe zwischen Parade, defensivem Ausweichen und offensivem Ausweichen. Wie die Ergebnisse beider Seiten zusammen einen Treffer ergeben, regelt das Meisterscreen-Gitter ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]).
+Jede Seite würfelt ihre eigene Probe. Der Verteidiger wählt je Probe zwischen Parade, defensivem Ausweichen und offensivem Ausweichen. Wie die Ergebnisse beider Seiten zusammen einen Treffer ergeben, regelt das Meisterscreen-Gitter ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]).
 
 ## Waffenklasse (WK)
 
@@ -327,7 +327,7 @@ Gerechnet wird immer mit der Katalog-WK (Basis plus Material) der Waffe oder des
 
 ### Extra-Aktionen und Aktionsketten
 
-Eine Extra-Aktion ([[Glossar#EA|EA]]), die das Meisterscreen-Gitter gewährt ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]), kostet nach derselben Formel wie ihre Art: eine Attacke wie eine Attacke, eine Parade oder ein Ausweichen wie eine Parade bzw. ein Ausweichen, mit der WK der dabei geführten Waffe. Der Held muss eine gewährte Extra-Aktion nicht ausführen. Verzichtet er, kostet sie nichts.
+Eine Extra-Aktion ([[Glossar#EA|EA]]), die das Meisterscreen-Gitter gewährt ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]), kostet nach derselben Formel wie ihre Art: eine Attacke wie eine Attacke, eine Parade oder ein Ausweichen wie eine Parade bzw. ein Ausweichen, mit der WK der dabei geführten Waffe. Der Held muss eine gewährte Extra-Aktion nicht ausführen. Verzichtet er, kostet sie nichts.
 
 Kosten mehrerer ausgeführter Handlungen werden immer addiert, auch wenn eine Handlung die Folge einer anderen ist. Löst das offensive Ausweichen eine bewaffnete Extra-Aktion aus, die tatsächlich ausgeführt wird, fallen die Kosten für beide an. Misslingt das defensive Ausweichen und der Held pariert stattdessen, fallen die Kosten für beides an. Nur eine abgelehnte Extra-Aktion bleibt kostenlos.
 

@@ -1,26 +1,26 @@
 ---
-title: Nahkampf-Gruppen und das Meisterscreen-Gitter
-aliases: [Nahkampf-Gruppen und das Meisterscreen-Gitter, Nahkampf-Gruppe, Nahkampf-Ini-Bubble, NK-Ini-Bubble, Bubble, Ini-Paar, Ini-Paare, Nahkampf-Ini-Differenz, Waffen-Modifikator, Ini-Letzter, Nahkampf-Austausch, Verzichten, Mut-Probe, Sammelplatz, Meisterscreen-Gitter, Nahkampf-Gitter, Gitter, Ini bestimmen, Ini-Wechsel, Angreifer behält Ini, Konter-EA, Rest-Parade, reaktive Parade, Flucht möglich, Fluchtversuch, Fliehen, Fliehen-Probe, Diagonal-Band-Modell, pariert Bruchtest, meisterlicher Treffer]
+title: NK-Ini-Bubbles und das Meisterscreen-Gitter
+aliases: [NK-Ini-Bubbles und das Meisterscreen-Gitter, NK-Ini-Bubbles, NK-Ini-Bubble, Nahkampf-Ini-Bubble, Bubble, Ini-Paar, Ini-Paare, Nahkampf-Ini-Differenz, Waffen-Modifikator, Ini-Letzter, Nahkampf-Austausch, Verzichten, Mut-Probe, Sammelplatz, Meisterscreen-Gitter, Nahkampf-Gitter, Gitter, Ini bestimmen, Ini-Wechsel, Angreifer behält Ini, Konter-EA, Rest-Parade, reaktive Parade, Flucht möglich, Fluchtversuch, Fliehen, Fliehen-Probe, Diagonal-Band-Modell, pariert Bruchtest, meisterlicher Treffer]
 status: entwurf
 ---
 
-# Nahkampf-Gruppen und das Meisterscreen-Gitter
+# NK-Ini-Bubbles und das Meisterscreen-Gitter
 
-Stehen mehrere Teilnehmer im Nahkampf, kämpfen sie nicht mehr nach der Rangfolge der Runde, sondern als Nahkampf-Gruppe. Die Gruppe nimmt in der Runde einen einzigen Platz ein und arbeitet ihre Angriffe Paar für Paar ab. Jeder Angriff und die Antwort des Angegriffenen ergeben zwei Erfolgsstufen, und der Meister liest daraus im Meisterscreen-Gitter den Ausgang ab.
+Stehen mehrere Teilnehmer im Nahkampf, kämpfen sie nicht mehr nach der Rangfolge der Runde, sondern als NK-Ini-Bubble. Die Gruppe nimmt in der Runde einen einzigen Platz ein und arbeitet ihre Angriffe Paar für Paar ab. Jeder Angriff und die Antwort des Angegriffenen ergeben zwei Erfolgsstufen, und der Meister liest daraus im Meisterscreen-Gitter den Ausgang ab.
 
-Dieses Kapitel beschreibt, wie eine Nahkampf-Gruppe entsteht und sich auflöst, in welcher Reihenfolge sie kämpft, wie ein einzelner Austausch von Angriff und Antwort läuft, wie ein Teilnehmer den Nahkampf verlassen kann und wie das Gitter zu lesen ist. Die Proben selbst stehen in [[Nahkampf]]. Umwerfen und Klingenbruch stehen in [[Nahkampf-im-Kampf]], die Kampfrunde und die globale Initiative in [[Kampfrunde-Aktionen-Initiative-und-Sicht]].
+Dieses Kapitel beschreibt, wie eine NK-Ini-Bubble entsteht und sich auflöst, in welcher Reihenfolge sie kämpft, wie ein einzelner Austausch von Angriff und Antwort läuft, wie ein Teilnehmer den Nahkampf verlassen kann und wie das Gitter zu lesen ist. Die Proben selbst stehen in [[Nahkampf]]. Umwerfen und Klingenbruch stehen in [[Nahkampf-im-Kampf]], die Kampfrunde und die globale Initiative in [[Kampfrunde-Aktionen-Initiative-und-Sicht]].
 
-## Wie eine Nahkampf-Gruppe entsteht
+## Wie eine NK-Ini-Bubble entsteht
 
-Geraten zwei Teilnehmer durch Bewegung in angrenzende Felder und gehen miteinander in den Nahkampf, bilden sie eine Nahkampf-Gruppe. Drei oder mehr Teilnehmer bilden eine gemeinsame Gruppe und nicht mehrere Paare.
+Geraten zwei Teilnehmer durch Bewegung in angrenzende Felder und gehen miteinander in den Nahkampf, bilden sie eine NK-Ini-Bubble. Drei oder mehr Teilnehmer bilden eine gemeinsame Gruppe und nicht mehrere Paare.
 
 Die Reichweite für Bildung und Auflösung ist fest: das angrenzende Feld des Hexrasters ([[Bewegung]]). Sie hängt nicht von der Reichweite der einzelnen Waffen ab. Wer an einer Feldecke steht (West oder Ost, siehe die Blickrichtung in [[Kampfrunde-Aktionen-Initiative-und-Sicht]]), muss zum Nahkampf erst in ein Nachbarfeld einrücken.
 
 ### Der Platz der Gruppe in der Runde
 
-Die Gruppe belegt in der Rangfolge der Runde genau einen Platz. Er hängt am Mitglied mit dem besten Runden-Ini-Wert (Sammelplatz). Geht dieses Mitglied und besteht die Gruppe weiter, rückt sie auf den Platz des besten verbliebenen Mitglieds. Bleiben nur Figuren derselben Seite übrig, löst sich die Gruppe ganz auf.
+Die Gruppe belegt in der Rangfolge der Runde genau einen Platz. Er hängt am Mitglied mit dem besten Runden-Ini-Wert (Sammelplatz). Geht dieses Mitglied und besteht die Gruppe weiter, wird sie in dieser Kampfrunde noch an diesem Platz zu Ende abgehandelt und hängt erst ab der nächsten Kampfrunde am Platz des besten verbliebenen Mitglieds. Bleiben nur Figuren derselben Seite übrig, löst sich die Gruppe ganz auf.
 
-Beispiel: Anna und Peter kämpfen gegen zwei Banditen. Anna hat die beste Initiative, Peter die schlechteste. Anna flieht. Die Gruppe bleibt bestehen und hängt nun am Platz des besten verbliebenen Mitglieds. Peter bleibt in der Gruppe und kämpft weiter. Flieht stattdessen einer der Gegner und bleiben nur noch Anna, Peter und ein Bandit übrig, besteht sie ebenso weiter. Blieben nur Anna und Peter, hätten sie keinen Gegner mehr, und die Gruppe löste sich auf. Erreicht die Gruppe in der Ausführungs-Phase diesen Platz, wird sie in sich vollständig aufgelöst, bevor die Reihenfolge der Runde fortfährt.
+Beispiel: Anna und Peter kämpfen gegen zwei Banditen. Anna hat die beste Initiative, Peter die schlechteste. Anna flieht. Die Gruppe bleibt bestehen und wird in dieser Kampfrunde an Annas Platz zu Ende abgehandelt. Ab der nächsten Kampfrunde hängt sie am Platz des besten verbliebenen Mitglieds, also an dem des Besten von Peter und den zwei Banditen. Peter bleibt in der Gruppe und kämpft weiter. Flieht stattdessen einer der Gegner und bleiben nur noch Anna, Peter und ein Bandit übrig, besteht sie ebenso weiter. Blieben nur Anna und Peter, hätten sie keinen Gegner mehr, und die Gruppe löste sich auf. Erreicht die Gruppe in der Ausführungs-Phase diesen Platz, wird sie in sich vollständig aufgelöst, bevor die Reihenfolge der Runde fortfährt.
 
 ## Die Rangfolge in der Gruppe
 
@@ -334,6 +334,7 @@ Eine Extra-Aktion ([[Glossar#EA|EA]]) ist eine Extra-Aktion, die der Stufenunter
 
 **Ausführung.**
 
+- Vor der Extra-Aktion darf der Ausführende zusätzlich eine Drehung um 60° ausführen (0 AK), auch wenn er in der Kampfrunde schon gedreht hat. Je Extra-Aktion ist höchstens eine solche Drehung erlaubt. So kann die Extra-Aktion einen zweiten Gegner auf einem anderen Feld treffen.
 - Für jede Extra-Aktion legt der Ausführende eine eigene Attackeprobe ab. Ist sie erfolgreich, kann sie nicht pariert werden.
 - Die Ausnahme ist die bewaffnete Extra-Aktion aus der Zelle fAT gegen nPA („pariert, meisterlicher Treffer“). Sie ist ein automatischer meisterlicher Erfolg ohne eigenen Wurf.
 - Das Talent Kampf mit zwei Waffen erlaubt ab Stufe 1, eine „unbewaffnete EA“ mit der Waffe in der linken Hand statt der bloßen Hand auszuführen ([[Kampf-Talente]]).

@@ -18,7 +18,7 @@ Eine Kampfrunde (KR) dauert zurzeit eine Sekunde ([[Zeit-und-Spielablauf|Zeit un
 
 Die Ansage ist öffentlich. Wer später ansagt, kennt also jede frühere Ansage samt Ziel. Weil die Ausführung in umgekehrter Reihenfolge läuft, entscheidet die Initiative darüber, wer in derselben Runde noch auf eine gegnerische Handlung reagieren kann.
 
-Geraten zwei oder mehr Wesen in angrenzende Felder, bilden sie eine Nahkampf-Gruppe. Die Gruppe belegt in der Reihenfolge der Runde einen einzigen Platz, und zwar den des Mitglieds mit der besten Initiative. Innerhalb der Gruppe gilt ein eigener Ablauf: Das Mitglied mit der besten Initiative sagt zuerst an und führt sofort aus. Sein Ziel antwortet unmittelbar danach, dann kommt das nächste noch nicht behandelte Mitglied mit seinem Ziel. Wie das im Einzelnen geht, steht in [[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]. Die Regeln für Ansage und Ausführung in diesem Kapitel gelten für die Runde außerhalb einer solchen Gruppe.
+Geraten zwei oder mehr Wesen in angrenzende Felder, bilden sie eine NK-Ini-Bubble. Die Gruppe belegt in der Reihenfolge der Runde einen einzigen Platz, und zwar den des Mitglieds mit der besten Initiative. Innerhalb der Gruppe gilt ein eigener Ablauf: Das Mitglied mit der besten Initiative sagt zuerst an und führt sofort aus. Sein Ziel antwortet unmittelbar danach, dann kommt das nächste noch nicht behandelte Mitglied mit seinem Ziel. Wie das im Einzelnen geht, steht in [[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]. Die Regeln für Ansage und Ausführung in diesem Kapitel gelten für die Runde außerhalb einer solchen Gruppe.
 
 ## Die Initiative
 
@@ -47,15 +47,15 @@ Haben zwei oder mehr Teilnehmer dieselbe Ini-Differenz, würfeln nur diese Teiln
 
 ### Der Nahkampf-Ini-Wert
 
-Innerhalb einer Nahkampf-Gruppe gilt statt des Runden-Ini-Werts der Nahkampf-Ini-Wert. Er ist der Runden-Ini-Wert plus der Waffen-Modifikator. Der Waffen-Modifikator ist der höchste Ini-Wert der Nahkampfwaffen, die der Held gerade führt ([[Nahkampfwaffen]]). Führt er mehrere Waffen, zählt nur der höchste Wert. Die Werte werden nicht addiert.
+Innerhalb einer NK-Ini-Bubble gilt statt des Runden-Ini-Werts der Nahkampf-Ini-Wert. Er ist der Runden-Ini-Wert plus der Waffen-Modifikator. Der Waffen-Modifikator ist der höchste Ini-Wert der Nahkampfwaffen, die der Held gerade führt ([[Nahkampfwaffen]]). Führt er mehrere Waffen, zählt nur der höchste Wert. Die Werte werden nicht addiert.
 
 ### Wann und wie oft gewürfelt wird
 
 - Ein Wesen bestimmt seine Initiative erst, wenn es weiß, dass ein möglicher Gegner da ist.
 - Die Rangfolge wird einmal zu Kampfbeginn bestimmt. Sie wird nicht jede Runde neu geworfen.
 - Kommt in einer späteren Runde ein neuer Gegner hinzu, würfelt nur er seine Initiative und reiht sich in die bestehende Rangfolge ein. Die übrige Rangfolge bleibt.
-- Das Meisterscreen-Gitter ändert die Rangfolge der Runde nicht. Seine Ausgänge „Ini bestimmen“ und „Ini-Wechsel“ wirken nur innerhalb einer Nahkampf-Gruppe, und zwar auf deren Rangfolge im Nahkampf. Die Neubestimmung dort folgt dem eigenen Takt der Gruppe ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]).
-- Treten mehrere Wesen innerhalb einer Runde gleichzeitig in eine Nahkampf-Gruppe ein, ist das ein Sonderfall der Gruppe.
+- Das Meisterscreen-Gitter ändert die Rangfolge der Runde nicht. Seine Ausgänge „Ini bestimmen“ und „Ini-Wechsel“ wirken nur innerhalb einer NK-Ini-Bubble, und zwar auf deren Rangfolge im Nahkampf. Die Neubestimmung dort folgt dem eigenen Takt der Gruppe ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]).
+- Treten mehrere Wesen innerhalb einer Runde gleichzeitig in eine NK-Ini-Bubble ein, ist das ein Sonderfall der Gruppe.
 
 ## Aktionskosten
 
@@ -63,7 +63,7 @@ Innerhalb einer Nahkampf-Gruppe gilt statt des Runden-Ini-Werts der Nahkampf-Ini
 
 Jede Aktion hat einen Preis in Aktionskosten ([[Glossar#AK|AK]]). Pro Runde kannst du Aktionen mit Gesamtkosten von höchstens 3 AK ausführen.
 
-- Jede Aktion kann nur einmal je Kampfrunde ausgeführt werden. Einzige Ausnahme ist der Tausch einer angesagten Drehung gegen eine andere Drehung (siehe „Drehung“ im Abschnitt zur Sicht). Die Extra-Aktion ist keine reguläre Aktion.
+- Jede Aktion kann nur einmal je Kampfrunde ausgeführt werden. Ausnahmen sind der Tausch einer angesagten Drehung gegen eine andere Drehung (siehe „Drehung“ im Abschnitt zur Sicht) und die Drehung um 60° vor einer Extra-Aktion (siehe „Extra-Aktionen“). Die Extra-Aktion ist keine reguläre Aktion.
 - Nicht genutzte AK verfallen am Ende der Kampfrunde. Sie werden nicht übertragen.
 - Kommunikation („Rufen“) kostet keine Aktionskosten. Sie ist auf den Inhalt begrenzt, der in einer Kampfrunde, also einer Sekunde, übermittelt werden kann. Während der Vorbereitungszeit eines Zaubers ([[Magie-Wirkungsdauer-und-Konzentration|Magie: Wirkungsdauer und Konzentration]]) ist sie nicht möglich.
 - Pro Kampfrunde ist höchstens eine Aktion der Kategorie „Laufen“ erlaubt. Dazu gehören Gehen, Laufen, Sprint, Sprung und Fliehen. Das gilt auch dann, wenn eine erfolgreiche Kampf-Laufen-Probe die Aktionskosten auf 0 senkt.
@@ -127,13 +127,13 @@ Keine Aktionskosten haben Warten, Rufen, Orientierung und Warnen (Gegner identif
 
 **Warnen (Gegner identifizieren)** (0 AK). Der Held warnt die Verbündeten vor Angreifern im toten Winkel, die er wahrgenommen hat. Die Wortwahl bestimmt, wer gewarnt wird: „Hinter dir!“ warnt den Angesprochenen vor allen Gegnern hinter ihm, „Hinter euch!“ warnt alle Verbündeten in Hörweite vor allen Gegnern hinter ihnen. Für die Gewarnten sind diese Angreifer dann bekannt: Ihr Zustand wechselt auf „verfolgt“, sie können keinen Überraschungsangriff mehr ausführen. Gegner, die der Rufende nicht wahrgenommen hat, bleiben unbekannt. Ob die Wortwahl genügt, entscheidet der Meister. Die Hörweite ist nicht beziffert und gilt pauschal wie bei jedem Zielsinn; im Moment entscheidet der Meister.
 
-Nahkampf-Attacke, Parade und offensives Ausweichen sind jeweils die letzte Aktion der Kampfrunde. Danach tut der Teilnehmer in dieser Runde nichts mehr, auch nichts für 0 AK. Das defensive Ausweichen, die Fernkampf-Attacke und jede Art von Magie beenden die Runde nicht. Nach einer Fernkampf-Attacke bleiben alle Aktionen für 0 AK möglich, auch Laufen. Aktionen für 0 AK vor der Nahkampf-Attacke bleiben möglich, etwa eine Drehung, eine Bewegung mit gelungener Kampf-Laufen-Probe oder ein Zauber für 0 AK. Die Extra-Aktion aus dem Gitter bleibt unberührt.
+Nahkampf-Attacke, Parade und offensives Ausweichen sind jeweils die letzte Aktion der Kampfrunde. Danach tut der Teilnehmer in dieser Runde nichts mehr, auch nichts für 0 AK. Das defensive Ausweichen, die Fernkampf-Attacke und jede Art von Magie beenden die Runde nicht. Nach einer Fernkampf-Attacke bleiben alle Aktionen für 0 AK möglich, auch Laufen. Aktionen für 0 AK vor der Nahkampf-Attacke bleiben möglich, etwa eine Drehung, eine Bewegung mit gelungener Kampf-Laufen-Probe oder ein Zauber für 0 AK. Die Extra-Aktion aus dem Gitter bleibt unberührt. Vor ihr ist eine Drehung um 60° für 0 AK zusätzlich erlaubt (siehe „Extra-Aktionen“).
 
 **Umwerfen.** Umwerfen ist eine Nahkampf-Attacke und kostet 5 Ausdauer ([[Nahkampf-im-Kampf]]).
 
 **In Deckung gehen.** Das ist eine Haltungsänderung und keine Bewegung. Sie lässt sich mit einer Laufen-Aktion in Richtung Deckung verbinden. Je Kampfrunde ist sie höchstens einmal möglich, entweder hinein oder heraus. Das Herausgehen kann teilweise sein: Schießt der Held aus Volldeckung mit einer einhändigen Waffe, liegen nur Kopf, Brust und Arme frei, die unteren Trefferzonen bleiben gedeckt ([[Deckung]]).
 
-**Fliehen.** Fliehen ist die eine Laufen-Aktion der Kampfrunde. Die Bewegung entspricht dem Dauerlauf. Wie sich der Held damit aus einem Nahkampf löst, steht in [[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]].
+**Fliehen.** Fliehen ist die eine Laufen-Aktion der Kampfrunde. Die Bewegung entspricht dem Dauerlauf. Wie sich der Held damit aus einem Nahkampf löst, steht in [[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]].
 
 **Gegenstände.**
 
@@ -186,7 +186,7 @@ Nachladen kostet 3 AK und belegt immer die volle Kampfrunde. Wie viele Kampfrund
 
 Der Verteidiger wählt bei jedem Angriff eine von drei Antworten: Parade, defensives Ausweichen oder offensives Ausweichen. Die Werte der Proben stehen in [[Nahkampf]]. Hier stehen die Kosten:
 
-- **Defensives Ausweichen** kostet 1 AK und lässt 2 AK frei, zum Beispiel für eine Parade als Rückfall oder für eine Bewegung. Im Meisterscreen-Gitter bringt es die Ausgänge „Flucht möglich“ und die Rückfall-Parade ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]).
+- **Defensives Ausweichen** kostet 1 AK und lässt 2 AK frei, zum Beispiel für eine Parade als Rückfall oder für eine Bewegung. Im Meisterscreen-Gitter bringt es die Ausgänge „Flucht möglich“ und die Rückfall-Parade ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]).
 - **Offensives Ausweichen** kostet 3 AK, belegt die ganze Kampfrunde und beendet sie: Danach tut der Held in dieser Runde nichts mehr. Das defensive Ausweichen beendet die Runde nicht. Es schaltet im Gitter die Gegenangriffs-Ausgänge frei, etwa die Konter-Extra-Aktion.
 
 ### Warten
@@ -227,9 +227,10 @@ Eine Extra-Aktion ist eine Extra-Aktion, die ein Unterschied der Kampfklassen ge
 - Die Extra-Aktion kostet 0 AK.
 - Sie wird nicht aus dem Budget von 3 AK bezahlt. Sie steht auch dann zur Verfügung, wenn das Budget schon verbraucht ist, etwa direkt nach einer Attacke für 3 AK.
 - Je Kampfrunde ist höchstens eine Extra-Aktion erlaubt.
+- Vor der Extra-Aktion darf der Teilnehmer zusätzlich eine Drehung um 60° ausführen (0 AK), auch wenn er in der Kampfrunde schon gedreht hat. Je Extra-Aktion ist höchstens eine solche Drehung erlaubt. Beispiel: Anna steht zwischen zwei Gegnern auf verschiedenen Feldern. Sie greift den ersten an, das Gitter gewährt ihr eine Extra-Aktion, sie dreht sich um 60° und trifft mit der Extra-Aktion den zweiten.
 - Die „PA-Extra-Aktion“ des Gitters ist keine Extra-Aktion. Sie ist eine gewöhnliche Parade als Reaktion, die vollständig aus den tatsächlich verbliebenen AK der Kampfrunde bezahlt wird (Parade = 2 AK). Hat der Verteidiger nach seiner angesagten Aktion keine 2 AK mehr, ist keine spontane Parade möglich.
 
-Welche Gitter-Ausgänge eine Extra-Aktion gewähren, wer sie ausführt und welche Proben sie braucht, steht in [[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]].
+Welche Gitter-Ausgänge eine Extra-Aktion gewähren, wer sie ausführt und welche Proben sie braucht, steht in [[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]].
 
 **Waffen mit dem Tag „Schnell“.** Eine Extra-Aktion, die sonst unbewaffnet ausgeführt werden muss, darf mit einer Waffe ausgeführt werden, die den Tag „Schnell“ trägt, solange der Held sie als Primärwaffe führt. Die übrigen Regeln der Extra-Aktion bleiben gleich: 0 AK, höchstens eine je Kampfrunde, eine eigene Attackeprobe. Den Tag tragen zurzeit:
 
@@ -242,11 +243,11 @@ Welche Gitter-Ausgänge eine Extra-Aktion gewähren, wer sie ausführt und welch
 
 ### Grenzfälle der Aktionskosten
 
-- Eine Nahkampf-Attacke (3 AK) füllt das Budget und beendet die Kampfrunde. Eine Fernkampf-Attacke füllt das Budget ebenfalls, beendet die Runde aber nicht. Vorher sind Aktionen für 0 AK möglich, danach kommt nur noch die Extra-Aktion aus dem Gitter.
+- Eine Nahkampf-Attacke (3 AK) füllt das Budget und beendet die Kampfrunde. Eine Fernkampf-Attacke füllt das Budget ebenfalls, beendet die Runde aber nicht. Vorher sind Aktionen für 0 AK möglich, danach kommt nur noch die Extra-Aktion aus dem Gitter, vor der eine Drehung um 60° erlaubt ist.
 - Defensives Ausweichen (1) und Parade (2) ergeben zusammen 3 und sind zulässig. Die Parade deckt auch die spontane Parade der „PA-Extra-Aktion“ ab.
 - Zwei verschiedene Bewegungen, zum Beispiel Gehen und Sprint, schließt die Grenze von einer Laufen-Aktion je Kampfrunde aus. Eine Drehung gehört zu einer eigenen Kategorie und ist zusätzlich möglich.
 - Zauber und volle Attacke in einer Kampfrunde gehen nur bei einem freien Wert von 7 oder mehr, denn dann kostet der Zauber 0 AK. Bei einem freien Wert von 5 bis 6 kostet der Zauber 1 AK. Es bleiben 2, genug für defensives Ausweichen plus Drehung oder für eine Parade, aber nicht für eine Attacke.
-- Bildet sich in derselben Kampfrunde gleichzeitig eine Nahkampf-Gruppe neu, bleiben nur die Aktionskosten gebunden, die für die auslösende Bewegung schon ausgegeben sind. Die übrigen AK der Kampfrunde werden neu verteilt ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]).
+- Bildet sich in derselben Kampfrunde gleichzeitig eine NK-Ini-Bubble neu, bleiben nur die Aktionskosten gebunden, die für die auslösende Bewegung schon ausgegeben sind. Die übrigen AK der Kampfrunde werden neu verteilt ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]).
 
 ## Ansage und Ausführung
 
@@ -268,7 +269,7 @@ Ein Teilnehmer mit schlechterer Initiative sagt gegenüber diesem Angreifer blin
 
 Die Reihenfolge ist absteigend, also umgekehrt zur Ansage: Wer die beste Initiative hat, führt zuerst aus, wer die schlechteste hat, zuletzt. Jede Handlung läuft wie angesagt ab.
 
-Erreicht eine Nahkampf-Gruppe in dieser Reihenfolge ihren Platz, wird sie in sich vollständig aufgelöst, bevor die Reihenfolge der Runde fortfährt ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]).
+Erreicht eine NK-Ini-Bubble in dieser Reihenfolge ihren Platz, wird sie in sich vollständig aufgelöst, bevor die Reihenfolge der Runde fortfährt ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]).
 
 ### Nachsteuern bei Zielverlust
 
@@ -307,9 +308,9 @@ Hätte B die bessere Ini-Differenz geworfen, hätte A auf den später angesagten
 Jede Kampfrunde läuft in dieser Reihenfolge ab:
 
 1. **Initiative bestimmen.** Siehe „Die Initiative“.
-2. **Umgebung bestimmen (Meister).** Der Meister legt fest: a) die Bedingungen und die generellen Erschwerungen ([[Behinderung-und-Erschwerung]], [[Fernkampf]]), b) den Kampfplatz und die Deckungsmöglichkeiten ([[Deckung]]), c) die Entfernungen. Er platziert und beschreibt jedes Ziel, das gesehen werden kann.
+2. **Umgebung bestimmen (Meister).** Der Meister legt fest: a) die Bedingungen und die generellen Erschwerungen ([[Behinderung-und-Erschwerung]], [[Fernkampf]]), b) den Kampfplatz und die Deckungsmöglichkeiten ([[Deckung]]), c) die Entfernungen. Er platziert alle Ziele auf der Karte und beschreibt jedem Teilnehmer nur die Ziele, die dieser sehen kann.
 3. **Ansage der Aktionen.** Siehe „Ansage und Ausführung“.
-4. **Aktionen ausführen.** Siehe „Ansage und Ausführung“. Die Aktionen sind a) Warten, b) Rufen (auch Warnen), c) Orientierung, d) Bewegung, e) Waffe ziehen, f) Waffe laden, g) Nahkampf ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]; das Umwerfen wird als Nahkampf-Attacke gewürfelt, [[Nahkampf-im-Kampf]]), h) Fernkampf ([[Fernkampf-im-Kampf]]), i) Magie ([[Magie-im-Kampf]]).
+4. **Aktionen ausführen.** Siehe „Ansage und Ausführung“. Die Aktionen sind a) Warten, b) Rufen (auch Warnen), c) Orientierung, d) Bewegung, e) Waffe ziehen, f) Waffe laden, g) Nahkampf ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]; das Umwerfen wird als Nahkampf-Attacke gewürfelt, [[Nahkampf-im-Kampf]]), h) Fernkampf ([[Fernkampf-im-Kampf]]), i) Magie ([[Magie-im-Kampf]]).
 5. **Bruchtest.** Siehe die Klingenbruch-Probe in [[Nahkampf-im-Kampf]]. Beim Umwerfen entfällt der Bruchtest.
 6. **Wirkung und Schaden.** In dieser Reihenfolge: Trefferzone würfeln, Deckung, Schild, Rüstungsschutz, Schaden, Lebensenergie, Gesundheit, Blutung notieren, Behinderung notieren, Selbstbeherrschungsprobe, gegebenenfalls Konzentrationsprobe ([[Treffer-und-Schaden]]).
 7. **Kampfunfähigkeit.** Misslingt die Selbstbeherrschungsprobe ausreichend, dauert die Kampfunfähigkeit W15 + W6 Kampfrunden. Fehlen kampfnötige Gliedmaßen, werden Art und Zeit bestimmt ([[Zustaende-Katalog]]).
@@ -371,7 +372,7 @@ Die Drehung ändert die Blickrichtung um 1, 2 oder 3 Schritte:
 
 - Eine Drehung um 3 Schritte kehrt die Blickrichtung um. Weiter als 180° gibt es nicht, denn die Gegenrichtung ist aus beiden Drehrichtungen in höchstens 3 Schritten erreichbar.
 - Die Drehrichtung ist frei. Ein Schritt im Uhrzeigersinn und ein Schritt dagegen kosten beide 0 AK.
-- Je Kampfrunde wird höchstens eine Drehung ausgeführt, gleich welcher Stufe. Eine angesagte Drehung darf in der Ausführungs-Phase gegen eine andere Stufe getauscht werden, zum Beispiel 120° gegen 180°, wenn das Budget reicht. Zwei kleine Drehungen hintereinander sind nicht zulässig. Wer 120° drehen will, sagt die Stufe 120° an.
+- Je Kampfrunde wird höchstens eine Drehung ausgeführt, gleich welcher Stufe. Davon ausgenommen ist die Drehung um 60° vor einer Extra-Aktion (siehe „Extra-Aktionen“). Eine angesagte Drehung darf in der Ausführungs-Phase gegen eine andere Stufe getauscht werden, zum Beispiel 120° gegen 180°, wenn das Budget reicht. Zwei kleine Drehungen hintereinander sind nicht zulässig. Wer 120° drehen will, sagt die Stufe 120° an.
 
 Nach einer Drehung folgt der Sichtkegel der neuen Blickrichtung. Ein Ziel im toten Winkel kommt durch eine ausreichende Drehung ins Sichtfeld: Nach 1 Schritt ist das Feld bei 120° sichtbar, nach 2 Schritten das Feld bei 180°.
 
@@ -387,7 +388,7 @@ Orientierung ist also entweder gratis oder zieht eine Drehung nach sich.
 
 ### Was sichtbar ist
 
-- **Meister-Setup.** Der Meister platziert und beschreibt nur Ziele, die gesehen werden können. Ein Gegner im toten Winkel eines Teilnehmers wird für diesen nicht angesagt. Daraus entstehen Überraschungsangriffe.
+- **Meister-Setup.** Der Meister platziert alle Ziele auf der Karte und beschreibt jedem Teilnehmer nur die Ziele, die dieser sehen kann. Ein Gegner im toten Winkel eines Teilnehmers steht auf der Karte und nimmt am Kampf teil, wird diesem Teilnehmer aber nicht beschrieben, solange er ihm unbekannt ist. Daraus entstehen Überraschungsangriffe.
 - **Außerhalb des Sichtfelds beim Zielverlust.** Das Ziel steht zum Zeitpunkt der Ausführung in einer der drei Richtungen des toten Winkels (SO, S, SW) des Handelnden. Das passiert zum Beispiel, wenn das Ziel sich seitlich vorbeibewegt hat oder wenn der Handelnde durch eine erzwungene Reaktion seine Blickrichtung verloren hat. Ein Ziel, das ein Hindernis verdeckt, ist in Deckung. Das ist ein eigener Auslöser des Nachsteuerns, siehe oben.
 - **Deckung.** Sie verdeckt das Ziel: Es gilt als nicht mehr sichtbar ([[Deckung]]).
 
@@ -395,11 +396,11 @@ Orientierung ist also entweder gratis oder zieht eine Drehung nach sich.
 
 - **Das Ziel bewegt sich seitlich vorbei.** Es kann vom Sichtfeld (±60°) in den toten Winkel (±120°) wechseln, ohne dass der Handelnde etwas tut. Zum Zeitpunkt der Ausführung ist das ein Zielverlust, es sei denn, der Handelnde hat die bessere Initiative und dreht sich hin.
 - **Erzwungene Reaktion.** Muss der Held während des Ziehens oder Ladens einer Waffe ausweichen, verzögert sich diese Handlung. Eine Drehung wird ohne Verzögerung ausgeführt. Sie kostet 0 bis 2 AK.
-- **Mehrere Gegner um den Helden.** Nur die Gegner in den drei gesehenen Richtungen sind in Sicht. In der Nahkampf-Gruppe entfällt die Pflicht zur Orientierung.
+- **Mehrere Gegner um den Helden.** Nur die Gegner in den drei gesehenen Richtungen sind in Sicht. In der NK-Ini-Bubble entfällt die Pflicht zur Orientierung.
 - **180°-Drehung bei einem Ziel genau hinter dem Helden.** Danach steht das Ziel frontal und ist voll im Sichtfeld.
 - **Drehung als Nachsteuer-Option.** Beim Zielverlust erlauben die frei gewordenen AK nur Drehung oder Defensivaktion. Eine Drehung um bis zu 180° ist fast immer noch möglich, denn sie kostet 0 bis 2 AK.
 - **Eine Drehung ändert die Lage zu allen Gegnern.** Die Klasse nach der Tabelle oben wird für jeden Angriff nach der Blickrichtung bei dessen Attacke neu bestimmt. Dreht sich ein überraschtes Ziel zum Angreifer hin, kommen dadurch andere Gegner aus dem toten Winkel in den Sichtkegel, und ein frontaler Gegner kann herausgedreht werden. Beispiel: Zwei Angreifer haben beide eine bessere Initiative als das Ziel. Der mit der besten Initiative greift überraschend aus S an, ein zweiter steht in SO. Dreht sich das Ziel um 180° zum Angreifer aus S, steht der zweite danach seitlich im Sichtkegel. Sein folgender Angriff ist „visuell“ (siehe unten), und das Ziel kann voll ausweichen.
-- **Flucht statt Drehung.** Nimmt das überraschte Ziel den Angriff wahr, weil seine Gefahreninstinkt-Probe gelingt oder weil die Drehung den Angreifer in Sicht bringt, kann es statt zu drehen und zu kämpfen die Flucht ansagen: defensives Ausweichen plus Fliehen, zusammen 3 AK. Gelingt der Ablauf der Flucht, entgeht das Ziel den Attacken der übrigen Gegner der Gruppe. Die Gruppe löst sich für den Fliehenden auf ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]).
+- **Flucht statt Drehung.** Nimmt das überraschte Ziel den Angriff wahr, weil seine Gefahreninstinkt-Probe gelingt oder weil die Drehung den Angreifer in Sicht bringt, kann es statt zu drehen und zu kämpfen die Flucht ansagen: defensives Ausweichen plus Fliehen, zusammen 3 AK. Gelingt der Ablauf der Flucht, entgeht das Ziel den Attacken der übrigen Gegner der Gruppe. Die Gruppe löst sich für den Fliehenden auf ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]).
 
 ## Überraschungsangriffe im Nahkampf
 
@@ -425,7 +426,7 @@ Für jeden Nahkampf-Angriff hat das Ziel einen von drei Zuständen:
 
 - **Visuell.** Der Angreifer steht bei seiner Attacke im Sichtkegel des Ziels (N, NO oder NW).
 - **Verfolgt.** Der Angreifer steht im toten Winkel (SO, SW oder S), ist dem Ziel aber bekannt: Er hat in einer früheren Kampfrunde schon angegriffen, er war vorher in Sicht, oder ein Verbündeter hat ihn durch einen Ruf lokalisiert (Rufen kostet 0 AK). Verfolgt ist der Zustand auch, wenn das Ziel in dieser Kampfrunde seine Gefahreninstinkt-Probe besteht.
-- **Überrascht.** Der Angreifer steht im toten Winkel, ist dem Ziel unbekannt (der Meister hat ihn nicht platziert) und das Ziel verfehlt seine Gefahreninstinkt-Probe.
+- **Überrascht.** Der Angreifer steht im toten Winkel, ist dem Ziel unbekannt (er steht auf der Karte, wurde dem Ziel aber nicht beschrieben) und das Ziel verfehlt seine Gefahreninstinkt-Probe.
 
 Überrascht ist der eigentliche Überraschungsangriff. Ab der folgenden Kampfrunde ist der Angreifer bekannt.
 

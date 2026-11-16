@@ -104,7 +104,7 @@ Kein Talent, Maximum 12.
 
 Kein Talent, Maximum 12.
 
-**Fliehen.** Sie ist der Bonus auf jede Fliehen-Probe, auch bei einer Verfolgungsjagd. Geprobt wird immer auf Athletik + Fliehen, nie auf eine andere Eigenschaft ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter|Nahkampf-Gruppen]]).
+**Fliehen.** Sie ist der Bonus auf jede Fliehen-Probe, auch bei einer Verfolgungsjagd. Geprobt wird immer auf Athletik + Fliehen, nie auf eine andere Eigenschaft ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter|NK-Ini-Bubbles]]).
 Talent: 1 / 1 / 1 TaP, Maximum +4 / +8 / +12, höchstens 24.
 
 **Gefahreninstinkt.** Sie zählt zur Gefahreninstinkt-Probe. Geprobt wird auf Sinnesschärfe + Gefahreninstinkt ([[Kampfrunde-Aktionen-Initiative-und-Sicht|Kampfrunde, Aktionen, Initiative und Sicht]]).

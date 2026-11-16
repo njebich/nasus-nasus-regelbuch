@@ -12,7 +12,7 @@ Zwischenergebnisse der Schadensberechnung werden an den benannten Stellen sofort
 
 ## Der Weg eines Treffers
 
-Ein Treffer im Nahkampf ist der Ausgang „Treffer“ des Meisterscreen-Gitters ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]), ein Treffer im Fernkampf oder mit einem Zauber ist die Wirkung, die die Verteidigung nicht verhindert hat ([[Fernkampf-im-Kampf]], [[Magie-im-Kampf]]). Danach läuft immer dieselbe Kette ab:
+Ein Treffer im Nahkampf ist der Ausgang „Treffer“ des Meisterscreen-Gitters ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]), ein Treffer im Fernkampf oder mit einem Zauber ist die Wirkung, die die Verteidigung nicht verhindert hat ([[Fernkampf-im-Kampf]], [[Magie-im-Kampf]]). Danach läuft immer dieselbe Kette ab:
 
 1. **Trefferzone würfeln.** Ein W100 bestimmt die Zone. Wer die Zone lenken darf, steht unter „Die Zone lenken“.
 2. **Deckung.** Ist die getroffene Zone gedeckt, wird zuerst der Deckungs-Rüstungsschutz vom rohen Schaden abgezogen ([[Deckung]]).
@@ -440,11 +440,11 @@ Der Vorrat an Rerolls hängt vom Kreis des Helden ab. Was ein einzelner Reroll b
 
 ### Austausch und Beteiligung
 
-Ein Austausch ist die kleinste abgeschlossene Einheit einer Kampfrunde. Das ist entweder eine Paarung innerhalb einer Nahkampf-Gruppe, die paarweise abgehandelt wird ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]), oder ein einzelner Fernkampf- oder Zauber-Angriff der Runde ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]). Auch ein Angriff auf mehrere Ziele oder ein Flächenzauber bleibt ein einziger Austausch. Die Wirkung tritt für alle betroffenen Ziele gleichzeitig am Beginn der Effektdauer oder Wirkungsdauer ein, an einem festen Punkt der Rundenreihenfolge ([[Magie-Wirkungsdauer-und-Konzentration|Magie: Wirkungsdauer und Konzentration]]).
+Ein Austausch ist die kleinste abgeschlossene Einheit einer Kampfrunde. Das ist entweder eine Paarung innerhalb einer NK-Ini-Bubble, die paarweise abgehandelt wird ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]), oder ein einzelner Fernkampf- oder Zauber-Angriff der Runde ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]). Auch ein Angriff auf mehrere Ziele oder ein Flächenzauber bleibt ein einziger Austausch. Die Wirkung tritt für alle betroffenen Ziele gleichzeitig am Beginn der Effektdauer oder Wirkungsdauer ein, an einem festen Punkt der Rundenreihenfolge ([[Magie-Wirkungsdauer-und-Konzentration|Magie: Wirkungsdauer und Konzentration]]).
 
 Ein Held ist an einem Austausch beteiligt, wenn er in dieser Kampfrunde
 
-- in der betreffenden Nahkampf-Gruppe kämpft,
+- in der betreffenden NK-Ini-Bubble kämpft,
 - in sie hineingewirkt hat (Fernkampf, Zauber) oder
 - Ziel einer Fernkampf- oder Zauber-Aktion dieses Austauschs ist.
 
@@ -457,13 +457,13 @@ Ein Held ist an einem Austausch beteiligt, wenn er in dieser Kampfrunde
 - **Mehrere Stellen.** Im Fenster eines Austauschs darf der Spieler nacheinander beliebig viele Stellen wiederholen, bis der Vorrat 0 ist. Jede Entscheidung wird samt ihrer Folgen vollständig abgeschlossen, bevor die nächste beginnt.
 - **Die Kosten.** Ein Reroll kostet nur 1 aus dem Vorrat. Er kostet keine AK, keine Aktion und kein anderes Budget.
 
-Die Würfe eines Austauschs folgen einer festen Kette: Angriffswurf, Verteidigungswurf, Schadenswurf (Schadenspunkte, daraus Trefferpunkte), W100-Wurf der Trefferzone mit einem möglichen Bündel von Trefferzonen-Rerolls, danach die Folgeproben (Klingenbruch, Selbstbeherrschungsprobe, Zustands- und Patzerauswertung). Dazu kommt der Initiative-Wurf der Nahkampf-Gruppe, sofern er in dieser Kampfrunde bestimmt wurde.
+Die Würfe eines Austauschs folgen einer festen Kette: Angriffswurf, Verteidigungswurf, Schadenswurf (Schadenspunkte, daraus Trefferpunkte), W100-Wurf der Trefferzone mit einem möglichen Bündel von Trefferzonen-Rerolls, danach die Folgeproben (Klingenbruch, Selbstbeherrschungsprobe, Zustands- und Patzerauswertung). Dazu kommt der Initiative-Wurf der NK-Ini-Bubble, sofern er in dieser Kampfrunde bestimmt wurde.
 
 ### Was nach einem Reroll neu gewürfelt wird
 
 Ein Reroll entwertet genau die nachfolgenden Würfe desselben Austauschs, deren Eingaben sich durch den neuen Wert geändert haben. Sie werden neu ausgewertet, alles andere bleibt bestehen. Welche Würfe das sind, ergibt sich zwingend aus der Kette. Der Meister entscheidet nichts über Umfang oder Reihenfolge der Neuwürfe. Er passt nur Erzählfolgen und Positionen an, die ein geänderter Ausgang gegenstandslos macht, zum Beispiel „der Nichtspielercharakter war tot“, der jetzt lebt. Neu gewürfelte Würfe darf der Spieler seinerseits wiederholen, solange er Vorrat hat.
 
-**Angriffswurf.** Das Gitter ([[Nahkampf-Gruppen-und-das-Meisterscreen-Gitter]]) wird mit der neuen Erfolgsstufe der Attacke und dem vorhandenen Verteidigungswurf neu abgelesen. Das ergibt Treffer ja oder nein und den Ausgang der Zelle. Der Verteidigungswurf bleibt. Der W100-Wurf der Trefferzone bleibt auch, außer bei der Wahl unter a). Fehlschlag und Patzer zählen hier auch als andere Stufe, nicht nur n, g, m und f untereinander.
+**Angriffswurf.** Das Gitter ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]) wird mit der neuen Erfolgsstufe der Attacke und dem vorhandenen Verteidigungswurf neu abgelesen. Das ergibt Treffer ja oder nein und den Ausgang der Zelle. Der Verteidigungswurf bleibt. Der W100-Wurf der Trefferzone bleibt auch, außer bei der Wahl unter a). Fehlschlag und Patzer zählen hier auch als andere Stufe, nicht nur n, g, m und f untereinander.
 
 - **a) Weiterhin Treffer, andere Stufe.** Der Schadenswurf wird neu geworfen, die Schadenspunkte neu, die Trefferpunkte neu berechnet. Der W100-Wurf der Trefferzone wird nicht neu geworfen, die getroffene Zone bleibt. Ausnahme: Schaltet die neue Stufe über die Ansage-Tabelle zusätzliche Ansagepunkte frei und wählt der Spieler jetzt Trefferzonen-Rerolls, wird das gesamte Bündel neu aufgesetzt: alle schon geworfenen Rerolls plus die neu hinzukommenden, zusammen, in einer frischen Auflösung mit der neuen Gesamtzahl. Die Zone darf dabei nachträglich angesagt werden, auch wenn der ursprüngliche Angriff keine Ansage hatte. Eine freiwillige Selbst-Erschwerung als Quelle kann nicht nachträglich ergänzt werden, denn sie verlangt die Ansage vor dem Wurf.
 - **b) Jetzt Fehlschlag oder Patzer.** Schadenswurf, Zonenwurf und alle Trefferfolgen entfallen ersatzlos. Ein neu gewürfelter Patzer löst die Patzerauswertung der Probenart aus (für den Nahkampf [[Nahkampf]]).
@@ -476,7 +476,7 @@ Ein Reroll entwertet genau die nachfolgenden Würfe desselben Austauschs, deren 
 
 **Zonenwurf.** Ein Reroll aus dem Vorrat auf die Zone ersetzt das gesamte Ergebnis des Bündels durch einen neuen W100. Der Zusatzeffekt der neuen Zone gilt. Angriff, Verteidigung und die Höhe der Schadenspunkte bleiben, nur Zone und Zusatzeffekt ändern sich. Die Neuaufsetzung des Bündels unter a) ist davon verschieden: Sie wird nicht aus dem Vorrat bezahlt, sondern von den Trefferzonen-Rerolls, die die neue Stufe über die Ansage-Tabelle freischaltet.
 
-**Initiative-Wurf der Nahkampf-Gruppe** (nur wenn in dieser Kampfrunde bestimmt). Die Rangfolge innerhalb der Gruppe wird ab der geänderten Position neu bestimmt, ebenso alle danach noch nicht abgehandelten Paarungen. Paarungen vor der geänderten Position bleiben.
+**Initiative-Wurf der NK-Ini-Bubble** (nur wenn in dieser Kampfrunde bestimmt). Die Rangfolge innerhalb der Gruppe wird ab der geänderten Position neu bestimmt, ebenso alle danach noch nicht abgehandelten Paarungen. Paarungen vor der geänderten Position bleiben.
 
 **Sonstiger Wurf** (Klingenbruch, Zauberprobe, Selbstbeherrschungsprobe, Probe auf einen Zustand). Neu ausgewertet wird nur die Folge, die unmittelbar an den Wurf gekoppelt ist. Alles Parallele bleibt.
 
@@ -485,11 +485,11 @@ Ein Reroll entwertet genau die nachfolgenden Würfe desselben Austauschs, deren 
 ### Initiative
 
 - **Der Wurf der Kampfrunde.** Der Initiative-Wurf der ganzen Runde wird einmal zu Kampfbeginn geworfen. Wiederholbar ist er nur im Fenster vor Beginn von Kampfrunde 1, nicht über die Regeln dieses Abschnitts. Nach Kampfbeginn ist der einzige weitere Initiative-Wurf der eines Teilnehmers, der später hinzukommt. Auch er ist nicht wiederholbar. Der Gitter-Ausgang „Ini bestimmen“ wirkt nicht für die ganze Runde.
-- **Der Wurf der Nahkampf-Gruppe.** Der Initiative-Wurf einer Nahkampf-Gruppe bei ihrer Bildung, bei einem späteren Beitritt oder beim Gitter-Ausgang „Ini bestimmen“ ist wiederholbar, wenn er in dieser Kampfrunde bestimmt wurde. Das geschieht im Fenster des Austauschs, an dem der Held in dieser Gruppe beteiligt ist. Der neue Wurf ordnet die Abfolge der Gruppe ab der geänderten Position neu.
+- **Der Wurf der NK-Ini-Bubble.** Der Initiative-Wurf einer NK-Ini-Bubble bei ihrer Bildung, bei einem späteren Beitritt oder beim Gitter-Ausgang „Ini bestimmen“ ist wiederholbar, wenn er in dieser Kampfrunde bestimmt wurde. Das geschieht im Fenster des Austauschs, an dem der Held in dieser Gruppe beteiligt ist. Der neue Wurf ordnet die Abfolge der Gruppe ab der geänderten Position neu.
 
 ### Beispiele
 
-Zwei Helden, A und B, und zwei Nichtspielercharaktere stehen in zwei Nahkampf-Gruppen. Held A ist in Gruppe A und hat die beste Initiative der Runde, deshalb wird Gruppe A zuerst abgehandelt. Held B ist in Gruppe B.
+Zwei Helden, A und B, und zwei Nichtspielercharaktere stehen in zwei NK-Ini-Bubbles. Held A ist in Gruppe A und hat die beste Initiative der Runde, deshalb wird Gruppe A zuerst abgehandelt. Held B ist in Gruppe B.
 
 - **Die eigene Paarung.** Held A und sein Gegner, der Nichtspielercharakter 1, tauschen Schläge. Bei Abschluss ihrer Paarung darf A seine eigenen Würfe und alle nicht geheimen Würfe des Nichtspielercharakters 1 aus dieser Paarung wiederholen: Attacke, Parade, Schaden, Trefferzone. Die Würfe von Held B darf er nicht wiederholen. Danach ist das Fenster zu, A kann nicht bis zum Ende der Kampfrunde warten.
 - **Eine fremde Gruppe.** Held A hat in dieser Kampfrunde nicht in Gruppe B gewirkt. Er darf dort gar nichts wiederholen, auch keine Würfe der Nichtspielercharaktere. Hätte er mit einem Fernkampf oder einem Zauber in Gruppe B hineingewirkt oder wäre er selbst Ziel eines Fernkampfs oder Zaubers aus Gruppe B, wäre er dort beteiligt. Er dürfte im Fenster dieses Austauschs die nicht geheimen Würfe der Nichtspielercharaktere wiederholen, nicht die von Held B.

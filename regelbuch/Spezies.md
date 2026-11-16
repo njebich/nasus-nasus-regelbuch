@@ -24,7 +24,7 @@ Die elf spielbaren Völker sind:
 
 ## Die Wahl des Volkes
 
-Der Spieler wählt das Volk zu Beginn der Erschaffung, vor den Eigenschaften, Attributen, Fertigkeiten und Talenten. Mit der Wahl sind die Mindestwerte des Volkes bei den Eigenschaften bereits eingetragen. Sie kosten aber wie jeder Punkt Entwicklungspunkte, vom Wert 0 an: Es gibt nichts geschenkt. Beispiel: Ein Mindestwert von 9 kostet 9 × 30 = 270 EP. Nur das Kind der Fröhlichkeit ist vorausgewählt. Auch Einträge, die 0 EP oder 0 Talentpunkte kosten (Basissinne, Schlaf, Aussehen), wählt der Spieler selbst.
+Der Spieler wählt das Volk zu Beginn der Erschaffung, vor den Eigenschaften, Attributen, Fertigkeiten und Talenten. Mit der Wahl sind die Mindestwerte des Volkes bei den Eigenschaften bereits eingetragen. Sie kosten aber wie jeder Punkt Entwicklungspunkte, vom Wert 0 an: Es gibt nichts geschenkt. Beispiel: Ein Mindestwert von 9 kostet 9 × 30 = 270 EP. Vorausgewählt sind der Vorteil Kind der Fröhlichkeit, die Basissinne (Optik, Akustik, Tastsinn sowie Geruch und Geschmack zusammen), das Schlaf-Profil „Normal“ und das Aussehen-Profil „Normal“. Das Schlaf- und das Aussehen-Profil kann der Spieler ändern. Alle übrigen Einträge, die 0 EP oder 0 Talentpunkte kosten, wählt der Spieler selbst.
 
 ## Mindestwert und Höchstwert
 
