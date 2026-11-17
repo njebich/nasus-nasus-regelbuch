@@ -8,7 +8,7 @@ status: entwurf
 
 Jeder Held hat ein Aussehen und eine Schlaftiefe, und mancher Held sieht schlecht, ist einarmig oder bringt keinen Ton heraus. Aussehen und Schlaf legt jeder Spieler bei der Erschaffung fest. Die Merkmale für Sehen und Körper sind [[Vor-und-Nachteile|Vor- und Nachteile]]: Sie bringen dem Helden Entwicklungspunkte ([[Glossar#EP|EP]]) oder kosten welche.
 
-Besondere Fähigkeiten, Schwächen wie Migräne und das Kind der Fröhlichkeit stehen im Kapitel [[Gaben-und-Schwaechen|Gaben und Schwächen]].
+Besondere Fähigkeiten, Schwächen und das Kind der Fröhlichkeit stehen im Kapitel [[Gaben-und-Schwaechen|Gaben und Schwächen]].
 
 ## Wahl, Kosten und Dauer
 

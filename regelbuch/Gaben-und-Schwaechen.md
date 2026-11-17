@@ -1,12 +1,12 @@
 ---
 title: Gaben und Schwächen
-aliases: [Gaben und Schwächen, Besondere Fähigkeiten, Schlechte Eigenschaft, Migräne, Kind der Fröhlichkeit, Fliegen, Schweben, Wasserwandeln, Teleportation, Natürliche Regeneration, Meisterliche Grundfertigkeit, Meisterliche WHK, Sprachtalent, Weltgewandt, Fettleibig, Träge Reflexe]
+aliases: [Gaben und Schwächen, Besondere Fähigkeiten, Schlechte Eigenschaft, Kind der Fröhlichkeit, Fliegen, Schweben, Wasserwandeln, Teleportation, Natürliche Regeneration, Meisterliche Grundfertigkeit, Meisterliche WHK, Sprachtalent, Weltgewandt, Fettleibig, Träge Reflexe]
 status: entwurf
 ---
 
 # Gaben und Schwächen
 
-Der Held kann besondere Fähigkeiten haben, etwa fliegen, schweben oder sich schneller erholen, und Schwächen, die ihn dauerhaft behindern: eine Schlechte Eigenschaft, Migräne, Fettleibigkeit oder Träge Reflexe. Jeder Spielercharakter hat außerdem das Kind der Fröhlichkeit. Alles hier sind [[Vor-und-Nachteile|Vor- und Nachteile]]. Dort steht, wie Kauf und Verkauf allgemein funktionieren. Dieses Kapitel sagt, was die einzelnen Einträge bewirken.
+Der Held kann besondere Fähigkeiten haben, etwa fliegen, schweben oder sich schneller erholen, und Schwächen, die ihn dauerhaft behindern: eine Schlechte Eigenschaft, Fettleibigkeit oder Träge Reflexe. Jeder Spielercharakter hat außerdem das Kind der Fröhlichkeit. Alles hier sind [[Vor-und-Nachteile|Vor- und Nachteile]]. Dort steht, wie Kauf und Verkauf allgemein funktionieren. Dieses Kapitel sagt, was die einzelnen Einträge bewirken.
 
 ## Überblick
 
@@ -27,7 +27,6 @@ Der Held kann besondere Fähigkeiten haben, etwa fliegen, schweben oder sich sch
 | Fettleibig | Nachteil | −100 | nur bei der Erschaffung |
 | Träge Reflexe | Nachteil | −120 | nur bei der Erschaffung |
 | Schlechte Eigenschaft (10 Einträge, einer je Eigenschaft) | Nachteil | −200 | nur bei der Erschaffung |
-| Migräne (5 Stufen) | Nachteil | −25 bis −150 | nur bei der Erschaffung |
 | Kind der Fröhlichkeit | Vorteil | 0 | jeder Spielercharakter hat es |
 
 Bei einem Nachteil bekommt der Held die genannten EP gutgeschrieben, bei einem Vorteil zahlt er sie.
@@ -36,7 +35,7 @@ Bei einem Nachteil bekommt der Held die genannten EP gutgeschrieben, bei einem V
 
 Fliegen, Schweben, Teleportation, Natürliche Regeneration I bis III, Wasserwandeln und beide Meisterlichen Fähigkeiten kann der Held nach der Erschaffung frei kaufen und wieder verkaufen.
 
-Sprachtalent, Weltgewandt, Fettleibig und Träge Reflexe kann der Held nur bei der Erschaffung wählen. Danach bleiben sie für immer. Das Gleiche gilt für Migräne. Vor dem Abschluss der Erschaffung warnt das Regelwerk den Spieler vor diesen dauerhaften Einträgen.
+Sprachtalent, Weltgewandt, Fettleibig und Träge Reflexe kann der Held nur bei der Erschaffung wählen. Danach bleiben sie für immer. Vor dem Abschluss der Erschaffung warnt das Regelwerk den Spieler vor diesen dauerhaften Einträgen.
 
 Eine Schlechte Eigenschaft kann der Held nur bei der Erschaffung wählen, sie lässt sich aber unter bestimmten Bedingungen wieder verkaufen (siehe unten).
 
@@ -191,57 +190,6 @@ Vergibt er sie dauerhaft außerhalb der Erschaffung, muss er dem Helden die 200 
 - Der Held erreicht Kreis 3 mit Schlechte Eigenschaft: Stärke und Wert 7. Der Deckel steigt auf 9, der Wert bleibt bei 7, der Held muss nicht auf 9 steigern. Das Talent zum Anheben des Stärke-Maximums bleibt gesperrt, bis er den Nachteil verkauft.
 - Der Held steigert ab Kreis 3 seine Willenskraft bis auf 9 und verkauft Schlechte Eigenschaft: Willenskraft. Er zahlt 200 EP zurück. Es gilt wieder die Tabelle seines Volkes, und das Talent zum Anheben des Maximums ist wieder kaufbar.
 - Der Meister vergibt Schlechte Eigenschaft: Athletik dauerhaft an einen laufenden Helden, aus Gründen der Geschichte. Der Held bekommt 200 EP gutgeschrieben. Vergibt er sie nur als Fluch für eine Session, ändern sich die EP in keine Richtung.
-
-## Migräne
-
-Der Held hat in unregelmäßigen Abständen mehrtägige Migräne-Anfälle. Während eines Anfalls sammelt er Tag für Tag eine ausgewürfelte Behinderung an. Sie wirkt als körperliche und als mentale Behinderung zugleich (siehe [[Behinderung-und-Erschwerung]]). Ein anfallsfreier Tag beendet die Serie, und die Behinderung fällt sofort auf 0.
-
-### Die fünf Stufen
-
-| Stufe | EP | Erschwerung der Konstitution-Probe |
-|---|---:|---:|
-| Leichte Migräne | −25 | 5 |
-| Mittlere Migräne | −50 | 10 |
-| Schwere Migräne | −75 | 15 |
-| Sehr schwere Migräne | −100 | 20 |
-| Extreme Migräne | −150 | 25 |
-
-Der Held kann nur eine Stufe haben. Die Stufen unterscheiden sich nur in der Erschwerung der täglichen Konstitution-Probe. Alles andere gilt für alle Stufen gleich.
-
-Der Spieler wählt die Migräne bei der Erschaffung, der Meister muss sie nicht freigeben. Der Held bekommt 25, 50, 75, 100 oder 150 EP gutgeschrieben. Danach lässt sich die Migräne nicht entfernen, nicht verkaufen und nicht heilen, auch nicht magisch. Der Meister verhängt im Spiel keine Migräne.
-
-### Ruhephase
-
-Der Spieler würfelt am ersten Tag einer Ruhephase einen W8 (1 bis 8). So viele migränefreie Spieltage folgen. Danach kommt der Prüftag. Gezählt wird in Spieltagen.
-
-### Prüftag
-
-Der Held legt eine Konstitution-Probe ab, erschwert um den Wert seiner Stufe (5, 10, 15, 20 oder 25).
-
-- **Gelingt sie,** ist dieser Tag migränefrei. Am Folgetag würfelt der Spieler den nächsten W8 für die neue Ruhephase.
-- **Misslingt sie,** beginnt ein Anfall. Der Spieler würfelt einen W8 (1 bis 8). Das ist die Behinderung ab diesem Tag.
-
-### Anfall
-
-Ab dem ersten Fehlschlag legt der Held an jedem unmittelbar folgenden Spieltag erneut die Konstitution-Probe ab. Es gilt nur die feste Erschwerung seiner Stufe. Die bereits angesammelte Behinderung erschwert die Probe nicht.
-
-- **Misslingt die Probe wieder,** würfelt der Spieler einen neuen W8 und addiert ihn auf die bestehende Behinderung. Die Behinderung ist bei 9 gedeckelt.
-- **Gelingt die Probe,** endet die Serie sofort. Die Behinderung fällt an diesem Tag auf 0. Am Folgetag beginnt eine neue Ruhephase mit einem neuen W8.
-
-### Wirkung
-
-Solange der Migräne-Wert (0 bis 9) über 0 liegt, gilt er zugleich als körperliche Behinderung (KBE) und als mentale Behinderung (MBE). Er erschwert also körperliche und geistige Proben, etwa Wahrnehmung, Konzentration und Zaubern. KBE und MBE sind derzeit ohnehin zahlengleich.
-
-Die üblichen Ausnahmen der MBE bleiben: Sie gilt nicht für AT-Proben und nicht für Sinnesschärfe-Proben. Attributsproben bleiben immun gegen Behinderung (siehe [[Attribute]]).
-
-### Beispiele zur Migräne
-
-- Mittlere Migräne, Ruhephase: Der Spieler würfelt W8 und erhält 3. Es folgen 3 migränefreie Spieltage, dann der Prüftag. Die Konstitution-Probe ist um 10 erschwert. Gelingt sie, ist der Tag migränefrei, und am Folgetag würfelt der Spieler den nächsten W8.
-- Schwere Migräne, Anfall: Am Prüftag misslingt die Konstitution-Probe (erschwert um 15). Der W8 zeigt 5, also KBE 5 und MBE 5 an diesem Tag. Am Folgetag misslingt die Probe wieder (erschwert um 15, nicht zusätzlich um 5). Der W8 zeigt 6, 5 + 6 = 11, gedeckelt auf 9. KBE und MBE sind 9. Am nächsten Tag gelingt die Probe: Die Behinderung fällt sofort auf 0, und am Folgetag gibt es einen neuen W8.
-- Extreme Migräne, Prüftag: Die Konstitution-Probe ist um 25 erschwert.
-- Der Migräne-Wert ist 4, und der Held schießt (AT-Probe im Fernkampf). Die KBE 4 zieht, die MBE nicht. Netto sind das −4 auf die AT-Probe.
-- Der Migräne-Wert ist 6, und der Held wirkt einen Zauber. Die Zauberprobe ist eine geistige Probe, also zieht die MBE 6, zusätzlich die KBE, soweit die Zauberprobe körperliche Anteile hat.
-- Der Migräne-Wert ist 6, und der Held würfelt auf Glück. Das ist eine Attributsprobe und gegen Behinderung immun, es gibt keine Erschwerung.
 
 ## Kind der Fröhlichkeit
 

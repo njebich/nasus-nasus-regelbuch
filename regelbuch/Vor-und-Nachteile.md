@@ -10,10 +10,9 @@ Der Held kauft Vorteile mit [[Abenteuer-Entwicklungs-und-Talentpunkte|Entwicklun
 
 Wie ein Eintrag wirkt, steht in den Kapiteln zu den einzelnen Einträgen:
 
-- Angst-Themen: Das Angst-System folgt nach Version 1, bis dahin stehen dazu keine Regeln im Regelbuch.
 - [[Anfaelligkeit-und-Resistenz|Anfälligkeit, Resistenz, Unempfindlichkeit, Immunität und Astrale Abschottung]]
 - [[Aussehen-Schlaf-Sinne-und-Koerper|Aussehen- und Schlaf-Profil, Sicht-Merkmale (Blindheit, Einäugig, Nacht- und Dämmerungssicht, Astrales Auge, Blinder Kampf) und Körper- und Sprech-Merkmale (Einarmigkeit, Einbeinigkeit, Keine Arme, Keine Beine, Stumm)]]
-- [[Gaben-und-Schwaechen|Besondere Fähigkeiten, Schlechte Eigenschaft, Migräne, Kind der Fröhlichkeit]], dazu Fettleibig, Träge Reflexe, Sprachtalent und Weltgewandt
+- [[Gaben-und-Schwaechen|Besondere Fähigkeiten, Schlechte Eigenschaft, Kind der Fröhlichkeit]], dazu Fettleibig, Träge Reflexe, Sprachtalent und Weltgewandt
 - Der Vorteil „SF: Alchemieresistenz“ kostet 120 Entwicklungspunkte und öffnet den Kauf der [[Sonderfertigkeiten|Sonderfertigkeit]] Alchemieresistenz. Das Maximum der Sonderfertigkeit bleibt 12.
 
 ## Kaufen und verkaufen
@@ -69,7 +68,7 @@ Vor dem Abschluss der Erschaffung werden die gewählten dauerhaften Merkmale kla
 Jeder Eintrag des Katalogs gehört genau einer von drei Klassen an. Wenige Einträge gehören zu keiner Klasse. Sie stehen weiter unten.
 
 - **Frei:** frei kaufbar und verkaufbar, 1:1 abgerechnet, ohne Freigabe. Das gilt für den Großteil des Katalogs.
-- **Mit Meister-Freigabe:** Kauf und Verkauf nur mit Freigabe des Meisters. Ohne Freigabe gibt es keine Transaktion. Dazu gehören alle Angst-Themen und die Sucht- und Abhängigkeits-Merkmale.
+- **Mit Meister-Freigabe:** Kauf und Verkauf nur mit Freigabe des Meisters. Ohne Freigabe gibt es keine Transaktion. Dazu gehören die Sucht- und Abhängigkeits-Merkmale.
 - **Dauerhaft:** Der Eintrag gehört zum „perfekten Blueprint“, dem Bauplan des Helden. Nach der Erschaffung lässt er sich nicht mehr entfernen, auch nicht durch magische Heilung.
 
 ### Welche Einträge dauerhaft sind
@@ -83,8 +82,6 @@ Jeder Eintrag des Katalogs gehört genau einer von drei Klassen an. Wenige Eintr
 - jede Untergruppe von Anfälligkeit: Beherrschung, jede Elementar-Beschwörung, profane Waffen, Alchemie
 - Unempfindlichkeit gegen profane Waffen und die gespiegelte Anfälligkeit gegen profane Waffen. Beide folgen dem Standardablauf der Anfälligkeit.
 - Immunität gegen ein Element (5 Einträge). Sie sind zusätzlich nur vom Meister vergebbar und nur für Elementare.
-- Migräne, alle 5 Stufen. Sie ist nur bei der Erschaffung wählbar, bringt 25/50/75/100/150 EP und tritt nie als Zustand auf.
-- Kurzatmigkeit
 - Einarmigkeit, Einbeinigkeit, Keine Arme, Keine Beine und Stumm. Die Gutschrift beträgt je Gliedmaße 400 EP, bei Stumm 300 EP.
 - das Schlaf-Profil (alle 4 Stufen, 0 EP) und das Aussehen-Profil (alle 7 Stufen). Das sind Pflichtachsen, die nach der Erschaffung nur der Meister wechseln kann.
 - Allerweltsgesicht (250 EP). Der Ruhm des Helden kann es regional aussetzen.
@@ -121,7 +118,6 @@ Wer einen Nachteil außerhalb einer laufenden Session entfernen will (EP-Rückka
 - **Magische Krankheit und Untotenkrankheit:** Heilung G6, „Heiliges Land“ oder „Starkes Allheilmittel“.
 - **Gift:** Heilung G4 oder G6.
 - **Narben:** „Ruf des Tepod“.
-- **Ängste:** eine Stufe je Kreis, mit Freigabe des Meisters, kein Heiler. Das Angst-System folgt.
 - **Süchte:** nur der Meister.
 - **Dauerhafte Merkmale:** nicht entfernbar.
 
@@ -156,6 +152,5 @@ Merkmal und zugehöriger Zustand folgen derselben Wirkung. Herkunft, EP-Regeln, 
 - **Fettleibig bei der Erschaffung (−100):** Der Spieler wählt den Nachteil. Der Held bekommt 100 EP gutgeschrieben, seine verfügbaren EP steigen um 100, und die Gutschrift steht im Protokoll. Der Eintrag ist dauerhaft, weil er nur bei der Erschaffung zu haben ist. Er steht in der Warnung vor dem Abschluss. Nach der Erschaffung lässt er sich nicht entfernen.
 - **Einäugig bei der Erschaffung (−400):** Der Held bekommt 400 EP gutgeschrieben. Der Eintrag ist dauerhaft, steht in der Warnung und lässt sich nach der Erschaffung nicht entfernen.
 - **Der Held verliert später im Spiel ein Auge:** Der Meister wendet den entfernbaren Zustand „einäugig“ an, der wie der Nachteil wirkt. Der Held bekommt keine EP. Zur Entfernung muss die Voraussetzung für Gliedmaß und Auge erfüllt sein: Heilung G5 „Gliedmaßen nachwachsen lassen“, KI-Regeneration oder „Ruf des Tepod“. Danach folgt ein EP-neutraler Rückbau.
-- **Ein Angst-Thema kaufen oder verkaufen:** Der Eintrag verlangt die Freigabe des Meisters. Ohne Freigabe geschieht nichts.
 - **Untotenkrankheit:** Ein Untoter greift den Helden an, im Nahkampf mit einem Biss oder mit einer Attacke, deren Wirkung „Überträgt Untotenkrankheit“ lautet, und verursacht dabei mindestens 1 TP. Damit hat sich der Held infiziert. Der Eintrag kostet 0 EP, also ändern sich die EP in keine Richtung. Der Nachteil und der Zustand sind getrennte Einträge. Entfernt wird die Krankheit nur über die Voraussetzung „magische Krankheit“: Heilung G6, „Heiliges Land“ oder „Starkes Allheilmittel“.
 - **Erschaffung mit dem Nachteil Blindheit (Gutschrift 500):** Der Saldo von +500 überschreitet die Grenze 300. Wählt der Spieler Vorteile von zusammen mindestens 200 EP, zum Beispiel Blinder Kampf I bis III (150 + 25 + 25), liegt der Saldo bei +300.
