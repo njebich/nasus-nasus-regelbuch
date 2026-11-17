@@ -173,7 +173,7 @@ Sie gilt nur für die Sprung-Kampfrunde selbst. Die Anlauf-Kampfrunden vor einem
 Waffe ziehen kostet 2 AK. Die Dauer hängt von der Waffe und dem Aufbewahrungsort ab und beträgt mindestens eine Kampfrunde.
 
 - Mit dem Talent Schnellziehen kostet das Ziehen 0 AK ([[Kampf-Talente]]).
-- Mit Schnellziehen und dem passenden Talent, dem Kampf mit zwei Waffen oder bei Pistolen dem Beidhändig Pistolenschießen, zieht der Held beide Waffen gleichzeitig für 0 AK.
+- Mit Schnellziehen und dem passenden Talent, je Waffe dem Kampf mit zwei Waffen (Nahkampfwaffe) oder dem Beidhändig Schießen (einhändige Fernkampfwaffe), zieht der Held zwei einhändige Waffen gleichzeitig für 0 AK. Eine Nahkampfwaffe zusammen mit einer einhändigen Fernkampfwaffe braucht beide Talente.
 - Wird der Held während des Ziehens zu einem Ausweichen gezwungen, verzögert sich das Ziehen um 1 Kampfrunde. Das gilt nicht für eine Waffe, für deren Waffenart der Held das Schnellziehen hat.
 
 ### Zielen und Nachladen

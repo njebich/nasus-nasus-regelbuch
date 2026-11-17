@@ -1,6 +1,6 @@
 ---
 title: Kampf-Talente
-aliases: [Kampf-Talente, Kampfmodul, Kampfmanöver, Kampfmanöver-Talente, Kampfmodul-Talent, Entwaffnen, Finte, Mit Schild umwerfen, Zerschmettern, Gezielter Schlag, Gezielter Schuss, Schnellziehen, Schnell Ziehen, Berittenes Schießen, Kampf mit zwei Waffen, Zwei-Waffen-Kampf, Offensiver Kampfstil, Verteidiger, Kampfstil, Schildkampf, Sekundärhand, Linkshändig Pistolenschießen, Beidhändig Pistolenschießen, Mehrfachschuss, Sorgfältiges Zielen, Meuchler]
+aliases: [Kampf-Talente, Kampfmodul, Kampfmanöver, Kampfmanöver-Talente, Kampfmodul-Talent, Entwaffnen, Finte, Mit Schild umwerfen, Zerschmettern, Gezielter Schlag, Gezielter Schuss, Schnellziehen, Schnell Ziehen, Berittenes Schießen, Kampf mit zwei Waffen, Zwei-Waffen-Kampf, Offensiver Kampfstil, Verteidiger, Kampfstil, Schildkampf, Sekundärhand, Linkshändig Pistolenschießen, Beidhändig Schießen, Mehrfachschuss, Sorgfältiges Zielen, Meuchler]
 status: entwurf
 ---
 
@@ -113,7 +113,7 @@ Eine Waffe außerhalb eines festen Ausrüstungsplatzes, etwa ein Messer in einer
 
 **Wirkung.** Die Aktionskosten für das Ziehen der Waffe sind 0. Jede Handlung mit dieser Waffe ist in derselben Kampfrunde möglich. Eine eigene Erschwerung für die Kombination gibt es nicht. Wird der Held beim Ziehen zu einem Ausweichen gezwungen, verzögert sich das Ziehen nicht um eine Kampfrunde.
 
-Zwei Waffen gleichzeitig für 0 Aktionskosten ziehen kann nur, wer das Schnellziehen beider Waffenarten hat und dazu den Kampf mit zwei Waffen (siehe unten) oder, bei Pistolen, Beidhändig Pistolenschießen.
+Zwei Waffen gleichzeitig für 0 Aktionskosten ziehen kann nur, wer das Schnellziehen beider Waffenarten hat und dazu den Kampf mit zwei Waffen (siehe unten) oder, bei einer einhändigen Fernkampfwaffe, Beidhändig Schießen. Es zählt je Waffe: Zwei Nahkampfwaffen brauchen den Kampf mit zwei Waffen, zwei einhändige Fernkampfwaffen brauchen Beidhändig Schießen, eine Nahkampfwaffe zusammen mit einer einhändigen Fernkampfwaffe brauchen beides. Zusammen ziehen lassen sich nur einhändige Waffen.
 
 Beispiel: Das Ziehen der Waffe kostet 2 Aktionskosten, ein Angriff 3, das Budget beträgt 3 AK ([[Kampfrunde-Aktionen-Initiative-und-Sicht]]). Ohne das Talent sind Ziehen und Angriff zusammen 2 + 3 = 5 Aktionskosten und passen nicht in dieselbe Kampfrunde. Mit dem Schnellziehen der Waffenart sind es 0 + 3 = 3, und beides passt.
 
@@ -163,7 +163,7 @@ Beispiel: Der Held besitzt Offensiver Kampfstil Stufe 2 und Verteidiger Stufe 1.
 
 ### Schildkampf (5 TaP) und die Sekundärhand
 
-Führt der Held eine Waffe oder einen Schild nur mit der Sekundärhand, würfelt er ohne passendes Talent auf den halben Probenwert. Die Sekundärhand ist üblicherweise die linke. Jedes der drei Talente Schildkampf, Linkshändig Pistolenschießen und Beidhändig Pistolenschießen hebt diese Halbierung für genau eine Ausrüstung auf. Jedes ist ein einzelnes Talent ohne Stufen.
+Führt der Held eine Waffe oder einen Schild nur mit der Sekundärhand, würfelt er ohne passendes Talent auf den halben Probenwert. Die Sekundärhand ist üblicherweise die linke. Jedes der drei Talente Schildkampf, Linkshändig Pistolenschießen und Beidhändig Schießen hebt diese Halbierung für genau eine Ausrüstung auf. Jedes ist ein einzelnes Talent ohne Stufen.
 
 **Schildkampf.** Führt der Held im Nahkampf nur einen Schild in der Sekundärhand, ohne Waffe in der Primärhand, würfelt er mit dem Talent auf den vollen statt auf den halben Probenwert. Führt er in der Sekundärhand eine Waffe statt des Schildes, gibt es dafür kein Talent, und der Wert bleibt halbiert. Mit einem Schild gilt der Kampf mit zwei Waffen nie. Beide Talente betreffen daher verschiedene Ausrüstung.
 
@@ -209,16 +209,16 @@ Gezielter Schuss ist das Gegenstück zum Gezielten Schlag der Krieger, aber für
 
 Beispiel: Die Probe gelingt als nFK und trifft, die Ansage lautet Kopf. Ohne das Talent gilt der erste Wurf, der die Zone Kopf trifft. Mit dem Talent darf der Schütze alle Rerolls werfen, und unter den Würfen, die Kopf treffen, zählt die schlimmste Unterzone.
 
-### Linkshändig Pistolenschießen und Beidhändig Pistolenschießen (je 20 TaP)
+### Linkshändig Pistolenschießen und Beidhändig Schießen (je 20 TaP)
 
 Ohne das passende Talent würfelt der Schütze auf den halben Probenwert, wenn er eine Pistole nur in der Sekundärhand führt (Abschnitt „Schildkampf und die Sekundärhand“ weiter oben).
 
 - **Linkshändig Pistolenschießen.** Schießt der Held nur mit der Sekundärhand eine Pistole, würfelt er auf den vollen Probenwert.
-- **Beidhändig Pistolenschießen.** Schießt der Held mit einer Pistole in jeder Hand gleichzeitig, würfelt er mit beiden auf den vollen Probenwert.
+- **Beidhändig Schießen.** Schießt der Held mit einer einhändigen Fernkampfwaffe in jeder Hand gleichzeitig, zum Beispiel mit zwei Pistolen oder zwei einhändigen Armbrüsten, würfelt er mit beiden auf den vollen Probenwert.
 
-Beidhändig Pistolenschießen setzt Linkshändig Pistolenschießen nicht voraus. Beide Talente sind unabhängig voneinander kaufbar.
+Beidhändig Schießen setzt Linkshändig Pistolenschießen nicht voraus. Beide Talente sind unabhängig voneinander kaufbar.
 
-Beispiel: Der Held besitzt Beidhändig Pistolenschießen, aber nicht Linkshändig Pistolenschießen. Das ist zulässig. Er würfelt für beide gleichzeitig geführten Pistolen auf den vollen Probenwert.
+Beispiel: Der Held besitzt Beidhändig Schießen, aber nicht Linkshändig Pistolenschießen. Das ist zulässig. Er würfelt für beide gleichzeitig geführten Waffen auf den vollen Probenwert.
 
 ### Mehrfachschuss (zwei Stufen)
 
