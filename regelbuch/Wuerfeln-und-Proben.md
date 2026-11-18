@@ -1,7 +1,7 @@
 ---
 title: Würfeln und Proben
 aliases: [Würfeln und Proben, Probe, Proben, Erfolgsstufe, Erfolgsstufen, Probenklasse, Probenklassen-Achse, Klassenvergleich, Vergleichsprobe, Ergebnisvergleich, Differenzprobe, Differenz, Probenergebnis, Patzer, Fehlschlag, guter Erfolg, meisterlicher Erfolg, fröhlicher Erfolg, Bonusauswahl, Bonuspunkte, Doppelschlag, Rundung, Runden, Rundungsregel]
-status: entwurf
+status: reviewed
 ---
 
 # Würfeln und Proben

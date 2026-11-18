@@ -91,7 +91,7 @@ Beispiel Kampf mit zwei Waffen: Die Sonderregeln von Stufe 1 gelten bei jeder be
 ### Besondere Ketten
 
 - **Mehrfachschuss.** Doppelschuss (Stufe 1) und Tripelschuss (Stufe 2) gehören zur selben Familie. Die verschiedenen Namen ändern daran nichts.
-- **Geweihte.** Jede Religion bildet eine eigene Kette, nicht jede Sekte (siehe [[Religion]]).
+- **Geweihte.** Es gibt eine Kette aus sieben Stufen, für alle Religionen und Sekten gleich (siehe [[Religion]]).
 
 ### Beispiele
 

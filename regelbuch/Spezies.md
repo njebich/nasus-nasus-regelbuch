@@ -1,7 +1,7 @@
 ---
 title: Spezies
 aliases: [Spezies, Volk, Völker, Rasse, Mindestwerte, Höchstwerte, Eigenschaftsgrenzen]
-status: entwurf
+status: reviewed
 ---
 
 # Spezies

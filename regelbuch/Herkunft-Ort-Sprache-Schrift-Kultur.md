@@ -1,7 +1,7 @@
 ---
 title: Herkunft: Ort, Sprache, Schrift, Kultur
 aliases: [Herkunft, Sprache und Kultur, Sprachen, Schriften, Kulturen, Handelssprache]
-status: entwurf
+status: reviewed
 ---
 
 # Herkunft: Ort, Sprache, Schrift, Kultur

@@ -1,7 +1,7 @@
 ---
 title: Behinderung und Erschwerung
 aliases: [Behinderung und Erschwerung, Behinderung, BE, KBE, MBE, Körperliche Behinderung, Mentale Behinderung, Gewichtsbehinderung, GBE, Frost-Behinderung, Aktionsbehinderung, ABE, Sonstige Behinderung, SBE, Trefferzonen-BE, KK, KK-1, KK-2, Herabstufung, Erfolgsleiter]
-status: entwurf
+status: reviewed
 ---
 
 # Behinderung und Erschwerung

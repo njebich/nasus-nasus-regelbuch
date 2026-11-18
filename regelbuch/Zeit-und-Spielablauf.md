@@ -1,7 +1,7 @@
 ---
 title: Zeit und Spielablauf
 aliases: [Zeit und Spielablauf, Zeit, Kampfrunde, KR, Sekunde, Minute, Stunde, Tag, Session, Sitzung, Abenteuer, Kampagne, Neue Session starten, Abenteuerbeginn, langer Rest, Zeit vergehen lassen, Zeitsprung, Spieluhr]
-status: entwurf
+status: reviewed
 ---
 
 # Zeit und Spielablauf

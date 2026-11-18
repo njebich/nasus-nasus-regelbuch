@@ -73,9 +73,9 @@ Die Kauf- und Obergrenzregeln gelten für Spielercharaktere und für NSC einer s
 
 ### Karma
 
-Karma ist bei der Erschaffung verborgen und bleibt auf 0, bis der Held Geweihter (auch Paladin genannt) ist. Dafür braucht er die erste Stufe der Geweihten-Kette seiner Religion (siehe [[Religion]]). Diese Stufe hebt die Sperre. Sie setzt nicht voraus, dass der Held schon Karma über 0 hat.
+Karma ist bei der Erschaffung verborgen und bleibt auf 0, bis der Held Geweihter (auch Paladin genannt) ist. Dafür braucht er den ersten Grad der Geweihten-Kette (siehe [[Religion]]). Dieser Grad hebt die Sperre.
 
-Verliert der Held die letzte Stufe der Kette, ist Karma wieder gesperrt. Das geschieht, wenn er im Charakterbogen die Religion wechselt oder wenn der Meister ihm die Stufe entzieht. Beides ist nur außerhalb einer Session möglich. Der gekaufte Wert von Karma wird dann auf 0 gesetzt, und der Held bekommt die dafür ausgegebenen EP zurück.
+Verliert der Held den letzten Grad der Kette, ist Karma wieder gesperrt. Das geschieht, wenn er vom Glauben abfällt (siehe [[Religion]]) oder wenn der Meister ihm den Grad entzieht. Die Erstattung erfolgt nur außerhalb einer Session. Der gekaufte Wert von Karma wird dann auf 0 gesetzt, und der Held bekommt die dafür ausgegebenen EP zurück.
 
 Ein göttliches Karma-Artefakt bleibt davon unberührt. Ein Held, der kein Geweihter ist, erhält das wirksame Karma des Artefakts voll, einschließlich seines Beitrags zu den Karma-Pool-Punkten und zur Macht.
 
