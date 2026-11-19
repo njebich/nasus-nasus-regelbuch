@@ -90,7 +90,7 @@ K ist die Summe der Breiten aller Krit-Zeilen der Tabelle. Die Normalzeile des K
 
 - **K ab 20.** Es gibt keinen Ausgleich.
 - **K unter 20.** Für jedes Körperteil, das in Segmenten gegliedert ist und dessen Normalzeile ein Rohgewicht von mindestens 10 hat, wird eine Ausgleichszeile „Segmentnaht“ ergänzt (Wirkung: TP mal 2, wie beim Gelenk). Alle Ausgleichszeilen haben dasselbe Rohgewicht x. x ist der kleinste Wert, bei dem nach dem Ausgleich auf 97 K mindestens 20 beträgt. Ist das nicht erreichbar, ist x der Wert, bei dem alle Ausgleichszeilen die Breite 5 erreichen.
-- **K bleibt unter 20.** Die Tabelle erhält die Warnung „W-KD“. Sie bleibt gültig. Die Warnung entfällt bei Kreaturen mit nur einer Zone, die ein Magiekorpus sind.
+- **K bleibt unter 20.** Die Tabelle erhält die Warnung „Krit-Dichte-Warnung“. Sie bleibt gültig. Die Warnung entfällt bei Kreaturen mit nur einer Zone, die ein Magiekorpus sind.
 - **K über 25.** Die Tabelle erhält einen Prüfhinweis. Sie wird nicht verändert.
 
 ### Die Reihenfolge der Zeilen
@@ -377,7 +377,7 @@ Alle Beispiele haben Körperteile in normaler Größe. Der Streiftreffer belegt 
 - Hinterrumpf: 78–97, Breite 20
 - Streiftreffer: 98–100, Breite 3
 
-K = 4 + 5 + 5 + 5 = 19 und damit unter 20. Die Tabelle erhält die Warnung „W-KD“ und bleibt gültig. Die Zeilen ergeben 97, mit dem Streiftreffer 100.
+K = 4 + 5 + 5 + 5 = 19 und damit unter 20. Die Tabelle erhält die Warnung „Krit-Dichte-Warnung“ und bleibt gültig. Die Zeilen ergeben 97, mit dem Streiftreffer 100.
 
 **Der Oktopus** hat einen Kopf mit Auge, einen einteiligen Rumpf und acht Arme. Armansatz, Armmitte und Armspitze sind seine Ersatzzeilen. Die Tabelle hat 37 Zeilen.
 
@@ -394,4 +394,4 @@ K = 4 + 5 + 5 + 5 = 19 und damit unter 20. Die Tabelle erhält die Warnung „W-
 
 K = 29 und damit über 25: Die Tabelle erhält einen Prüfhinweis und wird nicht verändert. Arm 8 ist durch Schritt 3 des Ausgleichs einen Punkt schmaler als die anderen Arme.
 
-**Der Schleim** hat ein einziges Körperteil, nicht in Segmenten gegliedert. Der Körper belegt 1–97, der Streiftreffer 98–100, K = 0. Die Tabelle erhält die Warnung „W-KD“.
+**Der Schleim** hat ein einziges Körperteil, nicht in Segmenten gegliedert. Der Körper belegt 1–97, der Streiftreffer 98–100, K = 0. Die Tabelle erhält die Warnung „Krit-Dichte-Warnung“.
