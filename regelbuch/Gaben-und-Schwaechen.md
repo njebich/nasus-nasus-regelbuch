@@ -93,13 +93,13 @@ Siehe auch [[Gesundheit-und-Mana-Regeneration]].
 
 ### Meisterliche Grundfertigkeit
 
-Es gibt 20 Einträge, einen je Grundfertigkeit. Jeder gilt nur für seine Grundfertigkeit und wird einzeln gekauft.
+Es gibt 20 Einträge, einen je Grundfertigkeit. Jeder gilt nur für seine Grundfertigkeit und wird einzeln gekauft. Voraussetzung ist ein Fertigkeitswert (FW) von mindestens 6 in dieser Grundfertigkeit. Die Krankheitsresistenz ist eine Sonderfertigkeit und hat keinen Eintrag.
 
 Der Held kann höchstens so viel Mana einsetzen, wie seine Macht beträgt. Die Wirkung dauert Macht × 2 Minuten. Das Mana wird in Fertigkeitswert (FW) der gewählten Grundfertigkeit umgewandelt, 1 FW je 4 Mana.
 
 ### Meisterliche WHK
 
-Es gibt einen Eintrag je WHK, ausgenommen Stoßgebet, Wunder und Ritual. Der Spieler wählt bei jedem Kauf, für welche spezialisierbare WHK er gilt. Voraussetzung ist ein Fertigkeitswert (FW) von mindestens 12 in dieser WHK; erst ab diesem Wert wird die WHK dem Spieler zur Auswahl angezeigt. Dieselbe WHK darf er nicht doppelt wählen.
+Es gibt einen Eintrag je Haupt-WHK (derzeit 86, die Liste ist erweiterbar), nicht für Spezialisierungen, und nicht für Stoßgebet, Wunder und Ritual. Der Spieler wählt bei jedem Kauf, für welche spezialisierbare WHK er gilt. Voraussetzung ist ein Fertigkeitswert (FW) von mindestens 12 in dieser WHK; erst ab diesem Wert wird die WHK dem Spieler zur Auswahl angezeigt. Dieselbe WHK darf er nicht doppelt wählen.
 
 Auch hier kann er höchstens so viel Mana einsetzen, wie seine Macht beträgt. Die Wirkung dauert Macht Stunden. Das Mana wird in Fertigkeitswert (FW) der gewählten WHK umgewandelt, 1 FW je 2 Mana.
 

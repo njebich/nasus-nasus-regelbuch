@@ -159,13 +159,23 @@ wählbare Grundfertigkeiten = 1 + (FW ÷ 5, abgerundet)
 
 Die Division rundet hier ab. Bei FW 1, 4, 5, 9, 10 und 15 sind es 1, 1, 2, 2, 3 und 4 Grundfertigkeiten.
 
+### Pferdelunge
+
+Solange die Fähigkeit aufrechterhalten wird, sinken die Ausdauerkosten des Wirkenden bei jeder Fähigkeit.
+
+- Die Senkung beträgt 20 % je volle +5 der KI-Wirkungserschwerung, höchstens 100 % (bei Wirkungserschwerung 25). Die Staffel rundet ab: Wirkungserschwerung 4 gibt 0 %, 5 gibt 20 %, 10 gibt 40 %.
+- Danach wird die Summe der Ausdauerkosten einmal aufgerundet.
+- Die Senkung wirkt nur bis zum Mindestwert der Handlung, soweit einer gilt: Attacke und offensives Ausweichen 3, Parade und defensives Ausweichen 2. Ohne Mindestwert gilt 0.
+
+Das gilt auch für die Ausdauerkosten des Wirkens einer KI-Fähigkeit (siehe Abschnitt Ausdauerkosten oben).
+
 ### Abhärtung
 
 Die Lebensenergie (LE), die Abhärtung gewährt, wirkt als Leberschutz. Sie steht an derselben Stelle der Reihenfolge der Schadensberechnung wie jeder andere Leberschutz (siehe [[Treffer-und-Schaden]]).
 
 ## Rundung in diesem Kapitel
 
-Abgerundet werden die Staffel „+A pro+B“ und die Zahl der wählbaren Grundfertigkeiten bei Meister der Grundfertigkeiten. Alle anderen Divisionen runden auf die nächste ganze Zahl auf, nämlich die Rechnungen der Mentalen Erschöpfung, die zusätzliche ME-Reduktion durch Bonuspunkte, die Regeneration, die Halbierung durch das Talent und die Ausdauerkosten. Die allgemeine Rundungsregel steht im Kapitel [[Wuerfeln-und-Proben]].
+Abgerundet werden die Staffel „+A pro+B“, die Zahl der wählbaren Grundfertigkeiten bei Meister der Grundfertigkeiten und die Staffel der Pferdelunge. Alle anderen Divisionen runden auf die nächste ganze Zahl auf, nämlich die Rechnungen der Mentalen Erschöpfung, die zusätzliche ME-Reduktion durch Bonuspunkte, die Regeneration, die Halbierung durch das Talent und die Ausdauerkosten (bei Pferdelunge einmal nach der Senkung). Die allgemeine Rundungsregel steht im Kapitel [[Wuerfeln-und-Proben]].
 
 ## Beispiele
 

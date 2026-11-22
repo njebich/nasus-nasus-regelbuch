@@ -438,6 +438,9 @@ Die Probe ist eine einfache Probe auf eine [[Grundfertigkeiten|Grundfertigkeit]]
 
 - Jeder unbekannte Angreifer aus dem toten Winkel bekommt eine eigene Probe. Gelingt sie, ist der Zustand „verfolgt“. Misslingt sie, ist er „überrascht“.
 - Im Standardfall ist die Probe nicht modifiziert. Der Meister darf sie für besondere Umstände erschweren, zum Beispiel bei einem vorbereiteten Hinterhalt. Er darf sie auch erleichtern.
+- Bewegt sich der Angreifer vor dem Angriff, spielt die Anzahl der Hexes eine Rolle, die er in dieser Kampfrunde zurückgelegt hat. Sagt er keine Tarnprobe an, wird die Gefahreninstinkt-Probe um diese Hexes erleichtert. Steht er still, bleibt sie unmodifiziert.
+- Sagt der Angreifer eine Tarnprobe an, würfelt er sie zuerst: Schleichen, wenn er sich bewegt, Verstecken, wenn er still steht. Die Tarnprobe wird um die Hexes erschwert, die er in dieser Kampfrunde bewegt hat. Ist sie um n geschafft, wird die Gefahreninstinkt-Probe des Ziels um n erschwert. Ist sie um n gescheitert, wird die Gefahreninstinkt-Probe um n erleichtert. Ist die Tarnprobe ein Patzer, schafft das Ziel die Gefahreninstinkt-Probe automatisch.
+- Beim Schleichen bewegt sich der Angreifer höchstens mit der Bewegungsstufe Gehen, nie mit Laufen oder Sprint.
 - Warnt ein Verbündeter, der den Angreifer wahrgenommen hat, vor Gegnern hinter den Gewarnten, sind diese Angreifer den Gewarnten bekannt (verfolgt). Eine Gefahreninstinkt-Probe ist dann nicht nötig.
 - Der Spruch Unsichtbarkeit erschwert die Probe.
 - Ab der Kampfrunde nach seinem ersten Angriff ist der Angreifer bekannt. Der Zustand ist dann „verfolgt“, und es gibt keine weitere Probe.

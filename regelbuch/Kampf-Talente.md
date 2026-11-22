@@ -1,6 +1,6 @@
 ---
 title: Kampf-Talente
-aliases: [Kampf-Talente, Kampfmodul, Kampfmanöver, Kampfmanöver-Talente, Kampfmodul-Talent, Entwaffnen, Finte, Mit Schild umwerfen, Zerschmettern, Gezielter Schlag, Gezielter Schuss, Schnellziehen, Schnell Ziehen, Berittenes Schießen, Kampf mit zwei Waffen, Zwei-Waffen-Kampf, Offensiver Kampfstil, Verteidiger, Kampfstil, Schildkampf, Sekundärhand, Linkshändig Pistolenschießen, Beidhändig Schießen, Mehrfachschuss, Sorgfältiges Zielen, Meuchler]
+aliases: [Kampf-Talente, Kampfmodul, Kampfmanöver, Kampfmanöver-Talente, Kampfmodul-Talent, Entwaffnen, Finte, Kraftvolles Umwerfen, Mit Schild umwerfen, Zerschmettern, Gezielter Schlag, Gezielter Schuss, Schnellziehen, Schnell Ziehen, Berittenes Schießen, Kampf mit zwei Waffen, Zwei-Waffen-Kampf, Offensiver Kampfstil, Verteidiger, Kampfstil, Schildkampf, Sekundärhand, Linkshändig Pistolenschießen, Beidhändig Schießen, Mehrfachschuss, Sorgfältiges Zielen, Meuchler]
 status: entwurf
 ---
 
@@ -61,16 +61,15 @@ Beispiel: Der Held hat X = 6 gewählt, der Fintierte hat nPA 20. Je nach Erfolgs
 
 Beispiel: Peter fintiert einen Banditen, und im Gitter steht ein Ausgang mit Extra-Aktion für den Verteidiger. Peter bekommt keine Extra-Aktion. Wechselt durch den Ausgang die Initiative zum Banditen, hat der Bandit seine Extra-Aktion und seinen Bruchtest wie bei jedem anderen Austausch.
 
-### Mit Schild umwerfen (34 TaP)
+### Kraftvolles Umwerfen (34 TaP)
 
-Umwerfen kann jeder Held ansagen, ohne Talent und ohne Schild. Ablauf, Umwerfen-Vergleichsprobe und die Folgen Straucheln und Sturz stehen im Kapitel [[Nahkampf-im-Kampf]]. Das Talent erlaubt dem Helden, dabei einen getragenen Schild einzusetzen. Der Angriff verursacht auch dann keinen Schaden. Das Talent ändert diese Werte der Grundaktion:
+Umwerfen kann jeder Held ansagen, ohne Talent und ohne Schild. Ablauf, Umwerfen-Vergleichsprobe und die Folgen Straucheln und Sturz stehen im Kapitel [[Nahkampf-im-Kampf]]. Das Talent braucht keinen Schild. Der Angriff verursacht auch dann keinen Schaden. Das Talent ändert genau einen Wert der Grundaktion:
 
-- Die Selbsterschwerung X wählt der Held frei, mindestens 6. In der Grundaktion beträgt sie fest 6.
-- Der Angreifer erhält auf seinen Umwerfen-Probenwert einen Bonus von 2 × X. In der Grundaktion beträgt der Bonus 0.
-- Der Gegner ist je Klassenunterschied um 6 erschwert, wie in der Grundaktion.
-- Die Ausdauerkosten folgen der Formel der Parade mit der Waffenklasse des Schildes: (5 + Schild-WK) / 2, mindestens 2 ([[Nahkampf]]). Die Grundaktion kostet fest 5 Ausdauer.
+- Der Angreifer erhält auf seinen Umwerfen-Probenwert einen Bonus in Höhe seines Stärkebonus, mindestens 0. Bei Stärke 21 oder 22 sind das 6, bei Stärke 31 sind es 11. In der Grundaktion beträgt der Bonus 0.
 
-Beispiel: Der Held wählt X = 8. Seine gAT gegen die nPA des Gegners ist um 8 erschwert und gelingt, der Klassenunterschied ist 1. Sein Umwerfen-Probenwert ist 21, mit dem Bonus 2 × 8 = 16 also 37. Der Gegner hat den Umwerfen-Probenwert 33, abzüglich 6 für den Klassenunterschied also 27. Der Angreifer würfelt 4 und erreicht 37 − 4 = 33. Der Gegner würfelt 2 und erreicht 27 − 2 = 25. Der Angreifer gewinnt mit dem Abstand 8, und der Gegner strauchelt.
+Alle anderen Werte bleiben wie in der Grundaktion: Die Attacke ist fest um 6 erschwert, der Gegner ist je Klassenunterschied um 6 erschwert, und das Umwerfen kostet fest 5 Ausdauer.
+
+Beispiel: Der Held hat Stärke 21, also den Bonus 6. Seine gAT gegen die nPA des Gegners gelingt, der Klassenunterschied ist 1. Sein Umwerfen-Probenwert ist 21, mit dem Bonus also 27. Der Gegner hat den Probenwert 33, abzüglich 6 für den Klassenunterschied also 27. Der Angreifer würfelt 4 und erreicht 23. Der Gegner würfelt 2 und erreicht 25. Der Gegner gewinnt mit dem Abstand 2. Es passiert nichts, aber die Initiative wechselt zum Gegner.
 
 ### Zerschmettern (20 TaP)
 
@@ -231,6 +230,14 @@ Der Schütze schießt mehrere Pfeile mit einer Probe und nimmt dafür einen gete
 
 Schießt der Held im Nahkampf, schießt er mit einem Sofortschuss statt mit einem Hüftschuss ([[Fernkampf-im-Kampf]]). Das Ziel gilt als hakenschlagend, die Erschwerung beträgt insgesamt 16.
 
+Das Talent schaltet außerdem die Kampfaktion Aufgesetzter Schuss immer frei. Sie ist unten beschrieben.
+
+#### Aufgesetzter Schuss
+
+Der Held hält eine geladene Feuerwaffe in der Hand, und der Gegner steht auf einem angrenzenden Hexfeld. Der Held würfelt eine Nahkampf-Attacke mit den Nahkampfwerten seiner Feuerwaffe. Eine Pistole zählt dabei als improvisierte Hiebwaffe, ein Gewehr als improvisierte Stangenwaffe. Gelingt die Attacke, werden die Schadenspunkte des Fernkampf-Schadens der Waffe mit 2 malgenommen. Der Faktor wird mit gewählten Schadensfaktoren der Bonusauswahl multipliziert. AK und Ausdauer kosten wie ein Angriff mit dieser Waffenklasse. Der Schuss verbraucht eine Kugel, danach muss die Waffe nach den normalen Regeln nachgeladen werden.
+
+Ohne das Talent hat der Held die Kampfaktion nur, wenn der Gegner bewegungsunfähig ist oder nicht weiß, dass der Held da ist. Bewegungsunfähig ist jeder Zustand, in dem der Gegner sich nicht bewegen kann, zum Beispiel gelähmt, gefesselt, festgehalten oder bewusstlos. Der Meister entscheidet im Einzelfall.
+
 ### Schnell Schießen (20 TaP)
 
 Die Zielen-Modifikatoren betragen für den Hüftschuss −8 und für den Sofortschuss −4.
@@ -265,7 +272,7 @@ Der Zauberer opfert freiwillig Gesundheit und hebt damit die Schwelle des guten 
 
 Der Held greift mit Messer, Dolch oder Fechtwaffe aus dem Hinterhalt an und umgeht die Rüstung. Das Talent schaltet zwei Fähigkeiten frei, die unbemerkte Attacke und die Attacke im normalen Nahkampf. Beide gelten nur mit den Spezialisierungen Messer, Dolche und Fechtwaffen. Beide wirken über die Bonusauswahl der Attacke ([[Wuerfeln-und-Proben]]).
 
-**Unbemerkte Attacke.** Hat das Ziel die Probe auf Gefahreninstinkt nicht geschafft, richtet die Attacke doppelten Schaden an: Die Schadenspunkte werden mit 2 malgenommen. Bei einem guten oder besseren Erfolg ignoriert sie zusätzlich die Rüstung. Das Bonusbudget der Erfolgsstufe gilt zusätzlich, einschließlich der Zeilen für Schadensfaktoren. Der Ausschluss aus dem normalen Nahkampf (siehe unten) gilt hier nicht.
+**Unbemerkte Attacke.** Hat das Ziel die Probe auf Gefahreninstinkt nicht geschafft (zum Einfluss von Schleichen und Verstecken auf diese Probe siehe [[Kampfrunde-Aktionen-Initiative-und-Sicht]]), richtet die Attacke doppelten Schaden an: Die Schadenspunkte werden mit 2 malgenommen. Bei einem guten oder besseren Erfolg ignoriert sie zusätzlich die Rüstung. Das Bonusbudget der Erfolgsstufe gilt zusätzlich, einschließlich der Zeilen für Schadensfaktoren. Der Ausschluss aus dem normalen Nahkampf (siehe unten) gilt hier nicht.
 
 **Normaler Nahkampf.** Bei einem guten oder besseren Erfolg kann der Held für einen Bonuspunkt die Zusatzzeile „Rüstungsignorierend“ wählen. Bei einem meisterlichen oder besseren Erfolg schließt diese Wahl drei Zeilen aus: „Schadenspunkte + höchster Würfel“, „Schadenspunkte × 2“ und „Schadenspunkte × 3“.
 

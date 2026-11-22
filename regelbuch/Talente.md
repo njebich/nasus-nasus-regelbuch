@@ -104,7 +104,7 @@ Zwei Magus-Schulen: Der Held besitzt Magus der Antimagie, Stufe 1 (+6) und Magus
 Ein Talent der Kampfmanöver kann eine oder mehrere Fähigkeiten freischalten. Der Ablauf einer Fähigkeit steht in der Fähigkeit selbst, nicht im Talent.
 
 - Jede Fähigkeit ist ein eigener Eintrag. Ein Talent kann mehrere Fähigkeiten freischalten, zum Beispiel schaltet Meuchler zwei frei. Mehrere Talente können dieselbe Fähigkeit nutzen.
-- Bedingungen für die Nutzung gehören zur Fähigkeit und sind keine Kaufvoraussetzung des Talents. Das sind zum Beispiel die Waffenbindung bei Meuchler (Messer, Dolche, Fechtwaffen) oder ein getragener Schild bei Mit Schild umwerfen.
+- Bedingungen für die Nutzung gehören zur Fähigkeit und sind keine Kaufvoraussetzung des Talents. Das sind zum Beispiel die Waffenbindung bei Meuchler (Messer, Dolche, Fechtwaffen).
 - Bei gestuften Talenten ersetzt Stufe n + 1 die Stufe n an derselben Fähigkeit. Es zählt nur die höchste Stufe. Die Werte einer Stufe sind Gesamtwerte.
 - Die Vorteile mit dem Namen „Fähigkeit: …“ (zum Beispiel Fliegen oder Teleportation) folgen demselben Muster: Der Vorteil schaltet eine eigene Fähigkeit frei (siehe [[Gaben-und-Schwaechen|Gaben und Schwächen]]).
 

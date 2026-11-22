@@ -89,8 +89,8 @@ Welche Merkmale der Held hat, steht in [[Aussehen-Schlaf-Sinne-und-Koerper|Ausse
 
 | Zustand | Fortbewegung |
 |---|---|
-| Einarmigkeit oder Keine Arme | kein Einfluss auf die Geschwindigkeit |
-| Einbeinigkeit oder Keine Beine, ohne Hilfsmittel (Kriechen) | fest 1 Feld pro Kampfrunde (1 m/s) |
+| Einarmigkeit oder Armlosigkeit | kein Einfluss auf die Geschwindigkeit |
+| Einbeinigkeit oder Beinlosigkeit, ohne Hilfsmittel (Kriechen) | fest 1 Feld pro Kampfrunde (1 m/s) |
 | mit einfacher Krücke oder Holzbein | alle vier Fortbewegungsarten, Geschwindigkeit mal 0,5 |
 | mit angepasster Gehhilfe oder tatkräftiger fremder Hilfe | alle vier Fortbewegungsarten, Geschwindigkeit mal 0,75 |
 

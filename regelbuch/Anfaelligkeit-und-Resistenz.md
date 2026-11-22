@@ -1,12 +1,12 @@
 ---
 title: Anfälligkeit und Resistenz
-aliases: [Anfälligkeit, Resistenz, Immunität, Unempfindlichkeit, Astrale Abschottung, Anfälligkeit gegen Alchemie, Anfälligkeit gegen profane Waffen, Resistenz gegen Beherrschung, Resistenz gegen magische Heilung, Resistenz gegen Verzauberung, Resistenz gegen Erde, Resistenz gegen Feuer, Resistenz gegen Luft, Resistenz gegen Wasser, Resistenz gegen Magie, Immunität gegen Element, Unempfindlichkeit gegen profane Waffen, Meisterliche Resistenz gegen alle Magie, Schadensfaktor]
+aliases: [Anfälligkeit, Resistenz, Immunität, Unempfindlichkeit, Unempfindlichkeit gegen profane Waffen, Resistenz gegen profane Waffen, Astrale Abschottung, Anfälligkeit gegen Alchemie, Anfälligkeit gegen profane Waffen, Resistenz gegen Beherrschung, Resistenz gegen magische Heilung, Resistenz gegen Verzauberung, Resistenz gegen Erde, Resistenz gegen Feuer, Resistenz gegen Luft, Resistenz gegen Wasser, Resistenz gegen Magie, Immunität gegen Element, Unempfindlichkeit gegen profane Waffen, Meisterliche Resistenz gegen alle Magie, Schadensfaktor]
 status: entwurf
 ---
 
 # Anfälligkeit und Resistenz
 
-Manche Helden erleiden von einer Quelle mehr Schaden als andere, manche weniger, manche gar keinen. Die Anfälligkeit erhöht den Schaden aus einer Quelle. Resistenz, Immunität und Unempfindlichkeit senken oder verhindern ihn. Einige Resistenzen wirken nicht auf Schaden, sondern auf Heilung und Zauberwirkung. Die Astrale Abschottung bündelt acht Resistenzen mit einem Magie-Wert von 0.
+Manche Helden erleiden von einer Quelle mehr Schaden als andere, manche weniger, manche gar keinen. Die Anfälligkeit erhöht den Schaden aus einer Quelle. Resistenz und Immunität senken oder verhindern ihn. Einige Resistenzen wirken nicht auf Schaden, sondern auf Heilung und Zauberwirkung. Die Astrale Abschottung bündelt acht Resistenzen mit einem Magie-Wert von 0.
 
 Alle Einträge sind [[Vor-und-Nachteile|Vor- und Nachteile]]. Dort steht, wie Kauf, Verkauf und Entfernung allgemein funktionieren. Dieses Kapitel sagt, was die Einträge bewirken. „Entwicklungspunkte“ und „Schadenspunkte“ stehen hier ausgeschrieben, weil beide „EP“ abgekürzt werden.
 
@@ -19,7 +19,7 @@ Schaden durchläuft sieben Schritte ([[Treffer-und-Schaden]]):
 1. Die Schadenspunkte entstehen: der gewürfelte Schaden plus Bonus oder Modifikator aus einem guten, meisterlichen oder fröhlichen Erfolg.
 2. Der magische Schild wird abgezogen.
 3. Der Rüstungsschutz (RS) und der magische Rüstungsschutz werden abgezogen, ob die Rüstung getragen, natürlich oder magisch ist.
-4. Resistenz, Anfälligkeit oder Unempfindlichkeit wirken. Hier werden aus den Schadenspunkten die Trefferpunkte (TP).
+4. Resistenz oder Anfälligkeit wirken. Hier werden aus den Schadenspunkten die Trefferpunkte (TP).
 5. Der Leberschutz wird abgezogen.
 6. Die verbleibenden Trefferpunkte werden mit dem Trefferzonen-Faktor malgenommen.
 7. Die Trefferpunkte gehen auf die Lebensenergie (LE) der getroffenen Zone. Ein Überlauf geht auf die Gesundheit.
@@ -28,7 +28,7 @@ Ein guter, meisterlicher oder fröhlicher Erfolg kann den Wert bei seiner Bildun
 
 Daraus folgt:
 
-- Alle Faktoren von Anfälligkeit, Element-Resistenz und Unempfindlichkeit sitzen in Schritt 4. Das gilt auch für die Element-Resistenzen, die in der Astralen Abschottung stecken. Ein Feuerball mit W8 verursacht W8 Schadenspunkte, gleich wen er trifft. Die Anfälligkeit macht daraus nicht 2W8, sondern multipliziert den Wert nach der Rüstung.
+- Alle Faktoren von Anfälligkeit, Element-Resistenz und Resistenz gegen profane Waffen sitzen in Schritt 4. Das gilt auch für die Element-Resistenzen, die in der Astralen Abschottung stecken. Ein Feuerball mit W8 verursacht W8 Schadenspunkte, gleich wen er trifft. Die Anfälligkeit macht daraus nicht 2W8, sondern multipliziert den Wert nach der Rüstung.
 - Die Immunität gegen ein Element negiert den Schaden vor Schritt 4 vollständig. Es entstehen keine Trefferpunkte.
 - Die Resistenz gegen Beherrschung, gegen magische Heilung und gegen Verzauberung sind keine Faktoren des Schadensablaufs. Sie ändern Gegenproben, Heilbeträge und Zauberwirkungen direkt.
 
@@ -36,7 +36,7 @@ Daraus folgt:
 
 ### Anfälligkeit gegen eine Schadensquelle
 
-Es gibt sieben Gruppen: Beherrschung, Erdbeschwörung, Feuerbeschwörung, Luftbeschwörung, Magiebeschwörung, Wasserbeschwörung und profane Waffen. Jede Gruppe hat beide Stufen. Die Anfälligkeit ist ein Nachteil und bringt Entwicklungspunkte ein:
+Es gibt sechs Schadensgruppen: Erdbeschwörung, Feuerbeschwörung, Luftbeschwörung, Magiebeschwörung, Wasserbeschwörung und profane Waffen. Beherrschung ist keine Schadensgruppe, siehe unten. Jede Gruppe hat beide Stufen. Die Anfälligkeit ist ein Nachteil und bringt Entwicklungspunkte ein:
 
 - **Stufe 1:** Die Trefferpunkte aus dieser Quelle werden mit 1,5 malgenommen. Der Nachteil bringt 200 Entwicklungspunkte.
 - **Stufe 2:** Die Trefferpunkte aus dieser Quelle werden mit 2 malgenommen. Der Nachteil bringt 500 Entwicklungspunkte.
@@ -46,6 +46,15 @@ Je Gruppe gilt höchstens eine Stufe. Verschiedene Gruppen sind kombinierbar, zu
 Der Faktor wirkt in Schritt 4 auf die Trefferpunkte, nach jeder Rüstungs- und Schildschicht. Die Rüstung wird weder multipliziert noch umgangen.
 
 Jede Anfälligkeit ist ein dauerhaftes Merkmal. Der Held kann sie nur bei der Erschaffung wählen, danach lässt sie sich weder verkaufen noch entfernen, und sie steht in der Warnung vor dem Abschluss der Erschaffung ([[Vor-und-Nachteile]]).
+
+### Anfälligkeit gegen Beherrschung
+
+Aus Beherrschung entsteht kein Schaden. Die Anfälligkeit gegen Beherrschung ist deshalb kein Schadensfaktor: Sie erschwert die eigene Gegenprobe des Helden gegen Beherrschungswirkungen. Sie ist das Spiegelbild der Resistenz gegen Beherrschung. Der Nachteil hat zwei Stufen:
+
+- **Stufe 1:** Die Erschwerung der Gegenprobe wird mit 1,5 malgenommen. Der Nachteil bringt 200 Entwicklungspunkte.
+- **Stufe 2:** Die Erschwerung der Gegenprobe wird mit 2 malgenommen. Der Nachteil bringt 500 Entwicklungspunkte.
+
+Nach jeder Multiplikation wird aufgerundet. Es gilt höchstens eine Stufe. Auch diese Anfälligkeit ist ein dauerhaftes Merkmal, wie oben beschrieben.
 
 ### Anfälligkeit gegen Alchemie
 
@@ -123,9 +132,9 @@ Es gibt die Immunität gegen Erde, Feuer, Luft, Magie und Wasser. Jede kostet 0 
 - Die Immunität verhindert jeden Schaden durch das eigene Element. Der Schaden wird vor Schritt 4 vollständig negiert, es entstehen keine Trefferpunkte.
 - Sie ist ein dauerhaftes Merkmal.
 
-## Unempfindlichkeit gegen profane Waffen
+## Resistenz gegen profane Waffen
 
-Die Unempfindlichkeit gegen profane Waffen kostet 1000 Entwicklungspunkte und ist ein dauerhaftes Merkmal, das der Held nur bei der Erschaffung wählen kann. Sie halbiert die Trefferpunkte durch profane Waffen in Schritt 4, auf derselben Stufe wie der Faktor der Anfälligkeit und nicht auf den Rohschaden vor der Minderung.
+Die Resistenz gegen profane Waffen kostet 1000 Entwicklungspunkte und ist ein dauerhaftes Merkmal, das der Held nur bei der Erschaffung wählen kann. Sie halbiert die Trefferpunkte durch profane Waffen in Schritt 4, auf derselben Stufe wie der Faktor der Anfälligkeit und nicht auf den Rohschaden vor der Minderung.
 
 Ihr Spiegel ist der Nachteil Anfälligkeit gegen profane Waffen, Stufe 2. Er multipliziert die Trefferpunkte mit 2, genau umgekehrt und auf derselben Stufe des Schadensablaufs.
 

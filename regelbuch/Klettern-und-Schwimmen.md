@@ -44,13 +44,13 @@ Welche Merkmale der Held hat, steht in [[Aussehen-Schlaf-Sinne-und-Koerper|Ausse
 |---|---|---|
 | 2 Arme, 2 Beine | volle Formel | volle Formel |
 | Einarmigkeit, 2 Beine | mal 0,75 | unmöglich |
-| Keine Arme, 2 Beine | mal 0,5 | unmöglich |
+| Armlosigkeit, 2 Beine | mal 0,5 | unmöglich |
 | 2 Arme, Einbeinigkeit | mal 0,5 | mal 0,5 |
-| 2 Arme, Keine Beine | mal 0,25 | mal 0,25 |
+| 2 Arme, Beinlosigkeit | mal 0,25 | mal 0,25 |
 | Einarmigkeit, Einbeinigkeit | mal 0,25 | unmöglich |
-| Einarmigkeit, Keine Beine | ganz unmöglich | unmöglich |
-| Keine Arme, Einbeinigkeit | ganz unmöglich | unmöglich |
-| Keine Arme, Keine Beine | ganz unmöglich | unmöglich |
+| Einarmigkeit, Beinlosigkeit | ganz unmöglich | unmöglich |
+| Armlosigkeit, Einbeinigkeit | ganz unmöglich | unmöglich |
+| Armlosigkeit, Beinlosigkeit | ganz unmöglich | unmöglich |
 
 Fehlt dem Helden ein Arm oder fehlen ihm beide, kann er weder frei klettern noch am Seil klettern, gleich wie es um seine Beine steht. Leiter Steigen setzt mindestens zwei funktionsfähige Gliedmaßen insgesamt voraus. Mit nur einer oder keiner Gliedmaße ist auch das unmöglich, gleich ob die verbliebene Gliedmaße ein Arm oder ein Bein ist.
 

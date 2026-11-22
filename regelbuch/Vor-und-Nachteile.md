@@ -10,8 +10,8 @@ Der Held kauft Vorteile mit [[Abenteuer-Entwicklungs-und-Talentpunkte|Entwicklun
 
 Wie ein Eintrag wirkt, steht in den Kapiteln zu den einzelnen Einträgen:
 
-- [[Anfaelligkeit-und-Resistenz|Anfälligkeit, Resistenz, Unempfindlichkeit, Immunität und Astrale Abschottung]]
-- [[Aussehen-Schlaf-Sinne-und-Koerper|Aussehen- und Schlaf-Profil, Sicht-Merkmale (Blindheit, Einäugig, Nacht- und Dämmerungssicht, Astrales Auge, Blinder Kampf) und Körper- und Sprech-Merkmale (Einarmigkeit, Einbeinigkeit, Keine Arme, Keine Beine, Stumm)]]
+- [[Anfaelligkeit-und-Resistenz|Anfälligkeit, Resistenz, Immunität und Astrale Abschottung]]
+- [[Aussehen-Schlaf-Sinne-und-Koerper|Aussehen- und Schlaf-Profil, Sicht-Merkmale (Blindheit, Einäugig, Nacht- und Dämmerungssicht, Astrales Auge, Blinder Kampf) und Körper- und Sprech-Merkmale (Einarmigkeit, Einbeinigkeit, Armlosigkeit, Beinlosigkeit, Stummheit)]]
 - [[Gaben-und-Schwaechen|Besondere Fähigkeiten, Schlechte Eigenschaft, Kind der Fröhlichkeit]], dazu Fettleibig, Träge Reflexe, Sprachtalent und Weltgewandt
 - Der Vorteil „SF: Alchemieresistenz“ kostet 120 Entwicklungspunkte und öffnet den Kauf der [[Sonderfertigkeiten|Sonderfertigkeit]] Alchemieresistenz. Das Maximum der Sonderfertigkeit bleibt 12.
 
@@ -80,9 +80,9 @@ Jeder Eintrag des Katalogs gehört genau einer von drei Klassen an. Wenige Eintr
 - Einäugig
 - Infrarotsicht
 - jede Untergruppe von Anfälligkeit: Beherrschung, jede Elementar-Beschwörung, profane Waffen, Alchemie
-- Unempfindlichkeit gegen profane Waffen und die gespiegelte Anfälligkeit gegen profane Waffen. Beide folgen dem Standardablauf der Anfälligkeit.
+- Resistenz gegen profane Waffen und die gespiegelte Anfälligkeit gegen profane Waffen. Beide folgen dem Standardablauf der Anfälligkeit.
 - Immunität gegen ein Element (5 Einträge). Sie sind zusätzlich nur vom Meister vergebbar und nur für Elementare.
-- Einarmigkeit, Einbeinigkeit, Keine Arme, Keine Beine und Stumm. Die Gutschrift beträgt je Gliedmaße 400 EP, bei Stumm 300 EP.
+- Einarmigkeit, Einbeinigkeit, Armlosigkeit, Beinlosigkeit und Stummheit. Die Gutschrift beträgt je Gliedmaße 400 EP, bei Stummheit 300 EP.
 - das Schlaf-Profil (alle 4 Stufen, 0 EP) und das Aussehen-Profil (alle 7 Stufen). Das sind Pflichtachsen, die nach der Erschaffung nur der Meister wechseln kann.
 - Allerweltsgesicht (250 EP). Der Ruhm des Helden kann es regional aussetzen.
 - Sprachtalent (50 EP), Weltgewandt (100 EP), Fettleibig (−100 EP) und Träge Reflexe (−120 EP). Sie sind nur bei der Erschaffung zu haben, ohne Kreis-Alternative, und deshalb dauerhaft.

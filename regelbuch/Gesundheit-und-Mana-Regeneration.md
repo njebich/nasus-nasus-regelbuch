@@ -81,6 +81,10 @@ Trägt der Held mehrere Lagen, zählt nur der höchste Malus. Mali mehrerer Lage
 
 Der Malus wirkt auf den Schlafwurf für Gesundheit und auf den Schlafwurf für Mana gleichermaßen.
 
+### Regenerationsklasse
+
+Auch das Schlaf-Profil des Helden verschiebt die Registufe: Insomnia um −3, Leichter Schlaf um −1, Normal um 0, Tiefer Schlaf um +1. Die Verschiebung rechnet sich zusätzlich zum Rüstungs-Malus. Die Registufe bleibt auf der Skala 0 bis 7. Fällt sie auf 0 oder darunter, gibt es keinen Schlafwurf (siehe unten). Das Profil beschreibt das Kapitel [[Aussehen-Schlaf-Sinne-und-Koerper]].
+
 ## Der Schlafwurf für Mana
 
 Eine abgeschlossene Schlafphase gibt dem Helden einen einmaligen Wurf auf die Würfelstufe seiner Registufe. Das Ergebnis kommt zur Stundenrate dazu. Die gesamte Regeneration (Stundenrate plus Schlafwurf) bleibt durch das Mana-Maximum gedeckelt. Fällt die Registufe auf 0 oder darunter, entfällt der Mana-Würfel. Die Stundenrate läuft trotzdem weiter.

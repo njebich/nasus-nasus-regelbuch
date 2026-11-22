@@ -174,7 +174,7 @@ Die Kontrollreichweite ist Macht × 10 m, für Menschen und Tiere gleich.
 - der Zauber Stumm (Beherrschung, Grad 2, anhaltend). Wirkungsdauer und Löseprobe gehören zum Zauber ([[Spruchmagie]]);
 - das Alchemikum Zungengift ([[Alchemika]]);
 - der Verlust der Zunge im Spiel. Der Held ist dann stumm, bis die Zunge geheilt wird (Heilung, Grad 5; weitere Wege nennt [[Aussehen-Schlaf-Sinne-und-Koerper]]). Das ist kein Kauf: Es gibt keine EP und keine EP-Kosten bei der Entfernung;
-- das Körpermerkmal Stumm. Es ist dauerhaft und nicht entfernbar.
+- das Körpermerkmal Stummheit. Es ist dauerhaft und nicht entfernbar.
 
 **Wirkung.** Das Opfer bringt keinen Ton heraus. Man hört nur die Atemluft. Artikuliertes Sprechen ist unmöglich. Nur die Spruchmagie ist betroffen. KI, Psi und Wunder haben keine zwingende Sprachkomponente und bleiben unberührt. Für die Spruchmagie gilt nach Zauberstufe:
 
@@ -189,9 +189,9 @@ Der Zustand gibt keine Behinderung.
 **Besonderheiten.**
 
 - **Zungengift.** Solange die ZbW des Gifts läuft ([[Alchemika]]), gilt eine abgeschwächte Variante nach Ermessen des Meisters, zum Beispiel ein teilweiser Stummausfall. Die volle Wirkung gilt ab dem Ende der ZbW. Alchemieresistenz ändert sie nicht, weil die Wirkung nicht numerisch ist.
-- **Keine Arme.** Wer zugleich das Merkmal Keine Arme hat, kann Spruchmagie nur auf Zauberstufe 3 wirken.
+- **Armlosigkeit.** Wer zugleich das Merkmal Armlosigkeit hat, kann Spruchmagie nur auf Zauberstufe 3 wirken.
 
-**Beispiel.** Ein Opfer steht unter dem Zauber Stumm (Wirkungsdauer 20 Sekunden ab Sekunde 0) und bekommt in Sekunde 5 Zungengift (Wirkungsdauer 60 Sekunden, endet in Sekunde 65). In Sekunde 25 ist der Zauber vorbei, das Gift läuft noch: Das Opfer bleibt stumm bis Sekunde 65. Es ist nie doppelt stumm, und das Gift verlängert die Zauberdauer nicht. Will es in dieser Zeit einen Zauber wirken, geht Stufe 1 (Geste und Formel) nicht, Stufe 2 nur mit Geste und ohne Formel, Stufe 3 geht. Ein Geweihter mit Stumm kann Wunder weiter wirken, denn Wunder sind nicht betroffen. Hat das Opfer zusätzlich das Merkmal Keine Arme, geht Spruchmagie nur auf Stufe 3.
+**Beispiel.** Ein Opfer steht unter dem Zauber Stumm (Wirkungsdauer 20 Sekunden ab Sekunde 0) und bekommt in Sekunde 5 Zungengift (Wirkungsdauer 60 Sekunden, endet in Sekunde 65). In Sekunde 25 ist der Zauber vorbei, das Gift läuft noch: Das Opfer bleibt stumm bis Sekunde 65. Es ist nie doppelt stumm, und das Gift verlängert die Zauberdauer nicht. Will es in dieser Zeit einen Zauber wirken, geht Stufe 1 (Geste und Formel) nicht, Stufe 2 nur mit Geste und ohne Formel, Stufe 3 geht. Ein Geweihter mit Stumm kann Wunder weiter wirken, denn Wunder sind nicht betroffen. Hat das Opfer zusätzlich das Merkmal Armlosigkeit, geht Spruchmagie nur auf Stufe 3.
 
 ## Emotion, Stimmung und Verhalten
 
@@ -306,7 +306,7 @@ Die Wunde hat keine eigene Wirkung und keinen Malus. Sie löst genau eine Blutun
 
 Die Trefferzonengruppe, die ein einzelner Treffer mit TP ≥ volle LE der Zone trifft, gilt als gebrochen. Die Schwelle ist ein fester Betrag, nämlich die maximale Lebensenergie ([[Glossar#LE|LE]]) der Zone. Der aktuelle Stand vor dem Treffer ändert sie nicht. Eine Zone, die durch frühere Treffer auf 3 von 10 LE gesunken ist, braucht für einen neuen Bruch weiterhin TP ≥ 10, nicht TP ≥ 3.
 
-Ein Bruch ist deshalb mehr als LE 0. Bringen mehrere kleinere Treffer eine Zone zusammen auf LE 0, entsteht nur die einfache Behinderung der Zone. Der Bruch bringt die verdoppelte Behinderung (Wert mal 2), und zwar auch dann, wenn die Zone vor dem Treffer nicht bei voller LE stand ([[Treffer-und-Schaden]], [[Behinderung-und-Erschwerung]]). Der Bruch bleibt als eigener Zustand der Zonengruppe bestehen, auch wenn die LE später wieder steigt.
+Ein Bruch ist deshalb mehr als LE 0. Bringen mehrere kleinere Treffer eine Zone zusammen auf LE 0, entsteht nur die einfache Behinderung der Zone. Der Bruch bringt die verdoppelte Behinderung (Wert mal 2), und zwar auch dann, wenn die Zone vor dem Treffer nicht bei voller LE stand ([[Treffer-und-Schaden]], [[Behinderung-und-Erschwerung]]). Der Bruch bleibt als eigener Zustand der Zonengruppe bestehen, auch wenn die LE später wieder steigt. Er trägt die Körperliche und die Mentale Behinderung (KBE und MBE) je in Höhe der doppelten Zonen-Behinderung: Arm 6, Bein 8, bei beiden Armen 12, bei beiden Beinen 16.
 
 **Hände und Füße.** Hand und Fuß haben keine eigene LE, sie teilen die LE der ganzen Arm- oder Beinzonengruppe. Ein Treffer auf die Hand (Würfe 53–54 und 66–67) oder den Fuß (Würfe 80 und 90) bricht die Gruppe schon ab der Hälfte der maximalen LE der Gruppe, aufgerundet. Bei einem Treffer auf die reguläre Arm- oder Beinzeile gilt die volle maximale LE der Gruppe.
 
@@ -321,15 +321,15 @@ Ohne einen dieser beiden Wege bleibt der Bruch mit der Behinderung mal 2 dauerha
 
 ### Heilender Knochen
 
-Der Heilende Knochen ist die Stufe zwischen Bruch und Heilung, wenn der Bruch nicht magisch geheilt wurde. Er trägt die Behinderung nur noch mal 1 statt mal 2, solange er besteht.
+Der Heilende Knochen ist die Stufe zwischen Bruch und Heilung, wenn der Bruch nicht magisch geheilt wurde. Er trägt nur noch die einfache Körperliche Behinderung (Arm 3, Bein 4, bei beiden Armen 6, bei beiden Beinen 8) und keine Mentale Behinderung mehr, solange er besteht.
 
 Er endet, sobald mindestens zwei Drittel der LE der Zone wiederhergestellt sind, aufgerundet. Dann ist die Behinderung mal 0, der Knochen ist vollständig geheilt.
 
-**Beispiel.** Der gebrochene Arm aus dem vorigen Beispiel wird mit einer Medizin-Probe, Rezeptschwierigkeit 6, behandelt. Der Zustand wechselt zu Heilender Knochen, die Behinderung sinkt auf 3 mal 1 = 3. Nach der Regeneration steht die Zone bei 7 von 10 LE, das sind 70 % und damit über der Schwelle von zwei Dritteln (aufgerundet 7). Die Behinderung endet, der Arm ist geheilt. Hätte ein Heilzauber den Bruch behandelt, statt eine Wunde zu schließen, wäre er sofort vollständig beendet gewesen, gleich bei welchem LE-Stand.
+**Beispiel.** Der gebrochene Arm aus dem vorigen Beispiel wird mit einer Medizin-Probe, Rezeptschwierigkeit 6, behandelt. Der Zustand wechselt zu Heilender Knochen, die KBE sinkt auf 3, die MBE auf 0. Nach der Regeneration steht die Zone bei 7 von 10 LE, das sind 70 % und damit über der Schwelle von zwei Dritteln (aufgerundet 7). Die Behinderung endet, der Arm ist geheilt. Hätte ein Heilzauber den Bruch behandelt, statt eine Wunde zu schließen, wäre er sofort vollständig beendet gewesen, gleich bei welchem LE-Stand.
 
 ### Amputiert
 
-Die getroffene Zone ist dauerhaft verloren. Die Behinderung entspricht der Behinderung bei LE 0 dieser Zonengruppe, ein höherer Wert gilt nicht.
+Die getroffene Zone ist dauerhaft verloren. Die Körperliche Behinderung (KBE) startet beim doppelten Wert der Zone (Arm 6, Bein 8, bei beiden Armen 12, bei beiden Beinen 16) und sinkt um 1 je Woche (7 magische Tage), bis sie den einfachen Wert erreicht (Arm 3, Bein 4, bei beiden Armen 6, bei beiden Beinen 8). Dort bleibt sie. Mit der vollständigen Wiederherstellung der Gliedmaße enden KBE und MBE sofort.
 
 **Auslöser.** Ein einzelner Treffer mit TP ≥ volle LE der Zone plus volle Gesundheit amputiert, aber nur scharfer Schaden. Das Auge ist die Ausnahme: Dort amputieren auch andere Schadensarten. Bei Händen und Füßen reicht schon TP ≥ maximale LE der geteilten Arm- oder Beinzonengruppe, ohne den Anteil der Gesundheit. Wie beim Bruch zählt der einzelne Treffer, nicht die Zahl der Wunden.
 
@@ -341,9 +341,19 @@ Die getroffene Zone ist dauerhaft verloren. Die Behinderung entspricht der Behin
 
 Totale Regeneration stellt nur Zonen wieder her, die noch vorhanden sind, und bringt eine Gliedmaße nicht zurück. Auch das Wunder Lahjas Kuss heilt LE, aber fehlende Gliedmaßen wachsen damit nicht nach. Die bloße Regeneration der LE bringt sie ebenfalls nicht zurück.
 
-**Mentale Behinderung.** Bei traumatischem Verlust startet die Mentale Behinderung (MBE) sofort mit dem vollen Wert der Zone (Arm 3, Bein 4). Sie sinkt um 1 mit jedem neuen magischen Tag, von Sonnenaufgang zu Sonnenaufgang ([[Zeit-und-Spielablauf]]), bis auf 0. Danach bleibt dauerhaft nur noch die Körperliche Behinderung (KBE). Das gilt unabhängig davon, ob die Zone Wunden hat oder wie viel LE sie besitzt. Dieser Zustand bringt keine Entwicklungspunkte und kostet auch keine. Die angeborene Variante, die der Spieler zur Erschaffung kauft (−400 oder −800 Entwicklungspunkte), ist ein anderer Eintrag ([[Aussehen-Schlaf-Sinne-und-Koerper]]).
+**Mentale Behinderung.** Bei traumatischem Verlust startet die Mentale Behinderung (MBE) sofort mit dem vollen Wert der Zone (Arm 3, Bein 4). Sie sinkt um 1 mit jedem neuen magischen Tag, von Sonnenaufgang zu Sonnenaufgang ([[Zeit-und-Spielablauf]]), bis auf 0. Danach gilt nur noch die Körperliche Behinderung (KBE). Das gilt unabhängig davon, ob die Zone Wunden hat oder wie viel LE sie besitzt. Dieser Zustand bringt keine Entwicklungspunkte und kostet auch keine. Die angeborene Variante, die der Spieler zur Erschaffung kauft (−400 oder −800 Entwicklungspunkte), ist ein anderer Eintrag ([[Aussehen-Schlaf-Sinne-und-Koerper]]).
 
-**Beispiel.** Ein scharfer Treffer mit TP ≥ LE plus Gesundheit amputiert einen Arm. Die Körperliche Behinderung bleibt dauerhaft bei 3. Die Mentale Behinderung startet bei 3 und sinkt an den folgenden drei magischen Tagen auf 2, 1 und 0. Den Arm bringen erst Gliedmaßen nachwachsen lassen, die KI-Fähigkeit KI-Regeneration oder Ruf des Tepod zurück. Totale Regeneration oder die bloße Regeneration der LE tun das nicht.
+**Beispiel.** Ein scharfer Treffer mit TP ≥ LE plus Gesundheit amputiert einen Arm. Die Körperliche Behinderung startet bei 6 und sinkt jede Woche um 1, bis sie bei 3 bleibt. Die Mentale Behinderung startet bei 3 und sinkt an den folgenden drei magischen Tagen auf 2, 1 und 0. Den Arm bringen erst Gliedmaßen nachwachsen lassen, die KI-Fähigkeit KI-Regeneration oder Ruf des Tepod zurück. Totale Regeneration oder die bloße Regeneration der LE tun das nicht.
+
+### Einarmig, Einbeinig, Armlos und Beinlos
+
+Diese vier Zustände entstehen automatisch, sobald eine Gliedmaße gebrochen (auch Heilender Knochen) oder amputiert ist. Einarmig gilt bei einem Arm, Armlos bei beiden Armen, Einbeinig bei einem Bein, Beinlos bei beiden Beinen. Sie enden, sobald keiner dieser Zustände mehr an der Gliedmaße besteht. Sie bringen keine Entwicklungspunkte.
+
+Die Zustände tragen keine eigene Behinderung. Die KBE und die MBE kommen ausschließlich aus dem Bruch, dem Heilenden Knochen und der Amputation, sie werden nicht ein zweites Mal gezählt. Die Zustände regeln, was der Held nicht mehr kann:
+
+- **Armlos:** keine Waffenführung (kein Nah-, Fern-, Wurf- oder Schildeinsatz). Spruchmagie ist nur auf Zauberstufe 2 oder 3 möglich, zusammen mit dem Zustand Stumm nur auf Stufe 3.
+- **Beinlos:** nur kriechende Fortbewegung (1 Feld pro Kampfrunde), und nur mit mindestens zwei funktionsfähigen Gliedmaßen.
+- **Einarmig und Einbeinig:** die Folgen aus [[Aussehen-Schlaf-Sinne-und-Koerper]] und [[Bewegung]] (Einbeinig: Fortbewegung eingeschränkt, je nach Hilfsmittel).
 
 ### Krank
 
@@ -368,7 +378,7 @@ Es gibt keinen gemeinsamen Zustand „Vergiftet“. Jedes Gift wirkt auf eine vo
 - **Schlafgift** (drei Stufen, unmagisch). Der Betroffene fällt in den Zustand Schlaf, mit dem natürlichen Wach-Rhythmus (Sinnesschärfe und Gefahreninstinkt). Die Kadenz des Zaubers Einschläfern gilt nicht. Die Stufen entsprechen den Schlaf-Profilen: leicht = Leichter Schlaf, normal = Normal, stark = Tiefer Schlaf.
 - **Lähmungsgift** (alle drei Stufen gleich). Die betroffene Trefferzone gilt als mit einem Treffer auf 0 gebracht: Sie ist gebrochen, mit der Behinderung mal 2. Das Lähmungsgift endet mit der Wirkungsdauer. Ist es ein magisches Gift, wirkt ein Antimagie-Zauber dagegen, ebenso die Mächtige Entseuchung (Heilung, Grad 6); gegen ein unmagisches Gift wirkt Entseuchung (Heilung, Grad 4). Ein Antidot ([[Alchemika]]) wirkt gegen magisches wie unmagisches Gift: Es gibt eine neue Alchemieresistenz-Probe gegen jedes Alchemikum, das gerade wirkt. Die Heilungsregeln des echten Bruchs (Medizin-Probe, Heilender Knochen) gelten hier nicht. Der LE-Stand der Zone bleibt unverändert.
 
-**Gift mit eigenem Zustand.** Zungengift (alle Stufen textgleich, „Artikuliertes Sprechen unmöglich“) führt für die Wirkungsdauer in den Zustand Stumm. Der Betroffene gibt keinen Ton von sich und kann Zauber nur ab Zauberstufe 2 ohne Formel wirken. Es ist derselbe Zustand wie bei dem Zauber Stumm und dem Körpermerkmal Stumm.
+**Gift mit eigenem Zustand.** Zungengift (alle Stufen textgleich, „Artikuliertes Sprechen unmöglich“) führt für die Wirkungsdauer in den Zustand Stumm. Der Betroffene gibt keinen Ton von sich und kann Zauber nur ab Zauberstufe 2 ohne Formel wirken. Es ist derselbe Zustand wie bei dem Zauber Stumm und dem Körpermerkmal Stummheit.
 
 **Gifte mit unmittelbarer Wirkung, ohne Zustand.**
 

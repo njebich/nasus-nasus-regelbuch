@@ -305,7 +305,7 @@ Der Schaden durchläuft sieben Schritte:
 1. Schadenspunkte aus dem gewürfelten Schaden plus Bonus
 2. magischer Schild
 3. Rüstungsschutz ([[Glossar#RS|RS]])
-4. Anfälligkeit, Resistenz oder Unempfindlichkeit. Hier werden aus den Schadenspunkten die Trefferpunkte ([[Glossar#TP|TP]]).
+4. Anfälligkeit oder Resistenz. Hier werden aus den Schadenspunkten die Trefferpunkte ([[Glossar#TP|TP]]).
 5. Leberschutz
 6. Faktor der Trefferzone
 7. Abzug von der Lebensenergie

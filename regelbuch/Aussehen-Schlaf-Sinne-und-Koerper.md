@@ -1,6 +1,6 @@
 ---
 title: Aussehen, Schlaf, Sinne und Körper
-aliases: [Aussehen, Schlaf, Schlaf-Profil, Aussehen-Profil, Pflichtprofil, Allerweltsgesicht, Insomnia, Leichter Schlaf, Tiefer Schlaf, Sinne, Sehen, Zielsinn, Komplementärsinn, Z-Mod, K-Mod, Blindheit, Einäugig, Kurzsichtigkeit, Weitsichtigkeit, Brille, Dämmerungssicht, Nachtsicht, Astrales Auge, Blinder Kampf, schlechter Sinn, scharfer Sinn, Körper-Merkmale, Sprech-Merkmale, Einarmigkeit, Einbeinigkeit, Keine Arme, Keine Beine, Stumm]
+aliases: [Aussehen, Schlaf, Schlaf-Profil, Aussehen-Profil, Pflichtprofil, Allerweltsgesicht, Insomnia, Leichter Schlaf, Tiefer Schlaf, Sinne, Sehen, Zielsinn, Komplementärsinn, Z-Mod, K-Mod, Blindheit, Einäugig, Kurzsichtigkeit, Weitsichtigkeit, Brille, Dämmerungssicht, Nachtsicht, Astrales Auge, Blinder Kampf, schlechter Sinn, scharfer Sinn, Körper-Merkmale, Sprech-Merkmale, Einarmigkeit, Einbeinigkeit, Armlosigkeit, Beinlosigkeit, Stumm]
 status: entwurf
 ---
 
@@ -60,7 +60,7 @@ Das Aussehen bestimmt, wie leicht der Held mit seiner Ausstrahlung Eindruck mach
 
 ### Wirkung auf Proben
 
-Die Modifikatoren der dritten Spalte gelten für alle Proben auf [[Grundfertigkeiten]], auf Wissens-, Handwerks- und Kulturfertigkeiten ([[Glossar#WHK|WHK]], Kapitel [[Wissens-Handwerks-und-Kulturfertigkeiten]]) und auf Sprach- und Kultur-Fertigkeiten ([[Glossar#SSK|SSK]]), in die die Ausstrahlung oder ihr Eigenschaftsbonus eingeht. Ein negatives Aussehen erschwert diese Proben, ein positives erleichtert sie ([[Behinderung-und-Erschwerung|Erschwerung]]).
+Die Modifikatoren der dritten Spalte gelten für alle Proben auf [[Grundfertigkeiten]], auf Wissens-, Handwerks- und Kulturfertigkeiten ([[Glossar#WHK|WHK]], Kapitel [[Wissens-Handwerks-und-Kulturfertigkeiten]]), in die die Ausstrahlung oder ihr Eigenschaftsbonus eingeht. Ein negatives Aussehen erschwert diese Proben, ein positives erleichtert sie ([[Behinderung-und-Erschwerung|Erschwerung]]).
 
 Nicht betroffen sind Proben ohne Ausstrahlung oder Eigenschaftsbonus Ausstrahlung, außerdem Kampfproben, Zauberproben und reine Eigenschaftsproben, auch die Probe auf die blanke Ausstrahlung.
 
@@ -77,7 +77,7 @@ Es fällt allen Lebewesen schwer, sich überhaupt an den Helden zu erinnern. Ein
 1. Zuerst eine Sinnesschärfe-Probe, erschwert um 12 minus den Eigenschaftsbonus Ausstrahlung des beschriebenen Helden ([[Eigenschaften]]).
 2. Dann eine Intelligenzprobe, erschwert um denselben Wert.
 
-Nur wenn beide Proben gelingen, ist die Beschreibung aussagekräftig. Je ausstrahlungsstärker der Held, desto kleiner die Erschwerung. Liegt der Eigenschaftsbonus Ausstrahlung über 12, entfällt sie. Sie sinkt nicht unter 0.
+Nur wenn beide Proben gelingen, ist die Beschreibung aussagekräftig. Je ausstrahlungsstärker der Held, desto kleiner die Erschwerung. Die Erschwerung beträgt mindestens 3: Liegt der Eigenschaftsbonus Ausstrahlung über 9, gilt trotzdem 3.
 
 Hat der Held in einer Region Ruhm erlangt, kann der Meister die Wirkung des Allerweltsgesichts dort aussetzen: Man erkennt ihn dann trotz des vergesslichen Gesichts. Wechselt der Held bewusst Kleidung und Stil, wirkt das Allerweltsgesicht wieder.
 
@@ -85,7 +85,7 @@ Hat der Held in einer Region Ruhm erlangt, kann der Meister die Wirkung des Alle
 
 ### Beispiele
 
-- **Schön (90 EP).** Der Spieler zahlt 90 EP. Der Held erhält auf alle Proben auf Grundfertigkeiten, WHK und SSK, in die die Ausstrahlung oder ihr Eigenschaftsbonus eingeht, eine Erleichterung um 4. Will ein Zeuge ihn später beschreiben, ist dessen Intelligenzprobe um 3 erleichtert.
+- **Schön (90 EP).** Der Spieler zahlt 90 EP. Der Held erhält auf alle Proben auf Grundfertigkeiten und WHK, in die die Ausstrahlung oder ihr Eigenschaftsbonus eingeht, eine Erleichterung um 4. Will ein Zeuge ihn später beschreiben, ist dessen Intelligenzprobe um 3 erleichtert.
 - **Normal mit Allerweltsgesicht (250 EP), Eigenschaftsbonus Ausstrahlung 4.** Das Aussehen verändert keine Probe. Der Zeuge würfelt zuerst eine Sinnesschärfe-Probe, erschwert um 12 − 4 = 8, dann eine Intelligenzprobe, erschwert um 8. Nur wenn beide gelingen, ist seine Beschreibung aussagekräftig.
 - **Atemberaubend mit Allerweltsgesicht, Eigenschaftsbonus Ausstrahlung 4.** Der Zeuge würfelt die Sinnesschärfe-Probe, erschwert um 8. Seine Intelligenzprobe ist dann um 8 − 6 = 2 erschwert. Beide müssen gelingen.
 
@@ -334,9 +334,9 @@ Dem Helden kann ein Arm oder ein Bein fehlen, beide Arme oder beide Beine, oder 
 
 - Einarmigkeit: 400 EP
 - Einbeinigkeit: 400 EP
-- Keine Arme: 800 EP
-- Keine Beine: 800 EP
-- Stumm: 300 EP
+- Armlosigkeit: 800 EP
+- Beinlosigkeit: 800 EP
+- Stummheit: 300 EP
 
 Die Gliedmaßen wirken auf die körperliche Behinderung (KBE, [[Behinderung-und-Erschwerung|Behinderung und Erschwerung]]), auf die Fortbewegung ([[Bewegung]]), auf die Waffenführung und auf die Zauberstufe ([[Spruchmagie]]). Bei den Zauberstufen gilt: Auf Stufe 1 braucht der Zauberer Geste und Formel, auf Stufe 2 darf er eine von beiden weglassen, auf Stufe 3 beide. Die Stufen 2 und 3 braucht ein Talent ([[Talente]]).
 
@@ -363,7 +363,7 @@ Der Faktor gilt auch für Sprungweite und Sprunghöhe. Ein Weitsprung aus dem St
 
 Aus Metern pro Sekunde werden Felder pro Kampfrunde, indem man durch die Feldgröße teilt.
 
-### Keine Arme
+### Armlosigkeit
 
 Dem Helden fehlen beide Arme.
 
@@ -372,7 +372,7 @@ Dem Helden fehlen beide Arme.
 - Spruchmagie ist nur auf Zauberstufe 2 oder 3 möglich, weil der Held keine Geste machen kann. Auf Stufe 2 entfällt die Geste, die Formel bleibt. Stufe 1 ist ausgeschlossen. Der Held braucht das Talent für Zauberstufe 2. Zaubert er auf Stufe 3, braucht er das Talent für Stufe 3, das das Talent für Stufe 2 voraussetzt. Ohne das jeweilige Talent kann er nicht zaubern.
 - Die Fortbewegung ist nicht beeinflusst. Kriechen setzt mindestens 2 funktionsfähige Gliedmaßen voraus (siehe „Kombination“).
 
-### Keine Beine
+### Beinlosigkeit
 
 Dem Helden fehlen beide Beine.
 
@@ -380,25 +380,25 @@ Dem Helden fehlen beide Beine.
 - Der Held kriecht mit festen 1 Feld pro Kampfrunde. Dauerlauf und Sprint sind nicht möglich. Kriechen setzt mindestens 2 funktionsfähige Gliedmaßen voraus (siehe „Kombination“).
 - Hilfsmittel und Hilfe wirken mit den Faktoren ×0,5 und ×0,75 wie bei der Einbeinigkeit, soweit sie anwendbar sind.
 
-### Stumm
+### Stummheit
 
 Der Held bringt keinen Ton heraus, nur die Atemluft ist hörbar. Die Wirkung ist die des Zaubers Stumm, aber dauerhaft statt befristet.
 
-- Spruchmagie ist nur ab Zauberstufe 2 möglich, weil der Held keine Formel sprechen kann. Die Geste bleibt nötig, die Formel entfällt. Der Held braucht das Talent für die Zauberstufe, auf der er zaubert (wie bei Keine Arme).
+- Spruchmagie ist nur ab Zauberstufe 2 möglich, weil der Held keine Formel sprechen kann. Die Geste bleibt nötig, die Formel entfällt. Der Held braucht das Talent für die Zauberstufe, auf der er zaubert (wie bei Armlosigkeit).
 - Die Fortbewegung ist nicht beeinflusst.
 
 ### Kombination
 
-- **Die KBE addiert sich.** Einarmigkeit und Einbeinigkeit ergeben KBE 7. Keine Arme und Keine Beine ergeben KBE 14.
-- **Stumm und Keine Arme:** Spruchmagie ist nur auf Zauberstufe 3 möglich, ohne Geste und ohne Formel. Stufe 2 erlaubt nur eine Auslassung. Der Held braucht das Talent für Zauberstufe 3 und dessen Voraussetzung, das Talent für Zauberstufe 2.
-- **Kriechen** (1 Feld pro Kampfrunde) geht nur mit mindestens 2 funktionsfähigen Gliedmaßen. Hat der Held weniger, zum Beispiel bei Keine Beine plus Einarmigkeit (1 Arm) oder bei Keine Arme plus Keine Beine (keine Gliedmaße), kann er sich nicht selbst fortbewegen. Man trägt oder schiebt ihn.
+- **Die KBE addiert sich.** Einarmigkeit und Einbeinigkeit ergeben KBE 7. Armlosigkeit und Beinlosigkeit ergeben KBE 14.
+- **Stummheit und Armlosigkeit:** Spruchmagie ist nur auf Zauberstufe 3 möglich, ohne Geste und ohne Formel. Stufe 2 erlaubt nur eine Auslassung. Der Held braucht das Talent für Zauberstufe 3 und dessen Voraussetzung, das Talent für Zauberstufe 2.
+- **Kriechen** (1 Feld pro Kampfrunde) geht nur mit mindestens 2 funktionsfähigen Gliedmaßen. Hat der Held weniger, zum Beispiel bei Beinlosigkeit plus Einarmigkeit (1 Arm) oder bei Armlosigkeit plus Beinlosigkeit (keine Gliedmaße), kann er sich nicht selbst fortbewegen. Man trägt oder schiebt ihn.
 
 ### Behinderung bei angeborenem Fall und bei Verlust im Spiel
 
 Neben der körperlichen Behinderung gibt es die mentale (MBE).
 
 - **Angeboren** (bei der Erschaffung gewählt): Der Held trägt nur die KBE. Die MBE ist 0, denn es gibt kein Verlustereignis, das sie rechtfertigt.
-- **Verlust im Spiel** (Zustand, ohne EP): Die KBE beträgt 3 (Arm) oder 4 (Bein), dauerhaft wie beim angeborenen Fall. Zusätzlich trägt der Held eine MBE. Sie beginnt beim vollen Trefferzonen-Wert (3 oder 4) und sinkt um 1 je neuem magischem Tag nach dem Verlust ([[Zeit-und-Spielablauf|Zeit]]), bis sie 0 erreicht. Danach bleibt nur die KBE, wie beim angeborenen Fall. Der Zustand der Wunde spielt dafür keine Rolle, der Abbau läuft allein über die magischen Tage. Die Entfernung des Zustands kostet keine EP.
+- **Verlust im Spiel** (Zustand, ohne EP): Die KBE startet bei 6 (Arm) oder 8 (Bein) und sinkt um 1 je Woche (7 magische Tage), bis sie bei 3 (Arm) oder 4 (Bein) bleibt, wie beim angeborenen Fall. Zusätzlich trägt der Held eine MBE. Sie beginnt beim vollen Trefferzonen-Wert (3 oder 4) und sinkt um 1 je neuem magischem Tag nach dem Verlust ([[Zeit-und-Spielablauf|Zeit]]), bis sie 0 erreicht. Danach bleibt nur die KBE, wie beim angeborenen Fall. Der Zustand der Wunde spielt dafür keine Rolle, der Abbau läuft allein über die magischen Tage. Die Entfernung des Zustands kostet keine EP.
 - **Mehrere Gliedmaßen.** Jede frisch verlorene Gliedmaße bringt ihren einfachen Wert: 3 je Arm, 4 je Bein. Gehen beide Arme zugleich verloren, startet die MBE bei 6, bei beiden Beinen zugleich bei 8. Verliert der Held den zweiten Arm später, kommen 3 neu dazu.
 
 Das ist die einzige Stelle, an der das bei der Erschaffung gewählte Merkmal und der Zustand zeitweise auseinanderlaufen.
@@ -407,13 +407,13 @@ Das ist die einzige Stelle, an der das bei der Erschaffung gewählte Merkmal und
 
 - **Einarmigkeit (angeboren), Klettern-Probe.** Die Probe ist körperlich, also KBE 3: Der Probenwert sinkt um 3. Die MBE ist 0. Mit einer einhändigen Nahkampfwaffe gibt es keinen zusätzlichen Malus.
 - **Einbeinigkeit (angeboren), zu Fuß fliehen.** Ohne Krücke sind es 1 Feld pro Kampfrunde, kein Sprint. Mit Holzbein: Gehen 1,5 m/s × 0,5 = 0,75, gerundet 1 Feld pro Kampfrunde. Dauerlauf und Sprint werden entsprechend mit ×0,5 gerechnet.
-- **Keine Arme (angeboren), Magier mit dem Talent für Zauberstufe 2.** Den Feuerball wirkt er nur auf Stufe 2: Die Geste entfällt, die Formel bleibt. Eine Waffe führt er nicht. Auf körperliche Proben trägt er KBE 6.
-- **Stumm und Keine Arme, Magier.** Er zaubert nur auf Stufe 3, ohne Geste und ohne Formel. Dafür braucht er das Talent für Zauberstufe 3 und dessen Voraussetzung, das Talent für Zauberstufe 2.
-- **Der Meister lässt einen Helden im Kampf einen Arm verlieren.** Er trägt den Zustand „einarmig“ ohne EP. KBE 3 bleibt dauerhaft. Die MBE ist am Verlusttag 3 und sinkt um 1 je neuem magischem Tag, nach 3 magischen Tagen ist sie 0. Die KBE lässt sich nur mit Heilung G5, KI-Regeneration oder Ruf des Tepod entfernen.
+- **Armlosigkeit (angeboren), Magier mit dem Talent für Zauberstufe 2.** Den Feuerball wirkt er nur auf Stufe 2: Die Geste entfällt, die Formel bleibt. Eine Waffe führt er nicht. Auf körperliche Proben trägt er KBE 6.
+- **Stummheit und Armlosigkeit, Magier.** Er zaubert nur auf Stufe 3, ohne Geste und ohne Formel. Dafür braucht er das Talent für Zauberstufe 3 und dessen Voraussetzung, das Talent für Zauberstufe 2.
+- **Der Meister lässt einen Helden im Kampf einen Arm verlieren.** Er trägt den Zustand Einarmig ohne EP. Die KBE startet bei 6 und sinkt jede Woche um 1, nach 3 Wochen bleibt sie bei 3. Die MBE ist am Verlusttag 3 und sinkt um 1 je neuem magischem Tag, nach 3 magischen Tagen ist sie 0. Die KBE lässt sich nur mit Heilung G5, KI-Regeneration oder Ruf des Tepod entfernen.
 - **Der Held verliert beide Arme in derselben Kampfrunde.** Die MBE startet bei 6 und sinkt um 1 je neuem magischem Tag. Hätte er den ersten Arm vor drei Tagen verloren und verlöre jetzt den zweiten, kämen 3 zur laufenden MBE dazu.
-- **Ein Held wird im Spiel durch einen Fluch stumm.** Er trägt den Zustand „stumm“, ohne EP und ohne Behinderung. Entfernt wird er durch Heilung G5, KI-Regeneration oder Ruf des Tepod.
+- **Ein Held wird im Spiel durch einen Fluch stumm.** Er trägt den Zustand Stumm, ohne EP und ohne Behinderung. Entfernt wird er durch Heilung G5, KI-Regeneration oder Ruf des Tepod.
 - **Einarmigkeit und Einbeinigkeit (beides angeboren).** KBE 7, MBE 0. Der Held kann kriechen, denn 1 Arm plus 1 Bein sind 2 Gliedmaßen.
-- **Keine Arme und Keine Beine (angeboren).** KBE 14, MBE 0. Der Held kann sich nicht selbst fortbewegen, man trägt oder schiebt ihn. Spruchmagie ist nur auf Stufe 3 möglich.
+- **Armlosigkeit und Beinlosigkeit (angeboren).** KBE 14, MBE 0. Der Held kann sich nicht selbst fortbewegen, man trägt oder schiebt ihn. Spruchmagie ist nur auf Stufe 3 möglich.
 
 
 

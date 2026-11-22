@@ -14,7 +14,7 @@ Teilungen und Malnahmen werden sofort gerundet, bevor der nächste Schritt folgt
 
 Jeder Held kann im Nahkampf ansagen, dass er seinen Gegner umwerfen will. Er braucht dafür weder ein Talent noch eine Waffe noch einen Schild. Der Angriff verursacht nie Schaden. Gelingt die Attacke, entscheidet eine Vergleichsprobe, ob der Gegner strauchelt oder stürzt. Verliert der Angreifer die Vergleichsprobe, trifft ihn dasselbe.
 
-Die Grundaktion gilt im Nahkampf gegen ein einzelnes Ziel. Fähigkeiten wie das Talent Mit Schild umwerfen ([[Kampf-Talente]]) ändern nur die Werte, die im Abschnitt „Werte einer Fähigkeit“ stehen.
+Die Grundaktion gilt im Nahkampf gegen ein einzelnes Ziel. Fähigkeiten wie das Talent Kraftvolles Umwerfen ([[Kampf-Talente]]) ändern nur die Werte, die im Abschnitt „Werte einer Fähigkeit“ stehen.
 
 ### Kosten und Attacke
 
@@ -22,7 +22,7 @@ Umwerfen wird immer als Attacke angesagt und kostet wie jede Attacke 3 Aktionsko
 
 Umwerfen ist nie eine Extra-Aktion ([[Glossar#EA|EA]]). Keine Zelle des Meisterscreen-Gitters macht es dazu, auch keine Konter-Extra-Aktion und keine Extra-Aktion eines Doppelschlags.
 
-Der Held würfelt die Attacke auf den Wert seiner Unbewaffnet-Attacke mit der Spezialisierung „Unbewaffnet“, einschließlich der Pool-Punkte dieser Spezialisierung. Der Wert wird wie bei jeder Attacke berechnet ([[Nahkampf]]), mit Mut und Schnelligkeit als Eigenschaften. Die Attacke ist um 6 erschwert.
+Der Held würfelt die Attacke auf den Wert seiner Unbewaffnet-Attacke mit der Spezialisierung „Unbewaffnet“, einschließlich der Pool-Punkte dieser Spezialisierung. Trägt er einen Schild, ist zusätzlich die Spezialisierung „Schild“ zulässig, und es gilt automatisch die bessere der beiden. Andere Spezialisierungen sind nicht zulässig. Der Wert wird wie bei jeder Attacke berechnet ([[Nahkampf]]), mit Mut und Schnelligkeit als Eigenschaften. Die Attacke ist um 6 erschwert.
 
 ### Ablauf
 
@@ -91,14 +91,16 @@ Der Verteidiger ist um 6 mal d erschwert. Der Angreifer erhält keinen Bonus. Ei
 
 Maßgeblich ist der Abstand der beiden Ergebnisse: Ergebnis des Gewinners minus Ergebnis des Verlierers.
 
-| Abstand | Folge für den Verlierer |
-|---|---|
-| 0 | keine |
-| 1 bis 20 | Straucheln |
-| ab 21 | Sturz |
+| Abstand | Folge | Initiative |
+|---|---|---|
+| 0 | keine | bleibt |
+| 1 bis 6, Angreifer gewinnt | keine | bleibt |
+| 1 bis 6, Verteidiger gewinnt | keine | Wechsel, der Verteidiger liegt vorn |
+| 7 bis 24 | Verlierer strauchelt | Gewinner liegt vorn |
+| ab 25 | Verlierer stürzt | Gewinner liegt vorn |
 
 - Verlierer kann der Angreifer oder der Verteidiger sein.
-- Der Gewinner liegt in der Rangfolge der Initiative vor dem Verlierer. Falls nötig, wechselt die Rangfolge ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]). Bei Abstand 0 ändert sich die Initiative nicht.
+- Die Initiative ändert sich nur wie in der Tabelle. Falls nötig, wechselt die Rangfolge ([[NK-Ini-Bubbles-und-das-Meisterscreen-Gitter]]).
 - Straucheln und Sturz geben aus dem Umwerfen keine Körperliche und keine Mentale Behinderung. Die Behinderung, die eine Zeile der Selbstbeherrschungstabelle mitbringt, gehört zu dieser Zeile und nicht zum Zustand.
 - Jeder Eintritt von Sturz löst einen Sturzschaden-Wurf aus ([[Treffer-und-Schaden]]). Straucheln löst keinen aus.
 - Straucheln und Sturz enden und folgen einander wie in [[Zustaende-Katalog]] beschrieben.
@@ -110,7 +112,7 @@ Eine Fähigkeit setzt für das Umwerfen diese Werte. Sie ersetzen die Werte der 
 | Wert | Grundaktion |
 |---|---|
 | Selbsterschwerung der Attacke | fest 6 |
-| Bonus des Angreifers | 0 |
+| Bonus des Angreifers auf den Probenwert | 0 |
 | Erschwerung des Verteidigers je Klasse | 6 |
 | Ausdauerkosten | 5 |
 | Nutzungsbedingungen | keine |
@@ -123,7 +125,9 @@ Der Held B hat den Umwerfen-Probenwert 21, sein Gegner C hat 33.
 2. B wirft C um, gAT gegen nPA, d = 1. C ist um 6 erschwert, sein Probenwert ist 27. B würfelt 4 und erreicht 21 − 4 = 17. C würfelt 2 und erreicht 27 − 2 = 25. C gewinnt mit dem Abstand 8, B strauchelt.
 3. B wirft C um, nAT gegen eine misslungene Parade, d = 1. C ist um 6 erschwert, sein Probenwert ist 27. B würfelt 0, das Ergebnis ist immer 0. C würfelt 10 und erreicht 27 − 10 = 17. C gewinnt mit dem Abstand 17, B strauchelt.
 4. C weicht offensiv aus und würfelt nAW gegen die mAT von B. Der Abstand ist d = 2, denn m ist 4 und n ist 2. Das Ausweichen scheitert nicht, die Vergleichsprobe läuft: C ist um 12 erschwert, sein Probenwert ist 21. Der Rest läuft wie in Beispiel 2. Gegen eine nAT mit nAW gilt d = 0: Das Umwerfen scheitert, und der Ausgang „ausgewichen, Ini-Wechsel“ der Zelle gilt.
-5. Sturz: C erreicht 33 − 3 = 30, B erreicht 21 − 14 = 7. Der Abstand ist 23, B stürzt. Der Sturzschaden-Wurf folgt.
+5. Sturz: C erreicht 33 − 3 = 30, B erreicht 21 − 17 = 4. Der Abstand ist 26, B stürzt. Der Sturzschaden-Wurf folgt.
+6. Knapper Sieg des Verteidigers: B erreicht 20, C erreicht 26. C gewinnt mit dem Abstand 6. Niemand strauchelt, aber die Initiative wechselt zu C.
+7. Knapper Sieg des Angreifers: B erreicht 27, C erreicht 26. B gewinnt mit dem Abstand 1. Niemand strauchelt, und die Initiative bleibt.
 
 ## Klingenbruch
 

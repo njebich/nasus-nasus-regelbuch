@@ -333,7 +333,7 @@ Kosten mehrerer ausgeführter Handlungen werden immer addiert, auch wenn eine Ha
 
 ### Ausnahme Umwerfen
 
-Die Kampfaktion Umwerfen ([[Nahkampf-im-Kampf]]) kostet fest 5 Ausdauer statt der Attacken-Formel. Die Fähigkeit Mit Schild umwerfen kostet nach der Paradeformel mit der WK des Schildes.
+Die Kampfaktion Umwerfen ([[Nahkampf-im-Kampf]]) kostet fest 5 Ausdauer statt der Attacken-Formel. Auch die Fähigkeit Kraftvolles Umwerfen kostet fest 5 Ausdauer.
 
 ### Beispiele zu den Ausdauerkosten
 
