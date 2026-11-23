@@ -234,9 +234,9 @@ Das Talent schaltet außerdem die Kampfaktion Aufgesetzter Schuss immer frei. Si
 
 #### Aufgesetzter Schuss
 
-Der Held hält eine geladene Feuerwaffe in der Hand, und der Gegner steht auf einem angrenzenden Hexfeld. Der Held würfelt eine Nahkampf-Attacke mit den Nahkampfwerten seiner Feuerwaffe. Eine Pistole zählt dabei als improvisierte Hiebwaffe, ein Gewehr als improvisierte Stangenwaffe. Gelingt die Attacke, werden die Schadenspunkte des Fernkampf-Schadens der Waffe mit 2 malgenommen. Der Faktor wird mit gewählten Schadensfaktoren der Bonusauswahl multipliziert. AK und Ausdauer kosten wie ein Angriff mit dieser Waffenklasse. Der Schuss verbraucht eine Kugel, danach muss die Waffe nach den normalen Regeln nachgeladen werden.
+Die Kampfaktion gibt es nur mit Feuerwaffen, nicht mit Bögen und Armbrüsten. Der Held hält eine geladene Feuerwaffe in der Hand, und der Gegner steht auf einem angrenzenden Hexfeld. Der Held würfelt eine Nahkampf-Attacke mit den Nahkampfwerten seiner Feuerwaffe. Eine Pistole zählt dabei als improvisierte Hiebwaffe, ein Gewehr als improvisierte Stangenwaffe. Gelingt die Attacke, werden die Schadenspunkte des Fernkampf-Schadens der Waffe mit 2 malgenommen. Der Faktor wird mit gewählten Schadensfaktoren der Bonusauswahl multipliziert. AK und Ausdauer kosten wie ein Angriff mit dieser Waffenklasse. Der Schuss verbraucht eine Kugel, danach muss die Waffe nach den normalen Regeln nachgeladen werden.
 
-Ohne das Talent hat der Held die Kampfaktion nur, wenn der Gegner bewegungsunfähig ist oder nicht weiß, dass der Held da ist. Bewegungsunfähig ist jeder Zustand, in dem der Gegner sich nicht bewegen kann, zum Beispiel gelähmt, gefesselt, festgehalten oder bewusstlos. Der Meister entscheidet im Einzelfall.
+Ohne das Talent hat der Held die Kampfaktion nur, wenn der Gegner wehrlos ist oder nicht weiß, dass der Held da ist. Andere Zustände genügen nicht.
 
 ### Schnell Schießen (20 TaP)
 
